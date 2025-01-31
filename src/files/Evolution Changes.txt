@@ -1,0 +1,42 @@
+SACRED GOLD & STORM SILVER
+
+Evolution Changes
+This document is a reference guide to any changes made to
+evolution methods within Sacred Gold & Storm Silver.
+Locations for the required evolution items can be found in the
+"Important Item Locations" document which should also be in
+the same folder as this one.
+If a Pokémon is not listed, then no change has been made to
+its evolution method(s).
+
+For the following Pokémon:
+Clamperl, Dusclops, Electabuzz, Magmar, Onix, Poliwhirl, Porygon, Porygon2, Rhydon,
+Scyther, Seadra, Slowpoke.
+
+Instead of trading them with the necessary item, simply
+"Use" it from the menu instead like an evolutionary stone.
+For the following Pokémon:
+Kadabra, Machoke, Graveler, Haunter
+
+Instead of trading, obtain an item called the "Covenant Orb"
+and simply "Use" it from the menu.
+For the following Pokémon:
+Magneton, Nosepass
+
+Instead of trading, obtain an item called the "Voltaic Ore"
+and simply "Use" it from the menu.
+#133 Eevee:
+Eevee has had changed methods for four of its possible seven evolutions…
+:: Espeon  Get an "Aubade Orb" and "Use" it from the menu.
+:: Umbreon  Get a "Serenade Orb" and "Use" it from the menu.
+:: Leafeon  Get an "Woodland Ore" and "Use" it from the menu.
+:: Glaceon  Get an "Chilled Ore" and "Use" it from the menu.
+
+In the case of Feebas, its evolution has not been changed; to
+raise a Feebas' happiness in HG/SS you must either get its
+haircut or get it groomed by Daisy a total of eight times
+combined to raise its Beauty to a sufficiently high point.
+
+No other Pokémon have evolution edits.
+
+
