@@ -4,6 +4,16 @@ site_description: A fanmade wiki for the Sacred Gold and Storm Silver ROM hacks.
 site_author: Volcaronitee
 repo_url: https://github.com/zhenga8533/ssgs-wiki
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
 theme:
   name: material
   favicon: assets/favicon.png
@@ -15,27 +25,15 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-markdown_extensions:
-  - admonition
-  - attr_list
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-nav:
-  - Getting Started:
-      - Home: index.md
-      - Patching Guide: getting_started/patching_guide.md
-  - Mechanics:
-      - Action Replay Codes: mechanics/action_replay_codes.md
+extra_css:
+  - assets/stylesheets/extra.css
