@@ -36,5 +36,6 @@ markdown_extensions:
 nav:
   - Getting Started:
       - Home: index.md
+      - Patching Guide: getting_started/patching_guide.md
   - Mechanics:
       - Action Replay Codes: mechanics/action_replay_codes.md

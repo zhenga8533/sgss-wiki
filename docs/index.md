@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Pokémon Sacred Gold/Storm Silver Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="assets/sacred_gold_logo.png" alt="Sacred Gold Logo" style="max-width: 50%; height: auto;">
+    <img src="assets/storm_silver_logo.png" alt="Storm Silver Logo" style="max-width: 50%; height: auto;">
+</div>
 
-## Commands
+!!! note
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/){:target="\_blank"} using a [parser](https://github.com/zhenga8533/pokeapi-parser/){:target="\_blank"}.
 
-## Project layout
+!!! warning
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    This site is not a viable source for the [Classic](getting_started/patching_guide.md/) version of this rom hack. It is recommended to play the [Full](getting_started/patching_guide.md/) version of either ROM Hack for the full experience!
+
+---
