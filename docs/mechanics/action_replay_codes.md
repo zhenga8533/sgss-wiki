@@ -10,8 +10,8 @@ The new IDs are as follows:
 
 ```
 Sacred Gold - Complete: IPKE 66972395
-Storm Silver - Complete: IPGE D5D82CBF
 Sacred Gold - Classic: IPKE 7BAC813A
+Storm Silver - Complete: IPGE D5D82CBF
 Storm Silver - Classic: IPGE C794B178
 ```
 
