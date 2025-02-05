@@ -1,4 +1,4 @@
-# Important Item Locations Changes
+# Important Item Locations
 
 This document is a reference guide to the new and/or swapped locations of important items within Sacred Gold & Storm Silver. Some key items are also listed.
 

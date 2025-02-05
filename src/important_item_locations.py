@@ -25,7 +25,7 @@ def main():
     data = load(INPUT_PATH + "Important Item Locations.txt", logger)
     lines = data.split("\n")
     n = len(lines)
-    md = "# Important Item Locations Changes\n\n"
+    md = "# Important Item Locations\n\n"
 
     parse_table = False
 
