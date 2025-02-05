@@ -37,3 +37,11 @@ theme:
         name: Switch to system preference
 extra_css:
   - assets/stylesheets/extra.css
+
+nav:
+  - Getting Started:
+      - Home: index.md
+      - Patching Guide: getting_started/patching_guide.md
+  - Mechanics:
+      - Action Replay Codes: mechanics/action_replay_codes.md
+      - Evolution Changes: mechanics/evolution_changes.md
