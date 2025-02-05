@@ -1,9 +1,9 @@
 This document exists as a reference guide to the changes made to Pokémon within Sacred Gold and Storm Silver. All changes (bar Evolutions, which have their own document) are listed in here, including changes to abilities, level-up moves, stats, types and others.
 
 Notation is the following…
-() = New,
-{} = Replaces Original,
-[] = Shifts from Original Position
+- () = New,
+- {} = Replaces Original,
+- [] = Shifts from Original Position
 In an ability context, if {} is used then it refers to which ability has been replaced by the new one, otherwise it's just an addition. For level-up moves, it is explanatory with the prior definitions.
 
 Remember: Use Ctrl+F to find a Pokémon easily! If a Pokémon is missing from the document, then no changes have been applied to it.
@@ -1559,9 +1559,10 @@ Pulse [50]
 + Level Up Moves: Head Smash (42), Aura Sphere (67)
 #479 Rotom
 + Type Change: Rotom forms changed to their 5th gen type combos.
-+ Stat Change: Special Attack (105), Speed (101), Total (460) [Regular]
-+ Stat Change: Defense (107 >> 92), Special Defense (107 >> 92), Speed (86 >> 116) [Fan]
-+ Ability: Motor Drive [Fan Rotom]
++ Stat Change: Special Attack (105), Speed (101), Total (460)
+#479 Rotom Fan
++ Stat Change: Defense (107 >> 92), Special Defense (107 >> 92), Speed (86 >> 116)
++ Ability: Motor Drive
 #485 Heatran
 + Ability: Flame Body
 #486 Regigigas
