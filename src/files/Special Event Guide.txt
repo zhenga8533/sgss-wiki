@@ -1,18 +1,11 @@
-SACRED GOLD & STORM SILVER
+This document details the legendary encounters in the games as well as a few other one-time encounters such as Rotom and Spiritomb.
 
-Special Event Guide
-This document details the legendary encounters in the games
-as well as a few other one-time encounters such as Rotom
-and Spiritomb.
-The information detailed here is relevant to most of the
-'discovering' sections in the game; unless you are positive you
-want to spoil yourself on how to get some of these rarer
-Pokémon, move away from this document now.
-Note that for newly added event encounters, you have
-endless opportunities to catch them unless otherwise
-specified.
+The information detailed here is relevant to most of the 'discovering' sections in the game; unless you are positive you want to spoil yourself on how to get some of these rarer Pokémon, move away from this document now.
 
-Non-Legendary Encounters
+Note that for newly added event encounters, you have endless opportunities to catch them unless otherwise specified.
+
+Non-Legendary Encounters
+---
 #479 Rotom
 Requirements:
 - Plain Badge
@@ -42,7 +35,7 @@ that the keystone is consumed immediately, so defeating the Spiritomb will not l
 you immediately retry without another Odd Keystone. Further Odd Keystones can be
 obtained from the captain of the S.S. Aqua after obtaining the Earth Badge.
 
-#185 Sudowoodo
+#185 Sudowoodo
 Requirements:
 - None, storyline.
 Guide:
@@ -72,7 +65,7 @@ The Red Gyarados has also changed very
 little. The main difference is that it is now
 Level 40 instead of Level 30.
 
-#143 Snorlax
+#143 Snorlax
 Requirements:
 - Kanto Radio Card Expansion
 Guide:
@@ -84,7 +77,8 @@ Diglett's Cave, which means it only blocks
 your route to the rest of Route 11. Aside from that, it's mostly the same, with the
 exception of it now being Level 60.
 
-#XXX Psuedo-Legend
+Psuedo-Legend Encounters
+---
 Requirements:
 - Earth Badge
 Guide:
@@ -116,7 +110,8 @@ Jaws on Land
 
 Garchomp
 
-Gifted Pokémon
+Gifted Pokémon
+---
 #133 Eevee
 Requirements:
 - None; storyline.
@@ -138,7 +133,7 @@ you previously; all other rules are the same.
 It comes at Level 25, and is attached with
 a Mystic Water (as usual..)
 
-#447 Riolu
+#447 Riolu
 Requirements:
 - Reach Mahogany Town.
 Guide:
@@ -158,7 +153,7 @@ only difference is that it's now a Level 45
 Dragonair who is also holding a Draco
 Plate.
 
-Kanto Starters – Charmander, Bulbasaur, Squirtle
+Kanto Starters – Charmander, Bulbasaur, Squirtle
 Requirements:
 - Reach Violet City…
 Guide:
@@ -183,7 +178,7 @@ will find Professor Elm in Silph Co. Talk to
 him with two free slots in your party and
 you'll automatically receive the other two Johto starters that you didn't pick.
 
-Hoenn Starters – Torchic, Treecko, Mudkip
+Hoenn Starters – Torchic, Treecko, Mudkip
 Requirements:
 - Reach Azalea Town…
 Guide:
@@ -206,7 +201,7 @@ archaeological building and talk to
 Cynthia; show her your Sinnoh starter (evolved is fine) and she will give you the other
 two that you didn't choose initially.
 
-Surfing & Flying Pikachu
+Surfing & Flying Pikachu
 Requirements:
 - Reach Cianwood
 - Have a Pokémon whose happiness is
@@ -226,7 +221,8 @@ obtained from Celadon Game Corner.
 Togepi, Spearow and Shuckle are totally
 unchanged from their HG/SS events.
 
-Legendary Pokémon
+Legendary Pokémon
+---
 #144 Articuno, #145 Zapdos
 
 Requirements:
@@ -245,7 +241,7 @@ find it within the Cinnabar Gym after you have
 captured Heatran (see its section on how to do
 so). As with its relations, it is Level 60.
 
-#150 Mewtwo
+#150 Mewtwo
 Requirements:
 - 16 badges.
 Guide:
@@ -275,7 +271,7 @@ These beasts are exactly the same as HG/SS. No
 changes to level or anything, so just do as you
 normally would.
 
-#249 Lugia, #250 Ho-oh
+#249 Lugia, #250 Ho-oh
 
 Requirements:
 - Depends on your game…
@@ -298,7 +294,7 @@ give you an Azure Flute in exchange. Once you choose to use the flute, Celebi wi
 appear and attack – note that this is one of the legendaries who you get ONLY one
 chance to battle, regardless of the result of the fight. It comes at Level 45.
 
-#377 Regirock, #378 Regice, #379 Registeel
+#377 Regirock, #378 Regice, #379 Registeel
 
 Requirements:
 - Defeat the Elite Four.
@@ -310,7 +306,7 @@ You can find Regirock on the bottom floor of Mt. Mortar, Regice on the second to
 bottom floor of Ice Path, and Registeel in the Blackthorn Side of Dark Cave. All three
 are encountered at Level 40.
 
-#380 Latias, #381 Latios
+#380 Latias, #381 Latios
 Requirements:
 - Depends on your version…
 Guide:
@@ -330,7 +326,7 @@ in your inventory you will have the option to challenge the other Lati, though a
 game warns you this is a one-time encounter. If you select Yes, the other Lati will
 appear and you'll engage in battle with it; it will be at Level 40.
 
-#383 Groudon, #382 Kyogre, #384 Rayquaza
+#383 Groudon, #382 Kyogre, #384 Rayquaza
 
 Requirements:
 - Defeat Red.
@@ -345,7 +341,7 @@ room and you'll see Kyogre. After catching that, the Blue Orb will morph into th
 Jade Orb. Re-enter the room again to find Rayquaza. Rayquaza's level has been shifted
 up to Level 75.
 
-#385 Jirachi
+#385 Jirachi
 Requirements:
 - Sixteen badges
 - Obtain Azure Flute
@@ -371,7 +367,7 @@ informed that your Pokémon 'senses
 something'. If you do this after getting the Earth Badge between midnight and 4am
 inclusive, Deoxys will make an appearance and attack you. It will be at Level 60.
 
-#480 Uxie, #481 Mesprit, #482 Azelf
+#480 Uxie, #481 Mesprit, #482 Azelf
 Requirements:
 - Complete the Power Plant event.
 Guide:
@@ -397,7 +393,7 @@ The screen will fade out and come back in with their appearance on the stage; al
 three are encountered at Level 70. After capturing each one, you will get their
 respective Orb item as well (e.g. capturing Dialga gives you the Adamant Orb.)
 
-#485 Heatran
+#485 Heatran
 Requirements:
 - Sixteen badges.
 Guide:
@@ -424,7 +420,7 @@ access to the room. Rock Climb down and talk to Regigigas to encounter it; it ap
 at Level 75. Note that for those of you playing the full version of the game, it's no
 longer restricted by Slow Start!
 
-#488 Cresselia
+#488 Cresselia
 Requirements:
 - Sixteen badges.
 Guide:
@@ -452,7 +448,7 @@ Pokémon by Surf can also be found at Level 30, so Repels won't work in this cas
 Once you get a Phione, show it to the girl who mentioned them on the shore to receive
 five Heart Scales!
 
-#490 Manaphy
+#490 Manaphy
 Requirements:
 - Obtain the Earth Badge.
 Guide:
@@ -484,7 +480,7 @@ and she'll mention Shaymin. Go to National Park and it will be sitting in the gr
 Talk to it; if you have the Azure Flute you will be asked if you want to play it. If you
 agree, then Shaymin will calm down and challenge you to a battle; it is at Level 45.
 
-#493 Arceus
+#493 Arceus
 
 Capturing Arceus is the main objective of Sacred Gold & Storm Silver, so if you do
 manage to capture it, you will have officially completed the hack (and there will be
@@ -510,7 +506,7 @@ regardless of whether you run from Arceus, knock it out or capture it. Capturing
 Arceus will also lock you out of Sinjoh Ruins, but there's nothing to do afterwards,
 anyway…
 
-Where are the Plate items…?
+Where are the Plate items…?
 You will of course need sixteen Plates, one for each non-Normal type. Their locations
 are generally related to their elements; you might find them on the ground
 somewhere, or they might have been picked up by someone who doesn't know what
@@ -536,7 +532,7 @@ it dance for her. Do so and she'll thank you with both a TM53 and the Meadow Pla
 Fist Plate: Obtain the Tyrogue from the Karate King in Mt. Mortar; it is equipped with
 the Fist Plate.
 
-Sky Plate: There is a pile of snow directly in front of Red at the top of Mt. Silver; check
+Sky Plate: There is a pile of snow directly in front of Red at the top of Mt. Silver; check
 it to get the Sky Plate.
 Earth Plate: Return to Diglett's Cave with Rock Climb and check one of the higher
 areas to find the Earth Plate in an item ball.
@@ -563,5 +559,3 @@ Good luck with your legendary hunting!
 N.B.: The original design for the Mind Plate was as a reward for capturing all 28 forms
 of Unown, but this got changed due to it being a bit too tedious to be worthwhile.
 Consider yourselves lucky!
-
-

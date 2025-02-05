@@ -1,15 +1,10 @@
-SACRED GOLD & STORM SILVER
-
-Important Item Locations
-This document is a reference guide to the new and/or
-swapped locations of important items within Sacred Gold &
-Storm Silver.
+This document is a reference guide to the new and/or swapped locations of important items within Sacred Gold & Storm Silver. Some key items are also listed.
 This particular document explores two main types of items:
-TMs, of which there have been many swaps, and evolution
-items, which have all been shifted to be available prior to the
-initial Elite Four. Some key items are also listed.
+- TMs, of which there have been many swaps
+- Evolution items, which have all been shifted to be available prior to the initial Elite Four.
 
-Technical Machine Locations
+Technical Machine Locations
+---
 TM01 Focus Punch: Also purchasable in Saffron City.
 TM02 Dragon Claw: Removed from Route 26; now only available in Goldenrod lottery.
 TM03 Water Pulse: Also received from a Fisherman in Route 32's Pokémon Center.
@@ -56,8 +51,7 @@ TM42 Facade: No change.
 TM43 Secret Power: No change.
 TM44 Rest: No change.
 TM45 Attract: Also purchasable in Vermilion City.
-
-TM46 Thief: Removed from Rocket Hideout; obtainable from a man in Azalea Town.
+TM46 Thief: Removed from Rocket Hideout; obtainable from a man in Azalea Town.
 TM47 Steel Wing: Found in an item ball in Olivine Lighthouse.
 TM48 Skill Swap: Also buyable from shop in Mahogany Town.
 TM49 Snatch: No change.
@@ -105,12 +99,12 @@ TM90 Substitute: No change.
 TM91 Flash Cannon: No change.
 TM92 Trick Room: Also obtainable from a clown in Ecruteak City.
 
-Evolutionary Item Locations
+Evolutionary Item Locations
+---
 Aubade Orb: Received from Sprout Tower's head sage; found in an item ball on Route 42.
 Chilled Ore: Received from Sprout Tower's head sage; found in an item ball in Ice Path.
 Covenant Orb: One is automatically received after finishing any in-game trade.
-DeepSeaScale: Also hidden on the beach on Route 47, closer to the Embedded Tower
-entrance.
+DeepSeaScale: Also hidden on the beach on Route 47, closer to the Embedded Tower entrance.
 DeepSeaTooth: Also hidden on the beach on Route 47, closer to the Cliff Cave exit.
 Dragon Scale: Also obtainable in Blackthorn City's Pokémon Center as a gift.
 Dubious Disc: Moved to Team Rocket's Hideout.
@@ -123,10 +117,8 @@ Protector: Found in the first room of Victory Road.
 Razor Claw: Given to you by a man in a house in Cianwood.
 Razor Fang: Given to you by a man in a house in Cianwood.
 Reaper Cloth: Found in Dark Cave when entering from the Blackthorn Side.
-Serenade Orb: Received from Sprout Tower's head sage; found in an item ball behind the
-'LIGHT' wall in Ruins of Alph.
-Up-Grade: As a gift in the Ruins of Alph for catching 14 Unown; also received from a man in
-the Safari Zone's Pokémon Center after the Rocket invasion is gone.
+Serenade Orb: Received from Sprout Tower's head sage; found in an item ball behind the 'LIGHT' wall in Ruins of Alph.
+Up-Grade: As a gift in the Ruins of Alph for catching 14 Unown; also received from a man in the Safari Zone's Pokémon Center after the Rocket invasion is gone.
 Voltaic Ore: Found in Route 42, by the apricorn trees; found past the whirlpool on Route 27.
 Woodland Ore: Received from Sprout Tower's head sage; found in an item ball in Ilex Forest.
 Dawn Stone: Item ball on Route 35; buyable in Blackthorn.
@@ -140,26 +132,21 @@ Thunderstone: Received from Sprout Tower’s head sage; also purchasable in Gold
 Water Stone: Received from Sprout Tower’s head sage; also purchasable in Goldenrod.
 * You can now access the Battle Frontier after earning the Mineral Badge from Jasmine.
 
-New Key Item Locations
+Key Item Locations
+---
 Old Rod: Obtained from the Guide Gent in Cherrygrove City.
 Good Rod: Given by a Fisherman in Olivine's diner.
 Super Rod: Given by a Fisherman in Blackthorn City.
 Bicycle: Given to you by your mother at the start of the game.
 GB Sounds: Given to you by your mother at the start of the game.
 
-New Fossil Locations
-One of each fossil is obtained for free from a man in
-Goldenrod's Archaelogical Center (what used to be
-the Bike Shop), with the exception of Aerodactyl; the
-Old Amber must be found normally.
-Fossils can now be revived in Goldenrod.
+Fossil Locations
+---
+- One of each fossil is obtained for free from a man in Goldenrod's Archaelogical Center (what used to be the Bike Shop), with the exception of Aerodactyl; the Old Amber must be found normally.
+- Fossils can now be revived in Goldenrod.
 
-New Other Item Locations
+Other Item Locations
+---
 Exp. Share: Given to you by a Scientist in Violet's Pokémon Center.
-Lucky Egg: Given to you by Mr. Pokemon in exchange for the Red Scale, and also by a guy in
-the Ruins of Alph as a reward for catching 21 Unown.
-Thick Club, Light Ball, Stick etc.: There's a woman in the Goldenrod Magnet Train station who
-will give you the relevant item when you show her the Pokémon who the item correlates to
-(e.g. she'll give you a Thick Club if you have a Cubone or Marowak behind you).
-
-
+Lucky Egg: Given to you by Mr. Pokemon in exchange for the Red Scale, and also by a guy in the Ruins of Alph as a reward for catching 21 Unown.
+Thick Club, Light Ball, Stick, etc.: There's a woman in the Goldenrod Magnet Train station who will give you the relevant item when you show her the Pokémon who the item correlates to (e.g. she'll give you a Thick Club if you have a Cubone or Marowak behind you).

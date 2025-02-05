@@ -1,31 +1,22 @@
-SACRED GOLD & STORM SILVER
+This document exists to give the encounter data for each and every area within Sacred Gold and Storm Silver, both as a reference guide and because it’s impossible to view the data within the game itself. Data is listed for all types of encounter (sans Headbutting trees). Areas are listed in order of accessibility, though there may be one or two exceptions where maps have been shifted around to save space. Times will be specified on the encounters where they actually change between morning, day and night.
 
-Pokémon Locations
-This document exists to give the encounter data for each and every area within Sacred Gold and Storm
-Silver, both as a reference guide and because it’s impossible to view the data within the game itself.
-Data is listed for all types of encounter (sans Headbutting trees)
-Areas are listed in order of accessibility, though there may be one or two exceptions where maps have
-been shifted around to save space. Times will be specified on the encounters where they actually
-change between morning, day and night.
 There are several types of encounters:
-Grass,
-Grass Cave,
-Cave Building etc. refer to the generic walking around encounters.
-Surf refers to encounters while Surfing atop any body of water in the area.
-Old Rod refers to encounters when fishing in the area with the Old Rod.
-Good Rod and Super Rod likewise refer to those respective rods.
-Rock Smash refers to encounters from smashing rocks in that area.
-Swarm refers to what will appear if a daily swarm hits that area. Only applies to certain places.
-Meridian Sound refers to the replacement for the Hoenn Sound; this plays on Wednesdays as normal,
-and will attract some evolved forms of Pokémon ordinarily in the area. They may be underlevelled!
-Pastoral Sound refers to the replacement of the Sinnoh Sound; this plays on Thursdays as normal, and
-will attract some rarer Pokémon in the area or some that aren’t normally found there at all.
-Wild level ranges are also given for the majority of areas; these will refer to the Pokémon found from
-generic walking (i.e. grass, caves) though in the event of a water route such as Route 40, it instead refers
-to encounters found while Surfing.
+- Grass,
+- Grass Cave,
+- Cave Building etc. refer to the generic walking around encounters.
+- Surf refers to encounters while Surfing atop any body of water in the area.
+- Old Rod refers to encounters when fishing in the area with the Old Rod.
+- Good Rod and Super Rod likewise refer to those respective rods.
+- Rock Smash refers to encounters from smashing rocks in that area.
+- Swarm refers to what will appear if a daily swarm hits that area. Only applies to certain places.
+- Meridian Sound refers to the replacement for the Hoenn Sound; this plays on Wednesdays as normal, and will attract some evolved forms of Pokémon ordinarily in the area. They may be underlevelled!
+- Pastoral Sound refers to the replacement of the Sinnoh Sound; this plays on Thursdays as normal, and will attract some rarer Pokémon in the area or some that aren’t normally found there at all.
+
+Wild level ranges are also given for the majority of areas; these will refer to the Pokémon found from generic walking (i.e. grass, caves) though in the event of a water route such as Route 40, it instead refers to encounters found while Surfing.
+
 Thanks go to Serebii.net for the images of each area.
 
-New Bark Town
+New Bark Town
 Wild Levels: N/A
 
 Surf:
@@ -51,7 +42,7 @@ Sound Furret, Raticate
 Pastoral Sound:
 Sound Plusle, Minun
 
-Route 46
+Route 46
 Wild Levels: 4 – 6
 
 Grass, Morning / Day:
@@ -77,7 +68,7 @@ Rod Krabby (60%), Finneon (30%), Corphish (10%)
 Super Rod:
 Rod Lumineon (60%), Kingler (30%), Crawdaunt (10%)
 
-Route 30
+Route 30
 Wild Levels: 4 – 6
 
 Grass, Morning:
@@ -102,7 +93,7 @@ Rod Psyduck (60%), Goldeen (30%), Poliwhirl (10%)
 Super Rod:
 Rod Poliwhirl (60%), Seaking (30%), Golduck (10%)
 
-Route 31
+Route 31
 Wild Levels: 6 – 10
 
 Grass, Morning:
@@ -127,7 +118,7 @@ Rod Tentacool (60%), Slowpoke (30%), Feebas (10%)
 Super Rod:
 Rod Tentacruel (60%), Feebas (30%), Slowbro (10%)
 
-Dark Cave {Violet
+Dark Cave {Violet
 {Violet Side}
 Side}
 Wild Levels: 8 – 10
@@ -170,7 +161,7 @@ Super Rod:
 Rod Poliwhirl (60%), Staryu (30%), Lanturn (10%) / Swarm:
 Swarm Whiscash
 
-Route 32
+Route 32
 Wild Levels: 10 – 12
 
 Grass, Morning / Day:
@@ -192,7 +183,7 @@ Rod Tentacool (60%), Psyduck (30%), Qwilfish (10%)
 Super Rod:
 Rod Qwilfish (60%), Tentacruel (30%), Golduck (10%)
 
-Ruins of Alph
+Ruins of Alph
 Wild Levels: 26 – 30
 
 Grass, All Times:
@@ -212,7 +203,7 @@ Rod Magikarp (60%), Remoraid (30%), Dratini (9%), Dragonair (1%)
 Super Rod:
 Rod Gyarados (60%), Relicanth (30%), Dragonair (5%), Octillery (5%)
 
-Sprout Tower
+Sprout Tower
 
 [ 2F ]
 Wild Levels: 9 –12
@@ -241,7 +232,7 @@ Sound Bibarel, Linoone
 Pastoral Sound:
 Sound Spinda
 
-Union Cave
+Union Cave
 
 [ 1F ]
 Wild Levels: 12 – 15
@@ -296,7 +287,7 @@ Pastoral
 Pastoral Sound:
 Sound Kangaskhan
 
-Route 33
+Route 33
 Wild Levels: 14 – 16
 
 Grass, Morning / Day:
@@ -330,7 +321,7 @@ Sound Slowbro
 Pastoral Sound:
 Sound Wynaut
 
-[ B1F ]
+[ B1F ]
 Wild Levels: 28 – 33
 Cave, All Times:
 Times Golbat (20%), Slowpoke (20%), Haunter (10%), Gastrodon (10%), Shellder (10%),
@@ -373,7 +364,7 @@ Sound Gloom, Venomoth
 Pastoral Sound:
 Sound Pichu
 
-Route 34
+Route 34
 Wild Levels: 15 – 19
 
 Grass, All Times:
@@ -393,7 +384,7 @@ Pastoral Sound:
 Sound Ralts, Kirlia
 Swarm: Kadabra
 
-Route 35
+Route 35
 Wild Levels: 17 – 19
 
 Grass, Morning / Day:
@@ -416,7 +407,7 @@ Pastoral Sound:
 Sound Yanma
 Swarm: Illumise (SG) / Volbeat (SS)
 
-National Park
+National Park
 Wild Levels: 17 – 19
 
 Bug Catching Contest is unchanged.
@@ -449,7 +440,7 @@ Sound Vespiquen
 Pastoral Sound:
 Sound Bonsly, Mime Jr.
 
-Route 37
+Route 37
 Wild Levels: 21 – 24
 
 Grass, Morning / Day:
@@ -476,7 +467,7 @@ Rod Magikarp (60%), Poliwag (40%)
 Super Rod:
 Rod Poliwhirl (60%), Gyarados (40%)
 
-Burned Tower
+Burned Tower
 
 [ 1F ]
 Wild Levels: 22 – 23
@@ -497,7 +488,7 @@ Sound Weezing, Magmar
 Pastoral Sound:
 Sound Chimecho
 
-Dark Cave {Blackthorn Side}
+Dark Cave {Blackthorn Side}
 Side}
 Wild Levels: 26 – 30
 
@@ -533,7 +524,7 @@ Sound:
 nd Skitty, Cherubi
 Swarm: Farfetch’d
 
-Route 39
+Route 39
 Wild Levels: 27 – 28
 
 Grass, Morning / Day:
@@ -560,7 +551,7 @@ Rod Magikarp (60%), Staryu (30%), Chinchou (10%)
 Super Rod:
 Rod Staryu (60%), Chinchou (30%), Lanturn (5%), Gyarados (5%)
 
-Route 40
+Route 40
 Wild Levels: 25 – 35
 
 Surf:
@@ -585,7 +576,7 @@ Rod Wailmer (60%), Horsea (30%), Chinchou (5%), Corsola (5%)
 Super Rod:
 Rod Seadra (60%), Corsola (30%), Lanturn (7%), Wailord (3%)
 
-Cianwood City
+Cianwood City
 Wild Levels: N/A
 
 Rock Smash:
@@ -624,7 +615,7 @@ Rod Tentacool (60%), Shellder (30%), Chinchou (10%)
 Super Rod:
 Rod Shellder (60%), Tentacool (30%), Tentacruel (7%), Lanturn (3%)
 
-The Cliff Cave
+The Cliff Cave
 Wild Levels: 30 – 33
 
 Cave: Graveler (20%), Golbat (20%), Baltoy (10%), Machoke (10%), Trapinch (10%), Kingler (10%),
@@ -651,7 +642,7 @@ Sound Tangrowth, Dugtrio
 Pastoral Sound:
 Sound Happiny
 
-Route 42
+Route 42
 Wild Levels: 30 – 32
 
 Grass, Morning / Day:
@@ -673,7 +664,7 @@ Rod Goldeen (65%), Carvanha (35%)
 Super Rod:
 Rod Goldeen (60%), Carvanha (30%), Seaking (7%), Sharpedo (3%)
 
-Mt. Mortar
+Mt. Mortar
 
 [ 1F ]
 Wild Levels: 31 – 34
@@ -720,7 +711,7 @@ Rod Goldeen (65%), Barboach (35%)
 Super Rod:
 Rod Goldeen (60%), Barboach (30%), Seaking (5%), Whiscash (5%)
 
-[ B1F ]
+[ B1F ]
 Wild Levels: 33 – 35
 Cave, All Times:
 Times Graveler (20%), Golbat (20%), Rhyhorn (10%), Lairon (10%), Machoke (10%), Hariyama
@@ -760,7 +751,7 @@ Rod Magikarp (100%)
 Super Rod:
 Rod Gyarados (100%)
 
-Lake of Rage
+Lake of Rage
 Wild Levels: 10 – 50
 
 Surf:
@@ -791,7 +782,7 @@ Rod Horsea (100%)
 Super Rod:
 Rod Horsea (60%), Seadra (40%)
 
-[ B1F ]
+[ B1F ]
 Wild Levels: 35 – 38
 Cave:
 Cave Krabby (20%), Seel (20%), Shellder (20%), Spheal (20%), Golbat (10%), Golduck (10%)
@@ -826,7 +817,7 @@ Pastoral Sound:
 Sound Staryu, Starmie
 (See near bottom for Bell Tower).
 
-Route 44
+Route 44
 Wild Levels: 38 – 39
 
 Grass, Morning / Day:
@@ -850,7 +841,7 @@ Rod Magikarp (60%), Remoraid (40%)
 Super Rod:
 Rod Magikarp (60%), Remoraid (30%), Gyarados (7%), Octillery (3%)
 
-Ice Path
+Ice Path
 
 [ 1F ]
 Wild Levels: 37 – 40
@@ -888,7 +879,7 @@ Sound Mamoswine, Walrein
 Pastoral Sound:
 Sound Jynx, Sneasel
 
-Blackthorn City
+Blackthorn City
 Wild Levels: N/A
 
 Surf:
@@ -922,7 +913,7 @@ Rod Magikarp (97%), Dratini (3%)
 Super Rod:
 Rod Magikarp (97%), Dratini (3%)
 
-Dragon’s Den
+Dragon’s Den
 Wild Levels: 10 – 40
 
 Surf:
@@ -953,7 +944,7 @@ Rod Magikarp (60%), Goldeen (40%)
 Super Rod:
 Rod Goldeen (90%), Gyarados (7%), Seaking (3%)
 
-Route 27
+Route 27
 Wild Levels: 42 – 45
 
 Grass, Morning / Day:
@@ -977,7 +968,7 @@ Rod Luvdisc (100%)
 Super Rod:
 Rod Luvdisc (100%)
 
-Route 26
+Route 26
 Wild Levels: 44 – 46
 
 Grass, Morning / Day:
@@ -999,7 +990,7 @@ Rod Luvdisc (100%)
 Super Rod:
 Rod Luvdisc (60%), Lanturn (35%), Tentacruel (5%)
 
-Victory
+Victory
 Victory Road
 
 [ 1F ]
@@ -1033,7 +1024,7 @@ Sound Alakazam, Aggron
 Pastoral Sound:
 Sound Chimecho, Marowak
 
-Vermilion City
+Vermilion City
 Wild Levels: 27 – 53
 
 Surf:
@@ -1059,7 +1050,7 @@ Sound Hippowdon
 Pastoral Sound:
 Sound Dunsparce
 
-Route 6
+Route 6
 Wild Levels: 45 – 48
 
 Grass, Morning / Day:
@@ -1091,7 +1082,7 @@ Sound Pidgeot
 Pastoral Sound:
 Sound Pikachu, Burmy
 
-Route 3
+Route 3
 Wild Levels: 46 – 49
 
 Grass, Morning / Day:
@@ -1126,7 +1117,7 @@ Rod Magikarp (60%), Goldeen (30%), Seaking (10%)
 Super Rod:
 Rod Magikarp (60%), Goldeen (30%), Seaking (10%)
 
-Mt. Moon
+Mt. Moon
 
 [ 1F ]
 Wild Levels: 47 – 51
@@ -1156,7 +1147,7 @@ Rod Magikarp (90%), Poliwag (10%)
 Super Rod:
 Rod Poliwhirl (100%)
 
-Cerulean City
+Cerulean City
 Wild Levels: 20 – 50
 
 Surf:
@@ -1183,7 +1174,7 @@ Sound Medicham
 Pastoral Sound:
 Sound Staravia, Swellow
 
-Route 24
+Route 24
 Wild Levels: 47 – 51
 
 Grass, Morning / Day:
@@ -1205,7 +1196,7 @@ Rod Goldeen (90%), Seaking (10%)
 Super Rod:
 Rod Staryu (60%), Seaking (30%), Dratini (7%), Dragonair (3%)
 
-Route 25
+Route 25
 Wild Levels: 47 – 52
 
 Grass, Morning / Day:
@@ -1229,7 +1220,7 @@ Rod Goldeen (90%), Seaking (10%)
 Super Rod:
 Rod Staryu (60%), Seaking (30%), Dratini (7%), Dragonair (3%)
 
-Route 9
+Route 9
 Wild Levels: 49 – 51
 
 Grass, All:
@@ -1249,7 +1240,7 @@ Rod Goldeen (90%), Seaking (10%)
 Super Rod:
 Rod Seaking (100%)
 
-Route 10
+Route 10
 Wild Levels: 47 – 52
 
 Grass, All:
@@ -1268,7 +1259,7 @@ Rod Chinchou (93%), Lanturn (7%)
 Super Rod:
 Rod Lanturn (100%)
 
-Rock Tunnel
+Rock Tunnel
 
 [ 1F ]
 Wild Levels: 52 – 55
@@ -1303,7 +1294,7 @@ Sound Arcanine, Alakazam (SG) / Gengar, Ninetales (SS)
 Pastoral Sound:
 Sound Duskull, Shuppet
 
-Route 12
+Route 12
 Wild Levels: 20 – 55
 
 Surf:
@@ -1339,7 +1330,7 @@ Rod Poliwag (60%), Goldeen (30%), Horsea (10%)
 Super Rod:
 Rod Seadra (60%), Poliwhirl (30%), Qwilfish (10%)
 
-Route
+Route
 Route 14
 Wild Levels: 51 – 55
 
@@ -1365,7 +1356,7 @@ Sound Jumpluff
 Pastoral Sound:
 Sound Ditto
 
-Route 11
+Route 11
 Wild Levels: 50 – 55
 
 Grass, All:
@@ -1387,7 +1378,7 @@ Rod Magikarp (97%), Gyarados (3%)
 Super Rod:
 Rod Magikarp (70%), Gyarados (30%)
 
-Route 18
+Route 18
 Wild Levels: 50 – 56
 
 Grass, Morning / Day:
@@ -1415,7 +1406,7 @@ Sound Swalot, Misagmius
 Pastoral Sound:
 Sound Dusclops, Drifblim
 
-Route 16
+Route 16
 Wild Levels: 52 – 55
 
 Grass, All:
@@ -1440,7 +1431,7 @@ Sound Bellossom
 Pastoral Sound:
 Sound Linoone, Bibarel
 
-Celadon City
+Celadon City
 Wild Levels: 15 – 20
 
 Surf:
@@ -1458,7 +1449,7 @@ Rod Psyduck (100%)
 Super Rod:
 Rod Goldeen (100%)
 
-Route
+Route
 Route 2 - South
 Wild Levels: 45 – 49
 
@@ -1485,7 +1476,7 @@ Sound Furret, Skiploom
 Swarm:
 Swarm Linoone
 
-Pallet Town
+Pallet Town
 Wild Levels: 1 – 70
 
 Surf:
@@ -1515,7 +1506,7 @@ Rod Tentacool (67%), Chinchou (30%), Shellder (3%)
 Super Rod:
 Rod Tentacruel (60%), Shellder (33%), Lanturn (7%)
 
-Route 22
+Route 22
 Wild Levels: 54 – 59
 
 Grass, All:
@@ -1545,7 +1536,7 @@ Rod Tentacool (67%), Chinchou (30%), Shellder (3%)
 Super Rod:
 Rod Tentacruel (60%), Shellder (33%), Lanturn (7%)
 
-Route 20
+Route 20
 Wild Levels: 5 – 60
 
 Surf:
@@ -1573,7 +1564,7 @@ Rod Lumineon (60%), Seaking (30%), Huntail (5%), Gorebyss (5%)
 Rock Smash:
 Smash Krabby (90%), Kingler (10%)
 
-Seafoam Islands
+Seafoam Islands
 
 [ 1F ]
 Wild Levels: 48 – 58
@@ -1611,7 +1602,7 @@ Sound Weavile, Mamoswine
 Pastoral Sound:
 Sound Delibird, Jynx
 
-[ B4F ]
+[ B4F ]
 Wild Levels: 57 – 60
 Cave, All Times:
 Times Golbat (25%), Dewgong (20%), Kingler (10%), Sealeo (10%), Piloswine (10%),
@@ -1647,7 +1638,7 @@ Pastoral Sound:
 Sound Ambipom, Raichu
 Swarm: Heracross
 
-Bell Tower / Tin Tower
+Bell Tower / Tin Tower
 
 [ 2F, 3F ]
 Sacred Gold Wild Levels: 40 – 43
@@ -1689,7 +1680,7 @@ Sound Gengar
 Pastoral Sound:
 Sound Claydol, Bronzong
 
-Cerulean Cave
+Cerulean Cave
 
 [ 1F ]
 Wild Levels: 60 – 64
@@ -1730,7 +1721,7 @@ Sound Alakazam, Rhyperior
 Pastoral Sound:
 Sound Porygon, Chansey
 
-[ B2F ]
+[ B2F ]
 Wild Levels: 68 – 72
 Cave, Morning:
 Morning Golbat (40%), Ditto (15%), Graveler (15%), Rhydon (10%), Rhyhorn (10%),
@@ -1777,7 +1768,7 @@ Rod Luvdisc (60%), Poliwag (30%), Poliwhirl (10%)
 Super Rod:
 Rod Poliwhirl (60%), Luvdisc (30%), Gyarados (10%)
 
-Mt. Silver {Outside}
+Mt. Silver {Outside}
 Wild Levels: 59 - 65
 
 Grass, Morning / Day:
@@ -1799,7 +1790,7 @@ Rod Luvdisc (60%), Poliwag (30%), Poliwhirl (10%)
 Super Rod:
 Rod Poliwhirl (60%), Luvdisc (30%), Gyarados (10%)
 
-Mt. Silver
+Mt. Silver
 
 Mt. Silver contains seven separate sections, with 1F, 2F, 3F, outside areas and two extensions to 1F.
 [ 1F – Entrance Room ]
@@ -1824,7 +1815,7 @@ Rod Goldeen (60%), Krabby (30%), Corphish (10%)
 Super Rod:
 Rod Seaking (60%), Kingler (30%), Crawdaunt (10%)
 
-[ 1F – Side Room ]
+[ 1F – Side Room ]
 Wild Levels: 50 – 64
 
 Cave, Morning / Day:
@@ -1850,7 +1841,7 @@ Sound Rhyperior
 Pastoral Sound:
 Sound Pupitar
 
-[ 2F – Spiral Cave ]
+[ 2F – Spiral Cave ]
 Wild Levels: 62 – 66
 
 Cave, Morning / Day:
@@ -1877,7 +1868,7 @@ Sound Mamoswine, Weavile
 Pastoral Sound:
 Sound Absol
 
-[ Outside – Mountainous Area ]
+[ Outside – Mountainous Area ]
 Wild Levels: 60 – 64
 
 Grass, Morning / Day:
@@ -1904,4 +1895,3 @@ Sound Machamp
 Pastoral Sound:
 Sound Mawile, Sableye
 
-
