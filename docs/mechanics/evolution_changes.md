@@ -4,7 +4,6 @@
 1. Locations for the required evolution items can be found in the "Important Item Locations" document which should also be in the same folder as this one.
 1. If a Pokémon is not listed, then no change has been made to its evolution method(s).
 
-
 ---
 
 ## Trade Evolutions
@@ -35,7 +34,6 @@ Instead of trading, obtain an item called the "Voltaic Ore" and simply "Use" it 
 
 1. Magneton
 1. Nosepass
-
 
 ---
 

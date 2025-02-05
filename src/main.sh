@@ -66,6 +66,7 @@ echo ""
 echo "Running all parsers"
 set -e
 $PYTHON evolution_changes.py
+$PYTHON important_item_locations.py
 echo "Finished running all parsers"
 echo ""
 

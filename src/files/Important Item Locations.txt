@@ -1,4 +1,5 @@
 This document is a reference guide to the new and/or swapped locations of important items within Sacred Gold & Storm Silver. Some key items are also listed.
+
 This particular document explores two main types of items:
 - TMs, of which there have been many swaps
 - Evolution items, which have all been shifted to be available prior to the initial Elite Four.
@@ -28,8 +29,7 @@ TM20 Safeguard: No change.
 TM21 Frustration: No change.
 TM22 SolarBeam: No change.
 TM23 Iron Tail: Also purchasable in Pewter City.
-TM24 Thunderbolt: Also found on small shore right of Olivine Lighthouse. Reduced to 4,000 Coins in
-Goldenrod Game Corner.
+TM24 Thunderbolt: Also found on small shore right of Olivine Lighthouse. Reduced to 4,000 Coins in Goldenrod Game Corner.
 TM25 Thunder: No change.
 TM26 Earthquake: Purchasable in Celadon City.
 TM27 Return: No change.
@@ -149,4 +149,4 @@ Other Item Locations
 ---
 Exp. Share: Given to you by a Scientist in Violet's Pokémon Center.
 Lucky Egg: Given to you by Mr. Pokemon in exchange for the Red Scale, and also by a guy in the Ruins of Alph as a reward for catching 21 Unown.
-Thick Club, Light Ball, Stick, etc.: There's a woman in the Goldenrod Magnet Train station who will give you the relevant item when you show her the Pokémon who the item correlates to (e.g. she'll give you a Thick Club if you have a Cubone or Marowak behind you).
+Specific Items: There's a woman in the Goldenrod Magnet Train station who will give you the relevant item when you show her the Pokémon who the item correlates to (e.g. she'll give you a Thick Club if you have a Cubone or Marowak behind you).
