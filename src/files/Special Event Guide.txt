@@ -92,23 +92,23 @@ Level 60 in its shiny form. The options
 correlate as follows:
 Sixteen Hours
 
-Dragonite
+#149 Dragonite
 
 The Black Rock
 
-Tyranitar
+#248 Tyranitar
 
 Menacing Boom
 
-Salamence
+#373 Salamence
 
 Cross Attack
 
-Metagross
+#376 Metagross
 
 Jaws on Land
 
-Garchomp
+#445 Garchomp
 
 Gifted Pokémon
 ---
@@ -153,54 +153,6 @@ only difference is that it's now a Level 45
 Dragonair who is also holding a Draco
 Plate.
 
-Kanto Starters – Charmander, Bulbasaur, Squirtle
-Requirements:
-- Reach Violet City…
-Guide:
-Your first opportunity to obtain a Kanto
-starter will be in Violet City; in the
-Pokémon Center you will see a Juggler. If
-you talk to him, he'll ask you a series of
-four questions; answer all correctly and
-you'll be able to choose one of the three. Once you reach Kanto, if you go to Route 12
-and into the house where the Super Rod was previously, you will find Professor Oak.
-Show him your Kanto starter (evolution doesn't matter) and you'll receive the two you
-didn't pick. (N.B.: This replaces the original Kanto starter event.)
-
-Johto Starters – Cyndaquil, Chikorita, Totodile
-Requirements:
-- Start the game…
-Guide:
-The Johto starters remain in place in this
-game, so you'll pick one at the start as
-usual. Once you reach Saffron City, you
-will find Professor Elm in Silph Co. Talk to
-him with two free slots in your party and
-you'll automatically receive the other two Johto starters that you didn't pick.
-
-Hoenn Starters – Torchic, Treecko, Mudkip
-Requirements:
-- Reach Azalea Town…
-Guide:
-A Hoenn starter is first available in the
-Azalea Town Pokémon Center for
-correctly answering the quiz questions.
-You can then obtain the other two from
-Steven in Pewter City later on, by
-showing him the Hoenn starter you did pick (evolved is fine).
-
-Sinnoh Starters – Chimchar, Turtwig, Piplup
-Requirements:
-- Reach Goldenrod City…
-Guide:
-Your first Sinnoh starter will be obtainable
-via a quiz given to you by the Juggler in
-the city's Pokémon Center. After you beat
-the Elite Four, come back to the
-archaeological building and talk to
-Cynthia; show her your Sinnoh starter (evolved is fine) and she will give you the other
-two that you didn't choose initially.
-
 Surfing & Flying Pikachu
 Requirements:
 - Reach Cianwood
@@ -220,6 +172,56 @@ received as a gift. Further Tyrogue can be
 obtained from Celadon Game Corner.
 Togepi, Spearow and Shuckle are totally
 unchanged from their HG/SS events.
+
+Starters
+---
+#001 Bulbasaur, #004 Charmander, #007 Squirtle
+Requirements:
+- Reach Violet City…
+Guide:
+Your first opportunity to obtain a Kanto
+starter will be in Violet City; in the
+Pokémon Center you will see a Juggler. If
+you talk to him, he'll ask you a series of
+four questions; answer all correctly and
+you'll be able to choose one of the three. Once you reach Kanto, if you go to Route 12
+and into the house where the Super Rod was previously, you will find Professor Oak.
+Show him your Kanto starter (evolution doesn't matter) and you'll receive the two you
+didn't pick. (N.B.: This replaces the original Kanto starter event.)
+
+#152 Chikorita, #155 Cyndaquil, #158 Totodile
+Requirements:
+- Start the game…
+Guide:
+The Johto starters remain in place in this
+game, so you'll pick one at the start as
+usual. Once you reach Saffron City, you
+will find Professor Elm in Silph Co. Talk to
+him with two free slots in your party and
+you'll automatically receive the other two Johto starters that you didn't pick.
+
+#252 Treecko, #255 Torchic, #258 Mudkip
+Requirements:
+- Reach Azalea Town…
+Guide:
+A Hoenn starter is first available in the
+Azalea Town Pokémon Center for
+correctly answering the quiz questions.
+You can then obtain the other two from
+Steven in Pewter City later on, by
+showing him the Hoenn starter you did pick (evolved is fine).
+
+#387 Turtwig, #390 Chimchar, #393 Piplup
+Requirements:
+- Reach Goldenrod City…
+Guide:
+Your first Sinnoh starter will be obtainable
+via a quiz given to you by the Juggler in
+the city's Pokémon Center. After you beat
+the Elite Four, come back to the
+archaeological building and talk to
+Cynthia; show her your Sinnoh starter (evolved is fine) and she will give you the other
+two that you didn't choose initially.
 
 Legendary Pokémon
 ---
@@ -482,19 +484,11 @@ agree, then Shaymin will calm down and challenge you to a battle; it is at Level
 
 #493 Arceus
 
-Capturing Arceus is the main objective of Sacred Gold & Storm Silver, so if you do
-manage to capture it, you will have officially completed the hack (and there will be
-text in the game reflecting as such). However, due to this, it's an incredibly tough
-Pokémon to capture!
-The first requirement is that you must have captured each and every other available
-Pokémon. That means you will need to obtain 492 different Pokémon species before
-being allowed to challenge Arceus, and they aren't all wild! You can use features such
-as the Meridian and Pastoral Sounds and the Game Corner to speed things up, but
-there will be some Pokémon that you either have to evolve or breed to actually get
-everything on the list.
-The second requirement is that you need to obtain all sixteen of the Plate items, which
-have been dotted around the regions in a sort of Treasure Hunt. The locations for
-these will be detailed below…
+Capturing Arceus is the main objective of Sacred Gold & Storm Silver, so if you do manage to capture it, you will have officially completed the hack (and there will be text in the game reflecting as such). However, due to this, it's an incredibly tough Pokémon to capture!
+Requirements:
+- The first requirement is that you must have captured each and every other available Pokémon. That means you will need to obtain 492 different Pokémon species before being allowed to challenge Arceus, and they aren't all wild! You can use features such as the Meridian and Pastoral Sounds and the Game Corner to speed things up, but there will be some Pokémon that you either have to evolve or breed to actually get everything on the list.
+- The second requirement is that you need to obtain all sixteen of the Plate items, which have been dotted around the regions in a sort of Treasure Hunt. The locations for these will be detailed below…
+Guide:
 Once both of these requirements have been fulfilled, head to the Mystri Stage.
 Assuming there is nothing else on the stage (which there shouldn't be, given that you
 need to capture everything to even try Arceus) then walk to the center and a check
@@ -506,56 +500,26 @@ regardless of whether you run from Arceus, knock it out or capture it. Capturing
 Arceus will also lock you out of Sinjoh Ruins, but there's nothing to do afterwards,
 anyway…
 
-Where are the Plate items…?
-You will of course need sixteen Plates, one for each non-Normal type. Their locations
-are generally related to their elements; you might find them on the ground
-somewhere, or they might have been picked up by someone who doesn't know what
-they do… at any rate, a list is below if you're truly stuck.
-Flame Plate: There's a dirt pile in Bellchime Trail hidden between some trees. Check it
-to obtain the Plate.
-Splash Plate: In the main room of the S.S. Aqua there is a guy on the left side who
-wants to see Phione. Show him a Phione and he'll want to see a Manaphy. Show him
-Manaphy and he'll give you the Splash Plate.
-Icicle Plate: There is a snow pile somewhat hidden behind a wall in the snowy outside
-of Sinjoh Ruins. Check it to obtain the Icicle Plate.
-Toxic Plate: After obtaining the Hive Badge, go to Elm's lab in New Bark Town and
-interact with the bin. You will find and obtain the Toxic Plate.
-Mind Plate: Visit Mr. Psychic's house in Saffron City; there is a new character who
-wishes to see a Psychic Pokémon that has reached stage two (i.e. the final form of a
-three-stage evolution line). Talk to him with Alakazam, Gardevoir, Gallade or
-Metagross at the front of your party to receive the Mind Plate.
-Zap Plate: Once you get the Power Plant up and running again, check the bookcase to
-the bottom-right of the room to get the Zap Plate.
-Meadow Plate: On Route 39 there is a girl by some trees having trouble with her
-dance moves; if you talk to her with a Bellossom behind you, she will ask if you will let
-it dance for her. Do so and she'll thank you with both a TM53 and the Meadow Plate.
-Fist Plate: Obtain the Tyrogue from the Karate King in Mt. Mortar; it is equipped with
-the Fist Plate.
+Plates:
+You will of course need sixteen Plates, one for each non-Normal type. Their locations are generally related to their elements; you might find them on the ground somewhere, or they might have been picked up by someone who doesn't know what they do… at any rate, a list is below if you're truly stuck.
+- Flame Plate: There's a dirt pile in Bellchime Trail hidden between some trees. Check it to obtain the Plate.
+- Splash Plate: In the main room of the S.S. Aqua there is a guy on the left side who wants to see Phione. Show him a Phione and he'll want to see a Manaphy. Show him Manaphy and he'll give you the Splash Plate.
+- Icicle Plate: There is a snow pile somewhat hidden behind a wall in the snowy outside of Sinjoh Ruins. Check it to obtain the Icicle Plate.
+- Toxic Plate: After obtaining the Hive Badge, go to Elm's lab in New Bark Town and interact with the bin. You will find and obtain the Toxic Plate.
+- Mind Plate: Visit Mr. Psychic's house in Saffron City; there is a new character who wishes to see a Psychic Pokémon that has reached stage two (i.e. the final form of a three-stage evolution line). Talk to him with Alakazam, Gardevoir, Gallade or Metagross at the front of your party to receive the Mind Plate.
+- Zap Plate: Once you get the Power Plant up and running again, check the bookcase to the bottom-right of the room to get the Zap Plate.
+- Meadow Plate: On Route 39 there is a girl by some trees having trouble with her dance moves; if you talk to her with a Bellossom behind you, she will ask if you will let it dance for her. Do so and she'll thank you with both a TM53 and the Meadow Plate.
+- Fist Plate: Obtain the Tyrogue from the Karate King in Mt. Mortar; it is equipped with the Fist Plate.
+- Sky Plate: There is a pile of snow directly in front of Red at the top of Mt. Silver; check it to get the Sky Plate.
+- Earth Plate: Return to Diglett's Cave with Rock Climb and check one of the higher areas to find the Earth Plate in an item ball.
+- Insect Plate: In National Park, there is a trainer in the center-north who will say something about the ground beneath him being hard. Interact with the spot he was on when in the Bug Catching Contest and you will obtain the Insect Plate.
+- Stone Plate: To the right of Pewter Museum there should be a pile of dirt; check it to obtain the Stone Plate. (If the pile isn't there for some reason before you obtain the Plate, it's located as far to the bottom-right corner as you can go before jumping over the ledge.)
+- Spooky Plate: In Lavender Town's cemetery there is a woman who asks if you would pay your respects to her Pokémon. Agree to do so and she'll give you the Spooky Plate as thanks.
+- Draco Plate: Obtain the Dragonair from the Dragon's Den Elder. It is equipped with the Draco Plate.
+- Dread Plate: In Olivine Lighthouse there is a woman who asks for 15 Poké Balls and a Destiny Knot; the Destiny Knot is obtainable in an item ball on Route 27. If you talk to her with both and agree to your request, she'll fail to make an item and run off. You don't get your given items back, but she does drop the Dread Plate behind her.
+- Iron Plate: Steven will give you this one automatically when he explains the Plates inthe gatehouse between Ecruteak City and Route 38.
 
-Sky Plate: There is a pile of snow directly in front of Red at the top of Mt. Silver; check
-it to get the Sky Plate.
-Earth Plate: Return to Diglett's Cave with Rock Climb and check one of the higher
-areas to find the Earth Plate in an item ball.
-Insect Plate: In National Park, there is a trainer in the center-north who will say
-something about the ground beneath him being hard. Interact with the spot he was on
-when in the Bug Catching Contest and you will obtain the Insect Plate.
-Stone Plate: To the right of Pewter Museum there should be a pile of dirt; check it to
-obtain the Stone Plate. (If the pile isn't there for some reason before you obtain the
-Plate, it's located as far to the bottom-right corner as you can go before jumping over
-the ledge.)
-Spooky Plate: In Lavender Town's cemetery there is a woman who asks if you would
-pay your respects to her Pokémon. Agree to do so and she'll give you the Spooky Plate
-as thanks.
-Draco Plate: Obtain the Dragonair from the Dragon's Den Elder. It is equipped with
-the Draco Plate.
-Dread Plate: In Olivine Lighthouse there is a woman who asks for 15 Poké Balls and a
-Destiny Knot; the Destiny Knot is obtainable in an item ball on Route 27. If you talk to
-her with both and agree to your request, she'll fail to make an item and run off. You
-don't get your given items back, but she does drop the Dread Plate behind her.
-Iron Plate: Steven will give you this one automatically when he explains the Plates in
-the gatehouse between Ecruteak City and Route 38.
-
+Final Notes
+---
 Good luck with your legendary hunting!
-N.B.: The original design for the Mind Plate was as a reward for capturing all 28 forms
-of Unown, but this got changed due to it being a bit too tedious to be worthwhile.
-Consider yourselves lucky!
+N.B.: The original design for the Mind Plate was as a reward for capturing all 28 forms of Unown, but this got changed due to it being a bit too tedious to be worthwhile. Consider yourselves lucky!

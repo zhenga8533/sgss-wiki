@@ -69,6 +69,7 @@ $PYTHON evolution_changes.py
 $PYTHON important_item_locations.py
 $PYTHON pokemon_changes.py
 $PYTHON pokemon_locations.py
+$PYTHON special_event_guide.py
 echo "Finished running all parsers"
 echo ""
 
