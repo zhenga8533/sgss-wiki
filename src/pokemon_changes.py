@@ -7,9 +7,7 @@ import os
 
 
 def parse_change(attribute: str, changes: list[str]) -> str:
-    if attribute != "":
-        md = attribute + ":\n\n```\n+ "
-
+    md = attribute + ":\n\n```\n+ "
     md += "\n+ ".join(changes.split(", "))
     md += "\n```\n\n"
 
@@ -42,9 +40,12 @@ def main():
     pokedex_index = [1, 152, 252, 387, 494]
     region_index = 0
 
+    attribute = None
+
     # Parse all lines in the input data file
     logger.log(logging.INFO, "Parsing data...")
-    for i in range(n):
+    i = 0
+    while i < n:
         line = lines[i]
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
@@ -76,10 +77,22 @@ def main():
             md += find_pokemon_sprite(pokemon, "front", logger) + "\n\n"
         elif line.startswith("+ "):
             attribute, changes = line[2:].split(": ")
+
+            while not (next_line.startswith("+ ") or next_line.startswith("#") or next_line == ""):
+                changes += next_line
+
+                i += 1
+                if i + 1 < n:
+                    next_line = lines[i + 1]
+                else:
+                    break
+
             md += parse_change(attribute, changes)
         # Miscellaneous lines
         else:
             md += line + "\n\n"
+
+        i += 1
     logger.log(logging.INFO, "Data parsed successfully!")
 
     save(OUTPUT_PATH + "pokemon_changes.md", md, logger)

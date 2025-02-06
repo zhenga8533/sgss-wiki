@@ -215,10 +215,9 @@ Level Up Moves:
 + Air Cutter (16)
 + Giga Drain (20)
 + Air Slash (26)
-+ Baton Pass
++ Baton Pass(32)
++ Psychic (38)
 ```
-
-(32), Psychic (38)
 
 Stat Changes:
 
@@ -267,10 +266,10 @@ Level Up Moves:
 + Twinneedle (10)
 + Aerial Ace (16)
 + Cross Poison (16)
-+ Night Slash (22),
++ Night Slash (22),X-Scissor (31)
++ Drill Peck (37)
++ Megahorn (43)
 ```
-
-X-Scissor (31), Drill Peck (37), Megahorn (43)
 
 Stat Changes:
 
@@ -719,10 +718,8 @@ Stat Changes:
 + Defense (55)
 + Special Attack (85)
 + Special Defense (65)
-+ Total
++ Total(450)
 ```
-
-(450)
 
 Ability:
 
@@ -814,10 +811,8 @@ Level Up Moves:
 + Razor Leaf (11)
 + Nature Power (19)
 + Drain Punch (21)
-+ Teeter Dance
++ Teeter Dance(59)
 ```
-
-(59)
 
 **#045 Vileplume**
 
@@ -928,10 +923,9 @@ Level Up Moves:
 + Signal Beam (19)
 + Ominous Wind {31}
 + Baton Pass {37}
-+ Giga Drain
++ Giga Drain{41}
++ Sludge Bomb {47}
 ```
-
-{41}, Sludge Bomb {47}
 
 **#051 Dugtrio**
 
@@ -1153,10 +1147,8 @@ Level Up Moves:
 + Bullet Punch (1)
 + Rock Throw (16)
 + Rock Slide (28)
-+ Stone Edge (44),
++ Stone Edge (44),Scary Face [48]
 ```
-
-Scary Face [48]
 
 **#069 Bellsprout**
 
@@ -1364,64 +1356,14 @@ Base Experience Change:
 Level Up Moves:
 
 ```
-+ A total revamp…
++ A total revamp…1: Peck1: Sand-Attack1: Leer4: Fury Cutter7: Fury Attack10: Knock Off13: Aerial Ace16: Slash19: Revenge22: Swords Dance25: Agility28: Close Combat31: Night Slash34: False Swipe37: Poison Jab40: Psycho Cut43: Leaf Blade46: Brave Bird
 ```
-
-1: Peck
-
-1: Sand-Attack
-
-1: Leer
-
-4: Fury Cutter
-
-7: Fury Attack
-
-10: Knock Off
-
-13: Aerial Ace
-
-16: Slash
-
-19: Revenge
-
-22: Swords Dance
-
-25: Agility
-
-28: Close Combat
-
-31: Night Slash
-
-34: False Swipe
-
-37: Poison Jab
-
-40: Psycho Cut
-
-43: Leaf Blade
-
-46: Brave Bird
 
 Stat Changes:
 
 ```
-+ Also a revamp…
++ Also a revamp…HP:Atk:Def:Spd:SpDef:SpAtk:Total:
 ```
-
-HP:
-
-Atk:
-
-Def:
-
-Spd:
-
-SpDef:
-
-SpAtk:
-
-Total:
 
 52 >> 55
 
@@ -1549,10 +1491,8 @@ Level Up Moves:
 + Night Shade [1]
 + Ominous Wind (15)
 + Icy Wind (55)
-+ Nightmare [60],
++ Nightmare [60],Aura Sphere (65)
 ```
-
-Aura Sphere (65)
 
 **#095 Onix**
 
@@ -1643,10 +1583,8 @@ Level Up Moves:
 + Superpower (1)
 + BubbleBeam [1]
 + Hammer Arm (28)
-+ Crush Claw {56},
++ Crush Claw {56},Cross Chop (69)
 ```
-
-Cross Chop (69)
 
 **#100 Voltorb**
 
@@ -1752,10 +1690,8 @@ Level Up Moves:
 + Ice Punch (1)
 + ThunderPunch (1)
 + Sing (57)
-+ Perish Song
++ Perish Song(57)
 ```
-
-(57)
 
 Base Experience Change:
 
@@ -1925,10 +1861,8 @@ Level Up Moves:
 + Water Gun [1]
 + Rapid Spin [6]
 + Recover [10]
-+ Camouflage [15],
++ Camouflage [15],Psybeam (19)
 ```
-
-Psybeam (19)
 
 **#121 Starmie**
 
@@ -2081,12 +2015,8 @@ TM:
 Level Up Moves:
 
 ```
-+ Refer to the figure below. The font is somewhat small so you may
++ Refer to the figure below. The font is somewhat small so you mayneed to zoom in to see it clearly. A dash signifies no move is learnt in that place.LV
 ```
-
-need to zoom in to see it clearly. A dash signifies no move is learnt in that place.
-
-LV
 
 Eevee
 
@@ -2526,32 +2456,8 @@ TM:
 Stat Changes:
 
 ```
-+ Flareon’s stats are now as follows…
++ Flareon’s stats are now as follows…HP:110Atk:130Def:65SAtk:60SDef:65Spd:95
 ```
-
-HP:
-
-110
-
-Atk:
-
-130
-
-Def:
-
-65
-
-SAtk:
-
-60
-
-SDef:
-
-65
-
-Spd:
-
-95
 
 Level Up Moves:
 
@@ -2736,10 +2642,8 @@ Level Up Moves:
 + Grasswhistle (15)
 + Nature Power (16)
 + Earth Power (32)
-+ Leaf Storm
++ Leaf Storm(72)
 ```
-
-(72)
 
 **#155 Cyndaquil**
 
@@ -3168,10 +3072,10 @@ Level Up Moves:
 + Confusion (1)
 + Extrasensory (15)
 + Miracle Eye [18]
-+ Me
++ MeFirst [21]
++ Confuse Ray [24]
++ Air Slash (50)
 ```
-
-First [21], Confuse Ray [24], Air Slash (50)
 
 **#178 Xatu**
 
@@ -3192,10 +3096,10 @@ Level Up Moves:
 + Confusion (1)
 + Extrasensory (15)
 + Miracle Eye [18]
-+ Me
++ MeFirst [21]
++ Confuse Ray [24]
++ Air Slash (64)
 ```
-
-First [21], Confuse Ray [24], Air Slash (64)
 
 **#179 Mareep**
 
@@ -3546,30 +3450,15 @@ Level Up Moves:
 + Secret Power (11)
 + Nature Power (21)
 + AncientPower (31)
-+ Cosmic
++ CosmicPower (41)
++ Earth Power (51)
 ```
-
-Power (41), Earth Power (51)
 
 Stat Changes:
 
 ```
-+ A revamp…
++ A revamp…HP:Atk:Def:Spd:SpDef:SpAtk:Total:
 ```
-
-HP:
-
-Atk:
-
-Def:
-
-Spd:
-
-SpDef:
-
-SpAtk:
-
-Total:
 
 48 >> 68
 
@@ -3779,10 +3668,8 @@ Level Up Moves:
 + Ice Fang (17)
 + Ice Punch (32)
 + Slash [36]
-+ Crunch (46),
++ Crunch (46),Ice Shard [50]
 ```
-
-Ice Shard [50]
 
 **#216 Teddiursa**
 
@@ -3937,10 +3824,10 @@ Stat Changes:
 + Attack (95)
 + Defense (55)
 + Special Attack (105)
-+ Special Defense
++ Special Defense(55)
++ Speed (115)
++ Total (475)
 ```
-
-(55), Speed (115), Total (475)
 
 Level Up Moves:
 
@@ -3949,10 +3836,13 @@ Level Up Moves:
 + Pluck (8)
 + Mist (15)
 + Quick Attack (22)
-+ Baton Pass (29),
++ Baton Pass (29),Air Slash (36)
++ Seed Bomb (43)
++ Fake Out (50)
++ Blizzard (57)
++ Nasty Plot (64)
++ Tailwind (71)
 ```
-
-Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), Tailwind (71)
 
 **#226 Mantine**
 
@@ -4477,10 +4367,8 @@ Level Up Moves:
 + Stun Spore [15]
 + Air Cutter (17)
 + Signal Beam (22)
-+ Sleep Powder (29),
++ Sleep Powder (29),Air Slash (44)
 ```
-
-Air Slash (44)
 
 **#269 Dustox**
 
@@ -4507,10 +4395,8 @@ Level Up Moves:
 + Protect [15]
 + Confuse Ray (17)
 + Signal Beam (22)
-+ Reflect (31),
++ Reflect (31),Tailwind (44)
 ```
-
-Tailwind (44)
 
 **#270 Lotad**
 
@@ -4569,10 +4455,9 @@ Level Up Moves:
 + Quick Attack (1)
 + Razor Leaf [14]
 + Faint Attack [19]
-+ Low Kick (22),
++ Low Kick (22),Fake Out [31]
++ Dark Pulse (34)
 ```
-
-Fake Out [31], Dark Pulse (34)
 
 **#275 Shiftry**
 
@@ -5059,10 +4944,8 @@ Stat Changes:
 + Defense (50)
 + Special Attack (90)
 + Special Defense (85)
-+ Speed (115),
++ Speed (115),Total (450)
 ```
-
-Total (450)
 
 **#312 Minun**
 
@@ -5081,10 +4964,8 @@ Stat Changes:
 + Special Attack (85)
 + Special Defense (90)
 + Speed (115)
-+ Total
++ Total(450)
 ```
-
-(450)
 
 **#313 Volbeat**
 
@@ -5103,20 +4984,19 @@ Stat Change:
 + Attack (73 >> 30)
 + Defense (60)
 + Special Attack (100)
-+ Special
++ SpecialDefense (90)
++ Speed (90)
++ Total (450)
 ```
-
-Defense (90), Speed (90), Total (450)
 
 Level Up Moves:
 
 ```
 + Double Team (1)
 + ThunderShock (5)
-+ Helping Hand {[29]},
++ Helping Hand {[29]},Thunderbolt (33)
++ Baton Pass (49)
 ```
-
-Thunderbolt (33), Baton Pass (49)
 
 **#314 Illumise**
 
@@ -5135,10 +5015,10 @@ Stat Change:
 + Attack (47 >> 30)
 + Defense (60)
 + Special Attack (90)
-+ Special
++ SpecialDefense (100)
++ Speed (90)
++ Total (450)
 ```
-
-Defense (100), Speed (90), Total (450)
 
 Level Up Moves:
 
@@ -5147,10 +5027,10 @@ Level Up Moves:
 + Wish [1]
 + ThunderShock (5)
 + Silver Wind (21)
-+ Helping
++ HelpingHand {[29]}
++ Thunderbolt (33)
++ Baton Pass (49)
 ```
-
-Hand {[29]}, Thunderbolt (33), Baton Pass (49)
 
 **#315 Roselia**
 
@@ -5781,10 +5661,10 @@ Stat Changes:
 + Attack (90)
 + Defense (90)
 + Special Attack (90)
-+ Special Defense
++ Special Defense(90)
++ Speed (65)
++ Total (535)
 ```
-
-(90), Speed (65), Total (535)
 
 Base Experience Change:
 
@@ -5850,10 +5730,8 @@ TM:
 + TM80
 + Rock Slide
 + HM04
-+ Strength and
++ Strength andHM06 Rock Smash.
 ```
-
-HM06 Rock Smash.
 
 Type Change:
 
@@ -5867,10 +5745,8 @@ Stat Change:
 + Attack (100)
 + Defense (120)
 + Special Defense (80 >> 60)
-+ Speed (80 >> 60),
++ Speed (80 >> 60),Total (500)
 ```
-
-Total (500)
 
 Level Up Moves:
 
@@ -5929,10 +5805,9 @@ Stat Change:
 + Defense (60)
 + Special Attack (100)
 + Special Defense (80)
-+ Speed
++ Speed(125)
++ Total (450)
 ```
-
-(125), Total (450)
 
 Item Rate:
 
@@ -6584,10 +6459,9 @@ Level Up Moves:
 + Attack Order [21]
 + Heal Order [27]
 + Toxic [37]
-+ Defend
++ DefendOrder [39]
++ Air Slash (45)
 ```
-
-Order [39], Air Slash (45)
 
 **#417 Pachirisu**
 
@@ -6613,10 +6487,8 @@ Level Up Moves:
 + Swift [25]
 + Sweet Kiss [29]
 + Fake Tears (41)
-+ Uproar
++ Uproar(45)
 ```
-
-(45)
 
 **#418 Buizel**
 
@@ -7150,10 +7022,9 @@ Level Up Moves:
 + Poison Fang (7)
 + Bullet Seed (14)
 + Sleep Powder
-+ Stun Spore (24),
++ Stun Spore (24),Seed Bomb (34)
++ Bug Bite (44)
 ```
-
-Seed Bomb (34), Bug Bite (44)
 
 **#457 Lumineon**
 
@@ -7242,10 +7113,8 @@ Level Up Moves:
 + Ice Fang (17)
 + Ice Punch (32)
 + Crunch (46)
-+ Dark
++ DarkPulse [50]
 ```
-
-Pulse [50]
 
 **#462 Magnezone**
 
@@ -7341,10 +7210,8 @@ Level Up Moves:
 + Cross Chop {43}
 + Aura Sphere {58}
 + Magma Storm (67)
-+ Hyper Beam
++ Hyper Beam[76]
 ```
-
-[76]
 
 **#468 Togekiss**
 
