@@ -19,7 +19,11 @@ Also an important note: the move relearner, together with the move deleter has b
 1. Rock Smash is a 60-power Fighting move which now has a 30% chance of reducing Defense.
 1. All Black and White upgrades to moves have been added where possible, too.
 
-**[##001 Bulbasaur](../pokemon/bulbasaur.md)**
+---
+
+## Kanto
+
+**#001 Bulbasaur**
 
 ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
 
@@ -37,7 +41,7 @@ Level Up Moves:
 + Power Whip (43)
 ```
 
-**[##002 Ivysaur](../pokemon/ivysaur.md)**
+**#002 Ivysaur**
 
 ![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur")
 
@@ -55,7 +59,7 @@ Level Up Moves:
 + Power Whip (49)
 ```
 
-**[##003 Venusaur](../pokemon/venusaur.md)**
+**#003 Venusaur**
 
 ![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur")
 
@@ -73,7 +77,7 @@ Level Up Moves:
 + Power Whip (60)
 ```
 
-**[##004 Charmander](../pokemon/charmander.md)**
+**#004 Charmander**
 
 ![Charmander](../assets/sprites/charmander/front.gif "Charmander")
 
@@ -89,7 +93,7 @@ Level Up Moves:
 + Metal Claw (13)
 ```
 
-**[##005 Charmeleon](../pokemon/charmeleon.md)**
+**#005 Charmeleon**
 
 ![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon")
 
@@ -105,7 +109,7 @@ Level Up Moves:
 + Metal Claw (13)
 ```
 
-**[##006 Charizard](../pokemon/charizard.md)**
+**#006 Charizard**
 
 ![Charizard](../assets/sprites/charizard/front.gif "Charizard")
 
@@ -123,7 +127,7 @@ Level Up Moves:
 + Outrage (73)
 ```
 
-**[##007 Squirtle](../pokemon/squirtle.md)**
+**#007 Squirtle**
 
 ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
 
@@ -140,7 +144,7 @@ Level Up Moves:
 + Water Spout (43)
 ```
 
-**[##008 Wartortle](../pokemon/wartortle.md)**
+**#008 Wartortle**
 
 ![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle")
 
@@ -158,7 +162,7 @@ Level Up Moves:
 + Water Spout (52)
 ```
 
-**[##009 Blastoise](../pokemon/blastoise.md)**
+**#009 Blastoise**
 
 ![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise")
 
@@ -177,7 +181,7 @@ Level Up Moves:
 + Water Spout (67)
 ```
 
-**[##010 Caterpie](../pokemon/caterpie.md)**
+**#010 Caterpie**
 
 ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie")
 
@@ -194,7 +198,7 @@ Level Up Moves:
 + Snore (1)
 ```
 
-**[##012 Butterfree](../pokemon/butterfree.md)**
+**#012 Butterfree**
 
 ![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree")
 
@@ -231,7 +235,7 @@ Base Experience Change:
 + 160 >> 180
 ```
 
-**[##013 Weedle](../pokemon/weedle.md)**
+**#013 Weedle**
 
 ![Weedle](../assets/sprites/weedle/front.gif "Weedle")
 
@@ -247,7 +251,7 @@ Level Up Moves:
 + Bug Bite (1)
 ```
 
-**[##015 Beedrill](../pokemon/beedrill.md)**
+**#015 Beedrill**
 
 ![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill")
 
@@ -283,7 +287,7 @@ Base Experience Change:
 + 159 >> 179
 ```
 
-**[##016 Pidgey](../pokemon/pidgey.md)**
+**#016 Pidgey**
 
 ![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey")
 
@@ -295,7 +299,7 @@ Level Up Moves:
 + Brave Bird (53)
 ```
 
-**[##017 Pidgeotto](../pokemon/pidgeotto.md)**
+**#017 Pidgeotto**
 
 ![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto")
 
@@ -307,7 +311,7 @@ Level Up Moves:
 + Brave Bird (62)
 ```
 
-**[##018 Pidgeot](../pokemon/pidgeot.md)**
+**#018 Pidgeot**
 
 ![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot")
 
@@ -335,7 +339,7 @@ Base Experience Change:
 + 172 >> 194
 ```
 
-**[##019 Rattata](../pokemon/rattata.md)**
+**#019 Rattata**
 
 ![Rattata](../assets/sprites/rattata/front.gif "Rattata")
 
@@ -352,7 +356,7 @@ Level Up Moves:
 + Reversal (37)
 ```
 
-**[##020 Raticate](../pokemon/raticate.md)**
+**#020 Raticate**
 
 ![Raticate](../assets/sprites/raticate/front.gif "Raticate")
 
@@ -380,7 +384,7 @@ Level Up Moves:
 + Reversal (49)
 ```
 
-**[##021 Spearow](../pokemon/spearow.md)**
+**#021 Spearow**
 
 ![Spearow](../assets/sprites/spearow/front.gif "Spearow")
 
@@ -398,7 +402,7 @@ Level Up Moves:
 + Tailwind (41)
 ```
 
-**[##022 Fearow](../pokemon/fearow.md)**
+**#022 Fearow**
 
 ![Fearow](../assets/sprites/fearow/front.gif "Fearow")
 
@@ -431,7 +435,7 @@ Base Experience Change:
 + 162 >> 169
 ```
 
-**[##023 Ekans](../pokemon/ekans.md)**
+**#023 Ekans**
 
 ![Ekans](../assets/sprites/ekans/front.gif "Ekans")
 
@@ -441,7 +445,7 @@ Level Up Moves:
 + Poison Tail (23)
 ```
 
-**[##024 Arbok](../pokemon/arbok.md)**
+**#024 Arbok**
 
 ![Arbok](../assets/sprites/arbok/front.gif "Arbok")
 
@@ -465,7 +469,7 @@ Base Experience Change:
 + 147 >> 163
 ```
 
-**[##025 Pikachu](../pokemon/pikachu.md)**
+**#025 Pikachu**
 
 ![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu")
 
@@ -497,7 +501,7 @@ Base Experience Change:
 + 82 >> 92
 ```
 
-**[##026 Raichu](../pokemon/raichu.md)**
+**#026 Raichu**
 
 ![Raichu](../assets/sprites/raichu/front.gif "Raichu")
 
@@ -528,7 +532,7 @@ Base Experience Change:
 + 122 >> 179
 ```
 
-**[##027 Sandshrew](../pokemon/sandshrew.md)**
+**#027 Sandshrew**
 
 ![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew")
 
@@ -539,7 +543,7 @@ Level Up Moves:
 + Earthquake (45)
 ```
 
-**[##028 Sandslash](../pokemon/sandslash.md)**
+**#028 Sandslash**
 
 ![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash")
 
@@ -550,7 +554,7 @@ Level Up Moves:
 + Earthquake (65)
 ```
 
-**[##029 Nidoran♀](../pokemon/nidoran.md)**
+**#029 Nidoran♀**
 
 
 
@@ -560,7 +564,7 @@ Level Up Moves:
 + Super Fang (47)
 ```
 
-**[##030 Nidorina](../pokemon/nidorina.md)**
+**#030 Nidorina**
 
 ![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina")
 
@@ -570,7 +574,7 @@ Level Up Moves:
 + Super Fang (65)
 ```
 
-**[##031 Nidoqueen](../pokemon/nidoqueen.md)**
+**#031 Nidoqueen**
 
 ![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen")
 
@@ -581,7 +585,7 @@ Stat Changes:
 + Total (505)
 ```
 
-**[##032 Nidoran♂](../pokemon/nidoran.md)**
+**#032 Nidoran♂**
 
 
 
@@ -591,7 +595,7 @@ Level Up Moves:
 + Super Fang (47)
 ```
 
-**[##033 Nidorino](../pokemon/nidorino.md)**
+**#033 Nidorino**
 
 ![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino")
 
@@ -601,7 +605,7 @@ Level Up Moves:
 + Super Fang (65)
 ```
 
-**[##034 Nidoking](../pokemon/nidoking.md)**
+**#034 Nidoking**
 
 ![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking")
 
@@ -613,7 +617,7 @@ Stat Changes:
 + Total (505)
 ```
 
-**[##035 Clefairy](../pokemon/clefairy.md)**
+**#035 Clefairy**
 
 ![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy")
 
@@ -623,7 +627,7 @@ Level Up Moves:
 + Aromatherapy (49)
 ```
 
-**[##036 Clefable](../pokemon/clefable.md)**
+**#036 Clefable**
 
 ![Clefable](../assets/sprites/clefable/front.gif "Clefable")
 
@@ -639,7 +643,7 @@ Level Up Moves:
 + Softboiled (1)
 ```
 
-**[##037 Vulpix](../pokemon/vulpix.md)**
+**#037 Vulpix**
 
 ![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix")
 
@@ -662,7 +666,7 @@ Level Up Moves:
 + Hypnosis (14)
 ```
 
-**[##038 Ninetales](../pokemon/ninetales.md)**
+**#038 Ninetales**
 
 ![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales")
 
@@ -685,7 +689,7 @@ Level Up Moves:
 + Morning Sun (1)
 ```
 
-**[##039 Jigglypuff](../pokemon/jigglypuff.md)**
+**#039 Jigglypuff**
 
 ![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff")
 
@@ -704,7 +708,7 @@ Level Up Moves:
 + Wish (57)
 ```
 
-**[##040 Wigglytuff](../pokemon/wigglytuff.md)**
+**#040 Wigglytuff**
 
 ![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff")
 
@@ -738,7 +742,7 @@ Base Experience Change:
 + 109 >> 129
 ```
 
-**[##041 Zubat](../pokemon/zubat.md)**
+**#041 Zubat**
 
 ![Zubat](../assets/sprites/zubat/front.gif "Zubat")
 
@@ -757,7 +761,7 @@ Level Up Moves:
 + Brave Bird (49)
 ```
 
-**[##042 Golbat](../pokemon/golbat.md)**
+**#042 Golbat**
 
 ![Golbat](../assets/sprites/golbat/front.gif "Golbat")
 
@@ -776,7 +780,7 @@ Level Up Moves:
 + Brave Bird (63)
 ```
 
-**[##043 Oddish](../pokemon/oddish.md)**
+**#043 Oddish**
 
 ![Oddish](../assets/sprites/oddish/front.gif "Oddish")
 
@@ -794,7 +798,7 @@ Level Up Moves:
 + Teeter Dance (45)
 ```
 
-**[##044 Gloom](../pokemon/gloom.md)**
+**#044 Gloom**
 
 ![Gloom](../assets/sprites/gloom/front.gif "Gloom")
 
@@ -815,7 +819,7 @@ Level Up Moves:
 
 (59)
 
-**[##045 Vileplume](../pokemon/vileplume.md)**
+**#045 Vileplume**
 
 ![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume")
 
@@ -845,7 +849,7 @@ Base Experience Change:
 + 184 >> 192
 ```
 
-**[##046 Paras](../pokemon/paras.md)**
+**#046 Paras**
 
 ![Paras](../assets/sprites/paras/front.gif "Paras")
 
@@ -857,7 +861,7 @@ Level Up Moves:
 + Cross Poison (22)
 ```
 
-**[##047 Parasect](../pokemon/parasect.md)**
+**#047 Parasect**
 
 ![Parasect](../assets/sprites/parasect/front.gif "Parasect")
 
@@ -877,7 +881,7 @@ Level Up Moves:
 + Cross Poison (22)
 ```
 
-**[##048 Venonat](../pokemon/venonat.md)**
+**#048 Venonat**
 
 ![Venonat](../assets/sprites/venonat/front.gif "Venonat")
 
@@ -888,7 +892,7 @@ Level Up Moves:
 + Baton Pass {35}
 ```
 
-**[##049 Venomoth](../pokemon/venomoth.md)**
+**#049 Venomoth**
 
 ![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth")
 
@@ -929,7 +933,7 @@ Level Up Moves:
 
 {41}, Sludge Bomb {47}
 
-**[##051 Dugtrio](../pokemon/dugtrio.md)**
+**#051 Dugtrio**
 
 ![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio")
 
@@ -940,7 +944,7 @@ Stat Changes:
 + Total (425)
 ```
 
-**[##053 Persian](../pokemon/persian.md)**
+**#053 Persian**
 
 ![Persian](../assets/sprites/persian/front.gif "Persian")
 
@@ -957,7 +961,7 @@ Level Up Moves:
 + Hypnosis (1)
 ```
 
-**[##054 Psyduck](../pokemon/psyduck.md)**
+**#054 Psyduck**
 
 ![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck")
 
@@ -969,7 +973,7 @@ Level Up Moves:
 + Petal Dance (61)
 ```
 
-**[##055 Golduck](../pokemon/golduck.md)**
+**#055 Golduck**
 
 ![Golduck](../assets/sprites/golduck/front.gif "Golduck")
 
@@ -982,7 +986,7 @@ Level Up Moves:
 + Petal Dance (73)
 ```
 
-**[##057 Primeape](../pokemon/primeape.md)**
+**#057 Primeape**
 
 ![Primeape](../assets/sprites/primeape/front.gif "Primeape")
 
@@ -994,7 +998,7 @@ Level Up Moves:
 + ThunderPunch (28)
 ```
 
-**[##058 Growlithe](../pokemon/growlithe.md)**
+**#058 Growlithe**
 
 ![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe")
 
@@ -1005,7 +1009,7 @@ Level Up Moves:
 + Double Kick {6}
 ```
 
-**[##059 Arcanine](../pokemon/arcanine.md)**
+**#059 Arcanine**
 
 ![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine")
 
@@ -1016,7 +1020,7 @@ Level Up Moves:
 + Flare Blitz (50)
 ```
 
-**[##060 Poliwag](../pokemon/poliwag.md)**
+**#060 Poliwag**
 
 ![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag")
 
@@ -1026,7 +1030,7 @@ Level Up Moves:
 + Mud Shot (13)
 ```
 
-**[##061 Poliwhirl](../pokemon/poliwhirl.md)**
+**#061 Poliwhirl**
 
 ![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl")
 
@@ -1044,7 +1048,7 @@ Level Up Moves:
 + Metronome (25)
 ```
 
-**[##062 Poliwrath](../pokemon/poliwrath.md)**
+**#062 Poliwrath**
 
 ![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath")
 
@@ -1071,7 +1075,7 @@ Level Up Moves:
 + Close Combat (63)
 ```
 
-**[##063 Abra](../pokemon/abra.md)**
+**#063 Abra**
 
 ![Abra](../assets/sprites/abra/front.gif "Abra")
 
@@ -1081,7 +1085,7 @@ Ability:
 + Magic Guard {2}
 ```
 
-**[##064 Kadabra](../pokemon/kadabra.md)**
+**#064 Kadabra**
 
 ![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra")
 
@@ -1097,7 +1101,7 @@ Level Up Moves:
 + Gravity (48)
 ```
 
-**[##065 Alakazam](../pokemon/alakazam.md)**
+**#065 Alakazam**
 
 ![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam")
 
@@ -1114,7 +1118,7 @@ Level Up Moves:
 + Aura Sphere (52)
 ```
 
-**[##066 Machop](../pokemon/machop.md)**
+**#066 Machop**
 
 ![Machop](../assets/sprites/machop/front.gif "Machop")
 
@@ -1126,7 +1130,7 @@ Level Up Moves:
 + Stone Edge (40)
 ```
 
-**[##067 Machoke](../pokemon/machoke.md)**
+**#067 Machoke**
 
 ![Machoke](../assets/sprites/machoke/front.gif "Machoke")
 
@@ -1139,7 +1143,7 @@ Level Up Moves:
 + Scary Face [48]
 ```
 
-**[##068 Machamp](../pokemon/machamp.md)**
+**#068 Machamp**
 
 ![Machamp](../assets/sprites/machamp/front.gif "Machamp")
 
@@ -1154,7 +1158,7 @@ Level Up Moves:
 
 Scary Face [48]
 
-**[##069 Bellsprout](../pokemon/bellsprout.md)**
+**#069 Bellsprout**
 
 ![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout")
 
@@ -1171,7 +1175,7 @@ Level Up Moves:
 + Power Whip (39)
 ```
 
-**[##070 Weepinbell](../pokemon/weepinbell.md)**
+**#070 Weepinbell**
 
 ![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell")
 
@@ -1188,7 +1192,7 @@ Level Up Moves:
 + Power Whip (39)
 ```
 
-**[##071 Victreebel](../pokemon/victreebel.md)**
+**#071 Victreebel**
 
 ![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel")
 
@@ -1219,7 +1223,7 @@ Base Experience Change:
 + 191 >> 199
 ```
 
-**[##072 Tentacool](../pokemon/tentacool.md)**
+**#072 Tentacool**
 
 ![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool")
 
@@ -1229,7 +1233,7 @@ Level Up Moves:
 + Acupressure (47)
 ```
 
-**[##073 Tentacruel](../pokemon/tentacruel.md)**
+**#073 Tentacruel**
 
 ![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel")
 
@@ -1239,7 +1243,7 @@ Level Up Moves:
 + Acupressure (62)
 ```
 
-**[##074 Geodude](../pokemon/geodude.md)**
+**#074 Geodude**
 
 ![Geodude](../assets/sprites/geodude/front.gif "Geodude")
 
@@ -1249,7 +1253,7 @@ Level Up Moves:
 + Hammer Arm (43)
 ```
 
-**[##075 Graveler](../pokemon/graveler.md)**
+**#075 Graveler**
 
 ![Graveler](../assets/sprites/graveler/front.gif "Graveler")
 
@@ -1259,7 +1263,7 @@ Level Up Moves:
 + Hammer Arm (54)
 ```
 
-**[##076 Golem](../pokemon/golem.md)**
+**#076 Golem**
 
 ![Golem](../assets/sprites/golem/front.gif "Golem")
 
@@ -1272,7 +1276,7 @@ Level Up Moves:
 + Hammer Arm (54)
 ```
 
-**[##077 Ponyta](../pokemon/ponyta.md)**
+**#077 Ponyta**
 
 ![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta")
 
@@ -1290,7 +1294,7 @@ Level Up Moves:
 + Jump Kick (54)
 ```
 
-**[##078 Rapidash](../pokemon/rapidash.md)**
+**#078 Rapidash**
 
 ![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash")
 
@@ -1308,7 +1312,7 @@ Level Up Moves:
 + Jump Kick (74)
 ```
 
-**[##081 Magnemite](../pokemon/magnemite.md)**
+**#081 Magnemite**
 
 ![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite")
 
@@ -1318,7 +1322,7 @@ Level Up Moves:
 + Signal Beam (57)
 ```
 
-**[##082 Magneton](../pokemon/magneton.md)**
+**#082 Magneton**
 
 ![Magneton](../assets/sprites/magneton/front.gif "Magneton")
 
@@ -1328,7 +1332,7 @@ Level Up Moves:
 + Signal Beam (64)
 ```
 
-**[##083 Farfetch’d](../pokemon/farfetchd.md)**
+**#083 Farfetch’d**
 
 ![Farfetch’d](../assets/sprites/farfetchd/front.gif "Farfetch’d")
 
@@ -1433,7 +1437,7 @@ Total:
 
 352 >> 450
 
-**[##084 Doduo](../pokemon/doduo.md)**
+**#084 Doduo**
 
 ![Doduo](../assets/sprites/doduo/front.gif "Doduo")
 
@@ -1450,7 +1454,7 @@ Level Up Moves:
 + Brave Bird (56)
 ```
 
-**[##085 Dodrio](../pokemon/dodrio.md)**
+**#085 Dodrio**
 
 ![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio")
 
@@ -1467,7 +1471,7 @@ Level Up Moves:
 + Brave Bird (68)
 ```
 
-**[##087 Dewgong](../pokemon/dewgong.md)**
+**#087 Dewgong**
 
 ![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong")
 
@@ -1478,7 +1482,7 @@ Stat Changes:
 + Total (485)
 ```
 
-**[##088 Grimer](../pokemon/grimer.md)**
+**#088 Grimer**
 
 ![Grimer](../assets/sprites/grimer/front.gif "Grimer")
 
@@ -1488,7 +1492,7 @@ Level Up Moves:
 + Curse (54)
 ```
 
-**[##089 Muk](../pokemon/muk.md)**
+**#089 Muk**
 
 ![Muk](../assets/sprites/muk/front.gif "Muk")
 
@@ -1499,7 +1503,7 @@ Level Up Moves:
 + Curse (75)
 ```
 
-**[##090 Shellder](../pokemon/shellder.md)**
+**#090 Shellder**
 
 ![Shellder](../assets/sprites/shellder/front.gif "Shellder")
 
@@ -1509,7 +1513,7 @@ Level Up Moves:
 + BubbleBeam (1)
 ```
 
-**[##092 Gastly](../pokemon/gastly.md)**
+**#092 Gastly**
 
 ![Gastly](../assets/sprites/gastly/front.gif "Gastly")
 
@@ -1522,7 +1526,7 @@ Level Up Moves:
 + Nightmare [47]
 ```
 
-**[##093 Haunter](../pokemon/haunter.md)**
+**#093 Haunter**
 
 ![Haunter](../assets/sprites/haunter/front.gif "Haunter")
 
@@ -1535,7 +1539,7 @@ Level Up Moves:
 + Nightmare [60]
 ```
 
-**[##094 Gengar](../pokemon/gengar.md)**
+**#094 Gengar**
 
 ![Gengar](../assets/sprites/gengar/front.gif "Gengar")
 
@@ -1550,7 +1554,7 @@ Level Up Moves:
 
 Aura Sphere (65)
 
-**[##095 Onix](../pokemon/onix.md)**
+**#095 Onix**
 
 ![Onix](../assets/sprites/onix/front.gif "Onix")
 
@@ -1567,7 +1571,7 @@ Base Experience Change:
 + 108 >> 128
 ```
 
-**[##096 Drowzee](../pokemon/drowzee.md)**
+**#096 Drowzee**
 
 ![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee")
 
@@ -1577,7 +1581,7 @@ Level Up Moves:
 + Dream Eater (12)
 ```
 
-**[##097 Hypno](../pokemon/hypno.md)**
+**#097 Hypno**
 
 ![Hypno](../assets/sprites/hypno/front.gif "Hypno")
 
@@ -1587,7 +1591,7 @@ Level Up Moves:
 + Dream Eater (12)
 ```
 
-**[##098 Krabby](../pokemon/krabby.md)**
+**#098 Krabby**
 
 ![Krabby](../assets/sprites/krabby/front.gif "Krabby")
 
@@ -1614,7 +1618,7 @@ Level Up Moves:
 + Cross Chop (49)
 ```
 
-**[##099 Kingler](../pokemon/kingler.md)**
+**#099 Kingler**
 
 ![Kingler](../assets/sprites/kingler/front.gif "Kingler")
 
@@ -1644,7 +1648,7 @@ Level Up Moves:
 
 Cross Chop (69)
 
-**[##100 Voltorb](../pokemon/voltorb.md)**
+**#100 Voltorb**
 
 ![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb")
 
@@ -1660,7 +1664,7 @@ Level Up Moves:
 + Signal Beam (50)
 ```
 
-**[##101 Electrode](../pokemon/electrode.md)**
+**#101 Electrode**
 
 ![Electrode](../assets/sprites/electrode/front.gif "Electrode")
 
@@ -1685,7 +1689,7 @@ Level Up Moves:
 + Signal Beam (62)
 ```
 
-**[##102 Exeggcute](../pokemon/exeggcute.md)**
+**#102 Exeggcute**
 
 ![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute")
 
@@ -1697,7 +1701,7 @@ Level Up Moves:
 + Giga Drain {27}
 ```
 
-**[##103 Exeggutor](../pokemon/exeggutor.md)**
+**#103 Exeggutor**
 
 ![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor")
 
@@ -1707,7 +1711,7 @@ Level Up Moves:
 + Nature Power (57)
 ```
 
-**[##104 Cubone](../pokemon/cubone.md)**
+**#104 Cubone**
 
 ![Cubone](../assets/sprites/cubone/front.gif "Cubone")
 
@@ -1724,7 +1728,7 @@ Level Up Moves:
 + Perish Song (47)
 ```
 
-**[##105 Marowak](../pokemon/marowak.md)**
+**#105 Marowak**
 
 ![Marowak](../assets/sprites/marowak/front.gif "Marowak")
 
@@ -1759,7 +1763,7 @@ Base Experience Change:
 + 124 >> 140
 ```
 
-**[##106 Hitmonlee](../pokemon/hitmonlee.md)**
+**#106 Hitmonlee**
 
 ![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee")
 
@@ -1769,7 +1773,7 @@ Level Up Moves:
 + Bounce (61)
 ```
 
-**[##107 Hitmonchan](../pokemon/hitmonchan.md)**
+**#107 Hitmonchan**
 
 ![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan")
 
@@ -1779,7 +1783,7 @@ Level Up Moves:
 + Drain Punch (61)
 ```
 
-**[##108 Lickitung](../pokemon/lickitung.md)**
+**#108 Lickitung**
 
 ![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung")
 
@@ -1796,7 +1800,7 @@ Level Up Moves:
 + Hammer Arm (61)
 ```
 
-**[##109 Koffing](../pokemon/koffing.md)**
+**#109 Koffing**
 
 ![Koffing](../assets/sprites/koffing/front.gif "Koffing")
 
@@ -1808,7 +1812,7 @@ Level Up Moves:
 + Gunk Shot (64)
 ```
 
-**[##110 Weezing](../pokemon/weezing.md)**
+**#110 Weezing**
 
 ![Weezing](../assets/sprites/weezing/front.gif "Weezing")
 
@@ -1820,7 +1824,7 @@ Level Up Moves:
 + Gunk Shot (85)
 ```
 
-**[##111 Rhyhorn](../pokemon/rhyhorn.md)**
+**#111 Rhyhorn**
 
 ![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn")
 
@@ -1836,7 +1840,7 @@ Level Up Moves:
 + Crunch (53)
 ```
 
-**[##112 Rhydon](../pokemon/rhydon.md)**
+**#112 Rhydon**
 
 ![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon")
 
@@ -1852,7 +1856,7 @@ Level Up Moves:
 + Crunch (53)
 ```
 
-**[##113 Chansey](../pokemon/chansey.md)**
+**#113 Chansey**
 
 ![Chansey](../assets/sprites/chansey/front.gif "Chansey")
 
@@ -1863,7 +1867,7 @@ Level Up Moves:
 + Fling (50)
 ```
 
-**[##115 Kangaskhan](../pokemon/kangaskhan.md)**
+**#115 Kangaskhan**
 
 ![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan")
 
@@ -1874,7 +1878,7 @@ Level Up Moves:
 + Double-Edge (53)
 ```
 
-**[##117 Seadra](../pokemon/seadra.md)**
+**#117 Seadra**
 
 ![Seadra](../assets/sprites/seadra/front.gif "Seadra")
 
@@ -1893,7 +1897,7 @@ Level Up Moves:
 + DragonBreath (32)
 ```
 
-**[##119 Seaking](../pokemon/seaking.md)**
+**#119 Seaking**
 
 ![Seaking](../assets/sprites/seaking/front.gif "Seaking")
 
@@ -1911,7 +1915,7 @@ Level Up Moves:
 + Aqua Tail (33)
 ```
 
-**[##120 Staryu](../pokemon/staryu.md)**
+**#120 Staryu**
 
 ![Staryu](../assets/sprites/staryu/front.gif "Staryu")
 
@@ -1926,7 +1930,7 @@ Level Up Moves:
 
 Psybeam (19)
 
-**[##121 Starmie](../pokemon/starmie.md)**
+**#121 Starmie**
 
 ![Starmie](../assets/sprites/starmie/front.gif "Starmie")
 
@@ -1936,7 +1940,7 @@ Level Up Moves:
 + Aura Sphere (52)
 ```
 
-**[##123 Scyther](../pokemon/scyther.md)**
+**#123 Scyther**
 
 ![Scyther](../assets/sprites/scyther/front.gif "Scyther")
 
@@ -1947,7 +1951,7 @@ Level Up Moves:
 + Night Slash (65)
 ```
 
-**[##124 Jynx](../pokemon/jynx.md)**
+**#124 Jynx**
 
 ![Jynx](../assets/sprites/jynx/front.gif "Jynx")
 
@@ -1972,7 +1976,7 @@ Level Up Moves:
 + Psycho Boost (66)
 ```
 
-**[##125 Electabuzz](../pokemon/electabuzz.md)**
+**#125 Electabuzz**
 
 ![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz")
 
@@ -1988,7 +1992,7 @@ Level Up Moves:
 + Volt Tackle (65)
 ```
 
-**[##126 Magmar](../pokemon/magmar.md)**
+**#126 Magmar**
 
 ![Magmar](../assets/sprites/magmar/front.gif "Magmar")
 
@@ -2004,7 +2008,7 @@ Level Up Moves:
 + Magma Storm (62)
 ```
 
-**[##127 Pinsir](../pokemon/pinsir.md)**
+**#127 Pinsir**
 
 ![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir")
 
@@ -2015,7 +2019,7 @@ Level Up Moves:
 + Close Combat (62)
 ```
 
-**[##128 Tauros](../pokemon/tauros.md)**
+**#128 Tauros**
 
 ![Tauros](../assets/sprites/tauros/front.gif "Tauros")
 
@@ -2026,7 +2030,7 @@ Level Up Moves:
 + Double-Edge (69)
 ```
 
-**[##129 Magikarp](../pokemon/magikarp.md)**
+**#129 Magikarp**
 
 ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp")
 
@@ -2040,7 +2044,7 @@ Level Up Moves:
 + Bounce (30)
 ```
 
-**[##130 Gyarados](../pokemon/gyarados.md)**
+**#130 Gyarados**
 
 ![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados")
 
@@ -2051,7 +2055,7 @@ Level Up Moves:
 + Outrage (53)
 ```
 
-**[##131 Lapras](../pokemon/lapras.md)**
+**#131 Lapras**
 
 ![Lapras](../assets/sprites/lapras/front.gif "Lapras")
 
@@ -2063,7 +2067,7 @@ Level Up Moves:
 + Outrage (67)
 ```
 
-**[##133 Eevee](../pokemon/eevee.md)**
+**#133 Eevee**
 
 ![Eevee](../assets/sprites/eevee/front.gif "Eevee")
 
@@ -2448,7 +2452,7 @@ Rest
 
 Fig. 1: Eeveelution move table.
 
-**[##134 Vaporeon](../pokemon/vaporeon.md)**
+**#134 Vaporeon**
 
 ![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon")
 
@@ -2471,7 +2475,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##135 Jolteon](../pokemon/jolteon.md)**
+**#135 Jolteon**
 
 ![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon")
 
@@ -2498,7 +2502,7 @@ Sheer
 
 Cold
 
-**[##136 Flareon](../pokemon/flareon.md)**
+**#136 Flareon**
 
 ![Flareon](../assets/sprites/flareon/front.gif "Flareon")
 
@@ -2555,7 +2559,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##137 Porygon](../pokemon/porygon.md)**
+**#137 Porygon**
 
 ![Porygon](../assets/sprites/porygon/front.gif "Porygon")
 
@@ -2565,7 +2569,7 @@ Level Up Moves:
 + Gravity (68)
 ```
 
-**[##138 Omanyte](../pokemon/omanyte.md)**
+**#138 Omanyte**
 
 ![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
 
@@ -2575,7 +2579,7 @@ Level Up Moves:
 + Earth Power (58)
 ```
 
-**[##139 Omastar](../pokemon/omastar.md)**
+**#139 Omastar**
 
 ![Omastar](../assets/sprites/omastar/front.gif "Omastar")
 
@@ -2585,7 +2589,7 @@ Level Up Moves:
 + Earth Power (75)
 ```
 
-**[##143 Snorlax](../pokemon/snorlax.md)**
+**#143 Snorlax**
 
 ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax")
 
@@ -2597,7 +2601,7 @@ Level Up Moves:
 + Selfdestruct (63)
 ```
 
-**[##144 Articuno](../pokemon/articuno.md)**
+**#144 Articuno**
 
 ![Articuno](../assets/sprites/articuno/front.gif "Articuno")
 
@@ -2607,7 +2611,7 @@ Ability:
 + Snow Cloak
 ```
 
-**[##145 Zapdos](../pokemon/zapdos.md)**
+**#145 Zapdos**
 
 ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
 
@@ -2617,7 +2621,7 @@ Ability:
 + LightningRod
 ```
 
-**[##146 Moltres](../pokemon/moltres.md)**
+**#146 Moltres**
 
 ![Moltres](../assets/sprites/moltres/front.gif "Moltres")
 
@@ -2627,7 +2631,7 @@ Ability:
 + Flame Body
 ```
 
-**[##147 Dratini](../pokemon/dratini.md)**
+**#147 Dratini**
 
 ![Dratini](../assets/sprites/dratini/front.gif "Dratini")
 
@@ -2637,7 +2641,7 @@ Ability:
 + Marvel Scale
 ```
 
-**[##148 Dragonair](../pokemon/dragonair.md)**
+**#148 Dragonair**
 
 ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair")
 
@@ -2647,7 +2651,7 @@ Ability:
 + Marvel Scale
 ```
 
-**[##149 Dragonite](../pokemon/dragonite.md)**
+**#149 Dragonite**
 
 ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite")
 
@@ -2657,7 +2661,7 @@ Ability:
 + Marvel Scale
 ```
 
-**[##150 Mewtwo](../pokemon/mewtwo.md)**
+**#150 Mewtwo**
 
 ![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
 
@@ -2667,7 +2671,7 @@ Ability:
 + Magic Guard
 ```
 
-**[##151 Mew](../pokemon/mew.md)**
+**#151 Mew**
 
 ![Mew](../assets/sprites/mew/front.gif "Mew")
 
@@ -2677,7 +2681,11 @@ Ability:
 + Magic Guard
 ```
 
-**[##152 Chikorita](../pokemon/chikorita.md)**
+---
+
+## Johto
+
+**#152 Chikorita**
 
 ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
 
@@ -2694,7 +2702,7 @@ Level Up Moves:
 + Leaf Storm (48)
 ```
 
-**[##153 Bayleef](../pokemon/bayleef.md)**
+**#153 Bayleef**
 
 ![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef")
 
@@ -2712,7 +2720,7 @@ Level Up Moves:
 + Leaf Storm (58)
 ```
 
-**[##154 Meganium](../pokemon/meganium.md)**
+**#154 Meganium**
 
 ![Meganium](../assets/sprites/meganium/front.gif "Meganium")
 
@@ -2733,7 +2741,7 @@ Level Up Moves:
 
 (72)
 
-**[##155 Cyndaquil](../pokemon/cyndaquil.md)**
+**#155 Cyndaquil**
 
 ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
 
@@ -2743,7 +2751,7 @@ Ability:
 + Flash Fire
 ```
 
-**[##156 Quilava](../pokemon/quilava.md)**
+**#156 Quilava**
 
 ![Quilava](../assets/sprites/quilava/front.gif "Quilava")
 
@@ -2753,7 +2761,7 @@ Ability:
 + Flash Fire
 ```
 
-**[##157 Typhlosion](../pokemon/typhlosion.md)**
+**#157 Typhlosion**
 
 ![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion")
 
@@ -2770,7 +2778,7 @@ Level Up Moves:
 + Earth Power (63)
 ```
 
-**[##158 Totodile](../pokemon/totodile.md)**
+**#158 Totodile**
 
 ![Totodile](../assets/sprites/totodile/front.gif "Totodile")
 
@@ -2786,7 +2794,7 @@ Level Up Moves:
 + Dragon Dance (52)
 ```
 
-**[##159 Croconaw](../pokemon/croconaw.md)**
+**#159 Croconaw**
 
 ![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw")
 
@@ -2802,7 +2810,7 @@ Level Up Moves:
 + Dragon Dance (60)
 ```
 
-**[##160 Feraligatr](../pokemon/feraligatr.md)**
+**#160 Feraligatr**
 
 ![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr")
 
@@ -2819,7 +2827,7 @@ Level Up Moves:
 + Dragon Dance (76)
 ```
 
-**[##161 Sentret](../pokemon/sentret.md)**
+**#161 Sentret**
 
 ![Sentret](../assets/sprites/sentret/front.gif "Sentret")
 
@@ -2836,7 +2844,7 @@ Level Up Moves:
 + Super Fang (50)
 ```
 
-**[##162 Furret](../pokemon/furret.md)**
+**#162 Furret**
 
 ![Furret](../assets/sprites/furret/front.gif "Furret")
 
@@ -2868,7 +2876,7 @@ Base Experience Change:
 + 116 >> 126
 ```
 
-**[##163 Hoothoot](../pokemon/hoothoot.md)**
+**#163 Hoothoot**
 
 ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot")
 
@@ -2886,7 +2894,7 @@ Level Up Moves:
 + Nasty Plot (53)
 ```
 
-**[##163 Hoothoot](../pokemon/hoothoot.md)**
+**#163 Hoothoot**
 
 ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot")
 
@@ -2911,7 +2919,7 @@ Level Up Moves:
 + Nasty Plot (53)
 ```
 
-**[##164 Noctowl](../pokemon/noctowl.md)**
+**#164 Noctowl**
 
 ![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl")
 
@@ -2944,7 +2952,7 @@ Level Up Moves:
 + Nasty Plot (62)
 ```
 
-**[##165 Ledyba](../pokemon/ledyba.md)**
+**#165 Ledyba**
 
 ![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba")
 
@@ -2961,7 +2969,7 @@ Level Up Moves:
 + Bug Bite (1)
 ```
 
-**[##166 Ledian](../pokemon/ledian.md)**
+**#166 Ledian**
 
 ![Ledian](../assets/sprites/ledian/front.gif "Ledian")
 
@@ -2988,7 +2996,7 @@ Level Up Moves:
 + Dizzy Punch (18)
 ```
 
-**[##167 Spinarak](../pokemon/spinarak.md)**
+**#167 Spinarak**
 
 ![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak")
 
@@ -3004,7 +3012,7 @@ Level Up Moves:
 + Bug Bite (1)
 ```
 
-**[##168 Ariados](../pokemon/ariados.md)**
+**#168 Ariados**
 
 ![Ariados](../assets/sprites/ariados/front.gif "Ariados")
 
@@ -3021,7 +3029,7 @@ Stat Changes:
 + Total (430)
 ```
 
-**[##169 Crobat](../pokemon/crobat.md)**
+**#169 Crobat**
 
 ![Crobat](../assets/sprites/crobat/front.gif "Crobat")
 
@@ -3040,7 +3048,7 @@ Level Up Moves:
 + Brave Bird (63)
 ```
 
-**[##170 Chinchou](../pokemon/chinchou.md)**
+**#170 Chinchou**
 
 ![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou")
 
@@ -3050,7 +3058,7 @@ Ability:
 + Water Absorb {2}
 ```
 
-**[##171 Lanturn](../pokemon/lanturn.md)**
+**#171 Lanturn**
 
 ![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn")
 
@@ -3068,7 +3076,7 @@ Stat Changes:
 + Total (480)
 ```
 
-**[##172 Pichu](../pokemon/pichu.md)**
+**#172 Pichu**
 
 ![Pichu](../assets/sprites/pichu/front.gif "Pichu")
 
@@ -3086,7 +3094,7 @@ Level Up Moves:
 + Wish (29)
 ```
 
-**[##173 Cleffa](../pokemon/cleffa.md)**
+**#173 Cleffa**
 
 ![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa")
 
@@ -3097,7 +3105,7 @@ Level Up Moves:
 + Petal Dance (22)
 ```
 
-**[##174 Igglybuff](../pokemon/igglybuff.md)**
+**#174 Igglybuff**
 
 ![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff")
 
@@ -3109,7 +3117,7 @@ Level Up Moves:
 + Mimic (29)
 ```
 
-**[##175 Togepi](../pokemon/togepi.md)**
+**#175 Togepi**
 
 ![Togepi](../assets/sprites/togepi/front.gif "Togepi")
 
@@ -3129,7 +3137,7 @@ Level Up Moves:
 + Tri-Attack (21)
 ```
 
-**[##176 Togetic](../pokemon/togetic.md)**
+**#176 Togetic**
 
 ![Togetic](../assets/sprites/togetic/front.gif "Togetic")
 
@@ -3149,7 +3157,7 @@ Level Up Moves:
 + Tri-Attack (21)
 ```
 
-**[##177 Natu](../pokemon/natu.md)**
+**#177 Natu**
 
 ![Natu](../assets/sprites/natu/front.gif "Natu")
 
@@ -3165,7 +3173,7 @@ Level Up Moves:
 
 First [21], Confuse Ray [24], Air Slash (50)
 
-**[##178 Xatu](../pokemon/xatu.md)**
+**#178 Xatu**
 
 ![Xatu](../assets/sprites/xatu/front.gif "Xatu")
 
@@ -3189,7 +3197,7 @@ Level Up Moves:
 
 First [21], Confuse Ray [24], Air Slash (64)
 
-**[##179 Mareep](../pokemon/mareep.md)**
+**#179 Mareep**
 
 ![Mareep](../assets/sprites/mareep/front.gif "Mareep")
 
@@ -3199,7 +3207,7 @@ Level Up Moves:
 + Charge (1)
 ```
 
-**[##180 Flaaffy](../pokemon/flaaffy.md)**
+**#180 Flaaffy**
 
 ![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy")
 
@@ -3209,7 +3217,7 @@ Level Up Moves:
 + Charge (1)
 ```
 
-**[##181 Ampharos](../pokemon/ampharos.md)**
+**#181 Ampharos**
 
 ![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos")
 
@@ -3228,7 +3236,7 @@ Level Up Moves:
 + Charge (1)
 ```
 
-**[##182 Bellossom](../pokemon/bellossom.md)**
+**#182 Bellossom**
 
 ![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom")
 
@@ -3258,7 +3266,7 @@ Base Experience Change:
 + 184 >> 192
 ```
 
-**[##183 Marill](../pokemon/marill.md)**
+**#183 Marill**
 
 ![Marill](../assets/sprites/marill/front.gif "Marill")
 
@@ -3269,7 +3277,7 @@ Stat Changes:
 + Total (280)
 ```
 
-**[##184 Azumarill](../pokemon/azumarill.md)**
+**#184 Azumarill**
 
 ![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill")
 
@@ -3289,7 +3297,7 @@ Level Up Moves:
 + Aqua Jet (18)
 ```
 
-**[##185 Sudowoodo](../pokemon/sudowoodo.md)**
+**#185 Sudowoodo**
 
 ![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo")
 
@@ -3309,7 +3317,7 @@ Level Up Moves:
 + Selfdestruct (53)
 ```
 
-**[##186 Politoed](../pokemon/politoed.md)**
+**#186 Politoed**
 
 ![Politoed](../assets/sprites/politoed/front.gif "Politoed")
 
@@ -3327,7 +3335,7 @@ Ability:
 + Drizzle {2}
 ```
 
-**[##187 Hoppip](../pokemon/hoppip.md)**
+**#187 Hoppip**
 
 ![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip")
 
@@ -3337,7 +3345,7 @@ Level Up Moves:
 + Aromatherapy (46)
 ```
 
-**[##188 Skiploom](../pokemon/skiploom.md)**
+**#188 Skiploom**
 
 ![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom")
 
@@ -3347,7 +3355,7 @@ Level Up Moves:
 + Aromatherapy (56)
 ```
 
-**[##189 Jumpluff](../pokemon/jumpluff.md)**
+**#189 Jumpluff**
 
 ![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff")
 
@@ -3357,7 +3365,7 @@ Level Up Moves:
 + Aromatherapy (56)
 ```
 
-**[##190 Aipom](../pokemon/aipom.md)**
+**#190 Aipom**
 
 ![Aipom](../assets/sprites/aipom/front.gif "Aipom")
 
@@ -3367,7 +3375,7 @@ Level Up Moves:
 + Fake Out (46)
 ```
 
-**[##191 Sunkern](../pokemon/sunkern.md)**
+**#191 Sunkern**
 
 ![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern")
 
@@ -3377,7 +3385,7 @@ Level Up Moves:
 + Morning Sun (49)
 ```
 
-**[##192 Sunflora](../pokemon/sunflora.md)**
+**#192 Sunflora**
 
 ![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora")
 
@@ -3402,7 +3410,7 @@ Base Experience Change:
 + 146 >> 196
 ```
 
-**[##193 Yanma](../pokemon/yanma.md)**
+**#193 Yanma**
 
 ![Yanma](../assets/sprites/yanma/front.gif "Yanma")
 
@@ -3414,7 +3422,7 @@ Level Up Moves:
 + Supersonic [23]
 ```
 
-**[##194 Wooper](../pokemon/wooper.md)**
+**#194 Wooper**
 
 ![Wooper](../assets/sprites/wooper/front.gif "Wooper")
 
@@ -3431,7 +3439,7 @@ Level Up Moves:
 + Recover (51)
 ```
 
-**[##195 Quagsire](../pokemon/quagsire.md)**
+**#195 Quagsire**
 
 ![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire")
 
@@ -3456,7 +3464,7 @@ Level Up Moves:
 + Recover (60)
 ```
 
-**[##196 Espeon](../pokemon/espeon.md)**
+**#196 Espeon**
 
 ![Espeon](../assets/sprites/espeon/front.gif "Espeon")
 
@@ -3472,7 +3480,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##197 Umbreon](../pokemon/umbreon.md)**
+**#197 Umbreon**
 
 ![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon")
 
@@ -3495,7 +3503,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##198 Murkrow](../pokemon/murkrow.md)**
+**#198 Murkrow**
 
 ![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow")
 
@@ -3506,7 +3514,7 @@ Level Up Moves:
 + Brave Bird (53)
 ```
 
-**[##199 Slowking](../pokemon/slowking.md)**
+**#199 Slowking**
 
 ![Slowking](../assets/sprites/slowking/front.gif "Slowking")
 
@@ -3516,7 +3524,7 @@ Level Up Moves:
 + Aura Sphere (61)
 ```
 
-**[##200 Misdreavus](../pokemon/misdreavus.md)**
+**#200 Misdreavus**
 
 ![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus")
 
@@ -3528,7 +3536,7 @@ Level Up Moves:
 + Destiny Bond (63)
 ```
 
-**[##201 Unown](../pokemon/unown.md)**
+**#201 Unown**
 
 ![Unown](../assets/sprites/unown/front.gif "Unown")
 
@@ -3583,7 +3591,7 @@ Base Experience Change:
 + 61 >> 100
 ```
 
-**[##202 Wobbuffet](../pokemon/wobbuffet.md)**
+**#202 Wobbuffet**
 
 ![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet")
 
@@ -3593,7 +3601,7 @@ Level Up Moves:
 + Mimic (15)
 ```
 
-**[##203 Girafarig](../pokemon/girafarig.md)**
+**#203 Girafarig**
 
 ![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig")
 
@@ -3611,7 +3619,7 @@ Level Up Moves:
 + Nasty Plot (50)
 ```
 
-**[##204 Pineco](../pokemon/pineco.md)**
+**#204 Pineco**
 
 ![Pineco](../assets/sprites/pineco/front.gif "Pineco")
 
@@ -3621,7 +3629,7 @@ Level Up Moves:
 + Counter (48)
 ```
 
-**[##205 Forretress](../pokemon/forretress.md)**
+**#205 Forretress**
 
 ![Forretress](../assets/sprites/forretress/front.gif "Forretress")
 
@@ -3631,7 +3639,7 @@ Level Up Moves:
 + Counter (73)
 ```
 
-**[##206 Dunsparce](../pokemon/dunsparce.md)**
+**#206 Dunsparce**
 
 ![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce")
 
@@ -3649,7 +3657,7 @@ Level Up Moves:
 + Horn Drill (57)
 ```
 
-**[##207 Gligar](../pokemon/gligar.md)**
+**#207 Gligar**
 
 ![Gligar](../assets/sprites/gligar/front.gif "Gligar")
 
@@ -3659,7 +3667,7 @@ Ability:
 + Immunity {2}
 ```
 
-**[##208 Steelix](../pokemon/steelix.md)**
+**#208 Steelix**
 
 ![Steelix](../assets/sprites/steelix/front.gif "Steelix")
 
@@ -3670,7 +3678,7 @@ Stat Change:
 + Total (515)
 ```
 
-**[##209 Snubbull](../pokemon/snubbull.md)**
+**#209 Snubbull**
 
 ![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull")
 
@@ -3681,7 +3689,7 @@ Level Up Moves:
 + Close Combat (61)
 ```
 
-**[##210 Granbull](../pokemon/granbull.md)**
+**#210 Granbull**
 
 ![Granbull](../assets/sprites/granbull/front.gif "Granbull")
 
@@ -3692,7 +3700,7 @@ Level Up Moves:
 + Close Combat (75)
 ```
 
-**[##211 Qwilfish](../pokemon/qwilfish.md)**
+**#211 Qwilfish**
 
 ![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish")
 
@@ -3722,7 +3730,7 @@ Base Experience Change:
 + 100 >> 109
 ```
 
-**[##212 Scizor](../pokemon/scizor.md)**
+**#212 Scizor**
 
 ![Scizor](../assets/sprites/scizor/front.gif "Scizor")
 
@@ -3733,7 +3741,7 @@ Level Up Moves:
 + Night Slash (65)
 ```
 
-**[##213 Shuckle](../pokemon/shuckle.md)**
+**#213 Shuckle**
 
 ![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle")
 
@@ -3743,7 +3751,7 @@ Ability:
 + Solid Rock {1}
 ```
 
-**[##214 Heracross](../pokemon/heracross.md)**
+**#214 Heracross**
 
 ![Heracross](../assets/sprites/heracross/front.gif "Heracross")
 
@@ -3754,7 +3762,7 @@ Level Up Moves:
 + Horn Drill (61)
 ```
 
-**[##215 Sneasel](../pokemon/sneasel.md)**
+**#215 Sneasel**
 
 ![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel")
 
@@ -3776,7 +3784,7 @@ Level Up Moves:
 
 Ice Shard [50]
 
-**[##216 Teddiursa](../pokemon/teddiursa.md)**
+**#216 Teddiursa**
 
 ![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa")
 
@@ -3786,7 +3794,7 @@ Ability:
 + Honey Gather {2]
 ```
 
-**[##217 Ursaring](../pokemon/ursaring.md)**
+**#217 Ursaring**
 
 ![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring")
 
@@ -3797,7 +3805,7 @@ Level Up Moves:
 + Close Combat (76)
 ```
 
-**[##218 Slugma](../pokemon/slugma.md)**
+**#218 Slugma**
 
 ![Slugma](../assets/sprites/slugma/front.gif "Slugma")
 
@@ -3807,7 +3815,7 @@ Level Up Moves:
 + Power Gem (49)
 ```
 
-**[##219 Magcargo](../pokemon/magcargo.md)**
+**#219 Magcargo**
 
 ![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo")
 
@@ -3837,7 +3845,7 @@ Base Experience:
 + 154 >> 171
 ```
 
-**[##220 Swinub](../pokemon/swinub.md)**
+**#220 Swinub**
 
 ![Swinub](../assets/sprites/swinub/front.gif "Swinub")
 
@@ -3853,7 +3861,7 @@ Level Up Moves:
 + Ice Shard (52)
 ```
 
-**[##221 Piloswine](../pokemon/piloswine.md)**
+**#221 Piloswine**
 
 ![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine")
 
@@ -3869,7 +3877,7 @@ Level Up Moves:
 + Ice Shard (73)
 ```
 
-**[##222 Corsola](../pokemon/corsola.md)**
+**#222 Corsola**
 
 ![Corsola](../assets/sprites/corsola/front.gif "Corsola")
 
@@ -3895,7 +3903,7 @@ Level Up Moves:
 + Toxic Spikes (57)
 ```
 
-**[##224 Octillery](../pokemon/octillery.md)**
+**#224 Octillery**
 
 ![Octillery](../assets/sprites/octillery/front.gif "Octillery")
 
@@ -3905,7 +3913,7 @@ Level Up Moves:
 + Seed Bomb (1)
 ```
 
-**[##225 Delibird](../pokemon/delibird.md)**
+**#225 Delibird**
 
 ![Delibird](../assets/sprites/delibird/front.gif "Delibird")
 
@@ -3946,7 +3954,7 @@ Level Up Moves:
 
 Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), Tailwind (71)
 
-**[##226 Mantine](../pokemon/mantine.md)**
+**#226 Mantine**
 
 ![Mantine](../assets/sprites/mantine/front.gif "Mantine")
 
@@ -3963,7 +3971,7 @@ Level Up Moves:
 + Mirror Coat (53)
 ```
 
-**[##227 Skarmory](../pokemon/skarmory.md)**
+**#227 Skarmory**
 
 ![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory")
 
@@ -3980,7 +3988,7 @@ Level Up Moves:
 + Brave Bird (48)
 ```
 
-**[##228 Houndour](../pokemon/houndour.md)**
+**#228 Houndour**
 
 ![Houndour](../assets/sprites/houndour/front.gif "Houndour")
 
@@ -3992,7 +4000,7 @@ Level Up Moves:
 + Dark Pulse (56)
 ```
 
-**[##229 Houndoom](../pokemon/houndoom.md)**
+**#229 Houndoom**
 
 ![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom")
 
@@ -4010,7 +4018,7 @@ Level Up Moves:
 + Dark Pulse (64)
 ```
 
-**[##230 Kingdra](../pokemon/kingdra.md)**
+**#230 Kingdra**
 
 ![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra")
 
@@ -4021,7 +4029,7 @@ Level Up Moves:
 + Outrage (65)
 ```
 
-**[##231 Phanpy](../pokemon/phanpy.md)**
+**#231 Phanpy**
 
 ![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy")
 
@@ -4031,7 +4039,7 @@ Level Up Moves:
 + Seed Bomb (46)
 ```
 
-**[##232 Donphan](../pokemon/donphan.md)**
+**#232 Donphan**
 
 ![Donphan](../assets/sprites/donphan/front.gif "Donphan")
 
@@ -4043,7 +4051,7 @@ Level Up Moves:
 + Giga Impact [68]
 ```
 
-**[##233 Porygon2](../pokemon/porygon2.md)**
+**#233 Porygon2**
 
 ![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2")
 
@@ -4053,7 +4061,7 @@ Level Up Moves:
 + Gravity (73)
 ```
 
-**[##234 Stantler](../pokemon/stantler.md)**
+**#234 Stantler**
 
 ![Stantler](../assets/sprites/stantler/front.gif "Stantler")
 
@@ -4070,7 +4078,7 @@ Level Up Moves:
 + Megahorn (59)
 ```
 
-**[##235 Smeargle](../pokemon/smeargle.md)**
+**#235 Smeargle**
 
 ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle")
 
@@ -4081,7 +4089,7 @@ Stat Changes:
 + Total (285)
 ```
 
-**[##238 Smoochum](../pokemon/smoochum.md)**
+**#238 Smoochum**
 
 ![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum")
 
@@ -4092,7 +4100,7 @@ Ability:
 + Filter {2}
 ```
 
-**[##239 Elekid](../pokemon/elekid.md)**
+**#239 Elekid**
 
 ![Elekid](../assets/sprites/elekid/front.gif "Elekid")
 
@@ -4102,7 +4110,7 @@ Ability:
 + Vital Spirit
 ```
 
-**[##240 Magby](../pokemon/magby.md)**
+**#240 Magby**
 
 ![Magby](../assets/sprites/magby/front.gif "Magby")
 
@@ -4112,7 +4120,7 @@ Ability:
 + Vital Spirit
 ```
 
-**[##241 Miltank](../pokemon/miltank.md)**
+**#241 Miltank**
 
 ![Miltank](../assets/sprites/miltank/front.gif "Miltank")
 
@@ -4123,7 +4131,7 @@ Level Up Moves:
 + Double-Edge (69)
 ```
 
-**[##242 Blissey](../pokemon/blissey.md)**
+**#242 Blissey**
 
 ![Blissey](../assets/sprites/blissey/front.gif "Blissey")
 
@@ -4134,7 +4142,7 @@ Level Up Moves:
 + Fling [50]
 ```
 
-**[##243 Raikou](../pokemon/raikou.md)**
+**#243 Raikou**
 
 ![Raikou](../assets/sprites/raikou/front.gif "Raikou")
 
@@ -4153,7 +4161,7 @@ Level Up Moves:
 + Zap Cannon (1)
 ```
 
-**[##244 Entei](../pokemon/entei.md)**
+**#244 Entei**
 
 ![Entei](../assets/sprites/entei/front.gif "Entei")
 
@@ -4172,7 +4180,7 @@ Level Up Moves:
 + Crush Claw (1)
 ```
 
-**[##245 Suicune](../pokemon/suicune.md)**
+**#245 Suicune**
 
 ![Suicune](../assets/sprites/suicune/front.gif "Suicune")
 
@@ -4191,7 +4199,7 @@ Level Up Moves:
 + Aqua Ring (1)
 ```
 
-**[##246 Larvitar](../pokemon/larvitar.md)**
+**#246 Larvitar**
 
 ![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar")
 
@@ -4201,7 +4209,7 @@ Ability:
 + Battle Armor
 ```
 
-**[##247 Pupitar](../pokemon/pupitar.md)**
+**#247 Pupitar**
 
 ![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar")
 
@@ -4211,7 +4219,7 @@ Ability:
 + Battle Armor
 ```
 
-**[##248 Tyranitar](../pokemon/tyranitar.md)**
+**#248 Tyranitar**
 
 ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar")
 
@@ -4227,7 +4235,7 @@ Level Up Moves:
 + Dragon Dance (55)
 ```
 
-**[##251 Celebi](../pokemon/celebi.md)**
+**#251 Celebi**
 
 ![Celebi](../assets/sprites/celebi/front.gif "Celebi")
 
@@ -4243,7 +4251,11 @@ Level Up Moves:
 + Nasty Plot (100)
 ```
 
-**[##252 Treecko](../pokemon/treecko.md)**
+---
+
+## Hoenn
+
+**#252 Treecko**
 
 ![Treecko](../assets/sprites/treecko/front.gif "Treecko")
 
@@ -4253,7 +4265,7 @@ Ability:
 + Unburden
 ```
 
-**[##253 Grovyle](../pokemon/grovyle.md)**
+**#253 Grovyle**
 
 ![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle")
 
@@ -4263,7 +4275,7 @@ Ability:
 + Unburden
 ```
 
-**[##254 Sceptile](../pokemon/sceptile.md)**
+**#254 Sceptile**
 
 ![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile")
 
@@ -4281,7 +4293,7 @@ Level Up Moves:
 + DragonBreath (36)
 ```
 
-**[##255 Torchic](../pokemon/torchic.md)**
+**#255 Torchic**
 
 ![Torchic](../assets/sprites/torchic/front.gif "Torchic")
 
@@ -4291,7 +4303,7 @@ Ability:
 + Speed Boost
 ```
 
-**[##256 Combusken](../pokemon/combusken.md)**
+**#256 Combusken**
 
 ![Combusken](../assets/sprites/combusken/front.gif "Combusken")
 
@@ -4301,7 +4313,7 @@ Ability:
 + Speed Boost
 ```
 
-**[##257 Blaziken](../pokemon/blaziken.md)**
+**#257 Blaziken**
 
 ![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken")
 
@@ -4318,7 +4330,7 @@ Level Up Moves:
 + Hi Jump Kick (1)
 ```
 
-**[##258 Mudkip](../pokemon/mudkip.md)**
+**#258 Mudkip**
 
 ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
 
@@ -4335,7 +4347,7 @@ Level Up Moves:
 + Yawn {19}
 ```
 
-**[##259 Marshtomp](../pokemon/marshtomp.md)**
+**#259 Marshtomp**
 
 ![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp")
 
@@ -4352,7 +4364,7 @@ Level Up Moves:
 + Yawn {20}
 ```
 
-**[##260 Swampert](../pokemon/swampert.md)**
+**#260 Swampert**
 
 ![Swampert](../assets/sprites/swampert/front.gif "Swampert")
 
@@ -4372,7 +4384,7 @@ Level Up Moves:
 + Yawn {20}
 ```
 
-**[##261 Poochyena](../pokemon/poochyena.md)**
+**#261 Poochyena**
 
 ![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena")
 
@@ -4384,7 +4396,7 @@ Level Up Moves:
 + Super Fang (53)
 ```
 
-**[##262 Mightyena](../pokemon/mightyena.md)**
+**#262 Mightyena**
 
 ![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena")
 
@@ -4405,7 +4417,7 @@ Level Up Moves:
 + Super Fang (67)
 ```
 
-**[##264 Linoone](../pokemon/linoone.md)**
+**#264 Linoone**
 
 ![Linoone](../assets/sprites/linoone/front.gif "Linoone")
 
@@ -4423,7 +4435,7 @@ Level Up Moves:
 + ExtremeSpeed {23}
 ```
 
-**[##265 Wurmple](../pokemon/wurmple.md)**
+**#265 Wurmple**
 
 ![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple")
 
@@ -4440,7 +4452,7 @@ Level Up Moves:
 + Bug Bite [1]
 ```
 
-**[##267 Beautifly](../pokemon/beautifly.md)**
+**#267 Beautifly**
 
 ![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly")
 
@@ -4470,7 +4482,7 @@ Level Up Moves:
 
 Air Slash (44)
 
-**[##269 Dustox](../pokemon/dustox.md)**
+**#269 Dustox**
 
 ![Dustox](../assets/sprites/dustox/front.gif "Dustox")
 
@@ -4500,7 +4512,7 @@ Level Up Moves:
 
 Tailwind (44)
 
-**[##270 Lotad](../pokemon/lotad.md)**
+**#270 Lotad**
 
 ![Lotad](../assets/sprites/lotad/front.gif "Lotad")
 
@@ -4512,7 +4524,7 @@ Level Up Moves:
 + Razor Leaf (22)
 ```
 
-**[##271 Lombre](../pokemon/lombre.md)**
+**#271 Lombre**
 
 ![Lombre](../assets/sprites/lombre/front.gif "Lombre")
 
@@ -4524,7 +4536,7 @@ Level Up Moves:
 + Razor Leaf (22)
 ```
 
-**[##272 Ludicolo](../pokemon/ludicolo.md)**
+**#272 Ludicolo**
 
 ![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo")
 
@@ -4535,7 +4547,7 @@ Level Up Moves:
 + Teeter Dance (49)
 ```
 
-**[##273 Seedot](../pokemon/seedot.md)**
+**#273 Seedot**
 
 ![Seedot](../assets/sprites/seedot/front.gif "Seedot")
 
@@ -4547,7 +4559,7 @@ Level Up Moves:
 + Seed Bomb (17)
 ```
 
-**[##274 Nuzleaf](../pokemon/nuzleaf.md)**
+**#274 Nuzleaf**
 
 ![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf")
 
@@ -4562,7 +4574,7 @@ Level Up Moves:
 
 Fake Out [31], Dark Pulse (34)
 
-**[##275 Shiftry](../pokemon/shiftry.md)**
+**#275 Shiftry**
 
 ![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry")
 
@@ -4575,7 +4587,7 @@ Level Up Move:
 + Leaf Blade (49)
 ```
 
-**[##276 Taillow](../pokemon/taillow.md)**
+**#276 Taillow**
 
 ![Taillow](../assets/sprites/taillow/front.gif "Taillow")
 
@@ -4591,7 +4603,7 @@ Level Up Moves:
 + Brave Bird (62)
 ```
 
-**[##277 Swellow](../pokemon/swellow.md)**
+**#277 Swellow**
 
 ![Swellow](../assets/sprites/swellow/front.gif "Swellow")
 
@@ -4616,7 +4628,7 @@ Level Up Moves:
 + Brave Bird (73)
 ```
 
-**[##278 Wingull](../pokemon/wingull.md)**
+**#278 Wingull**
 
 ![Wingull](../assets/sprites/wingull/front.gif "Wingull")
 
@@ -4626,7 +4638,7 @@ Ability:
 + Rain Dish
 ```
 
-**[##279 Pelipper](../pokemon/pelipper.md)**
+**#279 Pelipper**
 
 ![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper")
 
@@ -4644,7 +4656,7 @@ Level Up Moves:
 + Air Slash {43}
 ```
 
-**[##280 Ralts](../pokemon/ralts.md)**
+**#280 Ralts**
 
 ![Ralts](../assets/sprites/ralts/front.gif "Ralts")
 
@@ -4661,7 +4673,7 @@ Level Up Moves:
 + Extrasensory (19)
 ```
 
-**[##281 Kirlia](../pokemon/kirlia.md)**
+**#281 Kirlia**
 
 ![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia")
 
@@ -4678,7 +4690,7 @@ Level Up Moves:
 + Extrasensory (19)
 ```
 
-**[##282 Gardevoir](../pokemon/gardevoir.md)**
+**#282 Gardevoir**
 
 ![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir")
 
@@ -4689,7 +4701,7 @@ Level Up Moves:
 + Aura Sphere (73)
 ```
 
-**[##283 Surskit](../pokemon/surskit.md)**
+**#283 Surskit**
 
 ![Surskit](../assets/sprites/surskit/front.gif "Surskit")
 
@@ -4706,7 +4718,7 @@ TM:
 + Surf.
 ```
 
-**[##284 Masquerain](../pokemon/masquerain.md)**
+**#284 Masquerain**
 
 ![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain")
 
@@ -4745,7 +4757,7 @@ Level Up Moves:
 + Hydro Pump (67)
 ```
 
-**[##285 Shroomish](../pokemon/shroomish.md)**
+**#285 Shroomish**
 
 ![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish")
 
@@ -4756,7 +4768,7 @@ Level Up Moves:
 + Bullet Seed (5)
 ```
 
-**[##286 Breloom](../pokemon/breloom.md)**
+**#286 Breloom**
 
 ![Breloom](../assets/sprites/breloom/front.gif "Breloom")
 
@@ -4774,7 +4786,7 @@ Level Up Moves:
 + Spore (49)
 ```
 
-**[##287 Slakoth](../pokemon/slakoth.md)**
+**#287 Slakoth**
 
 ![Slakoth](../assets/sprites/slakoth/front.gif "Slakoth")
 
@@ -4784,7 +4796,7 @@ Ability:
 + Slow Start
 ```
 
-**[##288 Vigoroth](../pokemon/vigoroth.md)**
+**#288 Vigoroth**
 
 ![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth")
 
@@ -4794,7 +4806,7 @@ Level Up Moves:
 + Night Slash (18)
 ```
 
-**[##289 Slaking](../pokemon/slaking.md)**
+**#289 Slaking**
 
 ![Slaking](../assets/sprites/slaking/front.gif "Slaking")
 
@@ -4811,7 +4823,7 @@ Level Up Moves:
 + Night Slash (18)
 ```
 
-**[##290 Nincada](../pokemon/nincada.md)**
+**#290 Nincada**
 
 ![Nincada](../assets/sprites/nincada/front.gif "Nincada")
 
@@ -4821,7 +4833,7 @@ Level Up Moves:
 + Bug Bite (1)
 ```
 
-**[##291 Ninjask](../pokemon/ninjask.md)**
+**#291 Ninjask**
 
 ![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask")
 
@@ -4832,7 +4844,7 @@ Level Up Moves:
 + ExtremeSpeed (66)
 ```
 
-**[##293 Whismur](../pokemon/whismur.md)**
+**#293 Whismur**
 
 ![Whismur](../assets/sprites/whismur/front.gif "Whismur")
 
@@ -4842,7 +4854,7 @@ Level Up Moves:
 + Fake Tears (1)
 ```
 
-**[##294 Loudred](../pokemon/loudred.md)**
+**#294 Loudred**
 
 ![Loudred](../assets/sprites/loudred/front.gif "Loudred")
 
@@ -4852,7 +4864,7 @@ Ability:
 + Scrappy
 ```
 
-**[##295 Exploud](../pokemon/exploud.md)**
+**#295 Exploud**
 
 ![Exploud](../assets/sprites/exploud/front.gif "Exploud")
 
@@ -4868,7 +4880,7 @@ Level Up Moves:
 + Hammer Arm (80)
 ```
 
-**[##298 Azurill](../pokemon/azurill.md)**
+**#298 Azurill**
 
 ![Azurill](../assets/sprites/azurill/front.gif "Azurill")
 
@@ -4878,7 +4890,7 @@ Level Up Moves:
 + Sing (22)
 ```
 
-**[##299 Nosepass](../pokemon/nosepass.md)**
+**#299 Nosepass**
 
 ![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass")
 
@@ -4898,7 +4910,7 @@ Level Up Moves:
 + Sandstorm [79]
 ```
 
-**[##301 Delcatty](../pokemon/delcatty.md)**
+**#301 Delcatty**
 
 ![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty")
 
@@ -4917,7 +4929,7 @@ Level Up Moves:
 + Wish (43)
 ```
 
-**[##302 Sableye](../pokemon/sableye.md)**
+**#302 Sableye**
 
 ![Sableye](../assets/sprites/sableye/front.gif "Sableye")
 
@@ -4949,7 +4961,7 @@ Level Up Moves:
 + Recover (60)
 ```
 
-**[##303 Mawile](../pokemon/mawile.md)**
+**#303 Mawile**
 
 ![Mawile](../assets/sprites/mawile/front.gif "Mawile")
 
@@ -4977,7 +4989,7 @@ Level Up Moves:
 + Metal Burst (61)
 ```
 
-**[##304 Aron](../pokemon/aron.md)**
+**#304 Aron**
 
 ![Aron](../assets/sprites/aron/front.gif "Aron")
 
@@ -4987,7 +4999,7 @@ Level Up Moves:
 + Head Smash (49)
 ```
 
-**[##305 Lairon](../pokemon/lairon.md)**
+**#305 Lairon**
 
 ![Lairon](../assets/sprites/lairon/front.gif "Lairon")
 
@@ -4997,7 +5009,7 @@ Level Up Moves:
 + Head Smash (62)
 ```
 
-**[##306 Aggron](../pokemon/aggron.md)**
+**#306 Aggron**
 
 ![Aggron](../assets/sprites/aggron/front.gif "Aggron")
 
@@ -5008,7 +5020,7 @@ Level Up Moves:
 + Head Smash (73)
 ```
 
-**[##307 Meditite](../pokemon/meditite.md)**
+**#307 Meditite**
 
 ![Meditite](../assets/sprites/meditite/front.gif "Meditite")
 
@@ -5019,7 +5031,7 @@ Level Up Moves:
 + Zen Headbutt (50)
 ```
 
-**[##308 Medicham](../pokemon/medicham.md)**
+**#308 Medicham**
 
 ![Medicham](../assets/sprites/medicham/front.gif "Medicham")
 
@@ -5031,7 +5043,7 @@ Level Up Moves:
 + Zen Headbutt (63)
 ```
 
-**[##311 Plusle](../pokemon/plusle.md)**
+**#311 Plusle**
 
 ![Plusle](../assets/sprites/plusle/front.gif "Plusle")
 
@@ -5052,7 +5064,7 @@ Stat Changes:
 
 Total (450)
 
-**[##312 Minun](../pokemon/minun.md)**
+**#312 Minun**
 
 ![Minun](../assets/sprites/minun/front.gif "Minun")
 
@@ -5074,7 +5086,7 @@ Stat Changes:
 
 (450)
 
-**[##313 Volbeat](../pokemon/volbeat.md)**
+**#313 Volbeat**
 
 ![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat")
 
@@ -5106,7 +5118,7 @@ Level Up Moves:
 
 Thunderbolt (33), Baton Pass (49)
 
-**[##314 Illumise](../pokemon/illumise.md)**
+**#314 Illumise**
 
 ![Illumise](../assets/sprites/illumise/front.gif "Illumise")
 
@@ -5140,7 +5152,7 @@ Level Up Moves:
 
 Hand {[29]}, Thunderbolt (33), Baton Pass (49)
 
-**[##315 Roselia](../pokemon/roselia.md)**
+**#315 Roselia**
 
 ![Roselia](../assets/sprites/roselia/front.gif "Roselia")
 
@@ -5151,7 +5163,7 @@ Level Up Moves:
 + Leaf Storm (52)
 ```
 
-**[##316 Gulpin](../pokemon/gulpin.md)**
+**#316 Gulpin**
 
 ![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin")
 
@@ -5161,7 +5173,7 @@ Level Up Moves:
 + Pain Split (59)
 ```
 
-**[##317 Swalot](../pokemon/swalot.md)**
+**#317 Swalot**
 
 ![Swalot](../assets/sprites/swalot/front.gif "Swalot")
 
@@ -5179,7 +5191,7 @@ Level Up Moves:
 + Pain Split (73)
 ```
 
-**[##318 Carvanha](../pokemon/carvanha.md)**
+**#318 Carvanha**
 
 ![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha")
 
@@ -5196,7 +5208,7 @@ Level Up Moves:
 + Hydro Pump (45)
 ```
 
-**[##319 Sharpedo](../pokemon/sharpedo.md)**
+**#319 Sharpedo**
 
 ![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo")
 
@@ -5213,7 +5225,7 @@ Level Up Moves:
 + Hydro Pump (60)
 ```
 
-**[##320 Wailmer](../pokemon/wailmer.md)**
+**#320 Wailmer**
 
 ![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer")
 
@@ -5229,7 +5241,7 @@ Level Up Moves:
 + Fissure (51)
 ```
 
-**[##321 Wailord](../pokemon/wailord.md)**
+**#321 Wailord**
 
 ![Wailord](../assets/sprites/wailord/front.gif "Wailord")
 
@@ -5245,7 +5257,7 @@ Level Up Moves:
 + Fissure (70)
 ```
 
-**[##322 Numel](../pokemon/numel.md)**
+**#322 Numel**
 
 ![Numel](../assets/sprites/numel/front.gif "Numel")
 
@@ -5255,7 +5267,7 @@ Ability:
 + Own Tempo {1}
 ```
 
-**[##323 Camerupt](../pokemon/camerupt.md)**
+**#323 Camerupt**
 
 ![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt")
 
@@ -5265,7 +5277,7 @@ Ability:
 + Anger Point {1}
 ```
 
-**[##324 Torkoal](../pokemon/torkoal.md)**
+**#324 Torkoal**
 
 ![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal")
 
@@ -5285,7 +5297,7 @@ Level Up Moves:
 + Eruption (67)
 ```
 
-**[##325 Spoink](../pokemon/spoink.md)**
+**#325 Spoink**
 
 ![Spoink](../assets/sprites/spoink/front.gif "Spoink")
 
@@ -5296,7 +5308,7 @@ Level Up Moves:
 + Extrasensory {26}
 ```
 
-**[##326 Grumpig](../pokemon/grumpig.md)**
+**#326 Grumpig**
 
 ![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig")
 
@@ -5307,7 +5319,7 @@ Level Up Moves:
 + Extrasensory {26}
 ```
 
-**[##327 Spinda](../pokemon/spinda.md)**
+**#327 Spinda**
 
 ![Spinda](../assets/sprites/spinda/front.gif "Spinda")
 
@@ -5330,7 +5342,7 @@ Level Up Moves:
 + Fake Out (60)
 ```
 
-**[##328 Trapinch](../pokemon/trapinch.md)**
+**#328 Trapinch**
 
 ![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch")
 
@@ -5340,7 +5352,7 @@ Level Up Moves:
 + Bug Bite (1)
 ```
 
-**[##329 Vibrava](../pokemon/vibrava.md)**
+**#329 Vibrava**
 
 ![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava")
 
@@ -5353,7 +5365,7 @@ Level Up Moves:
 + Hyper Beam [81]
 ```
 
-**[##330 Flygon](../pokemon/flygon.md)**
+**#330 Flygon**
 
 ![Flygon](../assets/sprites/flygon/front.gif "Flygon")
 
@@ -5374,7 +5386,7 @@ Level Up Moves:
 + Hyper Beam [81]
 ```
 
-**[##331 Cacnea](../pokemon/cacnea.md)**
+**#331 Cacnea**
 
 ![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea")
 
@@ -5392,7 +5404,7 @@ Level Up Moves:
 + Teeter Dance (61)
 ```
 
-**[##332 Cacturne](../pokemon/cacturne.md)**
+**#332 Cacturne**
 
 ![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne")
 
@@ -5411,7 +5423,7 @@ Level Up Moves:
 + Teeter Dance (77)
 ```
 
-**[##333 Swablu](../pokemon/swablu.md)**
+**#333 Swablu**
 
 ![Swablu](../assets/sprites/swablu/front.gif "Swablu")
 
@@ -5427,7 +5439,7 @@ Level Up Moves:
 + Pluck {1}
 ```
 
-**[##334 Altaria](../pokemon/altaria.md)**
+**#334 Altaria**
 
 ![Altaria](../assets/sprites/altaria/front.gif "Altaria")
 
@@ -5451,7 +5463,7 @@ Level Up Moves:
 + Outrage (78)
 ```
 
-**[##335 Zangoose](../pokemon/zangoose.md)**
+**#335 Zangoose**
 
 ![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose")
 
@@ -5462,7 +5474,7 @@ Level Up Moves:
 + ExtremeSpeed (57)
 ```
 
-**[##336 Seviper](../pokemon/seviper.md)**
+**#336 Seviper**
 
 ![Seviper](../assets/sprites/seviper/front.gif "Seviper")
 
@@ -5472,7 +5484,7 @@ Level Up Moves:
 + Gunk Shot (59)
 ```
 
-**[##337 Lunatone](../pokemon/lunatone.md)**
+**#337 Lunatone**
 
 ![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone")
 
@@ -5492,7 +5504,7 @@ Level Up Moves:
 + Hydro Pump (49)
 ```
 
-**[##338 Solrock](../pokemon/solrock.md)**
+**#338 Solrock**
 
 ![Solrock](../assets/sprites/solrock/front.gif "Solrock")
 
@@ -5512,7 +5524,7 @@ Level Up Moves:
 + Flare Blitz (49)
 ```
 
-**[##339 Barboach](../pokemon/barboach.md)**
+**#339 Barboach**
 
 ![Barboach](../assets/sprites/barboach/front.gif "Barboach")
 
@@ -5522,7 +5534,7 @@ Level Up Moves:
 + Dragon Dance (51)
 ```
 
-**[##340 Whiscash](../pokemon/whiscash.md)**
+**#340 Whiscash**
 
 ![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash")
 
@@ -5532,7 +5544,7 @@ Level Up Moves:
 + Dragon Dance (63)
 ```
 
-**[##341 Corphish](../pokemon/corphish.md)**
+**#341 Corphish**
 
 ![Corphish](../assets/sprites/corphish/front.gif "Corphish")
 
@@ -5550,7 +5562,7 @@ Level Up Moves:
 + Superpower (57)
 ```
 
-**[##342 Crawdaunt](../pokemon/crawdaunt.md)**
+**#342 Crawdaunt**
 
 ![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt")
 
@@ -5568,7 +5580,7 @@ Level Up Moves:
 + Superpower (73)
 ```
 
-**[##343 Baltoy](../pokemon/baltoy.md)**
+**#343 Baltoy**
 
 ![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy")
 
@@ -5578,7 +5590,7 @@ Level Up Moves:
 + Gravity (81)
 ```
 
-**[##344 Claydol](../pokemon/claydol.md)**
+**#344 Claydol**
 
 ![Claydol](../assets/sprites/claydol/front.gif "Claydol")
 
@@ -5595,7 +5607,7 @@ Level Up Moves:
 + Gravity (97)
 ```
 
-**[##345 Lileep](../pokemon/lileep.md)**
+**#345 Lileep**
 
 ![Lileep](../assets/sprites/lileep/front.gif "Lileep")
 
@@ -5612,7 +5624,7 @@ Level Up Moves:
 + Earth Power (78)
 ```
 
-**[##346 Cradily](../pokemon/cradily.md)**
+**#346 Cradily**
 
 ![Cradily](../assets/sprites/cradily/front.gif "Cradily")
 
@@ -5629,7 +5641,7 @@ Level Up Moves:
 + Earth Power (96)
 ```
 
-**[##347 Anorith](../pokemon/anorith.md)**
+**#347 Anorith**
 
 ![Anorith](../assets/sprites/anorith/front.gif "Anorith")
 
@@ -5639,7 +5651,7 @@ Ability:
 + Swift Swim
 ```
 
-**[##348 Armaldo](../pokemon/armaldo.md)**
+**#348 Armaldo**
 
 ![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo")
 
@@ -5656,7 +5668,7 @@ Level Up Moves:
 + Superpower (79)
 ```
 
-**[##349 Feebas](../pokemon/feebas.md)**
+**#349 Feebas**
 
 ![Feebas](../assets/sprites/feebas/front.gif "Feebas")
 
@@ -5673,7 +5685,7 @@ Level Up Moves:
 + Hypnosis (25)
 ```
 
-**[##350 Milotic](../pokemon/milotic.md)**
+**#350 Milotic**
 
 ![Milotic](../assets/sprites/milotic/front.gif "Milotic")
 
@@ -5689,7 +5701,7 @@ Level Up Moves:
 + Mirror Coat (53)
 ```
 
-**[##351 Castform](../pokemon/castform.md)**
+**#351 Castform**
 
 ![Castform](../assets/sprites/castform/front.gif "Castform")
 
@@ -5702,7 +5714,7 @@ Stat Change:
 + Total (480)
 ```
 
-**[##352 Kecleon](../pokemon/kecleon.md)**
+**#352 Kecleon**
 
 ![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon")
 
@@ -5722,7 +5734,7 @@ Level Up Moves:
 + Recover (67)
 ```
 
-**[##353 Shuppet](../pokemon/shuppet.md)**
+**#353 Shuppet**
 
 ![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet")
 
@@ -5740,7 +5752,7 @@ Level Up Moves:
 + Gunk Shot (57)
 ```
 
-**[##354 Banette](../pokemon/banette.md)**
+**#354 Banette**
 
 ![Banette](../assets/sprites/banette/front.gif "Banette")
 
@@ -5758,7 +5770,7 @@ Level Up Moves:
 + Gunk Shot (82)
 ```
 
-**[##357 Tropius](../pokemon/tropius.md)**
+**#357 Tropius**
 
 ![Tropius](../assets/sprites/tropius/front.gif "Tropius")
 
@@ -5788,7 +5800,7 @@ Level Up Moves:
 + Dragon Dance (69)
 ```
 
-**[##358 Chimecho](../pokemon/chimecho.md)**
+**#358 Chimecho**
 
 ![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho")
 
@@ -5809,7 +5821,7 @@ Level Up Moves:
 + Hyper Voice (58)
 ```
 
-**[##359 Absol](../pokemon/absol.md)**
+**#359 Absol**
 
 ![Absol](../assets/sprites/absol/front.gif "Absol")
 
@@ -5819,7 +5831,7 @@ Level Up Moves:
 + Megahorn (71)
 ```
 
-**[##362 Glalie](../pokemon/glalie.md)**
+**#362 Glalie**
 
 ![Glalie](../assets/sprites/glalie/front.gif "Glalie")
 
@@ -5867,7 +5879,7 @@ Level Up Moves:
 + Rock Wrecker (67)
 ```
 
-**[##365 Walrein](../pokemon/walrein.md)**
+**#365 Walrein**
 
 ![Walrein](../assets/sprites/walrein/front.gif "Walrein")
 
@@ -5878,7 +5890,7 @@ Level Up Moves:
 + Super Fang (44)
 ```
 
-**[##366 Clamperl](../pokemon/clamperl.md)**
+**#366 Clamperl**
 
 ![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl")
 
@@ -5888,7 +5900,7 @@ Level Up Moves:
 + Muddy Water (26)
 ```
 
-**[##369 Relicanth](../pokemon/relicanth.md)**
+**#369 Relicanth**
 
 ![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth")
 
@@ -5900,7 +5912,7 @@ Level Up Moves:
 + everything in between = level – 8.
 ```
 
-**[##370 Luvdisc](../pokemon/luvdisc.md)**
+**#370 Luvdisc**
 
 ![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc")
 
@@ -5934,7 +5946,7 @@ Base Experience:
 + 110 >> 141
 ```
 
-**[##371 Bagon](../pokemon/bagon.md)**
+**#371 Bagon**
 
 ![Bagon](../assets/sprites/bagon/front.gif "Bagon")
 
@@ -5945,7 +5957,7 @@ Level Up Moves:
 + Outrage (65)
 ```
 
-**[##372 Shelgon](../pokemon/shelgon.md)**
+**#372 Shelgon**
 
 ![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon")
 
@@ -5956,7 +5968,7 @@ Level Up Moves:
 + Outrage (71)
 ```
 
-**[##373 Salamence](../pokemon/salamence.md)**
+**#373 Salamence**
 
 ![Salamence](../assets/sprites/salamence/front.gif "Salamence")
 
@@ -5968,7 +5980,7 @@ Level Up Moves:
 + Outrage (87)
 ```
 
-**[##374 Beldum](../pokemon/beldum.md)**
+**#374 Beldum**
 
 ![Beldum](../assets/sprites/beldum/front.gif "Beldum")
 
@@ -5986,7 +5998,7 @@ Level Up Moves:
 + Iron Head (30)
 ```
 
-**[##375 Metang](../pokemon/metang.md)**
+**#375 Metang**
 
 ![Metang](../assets/sprites/metang/front.gif "Metang")
 
@@ -5996,7 +6008,7 @@ Ability:
 + Iron Fist
 ```
 
-**[##376 Metagross](../pokemon/metagross.md)**
+**#376 Metagross**
 
 ![Metagross](../assets/sprites/metagross/front.gif "Metagross")
 
@@ -6013,7 +6025,7 @@ Level Up Moves:
 + Ice Punch (1)
 ```
 
-**[##377 Regirock](../pokemon/regirock.md)**
+**#377 Regirock**
 
 ![Regirock](../assets/sprites/regirock/front.gif "Regirock")
 
@@ -6023,7 +6035,7 @@ Ability:
 + Sturdy
 ```
 
-**[##378 Regice](../pokemon/regice.md)**
+**#378 Regice**
 
 ![Regice](../assets/sprites/regice/front.gif "Regice")
 
@@ -6033,7 +6045,7 @@ Ability:
 + Ice Body
 ```
 
-**[##379 Registeel](../pokemon/registeel.md)**
+**#379 Registeel**
 
 ![Registeel](../assets/sprites/registeel/front.gif "Registeel")
 
@@ -6043,7 +6055,7 @@ Ability:
 + Sturdy
 ```
 
-**[##385 Jirachi](../pokemon/jirachi.md)**
+**#385 Jirachi**
 
 ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
 
@@ -6053,7 +6065,11 @@ Ability:
 + Magic Guard
 ```
 
-**[##387 Turtwig](../pokemon/turtwig.md)**
+---
+
+## Sinnoh
+
+**#387 Turtwig**
 
 ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
 
@@ -6069,7 +6085,7 @@ Level Up Moves:
 + Seed Bomb (49)
 ```
 
-**[##388 Grotle](../pokemon/grotle.md)**
+**#388 Grotle**
 
 ![Grotle](../assets/sprites/grotle/front.gif "Grotle")
 
@@ -6085,7 +6101,7 @@ Level Up Moves:
 + Seed Bomb (57)
 ```
 
-**[##389 Torterra](../pokemon/torterra.md)**
+**#389 Torterra**
 
 ![Torterra](../assets/sprites/torterra/front.gif "Torterra")
 
@@ -6101,7 +6117,7 @@ Level Up Moves:
 + Seed Bomb (63)
 ```
 
-**[##390 Chimchar](../pokemon/chimchar.md)**
+**#390 Chimchar**
 
 ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
 
@@ -6111,7 +6127,7 @@ Ability:
 + Iron Fist
 ```
 
-**[##391 Monferno](../pokemon/monferno.md)**
+**#391 Monferno**
 
 ![Monferno](../assets/sprites/monferno/front.gif "Monferno")
 
@@ -6121,7 +6137,7 @@ Ability:
 + Iron Fist
 ```
 
-**[##392 Infernape](../pokemon/infernape.md)**
+**#392 Infernape**
 
 ![Infernape](../assets/sprites/infernape/front.gif "Infernape")
 
@@ -6138,7 +6154,7 @@ Level Up Moves:
 + ThunderPunch (1)
 ```
 
-**[##393 Piplup](../pokemon/piplup.md)**
+**#393 Piplup**
 
 ![Piplup](../assets/sprites/piplup/front.gif "Piplup")
 
@@ -6148,7 +6164,7 @@ Ability:
 + Hustle
 ```
 
-**[##394 Prinplup](../pokemon/prinplup.md)**
+**#394 Prinplup**
 
 ![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup")
 
@@ -6158,7 +6174,7 @@ Ability:
 + Hustle
 ```
 
-**[##395 Empoleon](../pokemon/empoleon.md)**
+**#395 Empoleon**
 
 ![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon")
 
@@ -6168,7 +6184,7 @@ Ability:
 + Hustle
 ```
 
-**[##396 Starly](../pokemon/starly.md)**
+**#396 Starly**
 
 ![Starly](../assets/sprites/starly/front.gif "Starly")
 
@@ -6178,7 +6194,7 @@ Level Up Moves:
 + Double-Edge (41)
 ```
 
-**[##397 Staravia](../pokemon/staravia.md)**
+**#397 Staravia**
 
 ![Staravia](../assets/sprites/staravia/front.gif "Staravia")
 
@@ -6194,7 +6210,7 @@ Level Up Moves:
 + Double-Edge (48)
 ```
 
-**[##398 Staraptor](../pokemon/staraptor.md)**
+**#398 Staraptor**
 
 ![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor")
 
@@ -6219,7 +6235,7 @@ Stat Changes:
 + Total (500)
 ```
 
-**[##399 Bidoof](../pokemon/bidoof.md)**
+**#399 Bidoof**
 
 ![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof")
 
@@ -6229,7 +6245,7 @@ Level Up Moves:
 + Double-Edge (49)
 ```
 
-**[##400 Bibarel](../pokemon/bibarel.md)**
+**#400 Bibarel**
 
 ![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel")
 
@@ -6249,7 +6265,7 @@ Level Up Moves:
 + Double-Edge (58)
 ```
 
-**[##401 Kricketot](../pokemon/kricketot.md)**
+**#401 Kricketot**
 
 ![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot")
 
@@ -6265,7 +6281,7 @@ Level Up Moves:
 + Bug Bite [1]
 ```
 
-**[##402 Kricketune](../pokemon/kricketune.md)**
+**#402 Kricketune**
 
 ![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune")
 
@@ -6285,7 +6301,7 @@ Stat Changes:
 + Total (420)
 ```
 
-**[##403 Shinx](../pokemon/shinx.md)**
+**#403 Shinx**
 
 ![Shinx](../assets/sprites/shinx/front.gif "Shinx")
 
@@ -6303,7 +6319,7 @@ Level Up Moves:
 + Volt Tackle (45)
 ```
 
-**[##404 Luxio](../pokemon/luxio.md)**
+**#404 Luxio**
 
 ![Luxio](../assets/sprites/luxio/front.gif "Luxio")
 
@@ -6326,7 +6342,7 @@ Level Up Moves:
 + Volt Tackle (53)
 ```
 
-**[##405 Luxray](../pokemon/luxray.md)**
+**#405 Luxray**
 
 ![Luxray](../assets/sprites/luxray/front.gif "Luxray")
 
@@ -6350,7 +6366,7 @@ Level Up Moves:
 + Volt Tackle (63)
 ```
 
-**[##406 Budew](../pokemon/budew.md)**
+**#406 Budew**
 
 ![Budew](../assets/sprites/budew/front.gif "Budew")
 
@@ -6366,7 +6382,7 @@ Level Up Moves:
 + Extrasensory (19)
 ```
 
-**[##407 Roserade](../pokemon/roserade.md)**
+**#407 Roserade**
 
 ![Roserade](../assets/sprites/roserade/front.gif "Roserade")
 
@@ -6382,7 +6398,7 @@ Level Up Moves:
 + Petal Dance (39)
 ```
 
-**[##408 Cranidos](../pokemon/cranidos.md)**
+**#408 Cranidos**
 
 ![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
 
@@ -6399,7 +6415,7 @@ Level Up Moves:
 + Hammer Arm (53)
 ```
 
-**[##409 Rampardos](../pokemon/rampardos.md)**
+**#409 Rampardos**
 
 ![Rampardos](../assets/sprites/rampardos/front.gif "Rampardos")
 
@@ -6416,7 +6432,7 @@ Level Up Moves:
 + Hammer Arm (70)
 ```
 
-**[##410 Shieldon](../pokemon/shieldon.md)**
+**#410 Shieldon**
 
 ![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
 
@@ -6426,7 +6442,7 @@ Ability:
 + Soundproof
 ```
 
-**[##411 Bastiodon](../pokemon/bastiodon.md)**
+**#411 Bastiodon**
 
 ![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon")
 
@@ -6442,7 +6458,7 @@ Level Up Moves:
 + Magnet Rise (1)
 ```
 
-**[##412 Burmy](../pokemon/burmy.md)**
+**#412 Burmy**
 
 ![Burmy](../assets/sprites/burmy/front.gif "Burmy")
 
@@ -6456,7 +6472,7 @@ Level Up Moves:
 + Snore (18)
 ```
 
-**[##413 Wormadam](../pokemon/wormadam-plant.md)**
+**#413 Wormadam**
 
 ![Wormadam](../assets/sprites/wormadam-plant/front.gif "Wormadam")
 
@@ -6502,7 +6518,7 @@ Ability:
 + Sturdy [Trash Cloak]
 ```
 
-**[##414 Mothim](../pokemon/mothim.md)**
+**#414 Mothim**
 
 ![Mothim](../assets/sprites/mothim/front.gif "Mothim")
 
@@ -6527,7 +6543,7 @@ Level Up Moves:
 + Giga Drain {26}
 ```
 
-**[##415 Combee](../pokemon/combee.md)**
+**#415 Combee**
 
 ![Combee](../assets/sprites/combee/front.gif "Combee")
 
@@ -6544,7 +6560,7 @@ Level Up Moves:
 + Endeavor (19)
 ```
 
-**[##416 Vespiquen](../pokemon/vespiquen.md)**
+**#416 Vespiquen**
 
 ![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen")
 
@@ -6573,7 +6589,7 @@ Level Up Moves:
 
 Order [39], Air Slash (45)
 
-**[##417 Pachirisu](../pokemon/pachirisu.md)**
+**#417 Pachirisu**
 
 ![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu")
 
@@ -6602,7 +6618,7 @@ Level Up Moves:
 
 (45)
 
-**[##418 Buizel](../pokemon/buizel.md)**
+**#418 Buizel**
 
 ![Buizel](../assets/sprites/buizel/front.gif "Buizel")
 
@@ -6619,7 +6635,7 @@ Level Up Moves:
 + Agility [54]
 ```
 
-**[##419 Floatzel](../pokemon/floatzel.md)**
+**#419 Floatzel**
 
 ![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel")
 
@@ -6637,7 +6653,7 @@ Level Up Moves:
 + Agility [60]
 ```
 
-**[##421 Cherrim](../pokemon/cherrim.md)**
+**#421 Cherrim**
 
 ![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim")
 
@@ -6654,7 +6670,7 @@ Level Up Moves:
 + Weather Ball (1)
 ```
 
-**[##422 Shellos](../pokemon/shellos.md)**
+**#422 Shellos**
 
 ![Shellos](../assets/sprites/shellos/front.gif "Shellos")
 
@@ -6664,7 +6680,7 @@ Level Up Moves:
 + Earth Power (56)
 ```
 
-**[##423 Gastrodon](../pokemon/gastrodon.md)**
+**#423 Gastrodon**
 
 ![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon")
 
@@ -6674,7 +6690,7 @@ Level Up Moves:
 + Earth Power (68)
 ```
 
-**[##424 Ambipom](../pokemon/ambipom.md)**
+**#424 Ambipom**
 
 ![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom")
 
@@ -6685,13 +6701,13 @@ Level Up Moves:
 + Fake Out (46)
 ```
 
-**[##425 Drifloon](../pokemon/drifloon.md)**
+**#425 Drifloon**
 
 ![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon")
 
 Level Up Moves: Hypnosis (48), Destiny Bond (53), Tailwind (58)
 
-**[##426 Drifblim](../pokemon/drifblim.md)**
+**#426 Drifblim**
 
 ![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim")
 
@@ -6704,7 +6720,7 @@ Level Up Moves:
 + Tailwind (72)
 ```
 
-**[##427 Buneary](../pokemon/buneary.md)**
+**#427 Buneary**
 
 ![Buneary](../assets/sprites/buneary/front.gif "Buneary")
 
@@ -6722,7 +6738,7 @@ Level Up Moves:
 + Heal Bell (39)
 ```
 
-**[##428 Lopunny](../pokemon/lopunny.md)**
+**#428 Lopunny**
 
 ![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny")
 
@@ -6740,7 +6756,7 @@ Level Up Moves:
 + Heal Bell (39)
 ```
 
-**[##429 Mismagius](../pokemon/mismagius.md)**
+**#429 Mismagius**
 
 ![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius")
 
@@ -6762,7 +6778,7 @@ Level Up Moves:
 + Destiny Bond (55)
 ```
 
-**[##430 Honchkrow](../pokemon/honchkrow.md)**
+**#430 Honchkrow**
 
 ![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow")
 
@@ -6779,7 +6795,7 @@ Level Up Moves:
 + Brave Bird (65)
 ```
 
-**[##431 Glameow](../pokemon/glameow.md)**
+**#431 Glameow**
 
 ![Glameow](../assets/sprites/glameow/front.gif "Glameow")
 
@@ -6790,7 +6806,7 @@ Level Up Moves:
 + Super Fang (49)
 ```
 
-**[##432 Purugly](../pokemon/purugly.md)**
+**#432 Purugly**
 
 ![Purugly](../assets/sprites/purugly/front.gif "Purugly")
 
@@ -6809,7 +6825,7 @@ Level Up Moves:
 + Super Fang (61)
 ```
 
-**[##433 Chingling](../pokemon/chingling.md)**
+**#433 Chingling**
 
 ![Chingling](../assets/sprites/chingling/front.gif "Chingling")
 
@@ -6821,7 +6837,7 @@ Level Up Moves:
 + Recover (33)
 ```
 
-**[##434 Stunky](../pokemon/stunky.md)**
+**#434 Stunky**
 
 ![Stunky](../assets/sprites/stunky/front.gif "Stunky")
 
@@ -6831,7 +6847,7 @@ Level Up Moves:
 + Sucker Punch (48)
 ```
 
-**[##435 Skuntank](../pokemon/skuntank.md)**
+**#435 Skuntank**
 
 ![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank")
 
@@ -6848,7 +6864,7 @@ Level Up Moves:
 + Sucker Punch (58)
 ```
 
-**[##436 Bronzor](../pokemon/bronzor.md)**
+**#436 Bronzor**
 
 ![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor")
 
@@ -6867,7 +6883,7 @@ Level Up Moves:
 + Curse (24)
 ```
 
-**[##437 Bronzong](../pokemon/bronzong.md)**
+**#437 Bronzong**
 
 ![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong")
 
@@ -6886,7 +6902,7 @@ Level Up Moves:
 + Curse (24)
 ```
 
-**[##440 Happiny](../pokemon/happiny.md)**
+**#440 Happiny**
 
 ![Happiny](../assets/sprites/happiny/front.gif "Happiny")
 
@@ -6898,7 +6914,7 @@ Level Up Moves:
 + Last Resort (21)
 ```
 
-**[##441 Chatot](../pokemon/chatot.md)**
+**#441 Chatot**
 
 ![Chatot](../assets/sprites/chatot/front.gif "Chatot")
 
@@ -6936,7 +6952,7 @@ Base Experience:
 + 107 >> 144
 ```
 
-**[##442 Spiritomb](../pokemon/spiritomb.md)**
+**#442 Spiritomb**
 
 ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
 
@@ -6947,7 +6963,7 @@ Level Up Moves:
 + Pain Split (61)
 ```
 
-**[##443 Gible](../pokemon/gible.md)**
+**#443 Gible**
 
 ![Gible](../assets/sprites/gible/front.gif "Gible")
 
@@ -6963,7 +6979,7 @@ Level Up Moves:
 + Outrage (43)
 ```
 
-**[##444 Gabite](../pokemon/gabite.md)**
+**#444 Gabite**
 
 ![Gabite](../assets/sprites/gabite/front.gif "Gabite")
 
@@ -6979,7 +6995,7 @@ Level Up Moves:
 + Outrage (58)
 ```
 
-**[##445 Garchomp](../pokemon/garchomp.md)**
+**#445 Garchomp**
 
 ![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp")
 
@@ -6996,7 +7012,7 @@ Level Up Moves:
 + ExtremeSpeed (75)
 ```
 
-**[##446 Munchlax](../pokemon/munchlax.md)**
+**#446 Munchlax**
 
 ![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax")
 
@@ -7008,7 +7024,7 @@ Level Up Moves:
 + Selfdestruct (63)
 ```
 
-**[##447 Riolu](../pokemon/riolu.md)**
+**#447 Riolu**
 
 ![Riolu](../assets/sprites/riolu/front.gif "Riolu")
 
@@ -7019,7 +7035,7 @@ Level Up Moves:
 + Crunch (39)
 ```
 
-**[##448 Lucario](../pokemon/lucario.md)**
+**#448 Lucario**
 
 ![Lucario](../assets/sprites/lucario/front.gif "Lucario")
 
@@ -7030,7 +7046,7 @@ Level Up Moves:
 + Hi Jump Kick (60)
 ```
 
-**[##449 Hippopotas](../pokemon/hippopotas.md)**
+**#449 Hippopotas**
 
 ![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas")
 
@@ -7041,7 +7057,7 @@ Level Up Moves:
 + Superpower (62)
 ```
 
-**[##450 Hippowdon](../pokemon/hippowdon.md)**
+**#450 Hippowdon**
 
 ![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon")
 
@@ -7052,7 +7068,7 @@ Level Up Moves:
 + Superpower (80)
 ```
 
-**[##452 Drapion](../pokemon/drapion.md)**
+**#452 Drapion**
 
 ![Drapion](../assets/sprites/drapion/front.gif "Drapion")
 
@@ -7062,7 +7078,7 @@ Level Up Moves:
 + Night Slash (40)
 ```
 
-**[##453 Croagunk](../pokemon/croagunk.md)**
+**#453 Croagunk**
 
 ![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk")
 
@@ -7080,7 +7096,7 @@ Level Up Moves:
 + Gunk Shot (49)
 ```
 
-**[##454 Toxicroak](../pokemon/toxicroak.md)**
+**#454 Toxicroak**
 
 ![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak")
 
@@ -7100,7 +7116,7 @@ Level Up Moves:
 + Gunk Shot (59)
 ```
 
-**[##455 Carnivine](../pokemon/carnivine.md)**
+**#455 Carnivine**
 
 ![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine")
 
@@ -7139,7 +7155,7 @@ Level Up Moves:
 
 Seed Bomb (34), Bug Bite (44)
 
-**[##457 Lumineon](../pokemon/lumineon.md)**
+**#457 Lumineon**
 
 ![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon")
 
@@ -7158,7 +7174,7 @@ Level Up Moves:
 + Ominous Wind (1)
 ```
 
-**[##458 Mantyke](../pokemon/mantyke.md)**
+**#458 Mantyke**
 
 ![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke")
 
@@ -7168,7 +7184,7 @@ Level Up Moves:
 + Mirror Coat (53)
 ```
 
-**[##459 Snover](../pokemon/snover.md)**
+**#459 Snover**
 
 ![Snover](../assets/sprites/snover/front.gif "Snover")
 
@@ -7184,7 +7200,7 @@ Level Up Moves:
 + Seed Bomb (51)
 ```
 
-**[##460 Abomasnow](../pokemon/abomasnow.md)**
+**#460 Abomasnow**
 
 ![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow")
 
@@ -7209,7 +7225,7 @@ Level Up Moves:
 + Seed Bomb (69)
 ```
 
-**[##461 Weavile](../pokemon/weavile.md)**
+**#461 Weavile**
 
 ![Weavile](../assets/sprites/weavile/front.gif "Weavile")
 
@@ -7231,7 +7247,7 @@ Level Up Moves:
 
 Pulse [50]
 
-**[##462 Magnezone](../pokemon/magnezone.md)**
+**#462 Magnezone**
 
 ![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone")
 
@@ -7241,7 +7257,7 @@ Level Up Moves:
 + Signal Beam (64)
 ```
 
-**[##463 Lickilicky](../pokemon/lickilicky.md)**
+**#463 Lickilicky**
 
 ![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky")
 
@@ -7258,7 +7274,7 @@ Level Up Moves:
 + Hammer Arm (65)
 ```
 
-**[##464 Rhyperior](../pokemon/rhyperior.md)**
+**#464 Rhyperior**
 
 ![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior")
 
@@ -7274,7 +7290,7 @@ Level Up Moves:
 + Crunch (53)
 ```
 
-**[##465 Tangrowth](../pokemon/tangrowth.md)**
+**#465 Tangrowth**
 
 ![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth")
 
@@ -7284,7 +7300,7 @@ Level Up Moves:
 + Leaf Storm (60)
 ```
 
-**[##466 Electivire](../pokemon/electivire.md)**
+**#466 Electivire**
 
 ![Electivire](../assets/sprites/electivire/front.gif "Electivire")
 
@@ -7309,7 +7325,7 @@ Level Up Moves:
 + Giga Impact [76]
 ```
 
-**[##467 Magmortar](../pokemon/magmortar.md)**
+**#467 Magmortar**
 
 ![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar")
 
@@ -7330,7 +7346,7 @@ Level Up Moves:
 
 [76]
 
-**[##468 Togekiss](../pokemon/togekiss.md)**
+**#468 Togekiss**
 
 ![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss")
 
@@ -7340,7 +7356,7 @@ Level Up Moves:
 + Heat Wave (1)
 ```
 
-**[##469 Yanmega](../pokemon/yanmega.md)**
+**#469 Yanmega**
 
 ![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega")
 
@@ -7352,7 +7368,7 @@ Level Up Moves:
 + Supersonic [23]
 ```
 
-**[##470 Leafeon](../pokemon/leafeon.md)**
+**#470 Leafeon**
 
 ![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon")
 
@@ -7368,7 +7384,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##471 Glaceon](../pokemon/glaceon.md)**
+**#471 Glaceon**
 
 ![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon")
 
@@ -7391,7 +7407,7 @@ Level Up Moves:
 + Consult Fig 1.
 ```
 
-**[##472 Gliscor](../pokemon/gliscor.md)**
+**#472 Gliscor**
 
 ![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor")
 
@@ -7401,7 +7417,7 @@ Ability:
 + Poison Heal {2}
 ```
 
-**[##473 Mamoswine](../pokemon/mamoswine.md)**
+**#473 Mamoswine**
 
 ![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine")
 
@@ -7417,7 +7433,7 @@ Level Up Moves:
 + Ice Shard (73)
 ```
 
-**[##474 Porygon-Z](../pokemon/porygon-z.md)**
+**#474 Porygon-Z**
 
 ![Porygon-Z](../assets/sprites/porygon-z/front.gif "Porygon-Z")
 
@@ -7427,7 +7443,7 @@ Level Up Moves:
 + Gravity (73)
 ```
 
-**[##475 Gallade](../pokemon/gallade.md)**
+**#475 Gallade**
 
 ![Gallade](../assets/sprites/gallade/front.gif "Gallade")
 
@@ -7437,7 +7453,7 @@ Level Up Moves:
 + Elemental Punches (1)
 ```
 
-**[##476 Probopass](../pokemon/probopass.md)**
+**#476 Probopass**
 
 ![Probopass](../assets/sprites/probopass/front.gif "Probopass")
 
@@ -7457,7 +7473,7 @@ Level Up Moves:
 + Sandstorm [79]
 ```
 
-**[##478 Froslass](../pokemon/froslass.md)**
+**#478 Froslass**
 
 ![Froslass](../assets/sprites/froslass/front.gif "Froslass")
 
@@ -7482,7 +7498,7 @@ Level Up Moves:
 + Aura Sphere (67)
 ```
 
-**[##479 Rotom](../pokemon/rotom.md)**
+**#479 Rotom**
 
 ![Rotom](../assets/sprites/rotom/front.gif "Rotom")
 
@@ -7500,7 +7516,7 @@ Stat Change:
 + Total (460)
 ```
 
-**[##479 Rotom Fan](../pokemon/rotom-fan.md)**
+**#479 Rotom Fan**
 
 ![Rotom Fan](../assets/sprites/rotom-fan/front.png "Rotom Fan")
 
@@ -7518,7 +7534,7 @@ Ability:
 + Motor Drive
 ```
 
-**[##485 Heatran](../pokemon/heatran.md)**
+**#485 Heatran**
 
 ![Heatran](../assets/sprites/heatran/front.gif "Heatran")
 
@@ -7528,7 +7544,7 @@ Ability:
 + Flame Body
 ```
 
-**[##486 Regigigas](../pokemon/regigigas.md)**
+**#486 Regigigas**
 
 ![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
 
@@ -7538,7 +7554,7 @@ Ability:
 + Pressure
 ```
 
-**[##489 Phione](../pokemon/phione.md)**
+**#489 Phione**
 
 ![Phione](../assets/sprites/phione/front.gif "Phione")
 
@@ -7549,7 +7565,7 @@ Stat Change:
 + Total (510)
 ```
 
-**[##493 Arceus](../pokemon/arceus.md)**
+**#493 Arceus**
 
 ![Arceus](../assets/sprites/arceus/front.gif "Arceus")
 

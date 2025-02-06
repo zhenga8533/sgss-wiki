@@ -38,7 +38,9 @@ def main():
     n = len(lines)
     md = "# Pokémon Changes\n\n"
 
-    parse_pokemon = False
+    regions = ["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova"]
+    pokedex_index = [1, 152, 252, 387, 494]
+    region_index = 0
 
     # Parse all lines in the input data file
     logger.log(logging.INFO, "Parsing data...")
@@ -60,9 +62,17 @@ def main():
                 md += "\n"
         # Pokemon changes
         elif line.startswith("#"):
-            pokemon = line.split(" ", 1)[1]
+            num, pokemon = line.split(" ", 1)
+            num = int(num[1:])
             pokemon_id = format_id(pokemon)
-            md += f"**[#{line}](../pokemon/{pokemon_id}.md)**\n\n"
+
+            # Set region if Pokemon is from a new region
+            if num >= pokedex_index[region_index]:
+                md += f"---\n\n## {regions[region_index]}\n\n"
+                region_index += 1
+
+            # md += f"**[{line}](../pokemon/{pokemon_id}.md)**\n\n"
+            md += f"**{line}**\n\n"
             md += find_pokemon_sprite(pokemon, "front", logger) + "\n\n"
         elif line.startswith("+ "):
             attribute, changes = line[2:].split(": ")
