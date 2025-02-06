@@ -51,7 +51,7 @@ def main():
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
         # Skip empty lines
-        if line == "---" or line == "":
+        if line == "":
             pass
         # Section headers
         elif next_line.startswith("---"):
