@@ -25,7 +25,7 @@ def main():
     data = load(INPUT_PATH + "Pokemon Locations.txt", logger)
     lines = data.split("\n")
     n = len(lines)
-    md = "# Pokemon Locations\n\n"
+    md = "# Pokémon Locations\n\n"
 
     # Parse all lines in the input data file
     logger.log(logging.INFO, "Parsing data...")

@@ -1,4 +1,4 @@
-# Pokemon Locations
+# Pokémon Locations
 
 This document exists to give the encounter data for each and every area within Sacred Gold and Storm Silver, both as a reference guide and because it’s impossible to view the data within the game itself. Data is listed for all types of encounter (sans Headbutting trees). Areas are listed in order of accessibility, though there may be one or two exceptions where maps have been shifted around to save space. Times will be specified on the encounters where they actually change between morning, day and night.
 

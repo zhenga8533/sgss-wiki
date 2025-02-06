@@ -9,10 +9,10 @@ All codes for the American Heart Gold & Soul Silver will work for Sacred Gold & 
 The new IDs are as follows:
 
 ```
-Sacred Gold - Complete: IPKE 66972395
-Sacred Gold - Classic: IPKE 7BAC813A
+Sacred Gold  - Complete: IPKE 66972395
+Sacred Gold  -  Classic: IPKE 7BAC813A
 Storm Silver - Complete: IPGE D5D82CBF
-Storm Silver - Classic: IPGE C794B178
+Storm Silver -  Classic: IPGE C794B178
 ```
 
 ---

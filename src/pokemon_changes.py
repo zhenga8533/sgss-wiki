@@ -69,7 +69,7 @@ def main():
 
             # Set region if Pokemon is from a new region
             if num >= pokedex_index[region_index]:
-                md += f"---\n\n## {regions[region_index]}\n\n"
+                md += f"---\n\n## {regions[region_index]} Pokémon\n\n"
                 region_index += 1
 
             # md += f"**[{line}](../pokemon/{pokemon_id}.md)**\n\n"

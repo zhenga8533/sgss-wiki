@@ -21,7 +21,7 @@ Also an important note: the move relearner, together with the move deleter has b
 
 ---
 
-## Kanto
+## Kanto Pokémon
 
 **#001 Bulbasaur**
 
@@ -2589,7 +2589,7 @@ Ability:
 
 ---
 
-## Johto
+## Johto Pokémon
 
 **#152 Chikorita**
 
@@ -4143,7 +4143,7 @@ Level Up Moves:
 
 ---
 
-## Hoenn
+## Hoenn Pokémon
 
 **#252 Treecko**
 
@@ -5942,7 +5942,7 @@ Ability:
 
 ---
 
-## Sinnoh
+## Sinnoh Pokémon
 
 **#387 Turtwig**
 
