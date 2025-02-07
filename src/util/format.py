@@ -56,6 +56,8 @@ def find_trainer_sprite(trainer: str, view: str, logger: Logger = None) -> str:
     # Check if the sprite exists for the full name
     if view != "important_trainers":
         return find_trainer_sprite(trainer, "important_trainers", logger)
+
+    logger.log(logging.ERROR, f"Sprite not found for {trainer}")
     return f'![{trainer}](../assets/{view}/{format_id(trainer, symbol="_")}.png "{trainer}")'
 
 
