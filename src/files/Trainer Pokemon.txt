@@ -1,6 +1,6 @@
 - Important trainers have their entire roster listed including species, levels, items, moves.
 - Some trainers have a (!) next to their name. This means that they have further rosters via the Pokegear.
-- The Rival at the Pokemon League has (MW) next the name. This eans he's only battleable on Monday and Wednesday.
+- The Rival Silver at the Pokemon League has (MW) next the name. This eans he's only battleable on Monday and Wednesday.
 - As the note above mentioned, some trainers have a letter and time stamp next to their name (Ex. M10a-8p). This means they can only be rematched on that certain day and time stamp. 
 - Bug Catcher Wade's rematch battles 1 and 2 are swapped(probably a bug). Keep that in mind if you ever rematch him.
 - Bird Keeper Jose's first rematch battle is using the base game roster(probably a bug).
@@ -138,9 +138,9 @@ Scyther (Lv. 21) @ Sitrus Berry     /   Technician      /   U-Turn, Quick Attack
 
 Azalea Town
 =================================================================================================================================================
-Rival                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Bayleef Lv. 21
-Rival                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Quilava Lv. 21
-Rival                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Croconaw Lv. 21
+Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Bayleef Lv. 21
+Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Quilava Lv. 21
+Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Croconaw Lv. 21
 
 Route 34
 =================================================================================================================================================
@@ -264,9 +264,9 @@ Psychic Greg                 Gastly Lv. 23, Drowzee Lv. 25
 
 Burned Tower
 =================================================================================================================================================
-Rival                        Murkrow Lv. 25, Magby Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Bayleef Lv. 27
-Rival                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Quilava Lv. 27
-Rival                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Croconaw Lv. 27
+Rival Silver                        Murkrow Lv. 25, Magby Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Bayleef Lv. 27
+Rival Silver                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Quilava Lv. 27
+Rival Silver                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Croconaw Lv. 27
 Firebreather Ned             Koffing Lv. 25, Numel Lv. 25, Quilava Lv. 25
 Firebreather Richard         Magby Lv. 25, Slowpoke Lv. 25, Charmeleon Lv. 25
 
@@ -611,9 +611,9 @@ Rhyperior (Lv. 50) @ Sitrus Berry   /   Reckless        /   Earthquake, Megahorn
 
 Goldenrod City
 =================================================================================================================================================
-Rival                        Honchkrow Lv. 45, Seadra Lv. 44, Magmar Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Meganium Lv. 46
-Rival                        Honchkrow Lv. 45, Seadra Lv. 44, Electabuzz Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Typhlosion Lv. 46
-Rival                        Honchkrow Lv. 45, Magmar Lv. 44, Electabuzz Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Feraligatr Lv. 46
+Rival Silver                        Honchkrow Lv. 45, Seadra Lv. 44, Magmar Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Meganium Lv. 46
+Rival Silver                        Honchkrow Lv. 45, Seadra Lv. 44, Electabuzz Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Typhlosion Lv. 46
+Rival Silver                        Honchkrow Lv. 45, Magmar Lv. 44, Electabuzz Lv. 44, Gengar Lv. 45, Alakazam Lv. 45, Feraligatr Lv. 46
 Team Rocket Grunt            Persian Lv. 45
 Team Rocket Grunt            Rhyhorn Lv. 43, Haunter Lv. 43, Venomoth Lv. 43
 Burglar Duncan               Magmar Lv. 43, Grimer Lv. 43, Magcargo Lv. 44
@@ -624,7 +624,7 @@ Team Rocket Grunt            Exploud Lv. 45
 Team Rocket Grunt            Tauros Lv. 44, Weezing Lv. 44
 Team Rocket Grunt            Hitmonlee Lv. 44, Steelix Lv. 44
 
-Rival
+Rival Silver
 Honchkrow (Lv. 45) @ None           /   Insomnia        /   Drill Peck, Toxic, Protect, Roost
 Seadra (Lv. 44) @ None              /   Poison Point    /   Surf, Focus Energy, Ice Beam, DragonBreath
 Magmar (Lv. 44) @ None              /   Flame Body      /   Flamethrower, Will-O-Wisp, Focus Blast, Psychic
@@ -632,7 +632,7 @@ Gengar (Lv. 45) @ None              /   Levitate        /   Shadow Ball, Giga Dr
 Alakazam (Lv. 45) @ None            /   Synchronize     /   Psychic, Shock Wave, Energy Ball, Thunder Wave
 Meganium (Lv. 46) @ None            /   Overgrow        /   Seed Bomb, Reflect, Swords Dance, Body Slam
 
-Rival
+Rival Silver
 Honchkrow (Lv. 45) @ None           /   Insomnia        /   Drill Peck, Toxic, Protect, Roost
 Seadra (Lv. 44) @ None              /   Poison Point    /   Surf, Focus Energy, Ice Beam, DragonBreath
 Electabuzz (Lv. 44) @ None          /   Static          /   Thunderbolt, Thunder Wave, Psychic, Focus Blast
@@ -640,7 +640,7 @@ Gengar (Lv. 45) @ None              /   Levitate        /   Shadow Ball, Giga Dr
 Alakazam (Lv. 45) @ None            /   Synchronize     /   Psychic, Shock Wave, Energy Ball, Thunder Wave
 Typhlosion (Lv. 46) @ None          /   Blaze           /   Flamethrower, Focus Blast, Rock Slide, Shadow Claw
 
-Rival
+Rival Silver
 Honchkrow (Lv. 45) @ None           /   Insomnia        /   Drill Peck, Toxic, Protect, Roost
 Magmar (Lv. 44) @ None              /   Flame Body      /   Flamethrower, Will-O-Wisp, Focus Blast, Psychic
 Electabuzz (Lv. 44) @ None          /   Static          /   Thunderbolt, Thunder Wave, Psychic, Focus Blast
@@ -716,9 +716,9 @@ Charizard (Lv. 84) @ None           /   Blaze           /   Sunny Day, Overheat,
 Flygon (Lv. 84) @ None              /   Levitate        /   Outrage, Earthquake, U-Turn, Thunder Punch
 Dragonite (Lv. 88) @ None           /   Inner Focus     /   Agility, Outrage, Fire Blast, Earthquake
 
-Rival                        Meganium Lv. 78, Kingdra Lv. 77, Magmortar Lv. 77
-Rival                        Typhlosion Lv. 78, Electivire Lv. 77, Kingdra Lv. 77
-Rival                        Feraligatr Lv. 78, Electivire Lv. 77, Magmortar Lv. 77
+Rival Silver                        Meganium Lv. 78, Kingdra Lv. 77, Magmortar Lv. 77
+Rival Silver                        Typhlosion Lv. 78, Electivire Lv. 77, Kingdra Lv. 77
+Rival Silver                        Feraligatr Lv. 78, Electivire Lv. 77, Magmortar Lv. 77
  
 Route 27
 =================================================================================================================================================
@@ -756,11 +756,11 @@ Ace Trainer Jamie (F10a-8p)  Tauros Lv. 72, Medicham Lv. 72
 
 Victory Road
 =================================================================================================================================================
-Rival                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Magmortar Lv. 51, Kingdra Lv. 51, Meganium Lv. 53          
-Rival                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Electivire Lv. 51, Kingdra Lv. 51, Typhlosion Lv. 53
-Rival                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Magmortar Lv. 51, Electivire Lv. 51, Feraligatr Lv. 53
+Rival Silver                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Magmortar Lv. 51, Kingdra Lv. 51, Meganium Lv. 53          
+Rival Silver                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Electivire Lv. 51, Kingdra Lv. 51, Typhlosion Lv. 53
+Rival Silver                        Honchkrow Lv. 50, Gengar Lv. 49, Alakazam Lv. 50, Magmortar Lv. 51, Electivire Lv. 51, Feraligatr Lv. 53
 
-Rival
+Rival Silver
 Honchkrow (Lv. 50) @ None           /   Insomnia        /   Drill Peck, Dark Pulse, Nasty Plot, Heat Wave
 Gengar (Lv. 49) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Destiny Bond, Energy Ball
 Alakazam (Lv. 50) @ None            /   Synchronize     /   Psychic, Recover, Energy Ball, Focus Blast
@@ -768,7 +768,7 @@ Magmortar (Lv. 51) @ None           /   Flame Body      /   Fire Blast, Swagger,
 Kingdra (Lv. 51) @ None             /   Swift Swim      /   Hydro Pump, Yawn, Dragon Pulse, Ice Beam
 Meganium (Lv. 53) @ None            /   Overgrow        /   Swords Dance, Reflect, Seed Bomb, Earthquake
 
-Rival
+Rival Silver
 Honchkrow (Lv. 50) @ None           /   Insomnia        /   Drill Peck, Dark Pulse, Nasty Plot, Heat Wave
 Gengar (Lv. 49) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Destiny Bond, Energy Ball
 Alakazam (Lv. 50) @ None            /   Synchronize     /   Psychic, Recover, Energy Ball, Focus Blast
@@ -776,7 +776,7 @@ Electivire (Lv. 51) @ None          /   Motor Drive     /   Thunder, Ice Punch, 
 Kingdra (Lv. 51) @ None             /   Swift Swim      /   Hydro Pump, Yawn, Dragon Pulse, Ice Beam
 Typhlosion (Lv. 53 @ None           /   Blaze           /   Fire Blast, Focus Blast, Thunder Punch, Low Kick
 
-Rival
+Rival Silver
 Honchkrow (Lv. 50) @ None           /   Insomnia        /   Drill Peck, Dark Pulse, Nasty Plot, Heat Wave
 Gengar (Lv. 49) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Destiny Bond, Energy Ball
 Alakazam (Lv. 50) @ None            /   Synchronize     /   Psychic, Recover, Energy Ball, Focus Blast
@@ -802,9 +802,9 @@ Elite Four Bruno             Hitmontop Lv. 78, Hitmonlee Lv. 78, Hitmonchan Lv. 
 Elite Four Karen             Weavile Lv. 78, Absol Lv. 78, Shiftry Lv. 78, Umbreon Lv. 80, Honchkrow Lv. 80, Houndoom Lv. 81
 Champion Lance               Gyarados Lv. 84, Garchomp Lv. 80, Tyranitar Lv. 82, Flygon Lv. 84, Charizard Lv. 84, Dragonite Lv. 88
 
-Rival(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Kingdra Lv. 77, Meganium Lv. 78
-Rival(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Kingdra Lv. 77, Electivire Lv. 77, Typhlosion Lv. 78
-Rival(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Electivire Lv. 77, Feraligatr Lv. 78
+Rival Silver(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Kingdra Lv. 77, Meganium Lv. 78
+Rival Silver(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Kingdra Lv. 77, Electivire Lv. 77, Typhlosion Lv. 78
+Rival Silver(MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Electivire Lv. 77, Feraligatr Lv. 78
 
 (R1)Elite Four Will
 Jynx (Lv. 53) @ None                /   Dry Skin        /   Ice Beam, Psychic, Focus Blast, Lovely Kiss
@@ -961,11 +961,11 @@ Onix (Lv. 61) @ Focus Sash          /   Sturdy          /   Torment, Earthquake,
 
 Mt. Moon
 =================================================================================================================================================
-Rival                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Magmortar Lv. 58, Kingdra Lv. 58, Meganium Lv. 60
-Rival                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Kingdra Lv. 58, Electivire Lv. 58, Typhlosion Lv. 60
-Rival                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Magmortar Lv. 58, Electivire Lv. 58, Feraligatr Lv. 60
+Rival Silver                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Magmortar Lv. 58, Kingdra Lv. 58, Meganium Lv. 60
+Rival Silver                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Kingdra Lv. 58, Electivire Lv. 58, Typhlosion Lv. 60
+Rival Silver                        Honchkrow Lv. 57, Gengar Lv. 56, Alakazam Lv. 56, Magmortar Lv. 58, Electivire Lv. 58, Feraligatr Lv. 60
 
-Rival
+Rival Silver
 Honchkrow (Lv. 57) @ None           /   Insomnia        /   Drill Peck, Sucker Punch, Thunder Wave, Double Team
 Gengar (Lv. 56) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Sludge Bomb, Focus Blast
 Alakazam (Lv. 56) @ None            /   Synchronize     /   Shadow Ball, Psychic, Energy Ball, Focus Blast
@@ -973,7 +973,7 @@ Magmortar (Lv. 58) @ None           /   Flame Body      /   Flamethrower, Psychi
 Kingdra (Lv. 58) @ None             /   Swift Swim      /   Surf, Ice Beam, Dragon Pulse, Double Team
 Meganium (Lv. 60) @ None            /   Overgrow        /   Swords Dance, Reflect, Seed Bomb, Earthquake
 
-Rival
+Rival Silver
 Honchkrow (Lv. 57) @ None           /   Insomnia        /   Drill Peck, Sucker Punch, Thunder Wave, Double Team
 Gengar (Lv. 56) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Sludge Bomb, Focus Blast
 Alakazam (Lv. 56) @ None            /   Synchronize     /   Shadow Ball, Psychic, Energy Ball, Focus Blast
@@ -981,7 +981,7 @@ Kingdra (Lv. 58) @ None             /   Swift Swim      /   Surf, Ice Beam, Drag
 Electivire (Lv. 58) @ None          /   Motor Drive     /   Thunder Punch, Ice Punch, Earthquake, Brick Break 
 Typhlosion (Lv. 60) @ None          /   Blaze           /   Eruption, Fire Blast, Foucus Blast, Earthquake
 
-Rival
+Rival Silver
 Honchkrow (Lv. 57) @ None           /   Insomnia        /   Drill Peck, Sucker Punch, Thunder Wave, Double Team
 Gengar (Lv. 56) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Sludge Bomb, Focus Blast
 Alakazam (Lv. 56) @ None            /   Synchronize     /   Shadow Ball, Psychic, Energy Ball, Focus Blast
@@ -1383,6 +1383,6 @@ Blastoise (Lv. 90) @ Rindo Berry    /   Torrent         /   Signal Beam, Hydro P
 
 Cerulean Cave
 =================================================================================================================================================
-Rival                        Lugia Lv. 100, Ho-oh Lv. 100, Mewtwo Lv. 100
+Rival Silver                        Lugia Lv. 100, Ho-oh Lv. 100, Mewtwo Lv. 100
 SS_SG Trainer Pokemon.txt
 Displaying SS_SG Trainer Pokemon.txt.
