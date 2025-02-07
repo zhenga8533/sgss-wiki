@@ -1,0 +1,25 @@
+# Trainer Rosters
+
+### Generic Trainers
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Team Rocket Grunt (x5)](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt (x5)")<br>Team Rocket Grunt (x5) | ![Koffing](../../assets/sprites/koffing/front.gif "Koffing")<br>[Koffing](../../pokemon/koffing.md/)<br>Lv. 37 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat")<br>[Golbat](../../pokemon/golbat.md/)<br>Lv. 38 | ![Primeape](../../assets/sprites/primeape/front.gif "Primeape")<br>[Primeape](../../pokemon/primeape.md/)<br>Lv. 38 |
+| ![Team Rocket Grunt (x5)](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt (x5)")<br>Team Rocket Grunt (x5) | ![Raticate](../../assets/sprites/raticate/front.gif "Raticate")<br>[Raticate](../../pokemon/raticate.md/)<br>Lv. 39 | ![Muk](../../assets/sprites/muk/front.gif "Muk")<br>[Muk](../../pokemon/muk.md/)<br>Lv. 39 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Arbok](../../assets/sprites/arbok/front.gif "Arbok")<br>[Arbok](../../pokemon/arbok.md/)<br>Lv. 39 | ![Magcargo](../../assets/sprites/magcargo/front.gif "Magcargo")<br>[Magcargo](../../pokemon/magcargo.md/)<br>Lv. 39 |
+| ![Scientist Gregg](../../assets/trainers/scientist.png "Scientist Gregg")<br>Scientist Gregg | ![Magnemite](../../assets/sprites/magnemite/front.gif "Magnemite")<br>[Magnemite](../../pokemon/magnemite.md/)<br>Lv. 37 | ![Magneton](../../assets/sprites/magneton/front.gif "Magneton")<br>[Magneton](../../pokemon/magneton.md/)<br>Lv. 37 | ![Porygon](../../assets/sprites/porygon/front.gif "Porygon")<br>[Porygon](../../pokemon/porygon.md/)<br>Lv. 39 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Weepinbell](../../assets/sprites/weepinbell/front.gif "Weepinbell")<br>[Weepinbell](../../pokemon/weepinbell.md/)<br>Lv. 39 | ![Dustox](../../assets/sprites/dustox/front.gif "Dustox")<br>[Dustox](../../pokemon/dustox.md/)<br>Lv. 39 | ![Venomoth](../../assets/sprites/venomoth/front.gif "Venomoth")<br>[Venomoth](../../pokemon/venomoth.md/)<br>Lv. 40 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Kingler](../../assets/sprites/kingler/front.gif "Kingler")<br>[Kingler](../../pokemon/kingler.md/)<br>Lv. 40 | ![Shelgon](../../assets/sprites/shelgon/front.gif "Shelgon")<br>[Shelgon](../../pokemon/shelgon.md/)<br>Lv. 40 |
+| ![Scientist Ross](../../assets/trainers/scientist.png "Scientist Ross")<br>Scientist Ross | ![Koffing](../../assets/sprites/koffing/front.gif "Koffing")<br>[Koffing](../../pokemon/koffing.md/)<br>Lv. 40 | ![Porygon2](../../assets/sprites/porygon2/front.gif "Porygon2")<br>[Porygon2](../../pokemon/porygon2.md/)<br>Lv. 40 | ![Electrode](../../assets/sprites/electrode/front.gif "Electrode")<br>[Electrode](../../pokemon/electrode.md/)<br>Lv. 40 | ![Weezing](../../assets/sprites/weezing/front.gif "Weezing")<br>[Weezing](../../pokemon/weezing.md/)<br>Lv. 40 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Gloom](../../assets/sprites/gloom/front.gif "Gloom")<br>[Gloom](../../pokemon/gloom.md/)<br>Lv. 41 | ![Cloyster](../../assets/sprites/cloyster/front.gif "Cloyster")<br>[Cloyster](../../pokemon/cloyster.md/)<br>Lv. 41 |
+| ![Scientist Mitch](../../assets/trainers/scientist.png "Scientist Mitch")<br>Scientist Mitch | ![Ditto](../../assets/sprites/ditto/front.gif "Ditto")<br>[Ditto](../../pokemon/ditto.md/)<br>Lv. 43 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Raticate](../../assets/sprites/raticate/front.gif "Raticate")<br>[Raticate](../../pokemon/raticate.md/)<br>Lv. 42 | ![Bibarel](../../assets/sprites/bibarel/front.gif "Bibarel")<br>[Bibarel](../../pokemon/bibarel.md/)<br>Lv. 42 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Wobbuffet](../../assets/sprites/wobbuffet/front.gif "Wobbuffet")<br>[Wobbuffet](../../pokemon/wobbuffet.md/)<br>Lv. 42 |
+| ![Team Rocket Grunt](../../assets/trainers/rocket_grunt.png "Team Rocket Grunt")<br>Team Rocket Grunt | ![Hypno](../../assets/sprites/hypno/front.gif "Hypno")<br>[Hypno](../../pokemon/hypno.md/)<br>Lv. 41 | ![Muk](../../assets/sprites/muk/front.gif "Muk")<br>[Muk](../../pokemon/muk.md/)<br>Lv. 41 | ![Magnezone](../../assets/sprites/magnezone/front.gif "Magnezone")<br>[Magnezone](../../pokemon/magnezone.md/)<br>Lv. 41 |
+| ![PKMN Trainer Lance](../../assets/important_trainers/lance.png "PKMN Trainer Lance")<br>PKMN Trainer Lance | ![Dragonair](../../assets/sprites/dragonair/front.gif "Dragonair")<br>[Dragonair](../../pokemon/dragonair.md/)<br>Lv. 44 | ![Aerodactyl](../../assets/sprites/aerodactyl/front.gif "Aerodactyl")<br>[Aerodactyl](../../pokemon/aerodactyl.md/)<br>Lv. 44 |
+
+
+### Important Trainers
+
+1. [Executive Petrel](important_trainers.md#executive-petrel)
+1. [Executive Ariana](important_trainers.md#executive-ariana)

@@ -1,0 +1,23 @@
+# Trainer Rosters
+
+### Generic Trainers
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Pokefan Beverly](../../assets/trainers/pokefan.png "Pokefan Beverly")<br>Pokefan Beverly | ![Granbull](../../assets/sprites/granbull/front.gif "Granbull")<br>[Granbull](../../pokemon/granbull.md/)<br>Lv. 23 |
+| ![School Kid Jack [(!)](#rematches)](../../assets/trainers/school_kid.png "School Kid Jack [(!)](#rematches)")<br>School Kid Jack [(!)](#rematches) | ![Oddish](../../assets/sprites/oddish/front.gif "Oddish")<br>[Oddish](../../pokemon/oddish.md/)<br>Lv. 20 | ![Croagunk](../../assets/sprites/croagunk/front.gif "Croagunk")<br>[Croagunk](../../pokemon/croagunk.md/)<br>Lv. 20 | ![Phanpy](../../assets/sprites/phanpy/front.gif "Phanpy")<br>[Phanpy](../../pokemon/phanpy.md/)<br>Lv. 20 | ![Skitty](../../assets/sprites/skitty/front.gif "Skitty")<br>[Skitty](../../pokemon/skitty.md/)<br>Lv. 20 |
+| ![Pokefan William](../../assets/trainers/pokefan.png "Pokefan William")<br>Pokefan William | ![Mime Jr.](../../assets/sprites/mime-jr/front.gif "Mime Jr.")<br>[Mime Jr.](../../pokemon/mime-jr.md/)<br>Lv. 19 | ![Sudowoodo](../../assets/sprites/sudowoodo/front.gif "Sudowoodo")<br>[Sudowoodo](../../pokemon/sudowoodo.md/)<br>Lv. 22 |
+| ![Lass Krise [(!)](#rematches)](../../assets/trainers/lass.png "Lass Krise [(!)](#rematches)")<br>Lass Krise [(!)](#rematches) | ![Oddish](../../assets/sprites/oddish/front.gif "Oddish")<br>[Oddish](../../pokemon/oddish.md/)<br>Lv. 19 | ![Gloom](../../assets/sprites/gloom/front.gif "Gloom")<br>[Gloom](../../pokemon/gloom.md/)<br>Lv. 21 |
+
+
+### Rematches
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![School Kid Jack (M4a-10a)](../../assets/trainers/school_kid.png "School Kid Jack (M4a-10a)")<br>School Kid Jack (M4a-10a) | ![Gloom](../../assets/sprites/gloom/front.gif "Gloom")<br>[Gloom](../../pokemon/gloom.md/)<br>Lv. 44 | ![Skitty](../../assets/sprites/skitty/front.gif "Skitty")<br>[Skitty](../../pokemon/skitty.md/)<br>Lv. 46 | ![Donphan](../../assets/sprites/donphan/front.gif "Donphan")<br>[Donphan](../../pokemon/donphan.md/)<br>Lv. 46 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak")<br>[Toxicroak](../../pokemon/toxicroak.md/)<br>Lv. 48 |
+| ![School Kid Jack (M4a-10a)](../../assets/trainers/school_kid.png "School Kid Jack (M4a-10a)")<br>School Kid Jack (M4a-10a) | ![Vileplume](../../assets/sprites/vileplume/front.gif "Vileplume")<br>[Vileplume](../../pokemon/vileplume.md/)<br>Lv. 54 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak")<br>[Toxicroak](../../pokemon/toxicroak.md/)<br>Lv. 52 | ![Donphan](../../assets/sprites/donphan/front.gif "Donphan")<br>[Donphan](../../pokemon/donphan.md/)<br>Lv. 52 | ![Delcatty](../../assets/sprites/delcatty/front.gif "Delcatty")<br>[Delcatty](../../pokemon/delcatty.md/)<br>Lv. 54 |
+| ![School Kid Jack (M4a-10a)](../../assets/trainers/school_kid.png "School Kid Jack (M4a-10a)")<br>School Kid Jack (M4a-10a) | ![Vileplume](../../assets/sprites/vileplume/front.gif "Vileplume")<br>[Vileplume](../../pokemon/vileplume.md/)<br>Lv. 68 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak")<br>[Toxicroak](../../pokemon/toxicroak.md/)<br>Lv. 66 | ![Delcatty](../../assets/sprites/delcatty/front.gif "Delcatty")<br>[Delcatty](../../pokemon/delcatty.md/)<br>Lv. 68 | ![Donphan](../../assets/sprites/donphan/front.gif "Donphan")<br>[Donphan](../../pokemon/donphan.md/)<br>Lv. 72 |
+| ![Lass Krise (Su4a-10a)](../../assets/trainers/lass.png "Lass Krise (Su4a-10a)")<br>Lass Krise (Su4a-10a) | ![Vileplume](../../assets/sprites/vileplume/front.gif "Vileplume")<br>[Vileplume](../../pokemon/vileplume.md/)<br>Lv. 48 | ![Marowak](../../assets/sprites/marowak/front.gif "Marowak")<br>[Marowak](../../pokemon/marowak.md/)<br>Lv. 48 |
+| ![Lass Krise (Su4a-10a)](../../assets/trainers/lass.png "Lass Krise (Su4a-10a)")<br>Lass Krise (Su4a-10a) | ![Vileplume](../../assets/sprites/vileplume/front.gif "Vileplume")<br>[Vileplume](../../pokemon/vileplume.md/)<br>Lv. 53 | ![Marowak](../../assets/sprites/marowak/front.gif "Marowak")<br>[Marowak](../../pokemon/marowak.md/)<br>Lv. 53 |
+| ![Lass Krise (Su4a-10a)](../../assets/trainers/lass.png "Lass Krise (Su4a-10a)")<br>Lass Krise (Su4a-10a) | ![Vileplume](../../assets/sprites/vileplume/front.gif "Vileplume")<br>[Vileplume](../../pokemon/vileplume.md/)<br>Lv. 68 | ![Marowak](../../assets/sprites/marowak/front.gif "Marowak")<br>[Marowak](../../pokemon/marowak.md/)<br>Lv. 68 | ![Kangaskhan](../../assets/sprites/kangaskhan/front.gif "Kangaskhan")<br>[Kangaskhan](../../pokemon/kangaskhan.md/)<br>Lv. 68 |
+
