@@ -234,6 +234,34 @@ def main():
 
     # Determine the range for each thread
     THREADS = int(os.getenv("THREADS"))
+    total_pokemon = len(pokedex)
+    chunk_size = total_pokemon // THREADS
+    remainder = total_pokemon % THREADS
+
+    threads = []
+    start_index = 0
+
+    for t in range(THREADS):
+        # Calculate the end index for each thread's range
+        end_index = start_index + chunk_size - 1
+        if remainder > 0:
+            end_index += 1
+            remainder -= 1
+
+        # Start each thread to handle a specific range of Pokémon
+        thread = threading.Thread(
+            target=fetch_media_range,
+            args=(start_index, end_index, pokedex, POKEMON_INPUT_PATH, logger),
+        )
+        threads.append(thread)
+        thread.start()
+
+        # Update the start_index for the next thread
+        start_index = end_index + 1
+
+    # Ensure all threads are completed
+    for t in threads:
+        t.join()
 
     # Fetch Bulbagarden media
     url = "https://archives.bulbagarden.net/wiki/Category:HeartGold_and_SoulSilver_sprites"
