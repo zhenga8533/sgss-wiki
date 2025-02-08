@@ -110,10 +110,10 @@ def parse_trainer_roster(trainers: list, logger: Logger) -> tuple:
     # Parse each trainer
     for trainer in trainers:
         trainer_name, pokemon = re.split(r"\s{2,}", trainer)
-        trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
         trainer_sprite = find_trainer_sprite(trainer_name, "trainers", logger).replace("../", "../../")
 
         md += f"1. {trainer_name}"
+        trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
         trainer_rosters += f"| {trainer_sprite}<br>{trainer_name} "
 
         # Parse each Pokemon in team
@@ -151,13 +151,13 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
 
     # Parse each trainer type
     if len(trainers) > 0:
-        md, trainer_rosters = parse_trainer_roster(trainers, logger)
-        md = "<h3>Generic Trainers</h3>\n\n" + md
+        trainer_md, trainer_rosters = parse_trainer_roster(trainers, logger)
+        md += "<h3>Generic Trainers</h3>\n\n" + trainer_md
         trainer_rosters = "\n### Generic Trainers\n\n" + trainer_rosters + "\n"
 
     if len(rematches) > 0:
-        md, rematch_rosters = parse_trainer_roster(rematches, logger)
-        md = "<h3>Rematches</h3>\n\n" + md
+        trainer_md, rematch_rosters = parse_trainer_roster(rematches, logger)
+        md += "<h3>Rematches</h3>\n\n" + trainer_md
         trainer_rosters += "\n### Rematches\n\n" + rematch_rosters + "\n"
 
     if len(important) > 0:
@@ -247,7 +247,6 @@ def main():
     trainers = []
     rematches = []
     important = {}
-    roster = trainers
 
     wild_rosters = {}
     wild_trainers = {}
@@ -261,7 +260,10 @@ def main():
         :return: None
         """
 
-        nonlocal location, section, trainers, rematches, important, roster, wild_rosters, wild_trainers, md
+        nonlocal location, section, trainers, rematches, important, wild_rosters, wild_trainers, md
+        if len(trainers) == 0:
+            trainers = rematches
+            rematches = []
         roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important, logger)
         md += roster_md
 
@@ -277,7 +279,6 @@ def main():
         trainers = []
         rematches = []
         important = {}
-        roster = trainers
 
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
@@ -291,7 +292,7 @@ def main():
             pass
         # Section headers
         elif next_line.startswith("="):
-            if len(trainers) > 0:
+            if len(trainers) > 0 or len(rematches) > 0:
                 update_markdown()
             location, section = line.split(" (", 1) if "(" in line else (line, None)
             md += f"\n---\n\n## {line}\n\n"
@@ -300,7 +301,8 @@ def main():
             md += f"1. {line[2:]}\n"
         # Trainer rematches
         elif line == "Rematches":
-            roster = rematches
+            trainers = rematches
+            rematches = []
         # Important trainer pokemon
         elif "@" in line:
             important[trainer].append(line)
@@ -310,7 +312,7 @@ def main():
             important[trainer] = []
         # Generic trainer pokemon
         elif "Lv." in line:
-            roster.append(line)
+            rematches.append(line)
         # Note
         elif line.startswith("Note:"):
             md += f"!!! note\n\n\t{line[6:]}\n\n"

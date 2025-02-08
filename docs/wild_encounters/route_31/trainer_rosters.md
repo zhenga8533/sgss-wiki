@@ -4,7 +4,7 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Bug Catcher Wade [(!)](#rematches)](../../assets/trainers/bug_catcher.png "Bug Catcher Wade [(!)](#rematches)")<br>Bug Catcher Wade [(!)](#rematches) | ![Spinarak](../../assets/sprites/spinarak/front.gif "Spinarak")<br>[Spinarak](../../pokemon/spinarak.md/)<br>Lv. 7 | ![Surskit](../../assets/sprites/surskit/front.gif "Surskit")<br>[Surskit](../../pokemon/surskit.md/)<br>Lv. 7 | ![Ledyba](../../assets/sprites/ledyba/front.gif "Ledyba")<br>[Ledyba](../../pokemon/ledyba.md/)<br>Lv. 7 | ![Nincada](../../assets/sprites/nincada/front.gif "Nincada")<br>[Nincada](../../pokemon/nincada.md/)<br>Lv. 7 |
+| ![Bug Catcher Wade (!)](../../assets/trainers/bug_catcher.png "Bug Catcher Wade (!)")<br>Bug Catcher Wade [(!)](#rematches) | ![Spinarak](../../assets/sprites/spinarak/front.gif "Spinarak")<br>[Spinarak](../../pokemon/spinarak.md/)<br>Lv. 7 | ![Surskit](../../assets/sprites/surskit/front.gif "Surskit")<br>[Surskit](../../pokemon/surskit.md/)<br>Lv. 7 | ![Ledyba](../../assets/sprites/ledyba/front.gif "Ledyba")<br>[Ledyba](../../pokemon/ledyba.md/)<br>Lv. 7 | ![Nincada](../../assets/sprites/nincada/front.gif "Nincada")<br>[Nincada](../../pokemon/nincada.md/)<br>Lv. 7 |
 
 
 ### Rematches

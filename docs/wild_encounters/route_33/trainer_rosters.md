@@ -4,7 +4,7 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Hiker Anthony [(!)](#rematches)](../../assets/trainers/hiker.png "Hiker Anthony [(!)](#rematches)")<br>Hiker Anthony [(!)](#rematches) | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 16 | ![Machop](../../assets/sprites/machop/front.gif "Machop")<br>[Machop](../../pokemon/machop.md/)<br>Lv. 16 |
+| ![Hiker Anthony (!)](../../assets/trainers/hiker.png "Hiker Anthony (!)")<br>Hiker Anthony [(!)](#rematches) | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 16 | ![Machop](../../assets/sprites/machop/front.gif "Machop")<br>[Machop](../../pokemon/machop.md/)<br>Lv. 16 |
 
 
 ### Rematches

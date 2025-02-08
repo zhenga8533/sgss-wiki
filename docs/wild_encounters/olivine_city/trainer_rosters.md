@@ -21,8 +21,8 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Gentleman Alfred [(!)](#rematches)](../../assets/trainers/gentleman.png "Gentleman Alfred [(!)](#rematches)")<br>Gentleman Alfred [(!)](#rematches) | ![Noctowl](../../assets/sprites/noctowl/front.gif "Noctowl")<br>[Noctowl](../../pokemon/noctowl.md/)<br>Lv. 30 | ![Arcanine](../../assets/sprites/arcanine/front.gif "Arcanine")<br>[Arcanine](../../pokemon/arcanine.md/)<br>Lv. 30 |
-| ![Sailor Huey [(!)](#rematches)](../../assets/trainers/sailor.png "Sailor Huey [(!)](#rematches)")<br>Sailor Huey [(!)](#rematches) | ![Crawdaunt](../../assets/sprites/crawdaunt/front.gif "Crawdaunt")<br>[Crawdaunt](../../pokemon/crawdaunt.md/)<br>Lv. 31 |
+| ![Gentleman Alfred (!)](../../assets/trainers/gentleman.png "Gentleman Alfred (!)")<br>Gentleman Alfred [(!)](#rematches) | ![Noctowl](../../assets/sprites/noctowl/front.gif "Noctowl")<br>[Noctowl](../../pokemon/noctowl.md/)<br>Lv. 30 | ![Arcanine](../../assets/sprites/arcanine/front.gif "Arcanine")<br>[Arcanine](../../pokemon/arcanine.md/)<br>Lv. 30 |
+| ![Sailor Huey (!)](../../assets/trainers/sailor.png "Sailor Huey (!)")<br>Sailor Huey [(!)](#rematches) | ![Crawdaunt](../../assets/sprites/crawdaunt/front.gif "Crawdaunt")<br>[Crawdaunt](../../pokemon/crawdaunt.md/)<br>Lv. 31 |
 | ![Bird Keeper Theo](../../assets/trainers/bird_keeper.png "Bird Keeper Theo")<br>Bird Keeper Theo | ![Dodrio](../../assets/sprites/dodrio/front.gif "Dodrio")<br>[Dodrio](../../pokemon/dodrio.md/)<br>Lv. 32 |
 | ![Gentleman Preston](../../assets/trainers/gentleman.png "Gentleman Preston")<br>Gentleman Preston | ![Ninetales](../../assets/sprites/ninetales/front.gif "Ninetales")<br>[Ninetales](../../pokemon/ninetales.md/)<br>Lv. 30 | ![Nidoking](../../assets/sprites/nidoking/front.gif "Nidoking")<br>[Nidoking](../../pokemon/nidoking.md/)<br>Lv. 30 |
 | ![Lass Connie](../../assets/trainers/lass.png "Lass Connie")<br>Lass Connie | ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill")<br>[Azumarill](../../pokemon/azumarill.md/)<br>Lv. 31 |

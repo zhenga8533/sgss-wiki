@@ -21,8 +21,8 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Bug Catcher Rob [(!)](#rematches)](../../assets/trainers/bug_catcher.png "Bug Catcher Rob [(!)](#rematches)")<br>Bug Catcher Rob [(!)](#rematches) | ![Scyther](../../assets/sprites/scyther/front.gif "Scyther")<br>[Scyther](../../pokemon/scyther.md/)<br>Lv. 60 | ![Pinsir](../../assets/sprites/pinsir/front.gif "Pinsir")<br>[Pinsir](../../pokemon/pinsir.md/)<br>Lv. 60 | <br>[Hercross](../../pokemon/hercross.md/)<br>Lv. 60 |
-| ![Bug Catcher Doug [(!)](#rematches)](../../assets/trainers/bug_catcher.png "Bug Catcher Doug [(!)](#rematches)")<br>Bug Catcher Doug [(!)](#rematches) | ![Forretress](../../assets/sprites/forretress/front.gif "Forretress")<br>[Forretress](../../pokemon/forretress.md/)<br>Lv. 63 |
+| ![Bug Catcher Rob (!)](../../assets/trainers/bug_catcher.png "Bug Catcher Rob (!)")<br>Bug Catcher Rob [(!)](#rematches) | ![Scyther](../../assets/sprites/scyther/front.gif "Scyther")<br>[Scyther](../../pokemon/scyther.md/)<br>Lv. 60 | ![Pinsir](../../assets/sprites/pinsir/front.gif "Pinsir")<br>[Pinsir](../../pokemon/pinsir.md/)<br>Lv. 60 | <br>[Hercross](../../pokemon/hercross.md/)<br>Lv. 60 |
+| ![Bug Catcher Doug (!)](../../assets/trainers/bug_catcher.png "Bug Catcher Doug (!)")<br>Bug Catcher Doug [(!)](#rematches) | ![Forretress](../../assets/sprites/forretress/front.gif "Forretress")<br>[Forretress](../../pokemon/forretress.md/)<br>Lv. 63 |
 
 
 ### Rematches

@@ -4,7 +4,7 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Fisherman Tully [(!)](#rematches)](../../assets/trainers/fisherman.png "Fisherman Tully [(!)](#rematches)")<br>Fisherman Tully [(!)](#rematches) | ![Qwilfish](../../assets/sprites/qwilfish/front.gif "Qwilfish")<br>[Qwilfish](../../pokemon/qwilfish.md/)<br>Lv. 37 | ![Octillery](../../assets/sprites/octillery/front.gif "Octillery")<br>[Octillery](../../pokemon/octillery.md/)<br>Lv. 37 |
+| ![Fisherman Tully (!)](../../assets/trainers/fisherman.png "Fisherman Tully (!)")<br>Fisherman Tully [(!)](#rematches) | ![Qwilfish](../../assets/sprites/qwilfish/front.gif "Qwilfish")<br>[Qwilfish](../../pokemon/qwilfish.md/)<br>Lv. 37 | ![Octillery](../../assets/sprites/octillery/front.gif "Octillery")<br>[Octillery](../../pokemon/octillery.md/)<br>Lv. 37 |
 | ![Poke Maniac Shane](../../assets/trainers/poke_maniac.png "Poke Maniac Shane")<br>Poke Maniac Shane | ![Nidoqueen](../../assets/sprites/nidoqueen/front.gif "Nidoqueen")<br>[Nidoqueen](../../pokemon/nidoqueen.md/)<br>Lv. 38 | ![Slowbro](../../assets/sprites/slowbro/front.gif "Slowbro")<br>[Slowbro](../../pokemon/slowbro.md/)<br>Lv. 38 |
 | ![Hiker Benjamin](../../assets/trainers/hiker.png "Hiker Benjamin")<br>Hiker Benjamin | ![Graveler](../../assets/sprites/graveler/front.gif "Graveler")<br>[Graveler](../../pokemon/graveler.md/)<br>Lv. 37 | ![Sudowoodo](../../assets/sprites/sudowoodo/front.gif "Sudowoodo")<br>[Sudowoodo](../../pokemon/sudowoodo.md/)<br>Lv. 37 | ![Forretress](../../assets/sprites/forretress/front.gif "Forretress")<br>[Forretress](../../pokemon/forretress.md/)<br>Lv. 37 |
 

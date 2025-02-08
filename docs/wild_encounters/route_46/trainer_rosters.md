@@ -6,7 +6,7 @@
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | ![Hiker Bailey](../../assets/trainers/hiker.png "Hiker Bailey")<br>Hiker Bailey | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 20 | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 20 | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 20 | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 20 | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude")<br>[Geodude](../../pokemon/geodude.md/)<br>Lv. 20 |
 | ![Camper Ted](../../assets/trainers/camper.png "Camper Ted")<br>Camper Ted | ![Parasect](../../assets/sprites/parasect/front.gif "Parasect")<br>[Parasect](../../pokemon/parasect.md/)<br>Lv. 24 |
-| ![Picnicker Erin [(!)](#rematches)](../../assets/trainers/picnicker.png "Picnicker Erin [(!)](#rematches)")<br>Picnicker Erin [(!)](#rematches) | ![Ponyta](../../assets/sprites/ponyta/front.gif "Ponyta")<br>[Ponyta](../../pokemon/ponyta.md/)<br>Lv. 22 | ![Pikachu](../../assets/sprites/pikachu/front.gif "Pikachu")<br>[Pikachu](../../pokemon/pikachu.md/)<br>Lv. 22 |
+| ![Picnicker Erin (!)](../../assets/trainers/picnicker.png "Picnicker Erin (!)")<br>Picnicker Erin [(!)](#rematches) | ![Ponyta](../../assets/sprites/ponyta/front.gif "Ponyta")<br>[Ponyta](../../pokemon/ponyta.md/)<br>Lv. 22 | ![Pikachu](../../assets/sprites/pikachu/front.gif "Pikachu")<br>[Pikachu](../../pokemon/pikachu.md/)<br>Lv. 22 |
 
 
 ### Rematches
