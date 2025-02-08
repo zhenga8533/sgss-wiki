@@ -21,6 +21,7 @@
 
 ### Important Trainers
 
+1. [Rival Silver](important_trainers.md#rival-silver)
 1. [(R1) Elite Four Will](important_trainers.md#r1-elite-four-will)
 1. [(R1) Elite Four Koga](important_trainers.md#r1-elite-four-koga)
 1. [(R1) Elite Four Bruno](important_trainers.md#r1-elite-four-bruno)

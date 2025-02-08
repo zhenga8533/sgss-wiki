@@ -19,11 +19,6 @@
 
 1. [Leader Bugsy](important_trainers.md#leader-bugsy)
 
-### Generic Trainers
+### Important Trainers
 
-| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
-|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Rival Silver](../../assets/important_trainers/silver.png "Rival Silver")<br>Rival Silver | ![Murkrow](../../assets/sprites/murkrow/front.gif "Murkrow")<br>Murkrow<br>Lv. 19 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly")<br>Gastly<br>Lv. 18 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra")<br>Kadabra<br>Lv. 18 | ![Bayleef](../../assets/sprites/bayleef/front.gif "Bayleef")<br>Bayleef<br>Lv. 21 |
-| ![Rival Silver](../../assets/important_trainers/silver.png "Rival Silver")<br>Rival Silver | ![Murkrow](../../assets/sprites/murkrow/front.gif "Murkrow")<br>Murkrow<br>Lv. 19 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly")<br>Gastly<br>Lv. 18 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra")<br>Kadabra<br>Lv. 18 | ![Quilava](../../assets/sprites/quilava/front.gif "Quilava")<br>Quilava<br>Lv. 21 |
-| ![Rival Silver](../../assets/important_trainers/silver.png "Rival Silver")<br>Rival Silver | ![Murkrow](../../assets/sprites/murkrow/front.gif "Murkrow")<br>Murkrow<br>Lv. 19 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly")<br>Gastly<br>Lv. 18 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra")<br>Kadabra<br>Lv. 18 | ![Croconaw](../../assets/sprites/croconaw/front.gif "Croconaw")<br>Croconaw<br>Lv. 21 |
-
+1. [Rival Silver](important_trainers.md#rival-silver)

@@ -16,14 +16,44 @@
 
 ## Cherrygrove City
 
-<h3>Generic Trainers</h3>
+<h3>Important Trainers</h3>
 
-1. Passerby Boy
-	1. Lv. 5 Chikorita
-1. Passerby Boy
-	1. Lv. 5 Cyndaquil
-1. Passerby Boy
-	1. Lv. 5 Totodile
+**Passerby Boy**
+
+![Passerby Boy](../assets/trainers/passerby_boy.png "Passerby Boy")
+
+=== "Totodile"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/chikorita/'>Chikorita</a></b> @ None
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Tackle
+	2. Growl
+	3. —
+	4. —</code></pre>
+
+=== "Chikorita"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/cyndaquil/'>Cyndaquil</a></b> @ None
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Tackle
+	2. Leer
+	3. —
+	4. —</code></pre>
+
+=== "Cyndaquil"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/totodile/'>Totodile</a></b> @ None
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Scratch
+	2. Leer
+	3. —
+	4. —</code></pre>
 
 
 ---
@@ -464,23 +494,107 @@
 
 ## Azalea Town
 
-<h3>Generic Trainers</h3>
+<h3>Important Trainers</h3>
 
-1. Rival Silver
-	1. Lv. 19 Murkrow
-	2. Lv. 18 Gastly
-	3. Lv. 18 Kadabra
-	4. Lv. 21 Bayleef
-1. Rival Silver
-	1. Lv. 19 Murkrow
-	2. Lv. 18 Gastly
-	3. Lv. 18 Kadabra
-	4. Lv. 21 Quilava
-1. Rival Silver
-	1. Lv. 19 Murkrow
-	2. Lv. 18 Gastly
-	3. Lv. 18 Kadabra
-	4. Lv. 21 Croconaw
+**Rival Silver**
+
+![Rival Silver](../assets/important_trainers/silver.png "Rival Silver")
+
+=== "Totodile"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/bayleef/'>Bayleef</a></b> @ None
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 21
+	<b>Moves:</b>
+	1. Synthesis
+	2. Reflect
+	3. Nature Power
+	4. Grass Whistle<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 19
+	<b>Moves:</b>
+	1. Wing Attack
+	2. Astonish
+	3. Haze
+	4. Pursuit<br><br><b><a href='/sgss-wiki/pokemon/gastly/'>Gastly</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Lick
+	2. Curse
+	3. Spite
+	4. Mean Look<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Kinesis
+	2. Disable
+	3. Confusion
+	4. Teleport</code></pre>
+
+=== "Chikorita"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/quilava/'>Quilava</a></b> @ None
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 21
+	<b>Moves:</b>
+	1. Flame Wheel
+	2. Quick Attack
+	3. Ember
+	4. Smokescreen<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 19
+	<b>Moves:</b>
+	1. Wing Attack
+	2. Astonish
+	3. Haze
+	4. Pursuit<br><br><b><a href='/sgss-wiki/pokemon/gastly/'>Gastly</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Lick
+	2. Curse
+	3. Spite
+	4. Mean Look<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Kinesis
+	2. Disable
+	3. Confusion
+	4. Teleport</code></pre>
+
+=== "Cyndaquil"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/croconaw/'>Croconaw</a></b> @ None
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 21
+	<b>Moves:</b>
+	1. Rage
+	2. Bite
+	3. Scary Face
+	4. Ice Fang<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 19
+	<b>Moves:</b>
+	1. Wing Attack
+	2. Astonish
+	3. Haze
+	4. Pursuit<br><br><b><a href='/sgss-wiki/pokemon/gastly/'>Gastly</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Lick
+	2. Curse
+	3. Spite
+	4. Mean Look<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 18
+	<b>Moves:</b>
+	1. Kinesis
+	2. Disable
+	3. Confusion
+	4. Teleport</code></pre>
 
 
 ---
@@ -931,24 +1045,6 @@
 
 <h3>Generic Trainers</h3>
 
-1. Rival Silver
-	1. Lv. 25 Murkrow
-	2. Lv. 24 Magby
-	3. Lv. 25 Haunter
-	4. Lv. 26 Kadabra
-	5. Lv. 27 Bayleef
-1. Rival Silver
-	1. Lv. 25 Murkrow
-	2. Lv. 24 Elekid
-	3. Lv. 25 Haunter
-	4. Lv. 26 Kadabra
-	5. Lv. 27 Quilava
-1. Rival Silver
-	1. Lv. 25 Murkrow
-	2. Lv. 24 Elekid
-	3. Lv. 25 Haunter
-	4. Lv. 26 Kadabra
-	5. Lv. 27 Croconaw
 1. Firebreather Ned
 	1. Lv. 25 Koffing
 	2. Lv. 25 Numel
@@ -957,6 +1053,129 @@
 	1. Lv. 25 Magby
 	2. Lv. 25 Slowpoke
 	3. Lv. 25 Charmeleon
+
+<h3>Important Trainers</h3>
+
+**Rival Silver**
+
+![Rival Silver](../assets/important_trainers/silver.png "Rival Silver")
+
+=== "Totodile"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/magby/'>Magby</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 24
+	<b>Moves:</b>
+	1. Ember
+	2. Feint Attack
+	3. Smokescreen
+	4. Fire Spin<br><br><b><a href='/sgss-wiki/pokemon/bayleef/'>Bayleef</a></b> @ None
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 27
+	<b>Moves:</b>
+	1. Reflect
+	2. Magical Leaf
+	3. Nature Power
+	4. Natural Gift<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Night Shade
+	2. Haze
+	3. Wing Attack
+	4. Assurance<br><br><b><a href='/sgss-wiki/pokemon/haunter/'>Haunter</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Ominous Wind
+	2. Confuse Ray
+	3. Shadow Punch
+	4. Sucker Punch<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 26
+	<b>Moves:</b>
+	1. Psybeam
+	2. Miracle Eye
+	3. Disable
+	4. Confusion</code></pre>
+
+=== "Chikorita"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/elekid/'>Elekid</a></b> @ None
+	<b>Ability:</b> Static
+	<b>Level:</b> 24
+	<b>Moves:</b>
+	1. Light Screen
+	2. Shock Wave
+	3. Swift
+	4. Low Kick<br><br><b><a href='/sgss-wiki/pokemon/quilava/'>Quilava</a></b> @ None
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 27
+	<b>Moves:</b>
+	1. Defense Curl
+	2. Flame Wheel
+	3. Quick Attack
+	4. Ember<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Night Shade
+	2. Haze
+	3. Wing Attack
+	4. Assurance<br><br><b><a href='/sgss-wiki/pokemon/haunter/'>Haunter</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Ominous Wind
+	2. Confuse Ray
+	3. Shadow Punch
+	4. Sucker Punch<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 26
+	<b>Moves:</b>
+	1. Psybeam
+	2. Miracle Eye
+	3. Disable
+	4. Confusion</code></pre>
+
+=== "Cyndaquil"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/elekid/'>Elekid</a></b> @ None
+	<b>Ability:</b> Static
+	<b>Level:</b> 24
+	<b>Moves:</b>
+	1. Light Screen
+	2. Shock Wave
+	3. Swift
+	4. Low Kick<br><br><b><a href='/sgss-wiki/pokemon/croconaw/'>Croconaw</a></b> @ None
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 27
+	<b>Moves:</b>
+	1. Flail
+	2. Ice Fang
+	3. Scary Face
+	4. Bite<br><br><b><a href='/sgss-wiki/pokemon/murkrow/'>Murkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Night Shade
+	2. Haze
+	3. Wing Attack
+	4. Assurance<br><br><b><a href='/sgss-wiki/pokemon/haunter/'>Haunter</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 25
+	<b>Moves:</b>
+	1. Ominous Wind
+	2. Confuse Ray
+	3. Shadow Punch
+	4. Sucker Punch<br><br><b><a href='/sgss-wiki/pokemon/kadabra/'>Kadabra</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 26
+	<b>Moves:</b>
+	1. Psybeam
+	2. Miracle Eye
+	3. Disable
+	4. Confusion</code></pre>
 
 
 ---
@@ -2655,18 +2874,6 @@
 1. Twins Clea & Gil
 	1. Lv. 47 Vibrava
 	2. Lv. 47 Altaria
-1. Rival Silver
-	1. Lv. 78 Meganium
-	2. Lv. 77 Kingdra
-	3. Lv. 77 Magmortar
-1. Rival Silver
-	1. Lv. 78 Typhlosion
-	2. Lv. 77 Electivire
-	3. Lv. 77 Kingdra
-1. Rival Silver
-	1. Lv. 78 Feraligatr
-	2. Lv. 77 Electivire
-	3. Lv. 77 Magmortar
 
 <h3>Important Trainers</h3>
 
@@ -2723,6 +2930,85 @@
 2. Outrage
 3. Fire Blast
 4. Earthquake</code></pre>
+
+**Rival Silver**
+
+![Rival Silver](../assets/important_trainers/silver.png "Rival Silver")
+
+=== "Totodile"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/meganium/'>Meganium</a></b> @ None
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Swords Dance
+	2. Reflect
+	3. Seed Bomb
+	4. Earthquake<br><br><b><a href='/sgss-wiki/pokemon/kingdra/'>Kingdra</a></b> @ None
+	<b>Ability:</b> Swift Swim
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Surf
+	2. Ice Beam
+	3. Dragon Pulse
+	4. Double Team<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Flamethrower
+	2. Psychic
+	3. Thunderbolt
+	4. Focus Blast</code></pre>
+
+=== "Chikorita"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/typhlosion/'>Typhlosion</a></b> @ None
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Eruption
+	2. Fire Blast
+	3. Focus Blast
+	4. Earthquake<br><br><b><a href='/sgss-wiki/pokemon/kingdra/'>Kingdra</a></b> @ None
+	<b>Ability:</b> Swift Swim
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Surf
+	2. Ice Beam
+	3. Dragon Pulse
+	4. Double Team<br><br><b><a href='/sgss-wiki/pokemon/electivire/'>Electivire</a></b> @ None
+	<b>Ability:</b> Motor Drive
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Thunder Punch
+	2. Ice Punch
+	3. Earthquake
+	4. Brick Break</code></pre>
+
+=== "Cyndaquil"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/feraligatr/'>Feraligatr</a></b> @ None
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Aqua Tail
+	2. Ice Fang
+	3. Earthquake
+	4. Rock Slide<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Flamethrower
+	2. Psychic
+	3. Thunderbolt
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/electivire/'>Electivire</a></b> @ None
+	<b>Ability:</b> Motor Drive
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Thunder Punch
+	2. Ice Punch
+	3. Earthquake
+	4. Brick Break</code></pre>
 
 
 ---
@@ -3123,6 +3409,169 @@
 	6. Lv. 78 Feraligatr
 
 <h3>Important Trainers</h3>
+
+**Rival Silver**
+
+![Rival Silver](../assets/important_trainers/silver.png "Rival Silver")
+
+=== "Totodile"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/kingdra/'>Kingdra</a></b> @ None
+	<b>Ability:</b> Swift Swim
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Hydro Pump
+	2. Yawn
+	3. Dragon Pulse
+	4. Ice Beam<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Swagger
+	3. Thunderbolt
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/meganium/'>Meganium</a></b> @ None
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Swords Dance
+	2. Reflect
+	3. Seed Bomb
+	4. Earthquake<br><br><b><a href='/sgss-wiki/pokemon/honchkrow/'>Honchkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Drill Peck
+	2. Dark Pulse
+	3. Nasty Plot
+	4. Heat Wave<br><br><b><a href='/sgss-wiki/pokemon/gengar/'>Gengar</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Thunderbolt
+	3. Destiny Bond
+	4. Energy Ball<br><br><b><a href='/sgss-wiki/pokemon/alakazam/'>Alakazam</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Psychic
+	2. Recover
+	3. Energy Ball
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Swagger
+	3. Thunderbolt
+	4. Focus Blast</code></pre>
+
+=== "Chikorita"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/kingdra/'>Kingdra</a></b> @ None
+	<b>Ability:</b> Swift Swim
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Hydro Pump
+	2. Yawn
+	3. Dragon Pulse
+	4. Ice Beam<br><br><b><a href='/sgss-wiki/pokemon/electivire/'>Electivire</a></b> @ None
+	<b>Ability:</b> Motor Drive
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Thunder
+	2. Ice Punch
+	3. Earthquake
+	4. Light Screen<br><br><b><a href='/sgss-wiki/pokemon/typhlosion/'>Typhlosion</a></b> @ None
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Focus Blast
+	3. Thunder Punch
+	4. Low Kick<br><br><b><a href='/sgss-wiki/pokemon/honchkrow/'>Honchkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Drill Peck
+	2. Dark Pulse
+	3. Nasty Plot
+	4. Heat Wave<br><br><b><a href='/sgss-wiki/pokemon/gengar/'>Gengar</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Thunderbolt
+	3. Destiny Bond
+	4. Energy Ball<br><br><b><a href='/sgss-wiki/pokemon/alakazam/'>Alakazam</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Psychic
+	2. Recover
+	3. Energy Ball
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Swagger
+	3. Thunderbolt
+	4. Focus Blast</code></pre>
+
+=== "Cyndaquil"
+
+	<pre><code><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Swagger
+	3. Thunderbolt
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/electivire/'>Electivire</a></b> @ None
+	<b>Ability:</b> Motor Drive
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Thunder
+	2. Ice Punch
+	3. Earthquake
+	4. Light Screen<br><br><b><a href='/sgss-wiki/pokemon/feraligatr/'>Feraligatr</a></b> @ None
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 78
+	<b>Moves:</b>
+	1. Waterfall
+	2. Crunch
+	3. Ice Fang
+	4. Earthquake<br><br><b><a href='/sgss-wiki/pokemon/honchkrow/'>Honchkrow</a></b> @ None
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Drill Peck
+	2. Dark Pulse
+	3. Nasty Plot
+	4. Heat Wave<br><br><b><a href='/sgss-wiki/pokemon/gengar/'>Gengar</a></b> @ None
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Thunderbolt
+	3. Destiny Bond
+	4. Energy Ball<br><br><b><a href='/sgss-wiki/pokemon/alakazam/'>Alakazam</a></b> @ None
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 76
+	<b>Moves:</b>
+	1. Psychic
+	2. Recover
+	3. Energy Ball
+	4. Focus Blast<br><br><b><a href='/sgss-wiki/pokemon/magmortar/'>Magmortar</a></b> @ None
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 77
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Swagger
+	3. Thunderbolt
+	4. Focus Blast</code></pre>
 
 **(R1) Elite Four Will**
 
@@ -5420,7 +5869,7 @@
 	3. Lv. 76 Rhyperior
 	4. Lv. 80 Tyranitar
 	5. Lv. 80 Nidoking
-	6. Lv. 80, Nidoqueen
+	6. Lv. 80 Nidoqueen
 
 
 ---

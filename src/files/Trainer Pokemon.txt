@@ -12,6 +12,11 @@ Passerby Boy                 Chikorita Lv. 5
 Passerby Boy                 Cyndaquil Lv. 5
 Passerby Boy                 Totodile Lv. 5
 
+Passerby Boy
+Chikorita (Lv. 5) @ None            /   Overgrow        /   Tackle, Growl (!)
+Cyndaquil (Lv. 5) @ None            /   Blaze           /   Tackle, Leer (!)
+Totodile (Lv. 5) @ None             /   Torrent         /   Scratch, Leer (!)
+
 Route 30
 =================================================================================================================================================
 Youngster Joey (!)           Rattata Lv. 7
@@ -138,6 +143,14 @@ Azalea Town
 Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Bayleef Lv. 21
 Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Quilava Lv. 21
 Rival Silver                        Murkrow Lv. 19, Gastly Lv. 18, Kadabra Lv. 18, Croconaw Lv. 21
+
+Rival Silver
+Murkrow (Lv. 19) @ None             /   Insomnia         /   Wing Attack, Astonish, Haze, Pursuit
+Gastly (Lv. 18) @ None              /   Levitate         /   Lick, Curse, Spite, Mean Look
+Kadabra (Lv. 18) @ None             /   Synchronize      /   Kinesis, Disable, Confusion, Teleport
+Bayleef (Lv. 21) @ None             /   Torrent          /   Synthesis, Reflect, Nature Power, Grass Whistle (!)
+Quilava (Lv. 21) @ None             /   Blaze            /   Flame Wheel, Quick Attack, Ember, Smokescreen (!)
+Croconaw (Lv. 21) @ None            /   Overgrow         /   Rage, Bite, Scary Face, Ice Fang (!)
 
 Route 34
 =================================================================================================================================================
@@ -266,6 +279,17 @@ Rival Silver                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 2
 Rival Silver                        Murkrow Lv. 25, Elekid Lv. 24, Haunter Lv. 25, Kadabra Lv. 26, Croconaw Lv. 27
 Firebreather Ned             Koffing Lv. 25, Numel Lv. 25, Quilava Lv. 25
 Firebreather Richard         Magby Lv. 25, Slowpoke Lv. 25, Charmeleon Lv. 25
+
+Rival Silver
+Murkrow (Lv. 25) @ None             /   Insomnia         /   Night Shade, Haze, Wing Attack, Assurance
+Magby (Lv. 24) @ None               /   Flame Body       /   Ember, Feint Attack, Smokescreen, Fire Spin (!)
+Elekid (Lv. 24) @ None              /   Static           /   Light Screen, Shock Wave, Swift, Low Kick (!)
+Elekid (Lv. 24) @ None              /   Static           /   Light Screen, Shock Wave, Swift, Low Kick (!)
+Haunter (Lv. 25) @ None             /   Levitate         /   Ominous Wind, Confuse Ray, Shadow Punch, Sucker Punch
+Kadabra (Lv. 26) @ None             /   Synchronize      /   Psybeam, Miracle Eye, Disable, Confusion
+Bayleef (Lv. 27) @ None             /   Torrent          /   Reflect, Magical Leaf, Nature Power, Natural Gift (!)
+Quilava (Lv. 27) @ None             /   Blaze            /   Defense Curl, Flame Wheel, Quick Attack, Ember (!)
+Croconaw (Lv. 27) @ None            /   Overgrow         /   Flail, Ice Fang, Scary Face, Bite (!)
 
 Ecruteak City (City)
 =================================================================================================================================================
@@ -706,6 +730,17 @@ Dragonite (Lv. 88) @ None           /   Inner Focus     /   Agility, Outrage, Fi
 Rival Silver                        Meganium Lv. 78, Kingdra Lv. 77, Magmortar Lv. 77
 Rival Silver                        Typhlosion Lv. 78, Electivire Lv. 77, Kingdra Lv. 77
 Rival Silver                        Feraligatr Lv. 78, Electivire Lv. 77, Magmortar Lv. 77
+
+Rival Silver
+Meganium (Lv. 78) @ None            /   Overgrow        /   Swords Dance, Reflect, Seed Bomb, Earthquake (!)
+Typhlosion (Lv. 78) @ None          /   Blaze           /   Eruption, Fire Blast, Focus Blast, Earthquake (!)
+Feraligatr (Lv. 78) @ None          /   Torrent         /   Aqua Tail, Ice Fang, Earthquake, Rock Slide (!)
+Kingdra (Lv. 77) @ None             /   Swift Swim      /   Surf, Ice Beam, Dragon Pulse, Double Team (!)
+Kingdra (Lv. 77) @ None             /   Swift Swim      /   Surf, Ice Beam, Dragon Pulse, Double Team (!)
+Magmortar (Lv. 77) @ None           /   Flame Body      /   Flamethrower, Psychic, Thunderbolt, Focus Blast (!)
+Magmortar (Lv. 77) @ None           /   Flame Body      /   Flamethrower, Psychic, Thunderbolt, Focus Blast (!)
+Electivire (Lv. 77) @ None          /   Motor Drive     /   Thunder Punch, Ice Punch, Earthquake, Brick Break (!)
+Electivire (Lv. 77) @ None          /   Motor Drive     /   Thunder Punch, Ice Punch, Earthquake, Brick Break (!)
  
 Route 27
 =================================================================================================================================================
@@ -783,6 +818,21 @@ Champion Lance               Gyarados Lv. 84, Garchomp Lv. 80, Tyranitar Lv. 82,
 Rival Silver (MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Kingdra Lv. 77, Meganium Lv. 78
 Rival Silver (MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Kingdra Lv. 77, Electivire Lv. 77, Typhlosion Lv. 78
 Rival Silver (MW)                    Honchkrow Lv. 77, Gengar Lv. 76, Alakazam Lv. 76, Magmortar Lv. 77, Electivire Lv. 77, Feraligatr Lv. 78
+
+Rival Silver
+Honchkrow (Lv. 77) @ None           /   Insomnia        /   Drill Peck, Dark Pulse, Nasty Plot, Heat Wave
+Gengar (Lv. 76) @ None              /   Levitate        /   Shadow Ball, Thunderbolt, Destiny Bond, Energy Ball
+Alakazam (Lv. 76) @ None            /   Synchronize     /   Psychic, Recover, Energy Ball, Focus Blast
+Magmortar (Lv. 77) @ None           /   Flame Body      /   Fire Blast, Swagger, Thunderbolt, Focus Blast
+Kingdra (Lv. 77) @ None             /   Swift Swim      /   Hydro Pump, Yawn, Dragon Pulse, Ice Beam (!)
+Kingdra (Lv. 77) @ None             /   Swift Swim      /   Hydro Pump, Yawn, Dragon Pulse, Ice Beam (!)
+Magmortar (Lv. 77) @ None           /   Flame Body      /   Fire Blast, Swagger, Thunderbolt, Focus Blast (!)
+Magmortar (Lv. 77) @ None           /   Flame Body      /   Fire Blast, Swagger, Thunderbolt, Focus Blast (!)
+Electivire (Lv. 77) @ None          /   Motor Drive     /   Thunder, Ice Punch, Earthquake, Light Screen (!)
+Electivire (Lv. 77) @ None          /   Motor Drive     /   Thunder, Ice Punch, Earthquake, Light Screen (!)
+Meganium (Lv. 78) @ None            /   Overgrow        /   Swords Dance, Reflect, Seed Bomb, Earthquake (!)
+Typhlosion (Lv. 78) @ None          /   Blaze           /   Fire Blast, Focus Blast, Thunder Punch, Low Kick (!)
+Feraligatr (Lv. 78) @ None          /   Torrent         /   Waterfall, Crunch, Ice Fang, Earthquake (!)
 
 (R1) Elite Four Will
 Jynx (Lv. 53) @ None                /   Dry Skin        /   Ice Beam, Psychic, Focus Blast, Lovely Kiss
@@ -1335,7 +1385,7 @@ Executive Proton             Electrode Lv. 71, Cacturne Lv. 68, Tauros Lv. 68, C
 Executive Petrel             Raticate Lv. 72, Tangrowth Lv. 68, Skuntank Lv. 70, Toxicroak Lv. 72, Hypno Lv. 73, Weezing Lv. 75
 Executive Ariana             Jynx Lv. 72, Milotic Lv. 70, Purugly Lv. 72, Arbok Lv. 74, Vileplume Lv. 74, Honchkrow Lv. 76
 Executive Archer             Zangoose Lv. 77, Drapion Lv. 73, Gyarados Lv. 73, Scizor Lv. 75, Machamp Lv. 75, Houndoom Lv. 78
-Rocket Boss Giovanni         Persian Lv. 82, Kangaskhan Lv. 76, Rhyperior Lv. 76, Tyranitar Lv. 80, Nidoking Lv. 80, Nidoqueen Lv. 80, 
+Rocket Boss Giovanni         Persian Lv. 82, Kangaskhan Lv. 76, Rhyperior Lv. 76, Tyranitar Lv. 80, Nidoking Lv. 80, Nidoqueen Lv. 80
 
 Mt. Silver Cave
 =================================================================================================================================================

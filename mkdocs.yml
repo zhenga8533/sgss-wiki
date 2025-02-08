@@ -55,6 +55,7 @@ nav:
       - Trainer Pokémon: mechanics/trainer_pokemon.md
   - Wild Encounters:
       - Cherrygrove City:
+          - Trainer Rosters: wild_encounters/cherrygrove_city/important_trainers.md
           - Trainer Rosters: wild_encounters/cherrygrove_city/trainer_rosters.md
       - Route 30:
           - Trainer Rosters: wild_encounters/route_30/trainer_rosters.md
@@ -98,6 +99,7 @@ nav:
       - Route 37:
           - Trainer Rosters: wild_encounters/route_37/trainer_rosters.md
       - Burned Tower:
+          - Important Trainers: wild_encounters/burned_tower/important_trainers.md
           - Trainer Rosters: wild_encounters/burned_tower/trainer_rosters.md
       - Ecruteak City:
           - Important Trainers: wild_encounters/ecruteak_city/important_trainers.md
