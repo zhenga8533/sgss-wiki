@@ -5,7 +5,7 @@ from util.format import find_pokemon_sprite, find_trainer_sprite, format_id
 from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
-from util.pokemon import get_pokemon
+import json
 import logging
 import os
 import re
@@ -53,8 +53,9 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
     # Load pokemon data
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     pokemon_id = format_id(name)
-    pokemon_data = get_pokemon(pokemon_id)
+    pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
     pokemon_types = pokemon_data["types"]
     pokemon_text = pokemon_data["flavor_text_entries"].get("heartgold", name).replace("\n", " ")
 
@@ -77,15 +78,15 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     sprite = (
         find_pokemon_sprite(name, "front").replace(f'"{name}"', f'"{name}: {pokemon_text}"').replace("../", "../../")
     )
-    table = f"| {sprite} | "
-    table += "<br>".join(f'![{t}](../../assets/types/{t}.png "{t.title()}")' for t in pokemon_types)
+    table = f"| " + sprite
     # table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
     table += f" | **Lv. {level}** {name}<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
+    table += " ".join(f'![{t}](../../assets/types/{t}.png "{t.title()}")' for t in pokemon_types)
     table += (
-        f'| ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
+        f' | ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
         if item != "None"
-        else "| None | "
+        else " | None | "
     )
 
     # Load move data
@@ -173,8 +174,8 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
         trainer_rosters += "\n### Important Trainers\n\n"
-        table_head = f"| Pokémon | Type | Attributes | Item | Moves |\n"
-        table_head += "|:-------:|:----:|------------|:----:|-------|\n"
+        table_head = f"| Pokémon | Attributes | Item | Moves |\n"
+        table_head += "|:-------:|------------|:----:|-------|\n"
         curr_trainer = None
 
         # Seperate important trainers with different rosters
