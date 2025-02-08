@@ -8,9 +8,9 @@
 1. Some trainers have a (!) next to their name. This means that they have further rosters via the Pokegear.
 1. The Rival Silver at the Pokemon League has (MW) next the name. This eans he's only battleable on Monday and Wednesday.
 1. As the note above mentioned, some trainers have a letter and time stamp next to their name (Ex. M10a-8p). This means they can only be rematched on that certain day and time stamp.
-1. Bug Catcher Wade's rematch battles 1 and 2 are swapped(probably a bug). Keep that in mind if you ever rematch him.
-1. Bird Keeper Jose's first rematch battle is using the base game roster(probably a bug).
-1. The (Gym) Leader rematches have their day and time. Put that there in case you wanted to fight them outside the Battle Marathon.
+1. Bug Catcher Wade's rematch battles 1 and 2 are swapped (probably a bug). Keep that in mind if you ever rematch him.
+1. Bird Keeper Jose's first rematch battle is using the base game roster (probably a bug).
+1. The Gym Leader rematches have their day and time. Put that there in case you wanted to fight them outside the Battle Marathon.
 
 ---
 
