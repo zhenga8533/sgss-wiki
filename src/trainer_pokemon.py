@@ -71,7 +71,8 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     pokemon_id = format_id(name)
     sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
     table = f"| {sprite} "
-    table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
+    # table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
+    table += f"| **Lv. {level}** {name}<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
     table += (
         f'| ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
@@ -122,10 +123,11 @@ def parse_trainer_roster(trainers: list, logger: Logger) -> tuple:
             pokemon_id = format_id(pokemon_name)
             pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
 
-            md += f"\n\t{i}. Lv. {level} [{pokemon_name}](../pokemon/{pokemon_id}.md/)"
-            trainer_rosters += (
-                f"| {pokemon_sprite}<br>[{pokemon_name}](../../pokemon/{pokemon_id}.md/)<br>Lv. {level} "
-            )
+            pokemon_link = f"../pokemon/{pokemon_id}.md/"
+            # md += f"\n\t{i}. Lv. {level} [{pokemon_name}]({pokemon_link})"
+            md += f"\n\t{i}. Lv. {level} {pokemon_name}"
+            # trainer_rosters += f"| {pokemon_sprite}<br>[{pokemon_name}](../{pokemon_link})<br>Lv. {level} "
+            trainer_rosters += f"| {pokemon_sprite}<br>{pokemon_name}<br>Lv. {level} "
         md += "\n"
         trainer_rosters += "|\n"
     md += "\n"

@@ -675,9 +675,9 @@ Ace Trainer Lola             Dragonair Lv. 47, Gabite Lv. 47
 Ace Trainer Cody             Vibrava Lv. 47, Altaria Lv. 47
 Ace Trainer Fran             Flygon Lv. 48
 Ace Trainer Mike             Shelgon Lv. 48
-Leader Claire                Dragonair Lv. 48, Dragonair Lv. 48, Gyarados Lv. 48, Altaria Lv. 48, Salamence Lv. 50, Kingdra Lv. 50
+Leader Clair                Dragonair Lv. 48, Dragonair Lv. 48, Gyarados Lv. 48, Altaria Lv. 48, Salamence Lv. 50, Kingdra Lv. 50
  
-Leader Claire
+Leader Clair
 Dragonair (Lv. 48) @ None           /   Shed Skin       /   Thunder Wave, Surf, Fire Blast, Dragon Pulse
 Dragonair (Lv. 48) @ None           /   Shed Skin       /   Extreme Speed, Aqua Tail, Outrage, Dragon Pulse
 Gyarados (Lv. 48) @ None            /   Intimidate      /   Dragon Dance, Outrage, Waterfall, Earthquake
@@ -690,10 +690,10 @@ Dragon's Den
 Ace Trainer Kobe             Dragonair Lv. 47
 Ace Trainer Piper            Gabite Lv. 46, Dragonair Lv. 46, Shelgon Lv. 46
 Twins Clea & Gil             Vibrava Lv. 47, Altaria Lv. 47
-Leader Claire                Gyarados Lv. 76, Salamence Lv. 76, Kingdra Lv. 78
+Leader Clair                Gyarados Lv. 76, Salamence Lv. 76, Kingdra Lv. 78
 Champion Lance               Charizard Lv. 84, Flygon Lv. 84, Dragonite Lv. 88
 
-Leader Claire
+Leader Clair
 Gyarados (Lv. 76) @ None            /   Intimidate      /   Dragon Dance, Stone Edge, Earthquake, Waterfall
 Salamence (Lv. 76) @ None           /   Intimidate      /   Outrage, Hydro Pump, Draco Meteor, Dragon Pulse
 Kingdra (Lv. 78) @ None             /   Sniper          /   Dragon Dance, Waterfall, Outrage, Draco Meteor
@@ -1320,7 +1320,7 @@ Leader Morty (T8p-3:59a)     Drifblim Lv. 72, Dusknoir Lv. 68, Banette Lv. 70, S
 Leader Chuck (W8p-3:59a)     Hariyama Lv. 73, Medicham Lv. 70, Breloom Lv. 70, Blaziken Lv. 72, Primeape Lv. 73, Poliwrath Lv. 75
 Leader Jasmine (W10a–7:59p)  Metagross Lv. 72, Empoleon Lv. 68, Aggron Lv. 68, Skarmory Lv. 70, Magnezone Lv. 74, Steelix Lv. 78
 Leader Pryce (M4-9:59a)      Abomasnow Lv. 72, Walrein Lv. 70, Cloyster Lv. 72, Dewgong Lv. 74, Lapras Lv. 74, Mamoswine Lv. 76  
-Leader Claire (F8p-3:59a)    Dragonair Lv. 72, Aerodactyl Lv. 72, Altaria Lv. 74, Gyarados Lv. 76, Salamence Lv. 76, Kingdra Lv. 78
+Leader Clair (F8p-3:59a)    Dragonair Lv. 72, Aerodactyl Lv. 72, Altaria Lv. 74, Gyarados Lv. 76, Salamence Lv. 76, Kingdra Lv. 78
 Leader Brock (Sa8p-3:59a)    Rampardos Lv. 69, Probopass Lv. 66, Sudowoodo Lv. 71, Kabutops Lv. 71, Omastar Lv. 71, Steelix Lv. 73 
 Leader Misty (W4-9:59a)      Politoed Lv. 68, Gorebyss Lv. 68, Lanturn Lv. 68, Quagsire Lv. 68, Milotic Lv. 72, Starmie Lv. 72
 Leader Lt. Surge (F4-9:59a)  Electrode Lv. 72, Luxray Lv. 70, Manectric Lv. 70, Electivire Lv. 72, Magnezone Lv. 72, Raichu Lv. 74 

@@ -41,6 +41,9 @@ extra_css:
 nav:
   - Getting Started:
       - Home: index.md
+      - Changelog: getting_started/changelog.md
+      - Download Links: getting_started/download_links.md
+      - Known Bugs: getting_started/known_bugs.md
       - Patching Guide: getting_started/patching_guide.md
   - Mechanics:
       - Action Replay Codes: mechanics/action_replay_codes.md
@@ -106,8 +109,6 @@ nav:
       - Olivine City:
           - Important Trainers: wild_encounters/olivine_city/important_trainers.md
           - Trainer Rosters: wild_encounters/olivine_city/trainer_rosters.md
-      - Olivine Lighthouse:
-          - Trainer Rosters: wild_encounters/olivine_lighthouse/trainer_rosters.md
       - Route 40:
           - Trainer Rosters: wild_encounters/route_40/trainer_rosters.md
       - Route 41:
@@ -166,7 +167,7 @@ nav:
       - Route 6:
           - Trainer Rosters: wild_encounters/route_6/trainer_rosters.md
       - Route 2:
-          - Trainer Rosters: wild_encounters/route_2_north/trainer_rosters.md
+          - Trainer Rosters: wild_encounters/route_2/trainer_rosters.md
       - Route 3:
           - Trainer Rosters: wild_encounters/route_3/trainer_rosters.md
       - Pewter City:
@@ -227,8 +228,6 @@ nav:
           - Trainer Rosters: wild_encounters/route_21/trainer_rosters.md
       - Route 1:
           - Trainer Rosters: wild_encounters/route_1/trainer_rosters.md
-      - Route 2 ~ South:
-          - Trainer Rosters: wild_encounters/route_2_south/trainer_rosters.md
       - Viridian City:
           - Important Trainers: wild_encounters/viridian_city/important_trainers.md
           - Trainer Rosters: wild_encounters/viridian_city/trainer_rosters.md
