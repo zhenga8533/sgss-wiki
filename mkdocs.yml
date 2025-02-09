@@ -54,189 +54,293 @@ nav:
       - Special Event Guide: mechanics/special_event_guide.md
       - Trainer Pokémon: mechanics/trainer_pokemon.md
   - Wild Encounters:
+      - New Bark Town:
+          - Wild Pokémon: wild_encounters/new_bark_town/wild_pokemon.md
+      - Route 29:
+          - Wild Pokémon: wild_encounters/route_29/wild_pokemon.md
+      - Route 46:
+          - Wild Pokémon: wild_encounters/route_46/wild_pokemon.md
+          - Trainer Rosters: wild_encounters/route_46/trainer_rosters.md
       - Cherrygrove City:
           - Trainer Rosters: wild_encounters/cherrygrove_city/important_trainers.md
           - Trainer Rosters: wild_encounters/cherrygrove_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/cherrygrove_city/wild_pokemon.md
       - Route 30:
           - Trainer Rosters: wild_encounters/route_30/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_30/wild_pokemon.md
       - Route 31:
           - Trainer Rosters: wild_encounters/route_31/trainer_rosters.md
-      - Sprout Tower:
-          - Trainer Rosters: wild_encounters/sprout_tower/trainer_rosters.md
-      - Ruins of Alph:
-          - Trainer Rosters: wild_encounters/ruins_of_alph/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_31/wild_pokemon.md
+      - Dark Cave:
+          - Wild Pokémon: wild_encounters/dark_cave/wild_pokemon.md
       - Violet City:
           - Important Trainers: wild_encounters/violet_city/important_trainers.md
           - Trainer Rosters: wild_encounters/violet_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/violet_city/wild_pokemon.md
       - Route 32:
           - Trainer Rosters: wild_encounters/route_32/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_32/wild_pokemon.md
+      - Ruins of Alph:
+          - Trainer Rosters: wild_encounters/ruins_of_alph/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/ruins_of_alph/wild_pokemon.md
+      - Sprout Tower:
+          - Trainer Rosters: wild_encounters/sprout_tower/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/sprout_tower/wild_pokemon.md
       - Union Cave:
           - Trainer Rosters: wild_encounters/union_cave/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/union_cave/wild_pokemon.md
       - Route 33:
           - Trainer Rosters: wild_encounters/route_33/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_33/wild_pokemon.md
       - Slowpoke Well:
           - Important Trainers: wild_encounters/slowpoke_well/important_trainers.md
           - Trainer Rosters: wild_encounters/slowpoke_well/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/slowpoke_well/wild_pokemon.md
+      - Ilex Forest:
+          - Wild Pokémon: wild_encounters/ilex_forest/wild_pokemon.md
       - Azalea Town:
           - Important Trainers: wild_encounters/azalea_town/important_trainers.md
           - Trainer Rosters: wild_encounters/azalea_town/trainer_rosters.md
       - Route 34:
           - Trainer Rosters: wild_encounters/route_34/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_34/wild_pokemon.md
       - Goldenrod Tunnel:
           - Important Trainers: wild_encounters/goldenrod_tunnel/important_trainers.md
           - Trainer Rosters: wild_encounters/goldenrod_tunnel/trainer_rosters.md
       - Goldenrod City:
           - Important Trainers: wild_encounters/goldenrod_city/important_trainers.md
           - Trainer Rosters: wild_encounters/goldenrod_city/trainer_rosters.md
-      - Route 46:
-          - Trainer Rosters: wild_encounters/route_46/trainer_rosters.md
       - Route 35:
           - Trainer Rosters: wild_encounters/route_35/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_35/wild_pokemon.md
       - National Park:
           - Trainer Rosters: wild_encounters/national_park/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/national_park/wild_pokemon.md
       - Route 36:
           - Trainer Rosters: wild_encounters/route_36/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_36/wild_pokemon.md
       - Route 37:
           - Trainer Rosters: wild_encounters/route_37/trainer_rosters.md
-      - Burned Tower:
-          - Important Trainers: wild_encounters/burned_tower/important_trainers.md
-          - Trainer Rosters: wild_encounters/burned_tower/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_37/wild_pokemon.md
       - Ecruteak City:
           - Important Trainers: wild_encounters/ecruteak_city/important_trainers.md
           - Trainer Rosters: wild_encounters/ecruteak_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/ecruteak_city/wild_pokemon.md
+      - Burned Tower:
+          - Important Trainers: wild_encounters/burned_tower/important_trainers.md
+          - Trainer Rosters: wild_encounters/burned_tower/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/burned_tower/wild_pokemon.md
       - Route 38:
           - Trainer Rosters: wild_encounters/route_38/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_38/wild_pokemon.md
       - Route 39:
           - Trainer Rosters: wild_encounters/route_39/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_39/wild_pokemon.md
       - Olivine City:
           - Important Trainers: wild_encounters/olivine_city/important_trainers.md
           - Trainer Rosters: wild_encounters/olivine_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/olivine_city/wild_pokemon.md
       - Route 40:
           - Trainer Rosters: wild_encounters/route_40/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_40/wild_pokemon.md
       - Route 41:
           - Trainer Rosters: wild_encounters/route_41/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_41/wild_pokemon.md
       - Cianwood City:
           - Important Trainers: wild_encounters/cianwood_city/important_trainers.md
           - Trainer Rosters: wild_encounters/cianwood_city/trainer_rosters.md
-      - Cliff Edge Gate:
-          - Trainer Rosters: wild_encounters/cliff_edge_gate/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/cianwood_city/wild_pokemon.md
       - Route 47:
           - Important Trainers: wild_encounters/route_47/important_trainers.md
           - Trainer Rosters: wild_encounters/route_47/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_47/wild_pokemon.md
+      - Cliff Edge Gate:
+          - Trainer Rosters: wild_encounters/cliff_edge_gate/trainer_rosters.md
       - Cliff Cave:
           - Important Trainers: wild_encounters/cliff_cave/important_trainers.md
           - Trainer Rosters: wild_encounters/cliff_cave/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/cliff_cave/wild_pokemon.md
+      - Route 48:
+          - Wild Pokémon: wild_encounters/route_48/wild_pokemon.md
       - Safari Zone Gate:
           - Important Trainers: wild_encounters/safari_zone_gate/important_trainers.md
           - Trainer Rosters: wild_encounters/safari_zone_gate/trainer_rosters.md
       - Route 42:
           - Trainer Rosters: wild_encounters/route_42/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_42/wild_pokemon.md
       - Mt. Mortar:
           - Trainer Rosters: wild_encounters/mt_mortar/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/mt_mortar/wild_pokemon.md
       - Route 43:
           - Trainer Rosters: wild_encounters/route_43/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_43/wild_pokemon.md
       - Team Rocket HQ:
           - Important Trainers: wild_encounters/team_rocket_hq/important_trainers.md
           - Trainer Rosters: wild_encounters/team_rocket_hq/trainer_rosters.md
       - Mahogany Town:
           - Important Trainers: wild_encounters/mahogany_town/important_trainers.md
           - Trainer Rosters: wild_encounters/mahogany_town/trainer_rosters.md
+      - Lake of Rage:
+          - Wild Pokémon: wild_encounters/lake_of_rage/wild_pokemon.md
       - Radio Tower:
           - Important Trainers: wild_encounters/radio_tower/important_trainers.md
           - Trainer Rosters: wild_encounters/radio_tower/trainer_rosters.md
+      - Whirl Islands:
+          - Wild Pokémon: wild_encounters/whirl_islands/wild_pokemon.md
       - Route 44:
           - Trainer Rosters: wild_encounters/route_44/trainer_rosters.md
-      - Route 45:
-          - Trainer Rosters: wild_encounters/route_45/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_44/wild_pokemon.md
+      - Ice Path:
+          - Wild Pokémon: wild_encounters/ice_path/wild_pokemon.md
       - Blackthorn City:
           - Important Trainers: wild_encounters/blackthorn_city/important_trainers.md
           - Trainer Rosters: wild_encounters/blackthorn_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/blackthorn_city/wild_pokemon.md
+      - Route 45:
+          - Trainer Rosters: wild_encounters/route_45/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_45/wild_pokemon.md
       - Dragon's Den:
           - Important Trainers: wild_encounters/dragons_den/important_trainers.md
           - Trainer Rosters: wild_encounters/dragons_den/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/dragons_den/wild_pokemon.md
+      - Tohjo Falls:
+          - Wild Pokémon: wild_encounters/tohjo_falls/wild_pokemon.md
       - Route 27:
           - Trainer Rosters: wild_encounters/route_27/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_27/wild_pokemon.md
       - Route 26:
           - Trainer Rosters: wild_encounters/route_26/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_26/wild_pokemon.md
       - Victory Road:
           - Important Trainers: wild_encounters/victory_road/important_trainers.md
           - Trainer Rosters: wild_encounters/victory_road/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/victory_road/wild_pokemon.md
       - Pokemon League:
           - Important Trainers: wild_encounters/pokemon_league/important_trainers.md
           - Trainer Rosters: wild_encounters/pokemon_league/trainer_rosters.md
-      - S.S. Aqua:
-          - Trainer Rosters: wild_encounters/ss_aqua/trainer_rosters.md
-      - Route 6:
-          - Trainer Rosters: wild_encounters/route_6/trainer_rosters.md
-      - Route 2:
-          - Trainer Rosters: wild_encounters/route_2/trainer_rosters.md
-      - Route 3:
-          - Trainer Rosters: wild_encounters/route_3/trainer_rosters.md
-      - Pewter City:
-          - Important Trainers: wild_encounters/pewter_city/important_trainers.md
-          - Trainer Rosters: wild_encounters/pewter_city/trainer_rosters.md
-      - Mt. Moon:
-          - Important Trainers: wild_encounters/mt_moon/important_trainers.md
-          - Trainer Rosters: wild_encounters/mt_moon/trainer_rosters.md
-      - Route 4:
-          - Trainer Rosters: wild_encounters/route_4/trainer_rosters.md
-      - Route 9:
-          - Trainer Rosters: wild_encounters/route_9/trainer_rosters.md
-      - Route 24:
-          - Trainer Rosters: wild_encounters/route_24/trainer_rosters.md
-      - Route 25:
-          - Trainer Rosters: wild_encounters/route_25/trainer_rosters.md
-      - Cerulean City:
-          - Important Trainers: wild_encounters/cerulean_city/important_trainers.md
-          - Trainer Rosters: wild_encounters/cerulean_city/trainer_rosters.md
       - Vermilion City:
           - Important Trainers: wild_encounters/vermilion_city/important_trainers.md
           - Trainer Rosters: wild_encounters/vermilion_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/vermilion_city/wild_pokemon.md
+      - S.S. Aqua:
+          - Trainer Rosters: wild_encounters/ss_aqua/trainer_rosters.md
+      - Diglett’s Cave:
+          - Wild Pokémon: wild_encounters/digletts_cave/wild_pokemon.md
+      - Route 6:
+          - Trainer Rosters: wild_encounters/route_6/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_6/wild_pokemon.md
+      - Route 2:
+          - Trainer Rosters: wild_encounters/route_2/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_2/wild_pokemon.md
+      - Route 3:
+          - Trainer Rosters: wild_encounters/route_3/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_3/wild_pokemon.md
+      - Pewter City:
+          - Important Trainers: wild_encounters/pewter_city/important_trainers.md
+          - Trainer Rosters: wild_encounters/pewter_city/trainer_rosters.md
+      - Route 4:
+          - Trainer Rosters: wild_encounters/route_4/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_4/wild_pokemon.md
+      - Mt. Moon:
+          - Important Trainers: wild_encounters/mt_moon/important_trainers.md
+          - Trainer Rosters: wild_encounters/mt_moon/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/mt_moon/wild_pokemon.md
+      - Cerulean City:
+          - Important Trainers: wild_encounters/cerulean_city/important_trainers.md
+          - Trainer Rosters: wild_encounters/cerulean_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/cerulean_city/wild_pokemon.md
+      - Route 5:
+          - Wild Pokémon: wild_encounters/route_5/wild_pokemon.md
+      - Route 24:
+          - Trainer Rosters: wild_encounters/route_24/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_24/wild_pokemon.md
+      - Route 25:
+          - Trainer Rosters: wild_encounters/route_25/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_25/wild_pokemon.md
+      - Route 9:
+          - Trainer Rosters: wild_encounters/route_9/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_9/wild_pokemon.md
       - Route 10:
           - Trainer Rosters: wild_encounters/route_10/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_10/wild_pokemon.md
+      - Rock Tunnel:
+          - Wild Pokémon: wild_encounters/rock_tunnel/wild_pokemon.md
       - Route 8:
           - Trainer Rosters: wild_encounters/route_8/trainer_rosters.md
-      - Route 11:
-          - Trainer Rosters: wild_encounters/route_11/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_8/wild_pokemon.md
       - Route 12:
           - Trainer Rosters: wild_encounters/route_12/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_12/wild_pokemon.md
       - Route 13:
           - Trainer Rosters: wild_encounters/route_13/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_13/wild_pokemon.md
       - Route 14:
           - Trainer Rosters: wild_encounters/route_14/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_14/wild_pokemon.md
       - Route 15:
           - Trainer Rosters: wild_encounters/route_15/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_15/wild_pokemon.md
+      - Route 11:
+          - Trainer Rosters: wild_encounters/route_11/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_11/wild_pokemon.md
       - Fuchsia City:
           - Important Trainers: wild_encounters/fuchsia_city/important_trainers.md
           - Trainer Rosters: wild_encounters/fuchsia_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/fuchsia_city/wild_pokemon.md
       - Route 18:
           - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_18/wild_pokemon.md
       - Route 17:
           - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_17/wild_pokemon.md
+      - Route 16:
+          - Wild Pokémon: wild_encounters/route_16/wild_pokemon.md
+      - Route 7:
+          - Wild Pokémon: wild_encounters/route_7/wild_pokemon.md
       - Celadon City:
           - Important Trainers: wild_encounters/celadon_city/important_trainers.md
           - Trainer Rosters: wild_encounters/celadon_city/trainer_rosters.md
-      - Saffron City:
-          - Important Trainers: wild_encounters/saffron_city/important_trainers.md
-          - Trainer Rosters: wild_encounters/saffron_city/trainer_rosters.md
-      - Route 19:
-          - Trainer Rosters: wild_encounters/route_19/trainer_rosters.md
-      - Route 20:
-          - Trainer Rosters: wild_encounters/route_20/trainer_rosters.md
-      - Seafoam Islands:
-          - Important Trainers: wild_encounters/seafoam_islands/important_trainers.md
-          - Trainer Rosters: wild_encounters/seafoam_islands/trainer_rosters.md
-      - Route 21:
-          - Trainer Rosters: wild_encounters/route_21/trainer_rosters.md
-      - Route 1:
-          - Trainer Rosters: wild_encounters/route_1/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/celadon_city/wild_pokemon.md
       - Viridian City:
           - Important Trainers: wild_encounters/viridian_city/important_trainers.md
           - Trainer Rosters: wild_encounters/viridian_city/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/viridian_city/wild_pokemon.md
+      - Saffron City:
+          - Important Trainers: wild_encounters/saffron_city/important_trainers.md
+          - Trainer Rosters: wild_encounters/saffron_city/trainer_rosters.md
+      - Route 1:
+          - Trainer Rosters: wild_encounters/route_1/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_1/wild_pokemon.md
+      - Pallet Town:
+          - Wild Pokémon: wild_encounters/pallet_town/wild_pokemon.md
+      - Route 21:
+          - Wild Pokémon: wild_encounters/route_21/wild_pokemon.md
+          - Trainer Rosters: wild_encounters/route_21/trainer_rosters.md
+      - Route 22:
+          - Wild Pokémon: wild_encounters/route_22/wild_pokemon.md
+      - Cinnabar Island:
+          - Wild Pokémon: wild_encounters/cinnabar_island/wild_pokemon.md
+      - Route 20:
+          - Wild Pokémon: wild_encounters/route_20/wild_pokemon.md
+          - Trainer Rosters: wild_encounters/route_20/trainer_rosters.md
+      - Route 19:
+          - Trainer Rosters: wild_encounters/route_19/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/route_19/wild_pokemon.md
+      - Seafoam Islands:
+          - Important Trainers: wild_encounters/seafoam_islands/important_trainers.md
+          - Trainer Rosters: wild_encounters/seafoam_islands/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/seafoam_islands/wild_pokemon.md
       - Viridian Forest:
           - Trainer Rosters: wild_encounters/viridian_forest/trainer_rosters.md
-      - Mt. Silver Cave:
-          - Important Trainers: wild_encounters/mt_silver_cave/important_trainers.md
-          - Trainer Rosters: wild_encounters/mt_silver_cave/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/viridian_forest/wild_pokemon.md
+      - Bell Tower / Tin Tower:
+          - Wild Pokémon: wild_encounters/bell_tower_tin_tower/wild_pokemon.md
       - Cerulean Cave:
           - Trainer Rosters: wild_encounters/cerulean_cave/trainer_rosters.md
+          - Wild Pokémon: wild_encounters/cerulean_cave/wild_pokemon.md
+      - Route 28:
+          - Wild Pokémon: wild_encounters/route_28/wild_pokemon.md
+      - Mt. Silver:
+          - Important Trainers: wild_encounters/mt_silver/important_trainers.md
+          - Trainer Rosters: wild_encounters/mt_silver/trainer_rosters.md
+          - Trainer Rosters: wild_encounters/mt_silver/wild_pokemon.md

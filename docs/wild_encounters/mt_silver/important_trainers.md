@@ -1,5 +1,10 @@
 # Important Trainers
 
+
+---
+
+## Cave
+
 ### PKMN Trainer Red
 
 ![PKMN Trainer Red](../../assets/important_trainers/red.png "PKMN Trainer Red")

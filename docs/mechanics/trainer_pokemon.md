@@ -5874,7 +5874,7 @@
 
 ---
 
-## Mt. Silver Cave
+## Mt. Silver (Cave)
 
 <h3>Important Trainers</h3>
 

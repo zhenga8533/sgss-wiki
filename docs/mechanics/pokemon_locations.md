@@ -62,7 +62,7 @@ Wild Levels: 3 – 5
 3. Starly (15%)
 4. Rattata (15%)
 5. Zigzagoon (10%)
-6. Bidoof(10%)
+6. Bidoof (10%)
 7. Hoppip (5%)
 8. Wurmple (5%)
 </code></pre>
@@ -114,7 +114,7 @@ Wild Levels: 4 – 6
 3. Spoink (10%)
 4. Rattata (10%)
 5. Clefairy (10%)
-6. Jigglypuff(10%)
+6. Jigglypuff (10%)
 7. Houndour (10%)
 8. Shinx (10%)
 </code></pre>
@@ -134,7 +134,7 @@ Wild Levels: 4 – 6
 
 ## Cherrygrove City
 
-Wild Levels: N /A
+Wild Levels: N/A
 
 **Surf:**
 
@@ -202,7 +202,7 @@ Wild Levels: 4 – 6
 3. Lotad (10%)
 4. Seedot (10%)
 5. Caterpie (10%)
-6. Weedle(10%)
+6. Weedle (10%)
 7. Kricketot (10%)
 8. Surskit (5%)
 9. Ralts (5%)
@@ -278,7 +278,7 @@ Wild Levels: 6 – 10
 4. Shinx (10%)
 5. Abra (10%)
 6. Natu (10%)
-7. Budew(5%)
+7. Budew (5%)
 8. Psyduck (5%)
 9. Silcoon (4%)
 10. Cascoon (4%)
@@ -342,7 +342,9 @@ Wild Levels: 6 – 10
 
 ---
 
-## Dark Cave {Violet Side}
+## Dark Cave
+
+### [ Violet Side ]
 
 Wild Levels: 8 – 10
 
@@ -367,7 +369,7 @@ Wild Levels: 8 – 10
 3. Bronzor (10%)
 4. Makuhita (10%)
 5. Sandshrew (10%)
-6. Wynaut(10%)
+6. Wynaut (10%)
 7. Slugma (10%)
 8. Larvitar (4%)
 9. Dunsparce (4%)
@@ -421,6 +423,59 @@ Wild Levels: 8 – 10
 
 <pre><code>1. Dunsparce (90%)
 2. Nosepass (10%)
+</code></pre>
+
+### [ Blackthorn Side ]
+
+Wild Levels: 26 – 30
+
+**Cave:**
+
+<pre><code>1. Graveler (20%)
+2. Golbat (20%)
+3. Teddiursa (20%)
+4. Slugma (20%)
+5. Wobbuffet (15%)
+6. Ursaring (5%)
+</code></pre>
+
+**Surf:**
+
+<pre><code>1. Shellos (60%)
+2. Wooper (30%)
+3. Gastrodon (10%)
+</code></pre>
+
+**Old Rod:**
+
+<pre><code>1. Goldeen (60%)
+2. Barboach (30%)
+3. Wooper (10%)
+</code></pre>
+
+**Good Rod:**
+
+<pre><code>1. Goldeen (60%)
+2. Barboach (30%)
+3. Quagsire (10%)
+</code></pre>
+
+**Super Rod:**
+
+<pre><code>1. Seaking (60%)
+2. Whiscash (30%)
+3. Quagsire (10%)
+</code></pre>
+
+**Meridian Sound:**
+
+<pre><code>1. Golem
+2. Ursaring
+</code></pre>
+
+**Pastoral Sound:**
+
+<pre><code>1. Quagsire
 </code></pre>
 
 ---
@@ -485,7 +540,7 @@ Wild Levels: 10 – 12
 3. Nincada (15%)
 4. Wooper (15%)
 5. Magnemite (15%)
-6. Ekans(10%)
+6. Ekans (10%)
 7. Drifloon (5%)
 </code></pre>
 
@@ -536,7 +591,7 @@ Wild Levels: 10 – 12
 
 Wild Levels: 26 – 30
 
-**Grass, All Times:**
+**Grass:**
 
 <pre><code>1. Natu (40%)
 2. Smeargle (40%)
@@ -615,7 +670,7 @@ Wild Levels: 9 – 12
 3. Bellsprout (20%)
 4. Bidoof (10%)
 5. Glameow (10%)
-6. Stunky(10%)
+6. Stunky (10%)
 7. Spinda (5%)
 8. Drifloon (5%)Meridian
 </code></pre>
@@ -654,7 +709,7 @@ Wild Levels: 10 – 13
 3. Bellsprout (20%)
 4. Bidoof (10%)
 5. Glameow (10%)
-6. Stunky(10%)
+6. Stunky (10%)
 7. Spinda (5%)
 8. Drifloon (5%)
 </code></pre>
@@ -678,7 +733,7 @@ Wild Levels: 10 – 13
 
 Wild Levels: 12 – 15
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Zubat (25%)
 2. Sandshrew (25%)
@@ -734,14 +789,14 @@ Wild Levels: 12 – 15
 
 Wild Levels: 13 – 16
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Zubat (25%)
 2. Sandshrew (20%)
 3. Geodude (10%)
 4. Bronzor (10%)
 5. Aron (10%)
-6. Onix(15%)
+6. Onix (15%)
 7. Bagon (5%)
 8. Gible (5%)
 </code></pre>
@@ -790,7 +845,7 @@ Wild Levels: 13 – 16
 
 Wild Levels: 28 – 30
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Golbat (20%)
 2. Sandslash (20%)
@@ -892,14 +947,14 @@ Wild Levels: 14 – 16
 
 Wild Levels: 15 – 16
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Zubat (20%)
 2. Slowpoke (20%)
 3. Gastly (10%)
 4. Shellos (10%)
 5. Shellder (10%)
-6. Swinub(10%)
+6. Swinub (10%)
 7. Snorunt (10%)
 8. Bronzor (10%)
 </code></pre>
@@ -945,7 +1000,7 @@ Wild Levels: 15 – 16
 
 Wild Levels: 28 – 33
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Golbat (20%)
 2. Slowpoke (20%)
@@ -1022,7 +1077,7 @@ Wild Levels: 15 – 18
 3. Pineco (10%)
 4. Exeggcute (10%)
 5. Buneary (10%)
-6. Budew(10%)
+6. Budew (10%)
 7. Pikachu (5%)
 8. Beautifly (5%)
 9. Dustox (5%)
@@ -1086,14 +1141,14 @@ Wild Levels: 15 – 18
 
 Wild Levels: 15 – 19
 
-**Grass, All Times:**
+**Grass:**
 
 <pre><code>1. Drowzee (20%)
 2. Gulpin (20%)
 3. Electrike (10%)
 4. Bonsly (10%)
 5. Mime Jr. (10%)
-6. Abra(10%)
+6. Abra (10%)
 7. Ditto (9%)
 8. Snubbull (9%)
 9. Kadabra (2%)
@@ -1156,7 +1211,7 @@ Wild Levels: 17 – 19
 2. Nidoran F (20%)
 3. Pidgeotto (10%)
 4. Stunky (10%)
-5. Glameow(10%)
+5. Glameow (10%)
 6. Staravia (10%)
 7. Illumise (5%)
 8. Volbeat (5%)
@@ -1217,7 +1272,8 @@ Wild Levels: 17 – 19
 
 **Swarm:**
 
-<pre><code>1. Illumise (SG) / Volbeat (SS)
+<pre><code>1. Illumise [SG]
+2. Volbeat [SS]
 </code></pre>
 
 ---
@@ -1235,7 +1291,7 @@ Bug Catching Contest is unchanged.
 3. Combee (10%)
 4. Taillow (10%)
 5. Nincada (10%)
-6. Burmy(10%)
+6. Burmy (10%)
 7. Scyther (5%)
 8. Pinsir (5%)
 9. Heracross (5%)
@@ -1263,7 +1319,7 @@ Bug Catching Contest is unchanged.
 3. Combee (10%)
 4. Poochyena (10%)
 5. Nincada (10%)
-6. Burmy(10%)
+6. Burmy (10%)
 7. Scyther (5%)
 8. Pinsir (5%)
 9. Heracross (5%)
@@ -1302,7 +1358,7 @@ Wild Levels: 17 – 19
 9. Stantler (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Growlithe (20%)
 2. Vulpix (20%)
@@ -1345,14 +1401,14 @@ Wild Levels: 21 – 24
 9. Seviper (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Growlithe (20%)
 2. Vulpix (20%)
 3. Stantler (10%)
 4. Ariados (10%)
 5. Noctowl (10%)
-6. Mightyena(10%)
+6. Mightyena (10%)
 7. Linoone (10%)
 8. Zangoose (5%)
 9. Seviper (5%)
@@ -1407,14 +1463,14 @@ Wild Levels: N/A
 
 Wild Levels: 22 – 23
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Rattata (20%)
 2. Koffing (20%)
 3. Zigzagoon (10%)
 4. Cubone (10%)
 5. Magby (10%)
-6. Grimer(10%)
+6. Grimer (10%)
 7. Duskull (10%)
 8. Shuppet (10%)
 </code></pre>
@@ -1434,14 +1490,14 @@ Wild Levels: 22 – 23
 
 Wild Levels: 23 – 24
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Raticate (20%)
 2. Koffing (20%)
 3. Linoone (10%)
 4. Cubone (10%)
 5. Magby (10%)
-6. Grimer(10%)
+6. Grimer (10%)
 7. Duskull (10%)
 8. Shuppet (10%)
 </code></pre>
@@ -1455,63 +1511,6 @@ Wild Levels: 23 – 24
 **Pastoral Sound:**
 
 <pre><code>1. Chimecho
-</code></pre>
-
-Dark Cave {Blackthorn Side}
-
----
-
-## Side}
-
-Wild Levels: 26 – 30
-
-**Cave, All Times:**
-
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Teddiursa (20%)
-4. Slugma (20%)
-5. Wobbuffet (15%)
-6. Ursaring (5%)
-</code></pre>
-
-**Surf:**
-
-<pre><code>1. Shellos (60%)
-2. Wooper (30%)
-3. Gastrodon (10%)
-</code></pre>
-
-**Old Rod:**
-
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Wooper (10%)
-</code></pre>
-
-**Good Rod:**
-
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Quagsire (10%)
-</code></pre>
-
-**Super Rod:**
-
-<pre><code>1. Seaking (60%)
-2. Whiscash (30%)
-3. Quagsire (10%)
-</code></pre>
-
-**Meridian Sound:**
-
-<pre><code>1. Golem
-2. Ursaring
-</code></pre>
-
-**Pastoral Sound:**
-
-<pre><code>1. Quagsire
 </code></pre>
 
 ---
@@ -1534,7 +1533,7 @@ Wild Levels: 26 – 27
 10. Cherubi (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Meowth (20%)
 2. Luxio (20%)
@@ -1551,12 +1550,12 @@ Wild Levels: 26 – 27
 **Meridian Sound:**
 
 <pre><code>1. Dodrio
-2. ElectabuzzPastoral Sound
+2. Electabuzz
 </code></pre>
 
-**Sound:**
+**Pastoral Sound:**
 
-<pre><code>1. nd Skitty
+<pre><code>1. Skitty
 2. Cherubi
 </code></pre>
 
@@ -1582,7 +1581,8 @@ Wild Levels: 27 – 28
 7. Farfetch’d (5%)
 8. Miltank (5%)
 9. Tauros (5%)
-10. Pidgeotto (5%)Grass. Night
+10. Pidgeotto (5%)Grass
+11. Night
 </code></pre>
 
 **Night:**
@@ -1767,26 +1767,30 @@ Wild Levels: 41 – 45
 
 * Not accessible without Waterfall.
 
-Grass, 
-
 **Grass, Morning / Day*:**
 
-<pre><code>1. Day*: Farfetch’d (20%)
+**Day*:**
+
+<pre><code>1. Farfetch’d (20%)
 2. Ditto (20%)
 3. Miltank (10%)
 4. Gloom (10%)
 5. Weepinbell (10%)
 6. Fearow (10%)
 7. Raticate (10%)
-8. Swellow (10%)Grass
-9. Night*: Venomoth (20%)
-10. Ditto (20%)
-11. Miltank (10%)
-12. Gloom (10%)
-13. Weepinbell (10%)
-14. Fearow(10%)
-15. Raticate (10%)
-16. Noctowl (10%)
+8. Swellow (10%)
+</code></pre>
+
+**Grass, Night*:**
+
+<pre><code>1. Venomoth (20%)
+2. Ditto (20%)
+3. Miltank (10%)
+4. Gloom (10%)
+5. Weepinbell (10%)
+6. Fearow (10%)
+7. Raticate (10%)
+8. Noctowl (10%)
 </code></pre>
 
 **Meridian Sound:**
@@ -1835,11 +1839,13 @@ Grass,
 
 ---
 
-## The Cliff Cave
+## Cliff Cave
 
 Wild Levels: 30 – 33
 
-<pre><code>1. Cave: Graveler (20%)
+**Cave:**
+
+<pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Baltoy (10%)
 4. Machoke (10%)
@@ -1890,14 +1896,14 @@ Grass, Morning
 10. Tropius (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Houndour (20%)
 2. Tangela (20%)
 3. Diglett (10%)
 4. Gloom (10%)
 5. Weepinbell (10%)
-6. Girafarig(10%)
+6. Girafarig (10%)
 7. Kecleon (5%)
 8. Chansey (5%)
 9. Absol (5%)
@@ -1933,14 +1939,14 @@ Wild Levels: 30 – 32
 8. Trapinch (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Flaaffy (20%)
 2. Golbat (20%)
 3. Hippopotas (10%)
 4. Cacnea (10%)
 5. Arbok (10%)
-6. Sandslash(10%)
+6. Sandslash (10%)
 7. Munchlax (10%)
 8. Trapinch (10%)
 </code></pre>
@@ -1989,7 +1995,7 @@ Wild Levels: 30 – 32
 
 Wild Levels: 31 – 34
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Graveler (30%)
 2. Golbat (30%)
@@ -2018,7 +2024,8 @@ Wild Levels: 31 – 34
 
 **Swarm:**
 
-<pre><code>1. Solrock (SG) / Lunatone (SS)
+<pre><code>1. Solrock [SG]
+2. Lunatone [SS]
 </code></pre>
 
 **Old Rod:**
@@ -2044,14 +2051,14 @@ Wild Levels: 31 – 34
 
 Wild Levels: 33 – 37
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Rhyhorn (10%)
 4. Lairon (10%)
 5. Marill (10%)
-6. Hariyama(10%)
+6. Hariyama (10%)
 7. Clefairy (5%)
 8. Medicham (5%)
 9. Solrock (5%)
@@ -2074,14 +2081,14 @@ Wild Levels: 33 – 37
 
 Wild Levels: 41 – 45
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Rhydon (10%)
 4. Lairon (10%)
 5. Azumarill (10%)
-6. Hariyama(10%)
+6. Hariyama (10%)
 7. Clefairy (5%)
 8. Medicham (5%)
 9. Solrock (5%)
@@ -2129,14 +2136,14 @@ Wild Levels: 41 – 45
 
 Wild Levels: 33 – 35
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Rhyhorn (10%)
 4. Lairon (10%)
 5. Machoke (10%)
-6. Hariyama(10%)
+6. Hariyama (10%)
 7. Clefairy (5%)
 8. Marill (5%)
 9. Metang (5%)
@@ -2197,14 +2204,14 @@ Wild Levels: 34 – 36
 8. Manectric (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Venomoth (20%)
 2. Girafarig (20%)
 3. Exeggcute (10%)
 4. Kirlia (10%)
 5. Swablu (10%)
-6. Bibarel(10%)
+6. Bibarel (10%)
 7. Linoone (10%)
 8. Manectric (10%)
 </code></pre>
@@ -2282,7 +2289,7 @@ Wild Levels: 34 – 36
 
 **Cave:**
 
-<pre><code>1. Cave Krabby (20%)
+<pre><code>1. Krabby (20%)
 2. Seel (20%)
 3. Psyduck (20%)
 4. Spheal (20%)
@@ -2329,7 +2336,7 @@ Wild Levels: 35 – 38
 
 **Cave:**
 
-<pre><code>1. Cave Krabby (20%)
+<pre><code>1. Krabby (20%)
 2. Seel (20%)
 3. Shellder (20%)
 4. Spheal (20%)
@@ -2354,7 +2361,7 @@ Wild Levels: 37 – 39
 
 **Cave:**
 
-<pre><code>1. Cave Krabby (20%)
+<pre><code>1. Krabby (20%)
 2. Seel (20%)
 3. Shellder (20%)
 4. Spheal (20%)
@@ -2396,7 +2403,7 @@ Wild Levels: 37 – 39
 3. Kingdra (2%)
 </code></pre>
 
-[ B3F ]
+### [ B3F ]
 
 Sacred Gold Wild Levels: 47 – 49
 
@@ -2404,7 +2411,7 @@ Storm Silver Wild Levels: 42 – 44
 
 **Cave:**
 
-<pre><code>1. Cave Kingler (20%)
+<pre><code>1. Kingler (20%)
 2. Dewgong (20%)
 3. Shellder (20%)
 4. Sealeo (20%)
@@ -2421,7 +2428,7 @@ Storm Silver Wild Levels: 42 – 44
 **Pastoral Sound:**
 
 <pre><code>1. Staryu
-2. Starmie(See near bottom for Bell Tower).
+2. Starmie (See near bottom for Bell Tower).
 </code></pre>
 
 ---
@@ -2444,14 +2451,14 @@ Wild Levels: 38 – 39
 10. Vespiquen (1%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Tangela (20%)
 2. Lickitung (20%)
 3. Butterfree (10%)
 4. Beedrill (10%)
 5. Dustox (10%)
-6. Venomoth(10%)
+6. Venomoth (10%)
 7. Nuzleaf (10%)
 8. Snover (5%)
 9. Altaria (4%)
@@ -2513,7 +2520,7 @@ Wild Levels: 37 – 40
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (30%)
+<pre><code>1. Golbat (30%)
 2. Swinub (30%)
 3. Snover (15%)
 4. Spheal (10%)
@@ -2537,7 +2544,7 @@ Wild Levels: 38 – 41
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (30%)
+<pre><code>1. Golbat (30%)
 2. Swinub (30%)
 3. Shellder (10%)
 4. Spheal (10%)
@@ -2563,7 +2570,7 @@ Wild Levels: 40 – 43
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (30%)
+<pre><code>1. Golbat (30%)
 2. Piloswine (30%)
 3. Sealeo (10%)
 4. Dewgong (10%)
@@ -2590,13 +2597,13 @@ Wild Levels: 42 – 44
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (30%)
+<pre><code>1. Golbat (30%)
 2. Piloswine (30%)
 3. Sealeo (10%)
 4. Dewgong (10%)
 5. Glalie (10%)
 6. Jynx (5%)
-7. Sneasel(5%)
+7. Sneasel (5%)
 </code></pre>
 
 **Meridian Sound:**
@@ -2646,7 +2653,7 @@ Wild Levels: N/A
 
 Wild Levels: 42 – 45
 
-**Grass, All Times:**
+**Grass:**
 
 <pre><code>1. Graveler (30%)
 2. Grumpig (20%)
@@ -2740,7 +2747,7 @@ Wild Levels: 43 – 45
 
 **Cave:**
 
-<pre><code>1. Cave Raticate (20%)
+<pre><code>1. Raticate (20%)
 2. Azumarill (20%)
 3. Slowbro (20%)
 4. Dewgong (10%)
@@ -2803,7 +2810,7 @@ Wild Levels: 42 – 45
 7. Arbok (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Wooper (20%)
 2. Houndour (20%)
@@ -2862,12 +2869,12 @@ Wild Levels: 44 – 46
 2. Skiploom (20%)
 3. Rapidash (20%)
 4. Magneton (10%)
-5. Kangaskhan(10%)
+5. Kangaskhan (10%)
 6. Sandslash (10%)
 7. Arbok (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Quagsire (20%)
 2. Houndoom (20%)
@@ -2921,7 +2928,7 @@ Wild Levels: 44 – 46
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (20%)
+<pre><code>1. Golbat (20%)
 2. Graveler (20%)
 3. Rhydon (10%)
 4. Ursaring (10%)
@@ -2949,7 +2956,7 @@ Wild Levels: 44 – 46
 
 **Cave:**
 
-<pre><code>1. Cave Machoke (20%)
+<pre><code>1. Machoke (20%)
 2. Hariyama (20%)
 3. Golbat (10%)
 4. Lairon (10%)
@@ -2977,17 +2984,15 @@ Wild Levels: 44 – 46
 
 Wild Levels: 45 – 46
 
-Cave
-
 **Cave:**
 
-<pre><code>1. ve Donphan (20%)
+<pre><code>1. Donphan (20%)
 2. Ursaring (20%)
 3. Golbat (10%)
 4. Lairon (10%)
 5. Mawile (10%)
 6. Sableye (10%)
-7. Gabite(5%)
+7. Gabite (5%)
 8. Magneton (5%)
 9. Metang (5%)
 10. Kadabra (5%)
@@ -3061,7 +3066,7 @@ Wild Levels: 15 – 63
 
 **Cave:**
 
-<pre><code>1. Cave Diglett (80%)
+<pre><code>1. Diglett (80%)
 2. Hippopotas (10%)
 3. Dugtrio (10%)
 </code></pre>
@@ -3088,10 +3093,10 @@ Wild Levels: 45 – 48
 2. Kadabra (25%)
 3. Raticate (20%)
 4. Weepinbell (20%)
-5. Cherrim(10%)
+5. Cherrim (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Persian (25%)
 2. Kadabra (25%)
@@ -3137,23 +3142,30 @@ Wild Levels: 45 – 48
 
 ---
 
-## Route 2 - North
+## Route 2
+
+### [ North ]
 
 Wild Levels: 45 – 49
 
-<pre><code>1. Grass
-2. Morning / Day: Beautifly (25%)
-3. Dustox (25%)
-4. Ledian (20%)
-5. Staravia (10%)
-6. Pachirisu (10%)
-7. Cherrim (10%)Grass
-8. Night: Beautifly (25%)
-9. Dustox (25%)
-10. Ariados (20%)
-11. Bibarel (10%)
-12. Pachirisu (10%)
-13. Yanma (10%)
+**Grass, Morning / Day:**
+
+<pre><code>1. Beautifly (25%)
+2. Dustox (25%)
+3. Ledian (20%)
+4. Staravia (10%)
+5. Pachirisu (10%)
+6. Cherrim (10%)
+</code></pre>
+
+**Grass, Night:**
+
+<pre><code>1. Beautifly (25%)
+2. Dustox (25%)
+3. Ariados (20%)
+4. Bibarel (10%)
+5. Pachirisu (10%)
+6. Yanma (10%)
 </code></pre>
 
 **Meridian Sound:**
@@ -3165,6 +3177,41 @@ Wild Levels: 45 – 49
 
 <pre><code>1. Pikachu
 2. Burmy
+</code></pre>
+
+### [ South ]
+
+Wild Levels: 45 – 49
+
+**Grass, Morning / Day:**
+
+<pre><code>1. Butterfree (25%)
+2. Beedrill (25%)
+3. Ledian (20%)
+4. Pidgeotto (10%)
+5. Pachirisu (10%)
+6. Cherrim (10%)
+</code></pre>
+
+**Grass, Night:**
+
+<pre><code>1. Butterfree (25%)
+2. Beedrill (25%)
+3. Ariados (20%)
+4. Noctowl (10%)
+5. Pachirisu (10%)
+6. Yanma (10%)
+</code></pre>
+
+**Meridian Sound:**
+
+<pre><code>1. Pidgeot
+</code></pre>
+
+**Pastoral Sound:**
+
+<pre><code>1. Sunkern
+2. Budew
 </code></pre>
 
 ---
@@ -3216,7 +3263,7 @@ Wild Levels: 46 – 49
 
 Wild Levels: 46 – 50
 
-**Grass, All Times:**
+**Grass:**
 
 <pre><code>1. Fearow (25%)
 2. Raticate (25%)
@@ -3274,7 +3321,7 @@ Wild Levels: 47 – 51
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (30%)
+<pre><code>1. Golbat (30%)
 2. Clefairy (20%)
 3. Graveler (20%)
 4. Sandslash (15%)
@@ -3298,7 +3345,7 @@ Wild Levels: 48 – 50
 
 **Cave:**
 
-<pre><code>1. Cave Golbat (24%)
+<pre><code>1. Golbat (24%)
 2. Clefairy (20%)
 3. Graveler (14%)
 4. Sandslash (10%)
@@ -3381,8 +3428,6 @@ Wild Levels: 20 – 50
 4. Dragonair (3%)
 </code></pre>
 
-Route
-
 ---
 
 ## Route 5
@@ -3441,14 +3486,14 @@ Wild Levels: 47 – 51
 7. Surskit (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Weepinbell (20%)
 2. Kirlia (20%)
 3. Gloom (15%)
 4. Noctowl (15%)
 5. Mightyena (15%)
-6. Roselia(10%)
+6. Roselia (10%)
 7. Surskit (5%)
 </code></pre>
 
@@ -3507,7 +3552,7 @@ Wild Levels: 47 – 52
 6. Exeggcute (15%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Venomoth (20%)
 2. Buneary (20%)
@@ -3569,9 +3614,9 @@ Wild Levels: 47 – 52
 
 Wild Levels: 49 – 51
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All Primeape (25%)
+<pre><code>1. Primeape (25%)
 2. Fearow (20%)
 3. Arbok (20%)
 4. Nidorina (15%)
@@ -3626,9 +3671,9 @@ Wild Levels: 49 – 51
 
 Wild Levels: 47 – 52
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All Fearow (20%)
+<pre><code>1. Fearow (20%)
 2. Luxio (20%)
 3. Electrode (15%)
 4. Flaaffy (10%)
@@ -3682,13 +3727,13 @@ Wild Levels: 52 – 55
 
 **Cave:**
 
-<pre><code>1. Cave Graveler (20%)
+<pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Lairon (10%)
 4. Makuhita (10%)
 5. Cubone (10%)
 6. Ditto (10%)
-7. Mankey(10%)
+7. Mankey (10%)
 8. Magnemite (10%)
 </code></pre>
 
@@ -3710,7 +3755,7 @@ Wild Levels: 53 – 56
 
 **Cave:**
 
-<pre><code>1. Cave Graveler (20%)
+<pre><code>1. Graveler (20%)
 2. Golbat (20%)
 3. Lairon (10%)
 4. Hariyama (10%)
@@ -3827,7 +3872,7 @@ Wild Levels: 50 – 54
 5. Farfetch’d (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Nidorina (25%)
 2. Nidorino (25%)
@@ -3877,8 +3922,6 @@ Wild Levels: 50 – 54
 3. Qwilfish (10%)
 </code></pre>
 
-Route
-
 ---
 
 ## Route 14
@@ -3894,7 +3937,7 @@ Wild Levels: 51 – 55
 5. Chansey (6%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Nidorina (25%)
 2. Nidorino (25%)
@@ -3905,12 +3948,12 @@ Wild Levels: 51 – 55
 
 **Meridian Sound:**
 
-<pre><code>1. JumpluffPastoral Sound
+<pre><code>1. Jumpluff
 </code></pre>
 
-**Sound:**
+**Pastoral Sound:**
 
-<pre><code>1. nd Bonsly
+<pre><code>1. Bonsly
 2. Mime Jr.
 </code></pre>
 
@@ -3929,7 +3972,7 @@ Wild Levels: 51 – 55
 5. Ditto (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Nidorina (25%)
 2. Nidorino (25%)
@@ -3954,9 +3997,9 @@ Wild Levels: 51 – 55
 
 Wild Levels: 50 – 55
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All Hypno (30%)
+<pre><code>1. Hypno (30%)
 2. Raticate (20%)
 3. Plusle (15%)
 4. Minun (15%)
@@ -4019,7 +4062,7 @@ Wild Levels: 50 – 56
 6. Dodrio (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Grimer (35%)
 2. Gulpin (20%)
@@ -4056,7 +4099,7 @@ Wild Levels: 52 – 55
 6. Dodrio (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Grimer (35%)
 2. Gulpin (20%)
@@ -4084,9 +4127,9 @@ Wild Levels: 52 – 55
 
 Wild Levels: 52 – 55
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All Grimer (35%)
+<pre><code>1. Grimer (35%)
 2. Gulpin (20%)
 3. Skorupi (20%)
 4. Muk (10%)
@@ -4123,7 +4166,7 @@ Wild Levels: 50 – 54
 8. Kadabra (5%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Weepinbell (20%)
 2. Gloom (20%)
@@ -4184,67 +4227,38 @@ Wild Levels: 1 – 70
 <pre><code>1. Goldeen (100%)
 </code></pre>
 
-Route
-
----
-
-## Route 2 - South
-
-Wild Levels: 45 – 49
-
-<pre><code>1. Grass
-2. Morning / Day: Butterfree (25%)
-3. Beedrill (25%)
-4. Ledian (20%)
-5. Pidgeotto (10%)
-6. Pachirisu (10%)
-7. Cherrim (10%)Grass
-8. Night: Butterfree (25%)
-9. Beedrill (25%)
-10. Ariados (20%)
-11. Noctowl (10%)
-12. Pachirisu (10%)
-13. Yanma(10%)
-</code></pre>
-
-**Meridian Sound:**
-
-<pre><code>1. Pidgeot
-</code></pre>
-
-**Pastoral Sound:**
-
-<pre><code>1. Sunkern
-2. Budew
-</code></pre>
-
 ---
 
 ## Route 1
 
 Wild Levels: 48 – 60
 
-<pre><code>1. Grass
-2. Morning / Day: Pidgey (20%)
-3. Rattata (20%)
-4. Sentret (10%)
-5. Zigzagoon (10%)
-6. Bidoof (10%)
-7. Starly (10%)
-8. Pidgeotto (5%)
-9. Raticate (5%)
-10. Furret (5%)
-11. Staravia (5%)Grass
-12. Night: Hoothoot (20%)
-13. Rattata (20%)
-14. Ponyta (10%)
-15. Zigzagoon (10%)
-16. Bidoof (10%)
-17. Shinx (10%)
-18. Noctowl (5%)
-19. Raticate (5%)
-20. Rapidash (5%)
-21. Luxio (5%)
+**Grass, Morning / Day:**
+
+<pre><code>1. Pidgey (20%)
+2. Rattata (20%)
+3. Sentret (10%)
+4. Zigzagoon (10%)
+5. Bidoof (10%)
+6. Starly (10%)
+7. Pidgeotto (5%)
+8. Raticate (5%)
+9. Furret (5%)
+10. Staravia (5%)
+</code></pre>
+
+**Grass, Night:**
+
+<pre><code>1. Hoothoot (20%)
+2. Rattata (20%)
+3. Ponyta (10%)
+4. Zigzagoon (10%)
+5. Bidoof (10%)
+6. Shinx (10%)
+7. Noctowl (5%)
+8. Raticate (5%)
+9. Rapidash (5%)
+10. Luxio (5%)
 </code></pre>
 
 **Meridian Sound:**
@@ -4296,15 +4310,20 @@ Wild Levels: 1 – 70
 
 Wild Levels: 54 – 59
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All: Tangela (32%)
+<pre><code>1. (32%)
 2. Mr. Mime (28%)
 3. Raticate (15%)
 4. Pelipper (15%)
-5. Gastrodon (10%)Surf: Wingull (63%)
-6. Wailmer (32%)
-7. Pelipper (5%)Surf
+5. Gastrodon (10%)
+</code></pre>
+
+**Surf:**
+
+<pre><code>1. Wingull (63%)
+2. Wailmer (32%)
+3. Pelipper (5%)
 </code></pre>
 
 **Meridian Sound:**
@@ -4343,9 +4362,9 @@ Wild Levels: 54 – 59
 
 Wild Levels: 54 – 59
 
-**Grass, All:**
+**Grass:**
 
-<pre><code>1. All: Fearow (30%)
+<pre><code>1. Fearow (30%)
 2. Dodrio (30%)
 3. Raticate (15%)
 4. Primeape (15%)
@@ -4507,7 +4526,7 @@ Wild Levels: 5 – 60
 
 Wild Levels: 48 – 58
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Zubat (30%)
 2. Psyduck (30%)
@@ -4530,7 +4549,7 @@ Wild Levels: 48 – 58
 
 Wild Levels: 49 – 59
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Seel (25%)
 2. Golbat (20%)
@@ -4555,7 +4574,7 @@ Wild Levels: 49 – 59
 
 Wild Levels: 56 – 60
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Golbat (35%)
 2. Dewgong (20%)
@@ -4582,11 +4601,9 @@ Wild Levels: 56 – 60
 
 Wild Levels: 56 – 60
 
-Cave, All Times
+**Cave:**
 
-**Times:**
-
-<pre><code>1. mes Golbat (25%)
+<pre><code>1. Golbat (25%)
 2. Dewgong (20%)
 3. Kingler (10%)
 4. Sealeo (10%)
@@ -4613,7 +4630,7 @@ Cave, All Times
 
 Wild Levels: 57 – 60
 
-**Cave, All Times:**
+**Cave:**
 
 <pre><code>1. Golbat (25%)
 2. Dewgong (20%)
@@ -4731,7 +4748,7 @@ Wild Levels: 60 – 68
 
 ## Bell Tower / Tin Tower
 
-[ 2F, 3F ]
+### [ 2F, 3F ]
 
 Sacred Gold Wild Levels: 40 – 43
 
@@ -4759,7 +4776,7 @@ Storm Silver Wild Levels: 45 – 48
 2. Duskull
 </code></pre>
 
-[ 4F, 5F, 6F ]
+### [ 4F, 5F, 6F ]
 
 Sacred Gold Wild Levels: 41 – 44
 
@@ -4787,7 +4804,7 @@ Storm Silver Wild Levels: 46 – 49
 <pre><code>1. Ditto
 </code></pre>
 
-[ 7F, 8F, 9F ]
+### [ 7F, 8F, 9F ]
 
 Sacred Gold Wild Levels: 41 – 45
 
@@ -4818,7 +4835,7 @@ Storm Silver Wild Levels: 46 – 50
 2. Ditto
 </code></pre>
 
-[ 10F ]
+### [ 10F ]
 
 Sacred Gold Wild Levels: 43 – 45
 
@@ -4879,17 +4896,21 @@ Wild Levels: 60 – 64
 6. Electrode (5%)
 7. Wobbuffet (5%)
 8. Bronzong (5%)
-9. Magneton (5%)Cave
-10. Night: Golbat (20%)
-11. Magneton (20%)
-12. Hypno (15%)
-13. Arbok (10%)
-14. Venomoth (10%)
-15. Rapidash (10%)
-16. Parasect (5%)
-17. Kadabra (5%)
-18. Raichu (4%)
-19. Ditto (1%)
+9. Magneton (5%)
+</code></pre>
+
+**Cave, Night:**
+
+<pre><code>1. Golbat (20%)
+2. Magneton (20%)
+3. Hypno (15%)
+4. Arbok (10%)
+5. Venomoth (10%)
+6. Rapidash (10%)
+7. Parasect (5%)
+8. Kadabra (5%)
+9. Raichu (4%)
+10. Ditto (1%)
 </code></pre>
 
 **Rock Smash:**
@@ -4961,16 +4982,20 @@ Wild Levels: 64 – 68
 7. Arbok (5%)
 8. Sandslash (5%)
 9. Bronzong (5%)
-10. Magneton (5%)Cave
-11. Night: Dodrio (20%)
-12. Venomoth (20%)
-13. Kadabra (15%)
-14. Electrode (10%)
-15. Marowak (10%)
-16. Rhydon (10%)
-17. Wigglytuff (5%)
-18. Chansey (5%)
-19. Ditto (5%)
+10. Magneton (5%)
+</code></pre>
+
+**Cave, Night:**
+
+<pre><code>1. Dodrio (20%)
+2. Venomoth (20%)
+3. Kadabra (15%)
+4. Electrode (10%)
+5. Marowak (10%)
+6. Rhydon (10%)
+7. Wigglytuff (5%)
+8. Chansey (5%)
+9. Ditto (5%)
 </code></pre>
 
 **Meridian Sound:**
@@ -5012,15 +5037,19 @@ Wild Levels: 68 – 72
 8. Haunter (5%)
 9. Magmar (4%)
 10. Electabuzz (4%)
-11. Steelix (2%)Cave
-12. Night: Rhydon (20%)
-13. Electrode (20%)
-14. Marowak (15%)
-15. Raichu (10%)
-16. Parasect (10%)
-17. Chansey (10%)
-18. Ditto (10%)
-19. Sandslash (5%)
+11. Steelix (2%)
+</code></pre>
+
+**Cave, Night:**
+
+<pre><code>1. Rhydon (20%)
+2. Electrode (20%)
+3. Marowak (15%)
+4. Raichu (10%)
+5. Parasect (10%)
+6. Chansey (10%)
+7. Ditto (10%)
+8. Sandslash (5%)
 </code></pre>
 
 **Rock Smash:**
@@ -5087,7 +5116,7 @@ Wild Levels: 58 - 64
 7. Manectric (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Tangela (25%)
 2. Ponyta (20%)
@@ -5137,7 +5166,9 @@ Wild Levels: 58 - 64
 
 ---
 
-## Mt. Silver {Outside}
+## Mt. Silver
+
+### [ Outside ]
 
 Wild Levels: 59 - 65
 
@@ -5151,7 +5182,7 @@ Wild Levels: 59 - 65
 6. Dodrio (10%)
 </code></pre>
 
-**Grass. Night:**
+**Grass, Night:**
 
 <pre><code>1. Tangela (25%)
 2. Manectric (20%)
@@ -5198,10 +5229,6 @@ Wild Levels: 59 - 65
 2. Luvdisc (30%)
 3. Gyarados (10%)
 </code></pre>
-
-Mt. Silver
-
-Mt. Silver contains seven separate sections, with 1F, 2F, 3F, outside areas and two extensions to 1F.
 
 ### [ 1F – Entrance Room ]
 

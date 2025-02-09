@@ -6757,7 +6757,7 @@ Level Up Moves:
 ```
 + Poison Fang (7)
 + Bullet Seed (14)
-+ Sleep Powder
++ Sleep Powder (19)
 + Stun Spore (24)
 + Seed Bomb (34)
 + Bug Bite (44)

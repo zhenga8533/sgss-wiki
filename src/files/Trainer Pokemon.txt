@@ -1387,7 +1387,7 @@ Executive Ariana             Jynx Lv. 72, Milotic Lv. 70, Purugly Lv. 72, Arbok 
 Executive Archer             Zangoose Lv. 77, Drapion Lv. 73, Gyarados Lv. 73, Scizor Lv. 75, Machamp Lv. 75, Houndoom Lv. 78
 Rocket Boss Giovanni         Persian Lv. 82, Kangaskhan Lv. 76, Rhyperior Lv. 76, Tyranitar Lv. 80, Nidoking Lv. 80, Nidoqueen Lv. 80
 
-Mt. Silver Cave
+Mt. Silver (Cave)
 =================================================================================================================================================
 PKMN Trainer Red             Pikachu Lv. 94, Espeon Lv. 88, Snorlax Lv. 88, Venusaur Lv. 90, Charizard Lv. 90, Blastoise Lv. 90
 
