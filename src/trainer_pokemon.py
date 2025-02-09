@@ -75,6 +75,7 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
         ability_data["flavor_text_entries"].get("heartgold-soulsilver", ability_data["effect"]).replace("\n", " ")
     )
 
+    # Generate the Pokemon table
     sprite = (
         find_pokemon_sprite(name, "front").replace(f'"{name}"', f'"{name}: {pokemon_text}"').replace("../", "../../")
     )
