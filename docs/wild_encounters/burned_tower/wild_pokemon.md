@@ -1,4 +1,4 @@
-# Burned Tower Wild Pokémon
+# Burned Tower — Wild Pokémon
 
 ---
 

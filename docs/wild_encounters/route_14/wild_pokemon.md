@@ -1,4 +1,4 @@
-# Route 14 Wild Pokémon
+# Route 14 — Wild Pokémon
 
 ### Grass, Morning / Day
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Goldenrod Tunnel — Important Trainers
 
 ### Lyra
 

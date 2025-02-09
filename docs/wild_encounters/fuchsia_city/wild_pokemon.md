@@ -1,4 +1,4 @@
-# Fuchsia City Wild Pokémon
+# Fuchsia City — Wild Pokémon
 
 ### Surf
 

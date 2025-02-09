@@ -1,4 +1,4 @@
-# Important Trainers
+# Burned Tower — Important Trainers
 
 ### Rival Silver
 

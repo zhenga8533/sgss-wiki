@@ -1,4 +1,4 @@
-# Union Cave Wild Pokémon
+# Union Cave — Wild Pokémon
 
 ---
 

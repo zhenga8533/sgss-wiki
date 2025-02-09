@@ -1,4 +1,4 @@
-# Route 18 Wild Pokémon
+# Route 18 — Wild Pokémon
 
 ### Grass, Morning / Day
 

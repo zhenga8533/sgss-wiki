@@ -1,4 +1,4 @@
-# Important Trainers
+# Violet City — Important Trainers
 
 
 ---

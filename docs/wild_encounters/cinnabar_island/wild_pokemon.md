@@ -1,4 +1,4 @@
-# Cinnabar Island Wild Pokémon
+# Cinnabar Island — Wild Pokémon
 
 ### Surf
 

@@ -1,4 +1,4 @@
-# Dark Cave Wild Pokémon
+# Dark Cave — Wild Pokémon
 
 ---
 

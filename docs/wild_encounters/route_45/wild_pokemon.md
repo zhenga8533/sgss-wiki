@@ -1,4 +1,4 @@
-# Route 45 Wild Pokémon
+# Route 45 — Wild Pokémon
 
 ### Grass
 

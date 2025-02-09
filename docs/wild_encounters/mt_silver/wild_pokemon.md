@@ -1,4 +1,4 @@
-# Mt. Silver Wild Pokémon
+# Mt. Silver — Wild Pokémon
 
 ---
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Cherrygrove City — Important Trainers
 
 ### Passerby Boy
 

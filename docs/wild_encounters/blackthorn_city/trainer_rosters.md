@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Blackthorn City — Trainer Rosters
 
 ---
 

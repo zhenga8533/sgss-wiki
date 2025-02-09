@@ -1,4 +1,4 @@
-# Route 27 Wild Pokémon
+# Route 27 — Wild Pokémon
 
 ### Grass, Morning / Day
 

@@ -1,4 +1,4 @@
-# Route 47 Wild Pokémon
+# Route 47 — Wild Pokémon
 
 ### Grass, Morning / Day*
 

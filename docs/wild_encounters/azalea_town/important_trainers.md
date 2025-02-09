@@ -1,4 +1,4 @@
-# Important Trainers
+# Azalea Town — Important Trainers
 
 
 ---

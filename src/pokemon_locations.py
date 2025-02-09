@@ -62,7 +62,7 @@ def main():
             else:
                 md += "---\n\n## "
                 curr_location = line
-                wild_encounters[curr_location] = f"# {curr_location} Wild Pokémon\n\n"
+                wild_encounters[curr_location] = f"# {curr_location} — Wild Pokémon\n\n"
             md += line + "\n\n"
         # Wild Pokemon Levels
         elif line.startswith("Wild Levels:"):

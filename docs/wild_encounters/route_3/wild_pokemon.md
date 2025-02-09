@@ -1,4 +1,4 @@
-# Route 3 Wild Pokémon
+# Route 3 — Wild Pokémon
 
 ### Grass, Morning / Day
 

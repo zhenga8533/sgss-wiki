@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Fuchsia City — Trainer Rosters
 
 ---
 

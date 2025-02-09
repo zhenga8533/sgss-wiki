@@ -1,4 +1,4 @@
-# Route 13 Wild Pokémon
+# Route 13 — Wild Pokémon
 
 ### Grass, Morning / Day
 

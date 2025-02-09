@@ -1,4 +1,4 @@
-# Victory Road Wild Pokémon
+# Victory Road — Wild Pokémon
 
 ---
 

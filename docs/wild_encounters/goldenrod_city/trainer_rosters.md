@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Goldenrod City — Trainer Rosters
 
 ---
 

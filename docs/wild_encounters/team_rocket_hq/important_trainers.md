@@ -1,4 +1,4 @@
-# Important Trainers
+# Team Rocket HQ — Important Trainers
 
 ### Executive Petrel
 

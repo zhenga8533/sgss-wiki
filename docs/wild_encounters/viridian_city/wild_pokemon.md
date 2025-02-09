@@ -1,4 +1,4 @@
-# Viridian City Wild Pokémon
+# Viridian City — Wild Pokémon
 
 ### Surf
 

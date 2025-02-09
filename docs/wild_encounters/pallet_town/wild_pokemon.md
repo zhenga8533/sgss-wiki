@@ -1,4 +1,4 @@
-# Pallet Town Wild Pokémon
+# Pallet Town — Wild Pokémon
 
 ### Surf
 

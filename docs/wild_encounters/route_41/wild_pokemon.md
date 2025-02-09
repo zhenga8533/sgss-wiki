@@ -1,4 +1,4 @@
-# Route 41 Wild Pokémon
+# Route 41 — Wild Pokémon
 
 ### Surf
 

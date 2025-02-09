@@ -1,4 +1,4 @@
-# Cliff Cave Wild Pokémon
+# Cliff Cave — Wild Pokémon
 
 ### Cave
 

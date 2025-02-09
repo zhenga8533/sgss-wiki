@@ -1,4 +1,4 @@
-# Vermilion City Wild Pokémon
+# Vermilion City — Wild Pokémon
 
 ### Surf
 

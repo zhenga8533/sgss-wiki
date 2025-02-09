@@ -1,4 +1,4 @@
-# Important Trainers
+# Safari Zone Gate — Important Trainers
 
 ### Executive Archer
 

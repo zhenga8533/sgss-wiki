@@ -1,4 +1,4 @@
-# Important Trainers
+# Pewter City — Important Trainers
 
 
 ---

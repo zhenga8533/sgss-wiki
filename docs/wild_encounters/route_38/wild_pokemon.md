@@ -1,4 +1,4 @@
-# Route 38 Wild Pokémon
+# Route 38 — Wild Pokémon
 
 ### Grass, Morning / Day
 

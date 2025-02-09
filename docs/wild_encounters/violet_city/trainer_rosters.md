@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Violet City — Trainer Rosters
 
 ---
 

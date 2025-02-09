@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Azalea Town — Trainer Rosters
 
 ---
 

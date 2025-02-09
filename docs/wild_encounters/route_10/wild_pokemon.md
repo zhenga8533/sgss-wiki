@@ -1,4 +1,4 @@
-# Route 10 Wild Pokémon
+# Route 10 — Wild Pokémon
 
 ### Grass
 

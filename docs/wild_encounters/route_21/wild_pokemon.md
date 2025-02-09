@@ -1,4 +1,4 @@
-# Route 21 Wild Pokémon
+# Route 21 — Wild Pokémon
 
 ### Grass
 

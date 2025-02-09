@@ -1,4 +1,4 @@
-# Route 44 Wild Pokémon
+# Route 44 — Wild Pokémon
 
 ### Grass, Morning / Day
 

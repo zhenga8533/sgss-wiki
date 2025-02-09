@@ -1,4 +1,4 @@
-# Important Trainers
+# Vermilion City — Important Trainers
 
 
 ---

@@ -1,4 +1,4 @@
-# Route 31 Wild Pokémon
+# Route 31 — Wild Pokémon
 
 ### Grass, Morning
 

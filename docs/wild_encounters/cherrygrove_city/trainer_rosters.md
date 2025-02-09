@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Cherrygrove City — Trainer Rosters
 
 ### Important Trainers
 

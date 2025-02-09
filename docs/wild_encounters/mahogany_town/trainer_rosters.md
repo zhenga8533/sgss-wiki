@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Mahogany Town — Trainer Rosters
 
 ---
 

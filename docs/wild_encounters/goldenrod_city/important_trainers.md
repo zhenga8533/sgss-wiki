@@ -1,4 +1,4 @@
-# Important Trainers
+# Goldenrod City — Important Trainers
 
 
 ---

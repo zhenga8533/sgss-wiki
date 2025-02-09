@@ -1,4 +1,4 @@
-# Seafoam Islands Wild Pokémon
+# Seafoam Islands — Wild Pokémon
 
 ---
 

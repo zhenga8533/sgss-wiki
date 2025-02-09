@@ -1,4 +1,4 @@
-# Route 5 Wild Pokémon
+# Route 5 — Wild Pokémon
 
 ### Grass, Morning / Day
 

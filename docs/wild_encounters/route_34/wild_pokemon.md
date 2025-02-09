@@ -1,4 +1,4 @@
-# Route 34 Wild Pokémon
+# Route 34 — Wild Pokémon
 
 ### Grass
 

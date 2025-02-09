@@ -1,4 +1,4 @@
-# Important Trainers
+# Dragon's Den — Important Trainers
 
 ### Leader Clair
 

@@ -1,4 +1,4 @@
-# Sprout Tower Wild Pokémon
+# Sprout Tower — Wild Pokémon
 
 ---
 

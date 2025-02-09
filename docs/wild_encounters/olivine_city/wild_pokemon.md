@@ -1,4 +1,4 @@
-# Olivine City Wild Pokémon
+# Olivine City — Wild Pokémon
 
 ### Surf
 

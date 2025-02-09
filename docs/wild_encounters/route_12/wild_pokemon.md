@@ -1,4 +1,4 @@
-# Route 12 Wild Pokémon
+# Route 12 — Wild Pokémon
 
 ### Surf
 

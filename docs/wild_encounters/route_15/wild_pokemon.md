@@ -1,4 +1,4 @@
-# Route 15 Wild Pokémon
+# Route 15 — Wild Pokémon
 
 ### Grass, Morning / Day
 

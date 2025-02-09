@@ -1,4 +1,4 @@
-# Route 1 Wild Pokémon
+# Route 1 — Wild Pokémon
 
 ### Grass, Morning / Day
 

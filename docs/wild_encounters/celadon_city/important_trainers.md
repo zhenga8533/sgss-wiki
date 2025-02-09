@@ -1,4 +1,4 @@
-# Important Trainers
+# Celadon City — Important Trainers
 
 
 ---

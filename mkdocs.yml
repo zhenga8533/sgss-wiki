@@ -62,7 +62,7 @@ nav:
           - Wild Pokémon: wild_encounters/route_46/wild_pokemon.md
           - Trainer Rosters: wild_encounters/route_46/trainer_rosters.md
       - Cherrygrove City:
-          - Trainer Rosters: wild_encounters/cherrygrove_city/important_trainers.md
+          - Important Trainers: wild_encounters/cherrygrove_city/important_trainers.md
           - Trainer Rosters: wild_encounters/cherrygrove_city/trainer_rosters.md
           - Wild Pokémon: wild_encounters/cherrygrove_city/wild_pokemon.md
       - Route 30:
@@ -343,4 +343,4 @@ nav:
       - Mt. Silver:
           - Important Trainers: wild_encounters/mt_silver/important_trainers.md
           - Trainer Rosters: wild_encounters/mt_silver/trainer_rosters.md
-          - Trainer Rosters: wild_encounters/mt_silver/wild_pokemon.md
+          - Wild Pokémon: wild_encounters/mt_silver/wild_pokemon.md

@@ -1,4 +1,4 @@
-# Cherrygrove City Wild Pokémon
+# Cherrygrove City — Wild Pokémon
 
 ### Surf
 

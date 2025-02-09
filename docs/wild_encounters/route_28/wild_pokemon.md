@@ -1,4 +1,4 @@
-# Route 28 Wild Pokémon
+# Route 28 — Wild Pokémon
 
 ### Grass, Morning / Day
 

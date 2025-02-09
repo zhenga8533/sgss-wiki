@@ -1,4 +1,4 @@
-# Important Trainers
+# Olivine City — Important Trainers
 
 
 ---

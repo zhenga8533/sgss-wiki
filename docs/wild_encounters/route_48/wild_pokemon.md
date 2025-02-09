@@ -1,4 +1,4 @@
-# Route 48 Wild Pokémon
+# Route 48 — Wild Pokémon
 
 ### Morning / Day
 

@@ -1,4 +1,4 @@
-# Lake of Rage Wild Pokémon
+# Lake of Rage — Wild Pokémon
 
 ### Surf
 

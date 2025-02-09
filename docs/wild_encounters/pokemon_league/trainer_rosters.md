@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Pokemon League — Trainer Rosters
 
 ### Generic Trainers
 

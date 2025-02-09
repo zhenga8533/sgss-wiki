@@ -1,4 +1,4 @@
-# Route 2 Wild Pokémon
+# Route 2 — Wild Pokémon
 
 ---
 

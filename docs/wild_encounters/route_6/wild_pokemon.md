@@ -1,4 +1,4 @@
-# Route 6 Wild Pokémon
+# Route 6 — Wild Pokémon
 
 ### Grass, Morning / Day
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Fuchsia City — Important Trainers
 
 
 ---

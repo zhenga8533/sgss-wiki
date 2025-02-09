@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Ecruteak City — Trainer Rosters
 
 ---
 

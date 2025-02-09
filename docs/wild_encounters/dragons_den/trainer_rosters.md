@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Dragon's Den — Trainer Rosters
 
 ### Generic Trainers
 

@@ -1,4 +1,4 @@
-# Mt. Moon Wild Pokémon
+# Mt. Moon — Wild Pokémon
 
 ---
 

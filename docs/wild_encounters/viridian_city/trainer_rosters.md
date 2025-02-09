@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Viridian City — Trainer Rosters
 
 ---
 

@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Cliff Edge Gate — Trainer Rosters
 
 ### Generic Trainers
 

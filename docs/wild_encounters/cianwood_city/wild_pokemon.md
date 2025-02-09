@@ -1,4 +1,4 @@
-# Cianwood City Wild Pokémon
+# Cianwood City — Wild Pokémon
 
 ### Rock Smash
 

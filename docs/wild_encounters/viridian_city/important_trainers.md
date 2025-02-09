@@ -1,4 +1,4 @@
-# Important Trainers
+# Viridian City — Important Trainers
 
 
 ---

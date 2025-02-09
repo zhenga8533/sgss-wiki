@@ -1,4 +1,4 @@
-# Blackthorn City Wild Pokémon
+# Blackthorn City — Wild Pokémon
 
 ### Surf
 

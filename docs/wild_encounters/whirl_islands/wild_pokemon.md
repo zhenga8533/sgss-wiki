@@ -1,4 +1,4 @@
-# Whirl Islands Wild Pokémon
+# Whirl Islands — Wild Pokémon
 
 ---
 

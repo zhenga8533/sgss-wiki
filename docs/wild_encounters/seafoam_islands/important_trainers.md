@@ -1,4 +1,4 @@
-# Important Trainers
+# Seafoam Islands — Important Trainers
 
 
 ---

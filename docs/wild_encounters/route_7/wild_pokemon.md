@@ -1,4 +1,4 @@
-# Route 7 Wild Pokémon
+# Route 7 — Wild Pokémon
 
 ### Grass, Morning / Day
 

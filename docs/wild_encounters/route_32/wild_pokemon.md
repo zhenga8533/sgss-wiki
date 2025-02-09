@@ -1,4 +1,4 @@
-# Route 32 Wild Pokémon
+# Route 32 — Wild Pokémon
 
 ### Grass, Morning / Day
 

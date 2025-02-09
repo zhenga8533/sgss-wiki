@@ -1,4 +1,4 @@
-# Route 9 Wild Pokémon
+# Route 9 — Wild Pokémon
 
 ### Grass
 

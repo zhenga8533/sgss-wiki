@@ -1,4 +1,4 @@
-# Route 8 Wild Pokémon
+# Route 8 — Wild Pokémon
 
 ### Grass, Morning / Day
 

@@ -1,4 +1,4 @@
-# Cerulean City Wild Pokémon
+# Cerulean City — Wild Pokémon
 
 ### Surf
 

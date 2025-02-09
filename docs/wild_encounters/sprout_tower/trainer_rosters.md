@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Sprout Tower — Trainer Rosters
 
 ### Generic Trainers
 

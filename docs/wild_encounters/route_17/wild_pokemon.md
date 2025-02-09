@@ -1,4 +1,4 @@
-# Route 17 Wild Pokémon
+# Route 17 — Wild Pokémon
 
 ### Grass, Morning / Day
 

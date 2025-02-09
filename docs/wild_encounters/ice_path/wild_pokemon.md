@@ -1,4 +1,4 @@
-# Ice Path Wild Pokémon
+# Ice Path — Wild Pokémon
 
 ---
 

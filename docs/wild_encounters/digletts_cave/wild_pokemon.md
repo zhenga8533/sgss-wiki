@@ -1,4 +1,4 @@
-# Diglett’s Cave Wild Pokémon
+# Diglett’s Cave — Wild Pokémon
 
 ### Cave
 

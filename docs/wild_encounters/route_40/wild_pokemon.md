@@ -1,4 +1,4 @@
-# Route 40 Wild Pokémon
+# Route 40 — Wild Pokémon
 
 ### Surf
 

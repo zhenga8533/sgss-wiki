@@ -1,4 +1,4 @@
-# Trainer Rosters
+# S.S. Aqua — Trainer Rosters
 
 ---
 

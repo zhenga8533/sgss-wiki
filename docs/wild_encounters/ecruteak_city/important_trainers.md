@@ -1,4 +1,4 @@
-# Important Trainers
+# Ecruteak City — Important Trainers
 
 
 ---

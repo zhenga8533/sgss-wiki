@@ -1,4 +1,4 @@
-# New Bark Town Wild Pokémon
+# New Bark Town — Wild Pokémon
 
 ### Surf
 

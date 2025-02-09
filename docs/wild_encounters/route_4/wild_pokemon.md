@@ -1,4 +1,4 @@
-# Route 4 Wild Pokémon
+# Route 4 — Wild Pokémon
 
 ### Grass
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Mt. Moon — Important Trainers
 
 ### Rival Silver
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Blackthorn City — Important Trainers
 
 
 ---

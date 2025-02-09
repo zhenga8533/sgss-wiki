@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Goldenrod Tunnel — Trainer Rosters
 
 ### Generic Trainers
 

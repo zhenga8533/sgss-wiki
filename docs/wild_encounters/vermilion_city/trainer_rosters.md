@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Vermilion City — Trainer Rosters
 
 ---
 

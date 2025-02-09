@@ -1,4 +1,4 @@
-# Route 19 Wild Pokémon
+# Route 19 — Wild Pokémon
 
 ### Surf
 

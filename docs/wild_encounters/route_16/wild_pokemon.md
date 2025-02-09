@@ -1,4 +1,4 @@
-# Route 16 Wild Pokémon
+# Route 16 — Wild Pokémon
 
 ### Grass
 

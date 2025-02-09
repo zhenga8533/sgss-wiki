@@ -1,4 +1,4 @@
-# Route 11 Wild Pokémon
+# Route 11 — Wild Pokémon
 
 ### Grass
 

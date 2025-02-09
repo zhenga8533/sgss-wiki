@@ -1,4 +1,4 @@
-# Route 43 Wild Pokémon
+# Route 43 — Wild Pokémon
 
 ### Grass, Morning / Day
 

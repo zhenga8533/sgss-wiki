@@ -1,4 +1,4 @@
-# Route 37 Wild Pokémon
+# Route 37 — Wild Pokémon
 
 ### Grass, Morning / Day
 

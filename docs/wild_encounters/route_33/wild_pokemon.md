@@ -1,4 +1,4 @@
-# Route 33 Wild Pokémon
+# Route 33 — Wild Pokémon
 
 ### Grass, Morning / Day
 

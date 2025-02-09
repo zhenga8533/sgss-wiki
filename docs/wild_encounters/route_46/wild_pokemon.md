@@ -1,4 +1,4 @@
-# Route 46 Wild Pokémon
+# Route 46 — Wild Pokémon
 
 ### Grass, Morning / Day
 

@@ -1,4 +1,4 @@
-# Cerulean Cave Wild Pokémon
+# Cerulean Cave — Wild Pokémon
 
 ---
 

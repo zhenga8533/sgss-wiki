@@ -1,4 +1,4 @@
-# Route 29 Wild Pokémon
+# Route 29 — Wild Pokémon
 
 ### Grass, Morning / Day
 

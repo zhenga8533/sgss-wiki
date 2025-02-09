@@ -1,4 +1,4 @@
-# Route 24 Wild Pokémon
+# Route 24 — Wild Pokémon
 
 ### Grass, Morning / Day
 

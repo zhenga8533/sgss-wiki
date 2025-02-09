@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Burned Tower — Trainer Rosters
 
 ### Generic Trainers
 

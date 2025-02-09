@@ -1,4 +1,4 @@
-# Important Trainers
+# Slowpoke Well — Important Trainers
 
 ### Executive Proton
 

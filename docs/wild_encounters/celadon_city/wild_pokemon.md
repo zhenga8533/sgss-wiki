@@ -1,4 +1,4 @@
-# Celadon City Wild Pokémon
+# Celadon City — Wild Pokémon
 
 ### Surf
 

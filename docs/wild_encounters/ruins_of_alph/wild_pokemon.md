@@ -1,4 +1,4 @@
-# Ruins of Alph Wild Pokémon
+# Ruins of Alph — Wild Pokémon
 
 ### Grass
 

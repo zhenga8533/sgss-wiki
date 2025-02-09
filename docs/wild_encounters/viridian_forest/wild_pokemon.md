@@ -1,4 +1,4 @@
-# Viridian Forest Wild Pokémon
+# Viridian Forest — Wild Pokémon
 
 ### Grass, Morning
 

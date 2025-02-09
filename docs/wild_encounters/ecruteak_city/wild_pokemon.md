@@ -1,4 +1,4 @@
-# Ecruteak City Wild Pokémon
+# Ecruteak City — Wild Pokémon
 
 ### Surf
 

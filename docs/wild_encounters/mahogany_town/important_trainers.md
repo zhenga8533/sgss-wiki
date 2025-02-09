@@ -1,4 +1,4 @@
-# Important Trainers
+# Mahogany Town — Important Trainers
 
 
 ---

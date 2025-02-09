@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Safari Zone Gate — Trainer Rosters
 
 ### Generic Trainers
 

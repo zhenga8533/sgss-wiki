@@ -1,4 +1,4 @@
-# Bell Tower / Tin Tower Wild Pokémon
+# Bell Tower / Tin Tower — Wild Pokémon
 
 ---
 

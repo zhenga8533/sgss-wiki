@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Seafoam Islands — Trainer Rosters
 
 ### Generic Trainers
 

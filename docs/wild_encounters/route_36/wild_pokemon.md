@@ -1,4 +1,4 @@
-# Route 36 Wild Pokémon
+# Route 36 — Wild Pokémon
 
 ### Grass, Morning / Day
 

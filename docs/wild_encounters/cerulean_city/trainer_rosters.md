@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Cerulean City — Trainer Rosters
 
 ---
 

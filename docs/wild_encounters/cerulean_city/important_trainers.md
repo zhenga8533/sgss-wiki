@@ -1,4 +1,4 @@
-# Important Trainers
+# Cerulean City — Important Trainers
 
 
 ---

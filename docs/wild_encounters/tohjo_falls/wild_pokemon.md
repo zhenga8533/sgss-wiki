@@ -1,4 +1,4 @@
-# Tohjo Falls Wild Pokémon
+# Tohjo Falls — Wild Pokémon
 
 ### Cave
 

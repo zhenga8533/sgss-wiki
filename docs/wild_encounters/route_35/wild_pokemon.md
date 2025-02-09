@@ -1,4 +1,4 @@
-# Route 35 Wild Pokémon
+# Route 35 — Wild Pokémon
 
 ### Grass, Morning / Day
 

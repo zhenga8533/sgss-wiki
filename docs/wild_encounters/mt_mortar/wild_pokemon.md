@@ -1,4 +1,4 @@
-# Mt. Mortar Wild Pokémon
+# Mt. Mortar — Wild Pokémon
 
 ---
 

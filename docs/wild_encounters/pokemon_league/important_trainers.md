@@ -1,4 +1,4 @@
-# Important Trainers
+# Pokemon League — Important Trainers
 
 ### Rival Silver
 

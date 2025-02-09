@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Team Rocket HQ — Trainer Rosters
 
 ### Generic Trainers
 
