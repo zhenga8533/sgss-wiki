@@ -4,9 +4,10 @@ This document exists as a reference guide to the changes made to Pokémon within
 
 Notation is the following…
 
-1. () = New,
-1. {} = Replaces Original,
+1. () = New
+1. {} = Replaces Original
 1. [] = Shifts from Original Position
+1. * = Level Up Moves Revamped
 
 In an ability context, if {} is used then it refers to which ability has been replaced by the new one, otherwise it's just an addition. For level-up moves, it is explanatory with the prior definitions.
 
@@ -215,7 +216,7 @@ Level Up Moves:
 + Air Cutter (16)
 + Giga Drain (20)
 + Air Slash (26)
-+ Baton Pass(32)
++ Baton Pass (32)
 + Psychic (38)
 ```
 
@@ -266,7 +267,8 @@ Level Up Moves:
 + Twinneedle (10)
 + Aerial Ace (16)
 + Cross Poison (16)
-+ Night Slash (22),X-Scissor (31)
++ Night Slash (22)
++ X-Scissor (31)
 + Drill Peck (37)
 + Megahorn (43)
 ```
@@ -718,7 +720,7 @@ Stat Changes:
 + Defense (55)
 + Special Attack (85)
 + Special Defense (65)
-+ Total(450)
++ Total (450)
 ```
 
 Ability:
@@ -811,7 +813,7 @@ Level Up Moves:
 + Razor Leaf (11)
 + Nature Power (19)
 + Drain Punch (21)
-+ Teeter Dance(59)
++ Teeter Dance (59)
 ```
 
 **#045 Vileplume**
@@ -923,7 +925,7 @@ Level Up Moves:
 + Signal Beam (19)
 + Ominous Wind {31}
 + Baton Pass {37}
-+ Giga Drain{41}
++ Giga Drain {41}
 + Sludge Bomb {47}
 ```
 
@@ -989,7 +991,7 @@ Level Up Moves:
 ```
 + Fire Punch (28)
 + Ice Punch (28)
-+ ThunderPunch (28)
++ Thunder Punch (28)
 ```
 
 **#058 Growlithe**
@@ -1147,7 +1149,8 @@ Level Up Moves:
 + Bullet Punch (1)
 + Rock Throw (16)
 + Rock Slide (28)
-+ Stone Edge (44),Scary Face [48]
++ Stone Edge (44)
++ Scary Face [48]
 ```
 
 **#069 Bellsprout**
@@ -1264,7 +1267,7 @@ Level Up Moves:
 ```
 + Fire Punch
 + Ice Punch
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Hammer Arm (54)
 ```
 
@@ -1331,7 +1334,7 @@ Level Up Moves:
 Type Change:
 
 ```
-+ Normal/Flying >> Fighting/Flying
++ Normal / Flying >> Fighting / Flying
 ```
 
 Ability:
@@ -1491,7 +1494,8 @@ Level Up Moves:
 + Night Shade [1]
 + Ominous Wind (15)
 + Icy Wind (55)
-+ Nightmare [60],Aura Sphere (65)
++ Nightmare [60]
++ Aura Sphere (65)
 ```
 
 **#095 Onix**
@@ -1583,7 +1587,8 @@ Level Up Moves:
 + Superpower (1)
 + BubbleBeam [1]
 + Hammer Arm (28)
-+ Crush Claw {56},Cross Chop (69)
++ Crush Claw {56}
++ Cross Chop (69)
 ```
 
 **#100 Voltorb**
@@ -1688,9 +1693,9 @@ Level Up Moves:
 ```
 + Fire Punch (1)
 + Ice Punch (1)
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Sing (57)
-+ Perish Song(57)
++ Perish Song (57)
 ```
 
 Base Experience Change:
@@ -1861,7 +1866,8 @@ Level Up Moves:
 + Water Gun [1]
 + Rapid Spin [6]
 + Recover [10]
-+ Camouflage [15],Psybeam (19)
++ Camouflage [15]
++ Psybeam (19)
 ```
 
 **#121 Starmie**
@@ -2001,9 +2007,9 @@ Level Up Moves:
 + Outrage (67)
 ```
 
-**#133 Eevee**
+**#133 Eevee***
 
-![Eevee](../assets/sprites/eevee/front.gif "Eevee")
+![Eevee*](../assets/sprites/eevee/front.gif "Eevee*")
 
 TM:
 
@@ -2015,376 +2021,24 @@ TM:
 Level Up Moves:
 
 ```
-+ Refer to the figure below. The font is somewhat small so you mayneed to zoom in to see it clearly. A dash signifies no move is learnt in that place.LV
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Bite (8)
++ Growl (13)
++ Quick Attack (18)
++ Yawn (23)
++ Baton Pass (28)
++ Take Down (33)
++ Wish (38)
++ Last Resort (43)
++ Trump Card (48)
 ```
 
-Eevee
+**#134 Vaporeon***
 
-Vaporeon
-
-Jolteon
-
-Flareon
-
-Espeon
-
-Umbreon
-
-Leafeon
-
-Glaceon
-
-1
-
-1
-
-1
-
-3
-
-8
-
-13
-
-18
-
-23
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Bite
-
-Growl
-
-Quick Attack
-
-Yawn
-
-Baton Pass
-
-Take Down
-
-Wish
-
-Last Resort
-
-Trump Card
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Bite
-
-Ember
-
-Quick Attack
-
-Flame
-
-Wheel
-
-Fire
-
-Spin
-
-Fire Fang
-
-Superpower
-
-Last Resort
-
-Smog
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Swift
-
-Confusion
-
-Quick Attack
-
-Power
-
-Gem
-
-Psybeam
-
-33
-
-38
-
-43
-
-48
-
-Future Sight
-
-Fake Tears
-
-Last Resort
-
-Psych Up
-
-Faint
-
-Attack
-
-Assurance
-
-Payback
-
-Last Resort
-
-Mean Look
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Synthesis
-
-Razor Leaf
-
-Quick Attack
-
-Aromatherapy
-
-Magical
-
-Leaf
-
-Giga Drain
-
-Psycho Cut
-
-Last Resort
-
-Grasswhistle
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Bite
-
-Icy Wind
-
-Quick Attack
-
-Aurora
-
-Beam
-
-Ice
-
-Shard
-
-Ice Fang
-
-Earth Power
-
-Last Resort
-
-Mirror Coat
-
-53
-
-58
-
-63
-
--
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Double Kick
-
-Thundershock
-
-Quick Attack
-
-Shock
-
-Wave
-
-Pin
-
-Missile
-
-Thunder Fang
-
-Detect
-
-Last Resort
-
-Thunder
-
-Wave
-
-Agility
-
-Thunder
-
-Discharge
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Confuse Ray
-
-Pursuit
-
-Quick Attack
-
-Tickle
-
-28
-
-Tail Whip
-
-Tackle
-
-Helping
-
-Hand
-
-Sand-Attack
-
-Bite
-
-Water Gun
-
-Quick Attack
-
-Water
-
-Pulse
-
-Aurora
-
-Beam
-
-Aqua Ring
-
-Heal Bell
-
-Last Resort
-
-Haze
-
-Scary Face
-
-Flare Blitz
-
-Lava Plume
-
-Psychic
-
-Morning Sun
-
-Power Swap
-
-Screech
-
-Moonlight
-
-Guard Swap
-
-Hail
-
-Blizzard
-
-Barrier
-
-68
-
--
-
-Volt Tackle
-
-Fire Blast
-
-Aura Sphere
-
-Power Trick
-
-Sunny Day
-
-Leaf Blade
-
-Swords
-
-Dance
-
-Wood
-
-Hammer
-
-Acid Armor
-
-Hydro Pump
-
-Muddy
-
-Water
-
-Rest
-
-Fig. 1: Eeveelution move table.
-
-**#134 Vaporeon**
-
-![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon")
+![Vaporeon*](../assets/sprites/vaporeon/front.gif "Vaporeon*")
 
 Ability:
 
@@ -2402,12 +2056,28 @@ TM:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Bite (8)
++ Water Gun (13)
++ Quick Attack (18)
++ Water Pulse (23)
++ Aurora Beam (28)
++ Aqua Ring (33)
++ Heal Bell (38)
++ Last Resort (43)
++ Haze (48)
++ Acid Armor (53)
++ Hydro Pump (58)
++ Muddy Water (63)
++ Rest (68)
 ```
 
-**#135 Jolteon**
+**#135 Jolteon***
 
-![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon")
+![Jolteon*](../assets/sprites/jolteon/front.gif "Jolteon*")
 
 Ability:
 
@@ -2425,16 +2095,28 @@ TM:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Double Kick (8)
++ Thundershock (13)
++ Quick Attack (18)
++ Shock Wave (23)
++ Pin Missile (28)
++ Thunder Fang (33)
++ Detect (38)
++ Last Resort (43)
++ Thunder Wave (48)
++ Agility (53)
++ Thunder (58)
++ Discharge (63)
++ Volt Tackle (68)
 ```
 
-Sheer
+**#136 Flareon***
 
-Cold
-
-**#136 Flareon**
-
-![Flareon](../assets/sprites/flareon/front.gif "Flareon")
+![Flareon*](../assets/sprites/flareon/front.gif "Flareon*")
 
 Ability:
 
@@ -2456,13 +2138,35 @@ TM:
 Stat Changes:
 
 ```
-+ Flareon’s stats are now as follows…HP:110Atk:130Def:65SAtk:60SDef:65Spd:95
++ HP (110)
++ Attack (130)
++ Defense (65)
++ Special Atttack (60)
++ Special Defense (65)
++ Speed (95)
++ Total (525)
 ```
 
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Bite (8)
++ Ember (13)
++ Quick Attack (18)
++ Flame Wheel (23)
++ Fire Spin (28)
++ Fire Fang (33)
++ Superpower (38)
++ Last Resort (43)
++ Smog (48)
++ Scary Face (53)
++ Flare Blitz (58)
++ Lava Plume (63)
++ Fire Blast (68)
 ```
 
 **#137 Porygon**
@@ -2642,7 +2346,7 @@ Level Up Moves:
 + Grasswhistle (15)
 + Nature Power (16)
 + Earth Power (32)
-+ Leaf Storm(72)
++ Leaf Storm (72)
 ```
 
 **#155 Cyndaquil**
@@ -2678,7 +2382,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (36)
++ Thunder Punch (36)
 + Earth Power (63)
 ```
 
@@ -2863,8 +2567,8 @@ Level Up Moves:
 Stat Changes:
 
 ```
-+ Attack (20 >> 40)
-+ Special Attack (40 >> 20)
++ Attack (40)
++ Special Attack (20)
 ```
 
 Level Up Moves:
@@ -2887,7 +2591,7 @@ Stat Changes:
 
 ```
 + Attack (95)
-+ Special Attack (55 >> 35)
++ Special Attack (35)
 + Total (430)
 ```
 
@@ -2895,8 +2599,8 @@ Level Up Moves:
 
 ```
 + Bug Bite [1]
-+ ThunderPunch
-+ Ice Punch
++ Thunder Punch (1)
++ Ice Punch (1)
 + Dizzy Punch (18)
 ```
 
@@ -3381,7 +3085,23 @@ Ability:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Swift (8)
++ Confusion (13)
++ Quick Atttack (18)
++ Power Gem (23)
++ Psybeam (28)
++ Future Sight (33)
++ Fake Tears (38)
++ Last Resort (43)
++ Psych Up (48)
++ Psychic (53)
++ Morning Sun (58)
++ Power Swap (63)
++ Aura Sphere (68)
 ```
 
 **#197 Umbreon**
@@ -3404,7 +3124,23 @@ TM:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Confuse Ray (8)
++ Pursuit (13)
++ Quick Attack (18)
++ Tickle (23)
++ Feint Attack (28)
++ Assurance (33)
++ Payback (38)
++ Last Resort (43)
++ Mean Look (48)
++ Screech (53)
++ Moonlight (58)
++ Guard Swap (63)
++ Power Trick (68)
 ```
 
 **#198 Murkrow**
@@ -3457,22 +3193,14 @@ Level Up Moves:
 Stat Changes:
 
 ```
-+ A revamp…HP:Atk:Def:Spd:SpDef:SpAtk:Total:
++ HP (68)
++ Attack (92)
++ Defense (68)
++ Special Attack (92)
++ Special Defense (68)
++ Speed (68)
++ Total (456)
 ```
-
-48 >> 68
-
-72 >> 92
-
-48 >> 68
-
-48 >> 68
-
-48 >> 68
-
-72 >> 92
-
-336 >> 456
 
 Base Experience Change:
 
@@ -3668,7 +3396,8 @@ Level Up Moves:
 + Ice Fang (17)
 + Ice Punch (32)
 + Slash [36]
-+ Crunch (46),Ice Shard [50]
++ Crunch (46)
++ Ice Shard [50]
 ```
 
 **#216 Teddiursa**
@@ -3824,7 +3553,7 @@ Stat Changes:
 + Attack (95)
 + Defense (55)
 + Special Attack (105)
-+ Special Defense(55)
++ Special Defense (55)
 + Speed (115)
 + Total (475)
 ```
@@ -3836,7 +3565,8 @@ Level Up Moves:
 + Pluck (8)
 + Mist (15)
 + Quick Attack (22)
-+ Baton Pass (29),Air Slash (36)
++ Baton Pass (29)
++ Air Slash (36)
 + Seed Bomb (43)
 + Fake Out (50)
 + Blizzard (57)
@@ -4178,7 +3908,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Low Kick (1)
 + DragonBreath (36)
 ```
@@ -4216,7 +3946,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Hi Jump Kick (1)
 ```
 
@@ -4367,7 +4097,8 @@ Level Up Moves:
 + Stun Spore [15]
 + Air Cutter (17)
 + Signal Beam (22)
-+ Sleep Powder (29),Air Slash (44)
++ Sleep Powder (29)
++ Air Slash (44)
 ```
 
 **#269 Dustox**
@@ -4395,7 +4126,8 @@ Level Up Moves:
 + Protect [15]
 + Confuse Ray (17)
 + Signal Beam (22)
-+ Reflect (31),Tailwind (44)
++ Reflect (31)
++ Tailwind (44)
 ```
 
 **#270 Lotad**
@@ -4455,7 +4187,8 @@ Level Up Moves:
 + Quick Attack (1)
 + Razor Leaf [14]
 + Faint Attack [19]
-+ Low Kick (22),Fake Out [31]
++ Low Kick (22)
++ Fake Out [31]
 + Dark Pulse (34)
 ```
 
@@ -4610,7 +4343,7 @@ TM:
 Type Change:
 
 ```
-+ Bug/Flying >> Bug/Water
++ Bug / Flying >> Bug / Water
 ```
 
 Ability:
@@ -4666,7 +4399,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Bullet Seed (5)
 + Spore (49)
 ```
@@ -4944,7 +4677,8 @@ Stat Changes:
 + Defense (50)
 + Special Attack (90)
 + Special Defense (85)
-+ Speed (115),Total (450)
++ Speed (115)
++ Total (450)
 ```
 
 **#312 Minun**
@@ -4964,7 +4698,7 @@ Stat Changes:
 + Special Attack (85)
 + Special Defense (90)
 + Speed (115)
-+ Total(450)
++ Total (450)
 ```
 
 **#313 Volbeat**
@@ -4994,7 +4728,8 @@ Level Up Moves:
 ```
 + Double Team (1)
 + ThunderShock (5)
-+ Helping Hand {[29]},Thunderbolt (33)
++ Helping Hand {[29]}
++ Thunderbolt (33)
 + Baton Pass (49)
 ```
 
@@ -5297,7 +5032,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Needle Arm [25]
 + Ingrain [53]
 + Teeter Dance (77)
@@ -5661,7 +5396,7 @@ Stat Changes:
 + Attack (90)
 + Defense (90)
 + Special Attack (90)
-+ Special Defense(90)
++ Special Defense (90)
 + Speed (65)
 + Total (535)
 ```
@@ -5745,7 +5480,8 @@ Stat Change:
 + Attack (100)
 + Defense (120)
 + Special Defense (80 >> 60)
-+ Speed (80 >> 60),Total (500)
++ Speed (80 >> 60)
++ Total (500)
 ```
 
 Level Up Moves:
@@ -5805,7 +5541,7 @@ Stat Change:
 + Defense (60)
 + Special Attack (100)
 + Special Defense (80)
-+ Speed(125)
++ Speed (125)
 + Total (450)
 ```
 
@@ -5896,7 +5632,7 @@ Ability:
 Level Up Moves:
 
 ```
-+ ThunderPunch (1)
++ Thunder Punch (1)
 + Ice Punch (1)
 ```
 
@@ -6026,7 +5762,7 @@ Level Up Moves:
 
 ```
 + Fire Punch (1)
-+ ThunderPunch (1)
++ Thunder Punch (1)
 ```
 
 **#393 Piplup**
@@ -6487,7 +6223,7 @@ Level Up Moves:
 + Swift [25]
 + Sweet Kiss [29]
 + Fake Tears (41)
-+ Uproar(45)
++ Uproar (45)
 ```
 
 **#418 Buizel**
@@ -6982,7 +6718,7 @@ TM:
 Level Up Moves:
 
 ```
-+ ThunderPunch
++ Thunder Punch
 + Ice Punch (1)
 + Cross Chop (33)
 + Gunk Shot (59)
@@ -7022,7 +6758,8 @@ Level Up Moves:
 + Poison Fang (7)
 + Bullet Seed (14)
 + Sleep Powder
-+ Stun Spore (24),Seed Bomb (34)
++ Stun Spore (24)
++ Seed Bomb (34)
 + Bug Bite (44)
 ```
 
@@ -7210,7 +6947,7 @@ Level Up Moves:
 + Cross Chop {43}
 + Aura Sphere {58}
 + Magma Storm (67)
-+ Hyper Beam[76]
++ Hyper Beam [76]
 ```
 
 **#468 Togekiss**
@@ -7248,7 +6985,23 @@ Ability:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Syntehsis (8)
++ Razor Leaf (13)
++ Quick Attack (18)
++ Aromatherapy (23)
++ Magical Leaf (28)
++ Giga Drain (33)
++ Psycho Cut (38)
++ Last Resort (43)
++ Grasswhistle (48)
++ Sunny Day (53)
++ Leaf Blade (58)
++ Swords Dance (63)
++ Wood Hammer (68)
 ```
 
 **#471 Glaceon**
@@ -7271,7 +7024,23 @@ TM:
 Level Up Moves:
 
 ```
-+ Consult Fig 1.
++ Tail Whip (1)
++ Tackle (1)
++ Helping Hand (1)
++ Sand-Attack (3)
++ Bite (8)
++ Icy Wind (13)
++ Quick Attack (18)
++ Aurora Beam (23)
++ Ice Shard (28)
++ Ice Fang (33)
++ Earth Power (38)
++ Last Resort (43)
++ Mirror Coat (48)
++ Hail (53)
++ Blizzard (58)
++ Barrier (63)
++ Sheer Cold (68)
 ```
 
 **#472 Gliscor**
@@ -7390,9 +7159,9 @@ Stat Change:
 Stat Change:
 
 ```
-+ Defense (107 >> 92)
-+ Special Defense (107 >> 92)
-+ Speed (86 >> 116)
++ Defense (92)
++ Special Defense (92)
++ Speed (116)
 ```
 
 Ability:
@@ -7428,7 +7197,12 @@ Ability:
 Stat Change:
 
 ```
-+ All Stats (80 >> 85)
++ HP (85)
++ Attack (85)
++ Defense (85)
++ Special Attack (85)
++ Special Defense (85)
++ Speed (85)
 + Total (510)
 ```
 
