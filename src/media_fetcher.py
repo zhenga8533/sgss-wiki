@@ -180,8 +180,16 @@ def fetch_bulbagarden(url: str, pokedex: list[dict], num_threads: int, timeout: 
     id_regex = r".*?spr_4[hdp]_(\d+)?([a-z-]+)?(?:_([mf]))?$"
 
     def process_sprite(sprite: str):
+        """
+        Process the sprite URL to fetch and save the sprite.
+
+        :param sprite: The URL of the sprite.
+        :return: None
+        """
+
         sprite_id = sprite.rsplit("/", 1)[1].split(".")[0].lower()
 
+        # Match the sprite ID to extract the number, extension
         match = re.match(id_regex, sprite_id)
         if match:
             num, extension, gender = match.groups()
@@ -195,6 +203,7 @@ def fetch_bulbagarden(url: str, pokedex: list[dict], num_threads: int, timeout: 
         else:
             logger.log(logging.ERROR, f"Failed to match sprite ID: {sprite_id}")
 
+    # Create threads to process each sprite
     threads = []
     for i in range(0, len(sprites), num_threads):
         for sprite in sprites[i : i + num_threads]:
@@ -205,6 +214,7 @@ def fetch_bulbagarden(url: str, pokedex: list[dict], num_threads: int, timeout: 
         for thread in threads:
             thread.join()
 
+    # Fetch the next page if it exists
     next_page = soup.find("a", string="next page")
     if next_page:
         next_url = "https://archives.bulbagarden.net" + next_page["href"]

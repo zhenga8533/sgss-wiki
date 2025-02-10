@@ -109,6 +109,7 @@ Taillow has no alternate forms.
 | 34 | <span class="tooltip" title="The user confounds the foe with speed, then slashes. The attack lands without fail.">Aerial Ace</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | — | 20 |
 | 43 | <span class="tooltip" title="The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.">Agility</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 53 | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. It may also make the target flinch.">Air Slash</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 95 | 15 |
+| 62 | <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. The user also takes serious damage.">Brave Bird</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 
 ### TM Moves
 

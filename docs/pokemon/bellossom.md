@@ -111,6 +111,7 @@ Bellossom has no alternate forms.
 | 1 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 23 | <span class="tooltip" title="The user scatters curious leaves that chase the foe. This attack will not miss.">Magical Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
+| 38 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 | 53 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
 
 ### TM Moves

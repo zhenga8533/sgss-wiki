@@ -106,6 +106,7 @@ Starmie has no alternate forms.
 | 1 | <span class="tooltip" title="Star-shaped rays are shot at the foe. This attack never misses. ">Swift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
 | 1 | <span class="tooltip" title="The foe is blasted with a forceful shot of water.  ">Water Gun</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 25 |
 | 28 | <span class="tooltip" title="The foe is exposed to a sinister ray that triggers confusion. ">Confuse Ray</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 52 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
 
 ### TM Moves
 

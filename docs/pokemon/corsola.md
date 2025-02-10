@@ -99,6 +99,7 @@ Corsola has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="The user lays a trap of spikes at the foe’s feet. The trap hurts foes that switch into battle.">Spikes</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 4 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 8 | <span class="tooltip" title="A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.">Bubble</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
@@ -113,6 +114,7 @@ Corsola has no alternate forms.
 | 44 | <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones. ">Power Gem</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 20 |
 | 48 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
 | 53 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 57 | <span class="tooltip" title="The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.">Toxic Spikes</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

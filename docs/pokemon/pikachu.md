@@ -109,6 +109,7 @@ Pikachu has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="The user boosts the power of the Electric move it uses next. It also raises the user’s Sp. Def stat.">Charge</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 40 |
 | 1 | <span class="tooltip" title="A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.">Thunder Shock</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
 | 5 | <span class="tooltip" title="The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.">Tail Whip</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 30 |
@@ -122,6 +123,7 @@ Pikachu has no alternate forms.
 | 37 | <span class="tooltip" title="The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.">Agility</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 42 | <span class="tooltip" title="A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.">Discharge</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 15 |
 | 45 | <span class="tooltip" title="A wondrous wall of light is put up to suppress damage from special attacks for five turns.">Light Screen</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 49 | <span class="tooltip" title="The user electrifies itself, then charges at the foe. It causes considerable damage to the user as well.">Volt Tackle</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 | 50 | <span class="tooltip" title="A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.">Thunder</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 
 ### TM Moves

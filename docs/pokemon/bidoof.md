@@ -117,6 +117,7 @@ Bidoof has no alternate forms.
 | 37 | <span class="tooltip" title="The user chomps hard on the foe with its sharp front fangs. It cuts the target’s HP to half.">Super Fang</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 10 |
 | 41 | <span class="tooltip" title="The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense.">Superpower</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
 | 45 | <span class="tooltip" title="A move that works differently for the Ghost type than for all the other types. ">Curse</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 49 | <span class="tooltip" title="A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.">Double Edge</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 
 ### TM Moves
 

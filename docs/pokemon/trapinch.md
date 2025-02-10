@@ -102,6 +102,7 @@ Trapinch has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The foe is bitten with viciously sharp fangs. It may make the target flinch. ">Bite</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 25 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 | 9 | <span class="tooltip" title="Sand is hurled in the foe’s face, reducing its accuracy.  ">Sand Attack</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
 | 17 | <span class="tooltip" title="The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.">Feint Attack</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | — | 20 |
 | 25 | <span class="tooltip" title="The user traps the foe inside a harshly raging sandstorm for two to five turns. ">Sand Tomb</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 35 | 85 | 15 |

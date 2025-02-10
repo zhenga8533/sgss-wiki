@@ -115,7 +115,7 @@ Cubone has no alternate forms.
 | 37 | <span class="tooltip" title="The user strikes at the foe with a hard bone two to five times in a row. ">Bone Rush</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 25 | 90 | 10 |
 | 41 | <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 | 43 | <span class="tooltip" title="A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.">Double Edge</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
-| 47 | <span class="tooltip" title="Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power.">Retaliate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 5 |
+| 47 | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

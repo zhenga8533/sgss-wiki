@@ -114,6 +114,7 @@ Stantler has no alternate forms.
 | 49 | <span class="tooltip" title="If the foe knows any move also known by the user, the foe is prevented from using it.">Imprison</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 53 | <span class="tooltip" title="If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.">Captivate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 55 | <span class="tooltip" title="The user tries to cut ahead of the foe to steal and use the foe’s intended move with greater power.">Me First</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 59 | <span class="tooltip" title="Using its tough and impressive horn, the user rams into the foe  with no letup. ">Megahorn</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 85 | 10 |
 
 ### TM Moves
 

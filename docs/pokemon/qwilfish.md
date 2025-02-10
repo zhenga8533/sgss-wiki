@@ -117,6 +117,7 @@ Qwilfish has no alternate forms.
 | 49 | <span class="tooltip" title="The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.">Poison Jab</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 20 |
 | 53 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 57 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
+| 61 | <span class="tooltip" title="The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.">Pain Split</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

@@ -119,6 +119,7 @@ Gabite has no alternate forms.
 | 33 | <span class="tooltip" title="The user slashes the foe with huge, sharp claws.  ">Dragon Claw</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | 40 | <span class="tooltip" title="The user burrows, then attacks on the second turn. It can also be used to exit dungeons.">Dig</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 10 |
 | 49 | <span class="tooltip" title="The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.">Dragon Rush</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 75 | 10 |
+| 58 | <span class="tooltip" title="The user rampages and attacks for two to three turns. However, it then becomes confused.">Outrage</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 

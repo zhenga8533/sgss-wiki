@@ -118,6 +118,8 @@ Ninjask has no alternate forms.
 | 38 | <span class="tooltip" title="The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.">Agility</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 45 | <span class="tooltip" title="The user switches places with a party Pokémon in waiting, passing along any stat changes.">Baton Pass</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
 | 52 | <span class="tooltip" title="The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.">X Scissor</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
+| 59 | <span class="tooltip" title="The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.">Night Slash</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 15 |
+| 66 | <span class="tooltip" title="The user charges the foe at blinding speed. This attack always goes before any other move.">Extreme Speed</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 5 |
 
 ### TM Moves
 

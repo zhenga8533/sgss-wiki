@@ -119,11 +119,13 @@ Mantine has no alternate forms.
 | 40 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
 | 46 | <span class="tooltip" title="The user envelops itself in a veil made of water. It regains some HP on every turn.">Aqua Ring</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 49 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
+| 53 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| HM02 | <span class="tooltip" title="The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.">Fly</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 95 | 15 |
 | HM03 | <span class="tooltip" title="It swamps the entire battlefield with a giant wave. It can also be used for crossing water.">Surf</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 15 |
 | HM05 | <span class="tooltip" title="The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.">Waterfall</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | HM06 | <span class="tooltip" title="A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.">Dive</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 10 |

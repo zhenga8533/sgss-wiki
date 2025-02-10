@@ -7,7 +7,6 @@ Notation is the following…
 1. () = New
 1. {} = Replaces Original
 1. [] = Shifts from Original Position
-1. \* = Level Up Moves Revamped
 
 In an ability context, if {} is used then it refers to which ability has been replaced by the new one, otherwise it's just an addition. For level-up moves, it is explanatory with the prior definitions.
 
@@ -1322,9 +1321,9 @@ Level Up Moves:
 + Signal Beam (64)
 ```
 
-**[#083 Farfetch’d*](../pokemon/farfetchd.md)**
+**[#083 Farfetch’d](../pokemon/farfetchd.md)**
 
-![Farfetch’d*](../assets/sprites/farfetchd/front.gif "Farfetch’d*: If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.")
+![Farfetch’d](../assets/sprites/farfetchd/front.gif "Farfetch’d: If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.")
 
 Type Change:
 
@@ -2009,9 +2008,9 @@ Level Up Moves:
 + Outrage (67)
 ```
 
-**[#133 Eevee*](../pokemon/eevee.md)**
+**[#133 Eevee](../pokemon/eevee.md)**
 
-![Eevee*](../assets/sprites/eevee/front.gif "Eevee*: Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.")
+![Eevee](../assets/sprites/eevee/front.gif "Eevee: Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.")
 
 TM:
 
@@ -2037,9 +2036,9 @@ Level Up Moves:
 + Trump Card (48)
 ```
 
-**[#134 Vaporeon*](../pokemon/vaporeon.md)**
+**[#134 Vaporeon](../pokemon/vaporeon.md)**
 
-![Vaporeon*](../assets/sprites/vaporeon/front.gif "Vaporeon*: It prefers beautiful shores. With cells similar to water molecules, it could melt in water.")
+![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon: It prefers beautiful shores. With cells similar to water molecules, it could melt in water.")
 
 Ability:
 
@@ -2075,9 +2074,9 @@ Level Up Moves:
 + Rest (68)
 ```
 
-**[#135 Jolteon*](../pokemon/jolteon.md)**
+**[#135 Jolteon](../pokemon/jolteon.md)**
 
-![Jolteon*](../assets/sprites/jolteon/front.gif "Jolteon*: Every hair on its body starts to stand sharply on end if it becomes charged with electricity.")
+![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon: Every hair on its body starts to stand sharply on end if it becomes charged with electricity.")
 
 Ability:
 
@@ -2113,9 +2112,9 @@ Level Up Moves:
 + Volt Tackle (68)
 ```
 
-**[#136 Flareon*](../pokemon/flareon.md)**
+**[#136 Flareon](../pokemon/flareon.md)**
 
-![Flareon*](../assets/sprites/flareon/front.gif "Flareon*: It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.")
+![Flareon](../assets/sprites/flareon/front.gif "Flareon: It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.")
 
 Ability:
 

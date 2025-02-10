@@ -107,6 +107,7 @@ Budew has no alternate forms.
 | 10 | <span class="tooltip" title="The user scatters a cloud of paralyzing powder. It may paralyze the target.">Stun Spore</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 30 |
 | 13 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 15 |
 | 16 | <span class="tooltip" title="A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.">Worry Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 19 | <span class="tooltip" title="The user attacks with an odd, unseeable power. It may also make the foe flinch.">Extrasensory</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 20 |
 
 ### TM Moves
 

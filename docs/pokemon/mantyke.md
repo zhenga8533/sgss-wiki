@@ -112,6 +112,7 @@ Mantyke has no alternate forms.
 | 40 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
 | 46 | <span class="tooltip" title="The user envelops itself in a veil made of water. It regains some HP on every turn.">Aqua Ring</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 49 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
+| 53 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
 
 ### TM Moves
 

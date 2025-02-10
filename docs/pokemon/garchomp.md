@@ -123,6 +123,8 @@ Garchomp has no alternate forms.
 | 40 | <span class="tooltip" title="The user burrows, then attacks on the second turn. It can also be used to exit dungeons.">Dig</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 10 |
 | 48 | <span class="tooltip" title="The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.">Crunch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | 55 | <span class="tooltip" title="The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.">Dragon Rush</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 75 | 10 |
+| 65 | <span class="tooltip" title="The user rampages and attacks for two to three turns. However, it then becomes confused.">Outrage</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 10 |
+| 75 | <span class="tooltip" title="The user charges the foe at blinding speed. This attack always goes before any other move.">Extreme Speed</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 5 |
 
 ### TM Moves
 

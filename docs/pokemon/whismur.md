@@ -101,6 +101,7 @@ Whismur has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="The user feigns crying to make the foe feel flustered, sharply lowering its Sp. Def stat.">Fake Tears</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 1 | <span class="tooltip" title="The foe is physically pounded with a long tail or a foreleg, etc. ">Pound</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 5 | <span class="tooltip" title="The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.">Uproar</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 | 11 | <span class="tooltip" title="The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.">Astonish</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 30 | 100 | 15 |

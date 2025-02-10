@@ -118,8 +118,11 @@ Chimecho has no alternate forms.
 | 41 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 25 |
 | 46 | <span class="tooltip" title="The user attacks with an odd, unseeable power. It may also make the foe flinch.">Extrasensory</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 20 |
 | 49 | <span class="tooltip" title="Heals the target for half its max HP.">Heal Pulse</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 52 | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 60 | 20 |
 | 54 | <span class="tooltip" title="Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.">Synchronoise</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| 55 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 57 | <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.">Healing Wish</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 58 | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 
 ### TM Moves
 

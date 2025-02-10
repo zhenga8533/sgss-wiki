@@ -110,6 +110,8 @@ Cleffa has no alternate forms.
 | 10 | <span class="tooltip" title="The user kisses the foe with a sweet, angelic cuteness that causes confusion. ">Sweet Kiss</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 10 |
 | 13 | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 16 | <span class="tooltip" title="The user scatters curious leaves that chase the foe. This attack will not miss.">Magical Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
+| 19 | <span class="tooltip" title="The user waggles a finger and stimulates the brain into randomly using nearly any move.">Metronome</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 22 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 

@@ -101,6 +101,7 @@ Sentret has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="The foe is hit with rhythmically launched punches that may also leave it confused. ">Dizzy Punch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 10 |
 | 1 | <span class="tooltip" title="Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.">Foresight</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
 | 1 | <span class="tooltip" title="Hard, pointed, and sharp claws rake the foe to inflict damage.  ">Scratch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 4 | <span class="tooltip" title="The user curls up to conceal weak spots and raise its Defense stat. ">Defense Curl</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
@@ -115,6 +116,7 @@ Sentret has no alternate forms.
 | 39 | <span class="tooltip" title="The user switches places with a party Pokémon in waiting, passing along any stat changes.">Baton Pass</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
 | 42 | <span class="tooltip" title="The user tries to cut ahead of the foe to steal and use the foe’s intended move with greater power.">Me First</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 47 | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 50 | <span class="tooltip" title="The user chomps hard on the foe with its sharp front fangs. It cuts the target’s HP to half.">Super Fang</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 10 |
 
 ### TM Moves
 

@@ -112,6 +112,8 @@ Carvanha has no alternate forms.
 | 31 | <span class="tooltip" title="The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.">Aqua Jet</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 20 |
 | 36 | <span class="tooltip" title="The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.">Agility</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 38 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 85 | 20 |
+| 43 | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.">Dark Pulse</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 15 |
+| 45 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
 
 ### TM Moves
 

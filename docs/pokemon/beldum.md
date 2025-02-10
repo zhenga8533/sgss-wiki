@@ -102,6 +102,9 @@ Beldum has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 85 | 20 |
+| 10 | <span class="tooltip" title="The user attacks with its head. It may make the foe flinch. To find Pokémon, hit trees.">Headbutt</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 15 |
+| 20 | <span class="tooltip" title="The user focuses its willpower to its head and rams the foe. It may also make the target flinch.">Zen Headbutt</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 90 | 15 |
+| 30 | <span class="tooltip" title="The foe slams the target with its steel-hard head. It may also make the target flinch.">Iron Head</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 
 ### TM Moves
 

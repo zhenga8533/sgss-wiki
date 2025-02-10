@@ -105,7 +105,9 @@ Chingling has no alternate forms.
 | 14 | <span class="tooltip" title="The foe is hit by a weak telekinetic force. It may also leave the foe confused.">Confusion</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 25 |
 | 17 | <span class="tooltip" title="The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.">Uproar</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 | 22 | <span class="tooltip" title="This move can be used only after the user has used all the other moves it knows in the battle.">Last Resort</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 140 | 100 | 5 |
-| 25 | <span class="tooltip" title="Changes the target's ability to match the user's.  This effect ends when the target leaves battle.">Entrainment</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
+| 25 | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 60 | 20 |
+| 29 | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 33 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

@@ -114,6 +114,8 @@ Cradily has no alternate forms.
 | 66 | <span class="tooltip" title="The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.">Stockpile</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 66 | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP.">Swallow</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 76 | <span class="tooltip" title="The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.">Wring Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 5 |
+| 86 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 96 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 
 ### TM Moves
 

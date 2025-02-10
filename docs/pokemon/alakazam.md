@@ -123,8 +123,8 @@ Alakazam has no alternate forms.
 | 40 | <span class="tooltip" title="The user tears at the foe with blades formed by psychic power. It has a high critical-hit ratio.">Psycho Cut</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
 | 42 | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 46 | <span class="tooltip" title="The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.">Psychic</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
-| 48 | <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
-| 52 | <span class="tooltip" title="The user catches the foe off guard and swaps the foe’s held item with its own. ">Trick</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 48 | <span class="tooltip" title="Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.">Gravity</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 52 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
 
 ### TM Moves
 

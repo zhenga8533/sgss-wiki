@@ -101,6 +101,7 @@ Shellder has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.">Bubble Beam</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 100 | 20 |
 | 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 4 | <span class="tooltip" title="The user withdraws its body into its hard shell, raising its Defense stat. ">Withdraw</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
 | 8 | <span class="tooltip" title="The user generates odd sound waves from its body. It may confuse the target.">Supersonic</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 55 | 20 |

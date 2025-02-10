@@ -117,6 +117,8 @@ Sandslash has no alternate forms.
 | 40 | <span class="tooltip" title="The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.">Slash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
 | 45 | <span class="tooltip" title="The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.">Gyro Ball</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 | 52 | <span class="tooltip" title="A five-turn sand­ storm is summoned to hurt all combatant types except Rock,  Ground, and Steel.">Sandstorm</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 57 | <span class="tooltip" title="The user chomps hard on the foe with its sharp front fangs. It cuts the target’s HP to half.">Super Fang</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 10 |
+| 65 | <span class="tooltip" title="The user sets off an earthquake that hits all the Pokémon in the battle. ">Earthquake</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100 | 10 |
 
 ### TM Moves
 

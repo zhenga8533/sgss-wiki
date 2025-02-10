@@ -113,6 +113,7 @@ Celebi has no alternate forms.
 | 73 | <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.">Healing Wish</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 82 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
 | 91 | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 100 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

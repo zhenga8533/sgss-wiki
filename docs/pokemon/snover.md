@@ -117,6 +117,7 @@ Snover has no alternate forms.
 | 36 | <span class="tooltip" title="The user slams its rugged body into the foe to attack. The user also sustains serious damage.">Wood Hammer</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 | 41 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 5 |
 | 46 | <span class="tooltip" title="The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.">Sheer Cold</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 30 | 5 |
+| 51 | <span class="tooltip" title="The user slams a barrage of hard- shelled seeds down on the foe from above.">Seed Bomb</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 
 ### TM Moves
 

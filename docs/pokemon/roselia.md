@@ -123,6 +123,8 @@ Roselia has no alternate forms.
 | 40 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 | 43 | <span class="tooltip" title="The user releases a soothing scent that heals all status problems affecting the user’s party.">Aromatherapy</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 46 | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 49 | <span class="tooltip" title="The user scatters a big cloud of sleep- inducing dust around the foe. ">Sleep Powder</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 15 |
+| 52 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
 
 ### TM Moves
 

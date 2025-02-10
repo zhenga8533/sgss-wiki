@@ -32,13 +32,27 @@ def update_move(line: str, move_path: str, logger: Logger) -> None:
 
 
 def parse_change(attribute: str, changes: str, pokemon: str, pokemon_path: str, logger: Logger) -> str:
+    """
+    Parse a change to a Pokemon's data
+
+    :param attribute: The attribute to change
+    :param changes: The changes to make
+    :param pokemon: The Pokemon to update
+    :param pokemon_path: The path to the Pokemon data
+    :param logger: The logger object
+    :return: The Markdown string for the change
+    """
+
     # Load Pokemon data
     file_path = pokemon_path + pokemon + ".json"
     data = json.loads(load(file_path, logger))
-
     md = attribute + ":\n\n```"
+
+    # Loop through each change
     for change in changes.split(", "):
+        # Ability changes
         if attribute == "Ability":
+            # Parse ability and slot
             if change.endswith("}"):
                 ability, slot = change.rsplit(" ", 1)
                 slot = int(slot[1])
@@ -47,21 +61,26 @@ def parse_change(attribute: str, changes: str, pokemon: str, pokemon_path: str, 
                 slot = 2
             ability_id = format_id(ability)
 
+            # Remove previous ability in the same slot
             slot_index = next((i for i, a in enumerate(data["abilities"]) if a["slot"] == slot), None)
             if slot_index is not None:
                 data["abilities"].pop(slot_index)
 
+            # Remove previous ability with the same name
             ability_index = next((i for i, a in enumerate(data["abilities"]) if a["name"] == ability_id), None)
             if ability_index is not None:
                 data["abilities"].pop(ability_index)
 
+            # Add new ability
             data["abilities"].append({"name": ability_id, "slot": slot, "hidden": False})
+        # New level up moves
         elif attribute == "Level Up Moves":
+            # Parse move and level
             move, level = change.rsplit(" ", 1)
             level = int(re.sub(r"[\[\]{}()]", "", level))
 
             move_id = format_id(move)
-            moves = data["moves"]["heartgold-soulsilver"]
+            moves = data["moves"]["black-white"]
 
             # Remove previous move learned at the same level
             level_index = next(
@@ -80,46 +99,57 @@ def parse_change(attribute: str, changes: str, pokemon: str, pokemon_path: str, 
 
             # Add new move
             moves.append({"name": move_id, "learn_method": "level-up", "level_learned_at": level})
+        # New machine moves
         elif attribute == "TM":
+            # Parse machine and move
             machines = re.findall(r"(TM\d+|HM\d+)", changes)
             moves = re.findall(r"\((.*?)\)", changes)
 
+            # Add new machine moves
             for machine, move in zip(machines, moves):
                 md += f"\n+ {machine} ({move})"
 
                 move_id = format_id(move)
-                moves = data["moves"]["heartgold-soulsilver"]
+                moves = data["moves"]["black-white"]
                 move_index = next(
                     (i for i, m in enumerate(moves) if m["name"] == move_id and m["learn_method"] == "machine"), None
                 )
                 if move_index is None:
                     moves.append({"name": move_id, "learn_method": "machine", "level_learned_at": 0})
             break
+        # Base stats changes
         elif attribute == "Stat Change":
-            for stat_change in change.split(", "):
-                stat, value = stat_change.split(" (")
-                stat = format_id(stat)
-                value = int(value[:-1])
+            # Parse stat and value
+            stat, value = change.split(" (")
+            stat = format_id(stat)
+            value = int(value[:-1])
 
-                stats = data["stats"]
-                if stat in stats or stat == "total":
-                    stats[stat] = value
-                else:
-                    logger.log(logging.WARNING, f"Unknown stat: {stat}")
+            # Update stat
+            stats = data["stats"]
+            if stat in stats or stat == "total":
+                stats[stat] = value
+            else:
+                logger.log(logging.WARNING, f"Unknown stat: {stat}")
+        # Base experience changes
         elif attribute == "Base Experience":
             data["base_experience"] = int(change.split(" >> ")[1])
+        # Type changes
         elif attribute == "Type Change":
             if " >> " not in change:
                 continue
             data["types"] = [t.lower() for t in change.split(" >> ")[1].split(" / ")]
+        # Held item rate changes
         elif attribute == "Item Rate":
+            # Parse item and chance
             item, chance = change.split(" (", 1)
             item = format_id(item)
             chance = int(chance.split(" >> ")[1][:-2])
 
+            # Update held item rate
             held_items = data["held_items"]
             held_items[item]["heartgold"] = chance
             held_items[item]["soulsilver"] = chance
+        # Evolution changes
         else:
             logger.log(logging.WARNING, f"Unknown attribute: {attribute}")
 

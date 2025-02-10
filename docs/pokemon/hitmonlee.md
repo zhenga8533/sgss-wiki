@@ -121,7 +121,7 @@ Hitmonlee has no alternate forms.
 | 49 | <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 53 | <span class="tooltip" title="The foe is attacked by a kick launched with muscle-packed power. ">Mega Kick</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 75 | 5 |
 | 57 | <span class="tooltip" title="The user fights the foe up close without guarding itself. It also cuts the user’s Defense and Sp. Def.">Close Combat</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
-| 61 | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has. ">Reversal</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
+| 61 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
 
 ### TM Moves
 

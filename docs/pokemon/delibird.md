@@ -99,7 +99,18 @@ Delibird has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="Numerous coins are hurled at the foe to inflict damage. Money is earned after battle.">Pay Day</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 20 |
 | 1 | <span class="tooltip" title="The user attacks by giving the foe a booby-trapped gift. It restores HP sometimes, however.">Present</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 15 |
+| 8 | <span class="tooltip" title="The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.">Pluck</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 15 | <span class="tooltip" title="The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.">Mist</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 22 | <span class="tooltip" title="The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.">Quick Attack</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
+| 29 | <span class="tooltip" title="The user switches places with a party Pokémon in waiting, passing along any stat changes.">Baton Pass</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
+| 36 | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. It may also make the target flinch.">Air Slash</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 95 | 15 |
+| 43 | <span class="tooltip" title="The user slams a barrage of hard- shelled seeds down on the foe from above.">Seed Bomb</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
+| 50 | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 10 |
+| 57 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 5 |
+| 64 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 71 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 
 ### TM Moves
 
@@ -127,6 +138,7 @@ Delibird has no alternate forms.
 | TM79 | <span class="tooltip" title="Inflicts regular damage.  Always scores a critical hit.">Frost Breath</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 90 | 10 |
 | TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
 | TM88 | <span class="tooltip" title="The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.">Pluck</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| TM89 | <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U Turn</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
 | TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### Egg Moves

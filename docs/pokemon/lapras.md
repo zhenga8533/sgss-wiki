@@ -113,7 +113,9 @@ Lapras has no alternate forms.
 | 37 | <span class="tooltip" title="If the foe’s HP is down to about half, this attack will hit with double the power.">Brine</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 100 | 10 |
 | 43 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 25 |
 | 49 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
-| 55 | <span class="tooltip" title="The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.">Sheer Cold</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 30 | 5 |
+| 55 | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.">Dragon Dance</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 61 | <span class="tooltip" title="The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.">Sheer Cold</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 30 | 5 |
+| 67 | <span class="tooltip" title="The user rampages and attacks for two to three turns. However, it then becomes confused.">Outrage</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 

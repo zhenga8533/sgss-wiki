@@ -116,6 +116,8 @@ Hippopotas has no alternate forms.
 | 37 | <span class="tooltip" title="The user sets off an earthquake that hits all the Pokémon in the battle. ">Earthquake</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100 | 10 |
 | 44 | <span class="tooltip" title="A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.">Double Edge</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 | 50 | <span class="tooltip" title="The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.">Fissure</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 30 | 5 |
+| 56 | <span class="tooltip" title="The user slacks off, restoring its own HP by up to half of its maximum HP. ">Slack Off</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 62 | <span class="tooltip" title="The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense.">Superpower</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
 
 ### TM Moves
 

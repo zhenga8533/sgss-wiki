@@ -115,6 +115,7 @@ Shellos has no alternate forms.
 | 29 | <span class="tooltip" title="The user drops onto the foe with its full body weight. It may leave the foe paralyzed.">Body Slam</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 100 | 15 |
 | 37 | <span class="tooltip" title="The user attacks by shooting out muddy water. It may also lower the foe’s accuracy.">Muddy Water</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 85 | 10 |
 | 46 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 56 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 
 ### TM Moves
 

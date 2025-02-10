@@ -109,6 +109,9 @@ Igglybuff has no alternate forms.
 | 9 | <span class="tooltip" title="The foe is physically pounded with a long tail or a foreleg, etc. ">Pound</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 13 | <span class="tooltip" title="The user kisses the foe with a sweet, angelic cuteness that causes confusion. ">Sweet Kiss</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 10 |
 | 17 | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 21 | <span class="tooltip" title="The user waggles a finger and stimulates the brain into randomly using nearly any move.">Metronome</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 25 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| 29 | <span class="tooltip" title="The user copies the move last used by the foe. The move can be used for the rest of the battle.">Mimic</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

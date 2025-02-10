@@ -105,6 +105,7 @@ Clamperl has no alternate forms.
 | 1 | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 | 1 | <span class="tooltip" title="The foe is blasted with a forceful shot of water.  ">Water Gun</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 25 |
 | 1 | <span class="tooltip" title="Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.">Whirlpool</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 35 | 85 | 15 |
+| 26 | <span class="tooltip" title="The user attacks by shooting out muddy water. It may also lower the foe’s accuracy.">Muddy Water</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 85 | 10 |
 | 51 | <span class="tooltip" title="Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each.">Shell Smash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 
 ### TM Moves

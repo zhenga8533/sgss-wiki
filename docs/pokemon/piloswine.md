@@ -127,6 +127,7 @@ Piloswine has no alternate forms.
 | 48 | <span class="tooltip" title="The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.">Mist</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 | 56 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 5 |
 | 65 | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. It sharply raises the user’s Sp. Def stat.">Amnesia</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 73 | <span class="tooltip" title="The user flash freezes chunks of ice and hurls them. This move always goes first.">Ice Shard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
 
 ### TM Moves
 

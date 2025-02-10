@@ -109,6 +109,9 @@ Pichu has no alternate forms.
 | 10 | <span class="tooltip" title="A weak electric charge is launched at the foe. It causes paralysis if it hits.">Thunder Wave</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 20 |
 | 13 | <span class="tooltip" title="The user kisses the foe with a sweet, angelic cuteness that causes confusion. ">Sweet Kiss</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 10 |
 | 18 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 23 | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.">Sing</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 55 | 15 |
+| 24 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| 29 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.">Wish</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

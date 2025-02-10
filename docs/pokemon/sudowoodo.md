@@ -124,6 +124,7 @@ Sudowoodo has no alternate forms.
 | 41 | <span class="tooltip" title="This move enables the user to attack first. It fails if the foe is not readying an attack, however.">Sucker Punch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 5 |
 | 46 | <span class="tooltip" title="A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.">Double Edge</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 | 49 | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 90 | 10 |
+| 53 | <span class="tooltip" title="The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.">Self Destruct</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 200 | 100 | 5 |
 
 ### TM Moves
 

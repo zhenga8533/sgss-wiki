@@ -115,6 +115,8 @@ Kecleon has no alternate forms.
 | 49 | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.">Shadow Claw</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 15 |
 | 55 | <span class="tooltip" title="The user attacks with a prehistoric power. It may also raise all the user’s stats at once.">Ancient Power</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
 | 58 | <span class="tooltip" title="Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.">Synchronoise</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| 61 | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 10 |
+| 67 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

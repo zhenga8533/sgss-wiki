@@ -115,7 +115,7 @@ Voltorb has no alternate forms.
 | 40 | <span class="tooltip" title="The user levitates using electrically generated magnetism for five turns. ">Magnet Rise</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 43 | <span class="tooltip" title="The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.">Gyro Ball</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 | 47 | <span class="tooltip" title="The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.">Explosion</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 250 | 100 | 5 |
-| 50 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
+| 50 | <span class="tooltip" title="The user attacks with a sinister beam of light. It may also confuse the target. ">Signal Beam</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 100 | 15 |
 
 ### TM Moves
 

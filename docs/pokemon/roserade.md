@@ -112,6 +112,7 @@ Roserade has no alternate forms.
 | 1 | <span class="tooltip" title="The foe is stabbed with a poisonous barb of some sort. It may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 100 | 35 |
 | 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 1 | <span class="tooltip" title="An attack move that varies in power and type depending on the weather. ">Weather Ball</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 10 |
+| 39 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 

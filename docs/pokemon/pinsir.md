@@ -113,6 +113,8 @@ Pinsir has no alternate forms.
 | 42 | <span class="tooltip" title="The user grabs the foe and recklessly dives for the ground. It also hurts the user slightly.">Submission</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 80 | 20 |
 | 47 | <span class="tooltip" title="A vicious, tearing attack with pincers. The foe will faint instantly if this attack hits.">Guillotine</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 30 | 5 |
 | 52 | <span class="tooltip" title="The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense.">Superpower</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
+| 57 | <span class="tooltip" title="Using its tough and impressive horn, the user rams into the foe  with no letup. ">Megahorn</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 85 | 10 |
+| 62 | <span class="tooltip" title="The user fights the foe up close without guarding itself. It also cuts the user’s Defense and Sp. Def.">Close Combat</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
 
 ### TM Moves
 

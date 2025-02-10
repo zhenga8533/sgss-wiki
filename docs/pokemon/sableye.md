@@ -115,7 +115,7 @@ Sableye has no alternate forms.
 | 50 | <span class="tooltip" title="Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.">Foul Play</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 95 | 100 | 15 |
 | 53 | <span class="tooltip" title="The user focuses its willpower to its head and rams the foe. It may also make the target flinch.">Zen Headbutt</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 90 | 15 |
 | 57 | <span class="tooltip" title="The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.">Shadow Ball</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 15 |
-| 60 | <span class="tooltip" title="The user affixes the foe with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 60 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its max HP. ">Recover</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

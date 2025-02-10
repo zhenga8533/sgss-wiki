@@ -120,6 +120,7 @@ Magnezone has no alternate forms.
 | 50 | <span class="tooltip" title="The user looses a flash of energy from its polished body. It may also lower the target’s accuracy.">Mirror Shot</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 85 | 10 |
 | 54 | <span class="tooltip" title="The user levitates using electrically generated magnetism for five turns. ">Magnet Rise</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 60 | <span class="tooltip" title="The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.">Gyro Ball</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
+| 64 | <span class="tooltip" title="The user attacks with a sinister beam of light. It may also confuse the target. ">Signal Beam</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 100 | 15 |
 | 66 | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 50 | 5 |
 
 ### TM Moves

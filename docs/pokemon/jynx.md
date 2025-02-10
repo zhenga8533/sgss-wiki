@@ -118,7 +118,8 @@ Jynx has no alternate forms.
 | 44 | <span class="tooltip" title="The user drops onto the foe with its full body weight. It may leave the foe paralyzed.">Body Slam</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 100 | 15 |
 | 49 | <span class="tooltip" title="The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.">Wring Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 5 |
 | 55 | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
-| 60 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 5 |
+| 60 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
+| 66 | <span class="tooltip" title="The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Psycho Boost</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 140 | 90 | 5 |
 
 ### TM Moves
 

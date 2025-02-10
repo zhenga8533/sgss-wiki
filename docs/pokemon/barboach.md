@@ -113,6 +113,7 @@ Barboach has no alternate forms.
 | 39 | <span class="tooltip" title="The user sets off an earthquake that hits all the Pokémon in the battle. ">Earthquake</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100 | 10 |
 | 43 | <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 | 47 | <span class="tooltip" title="The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.">Fissure</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 30 | 5 |
+| 51 | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.">Dragon Dance</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

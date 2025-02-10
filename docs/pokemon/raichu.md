@@ -113,6 +113,7 @@ Raichu has no alternate forms.
 | 1 | <span class="tooltip" title="The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.">Tail Whip</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 30 |
 | 1 | <span class="tooltip" title="A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.">Thunder Shock</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
 | 1 | <span class="tooltip" title="A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.">Thunderbolt</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 15 |
+| 49 | <span class="tooltip" title="The user electrifies itself, then charges at the foe. It causes considerable damage to the user as well.">Volt Tackle</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 
 ### TM Moves
 

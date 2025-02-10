@@ -113,6 +113,7 @@ Skuntank has no alternate forms.
 | 34 | <span class="tooltip" title="The foe is scorched with an intense blast of fire. The target may also be left with a burn.">Flamethrower</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 15 |
 | 41 | <span class="tooltip" title="The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.">Night Slash</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 15 |
 | 51 | <span class="tooltip" title="The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.">Memento</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 58 | <span class="tooltip" title="This move enables the user to attack first. It fails if the foe is not readying an attack, however.">Sucker Punch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 5 |
 | 61 | <span class="tooltip" title="The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.">Explosion</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 250 | 100 | 5 |
 
 ### TM Moves

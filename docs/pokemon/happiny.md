@@ -106,6 +106,9 @@ Happiny has no alternate forms.
 | 5 | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 9 | <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis. ">Refresh</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 12 | <span class="tooltip" title="The user kisses the foe with a sweet, angelic cuteness that causes confusion. ">Sweet Kiss</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 10 |
+| 15 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.">Wish</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 18 | <span class="tooltip" title="The foe is thrown using the power of gravity. It inflicts damage equal to the user’s level.">Seismic Toss</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 20 |
+| 21 | <span class="tooltip" title="This move can be used only after the user has used all the other moves it knows in the battle.">Last Resort</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 140 | 100 | 5 |
 
 ### TM Moves
 

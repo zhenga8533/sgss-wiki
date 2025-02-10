@@ -121,6 +121,7 @@ Slowking has no alternate forms.
 | 49 | <span class="tooltip" title="The fewer PP this move has, the more power it has for attack. ">Trump Card</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | — | 5 |
 | 54 | <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the foe. ">Psych Up</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 58 | <span class="tooltip" title="Heals the target for half its max HP.">Heal Pulse</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 61 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
 
 ### TM Moves
 

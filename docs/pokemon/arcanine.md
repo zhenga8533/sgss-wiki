@@ -102,11 +102,13 @@ Arcanine has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The foe is bitten with viciously sharp fangs. It may make the target flinch. ">Bite</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 25 |
+| 1 | <span class="tooltip" title="The user fights the foe up close without guarding itself. It also cuts the user’s Defense and Sp. Def.">Close Combat</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
 | 1 | <span class="tooltip" title="The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.">Fire Fang</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 65 | 95 | 15 |
 | 1 | <span class="tooltip" title="Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.">Odor Sleuth</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
 | 1 | <span class="tooltip" title="The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Roar</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 1 | <span class="tooltip" title="The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.">Thunder Fang</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 65 | 95 | 15 |
 | 39 | <span class="tooltip" title="The user charges the foe at blinding speed. This attack always goes before any other move.">Extreme Speed</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 5 |
+| 50 | <span class="tooltip" title="The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too.">Flare Blitz</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 
 ### TM Moves
 

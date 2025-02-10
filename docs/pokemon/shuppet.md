@@ -113,7 +113,9 @@ Shuppet has no alternate forms.
 | 43 | <span class="tooltip" title="It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
 | 46 | <span class="tooltip" title="The user steals the effects of any healing or stat- changing move the foe attempts to use.">Snatch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 50 | <span class="tooltip" title="If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.">Grudge</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 53 | <span class="tooltip" title="The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.">Pain Split</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 55 | <span class="tooltip" title="The user catches the foe off guard and swaps the foe’s held item with its own. ">Trick</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 57 | <span class="tooltip" title="The user shoots filthy garbage at the foe to attack. It may also poison the target.">Gunk Shot</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 80 | 5 |
 
 ### TM Moves
 

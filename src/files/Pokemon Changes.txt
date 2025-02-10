@@ -4,7 +4,6 @@ Notation is the following…
 - () = New
 - {} = Replaces Original
 - [] = Shifts from Original Position
-- \* = Level Up Moves Revamped
 
 In an ability context, if {} is used then it refers to which ability has been replaced by the new one, otherwise it's just an addition. For level-up moves, it is explanatory with the prior definitions.
 
@@ -247,7 +246,7 @@ Scary Face [48]
 #082 Magneton
 + Level Up Moves: Signal Beam (64)
 
-#083 Farfetch’d*
+#083 Farfetch’d
 + Type Change: Normal / Flying >> Fighting / Flying
 + Ability: Super Luck {1}
 + TM: Compatibility with TM31 (Brick Break).
@@ -371,20 +370,20 @@ Psybeam (19)
 + Level Up Moves: Crunch (50), Outrage (53)
 #131 Lapras
 + Level Up Moves: Dragon Dance {55}, Sheer Cold [61], Outrage (67)
-#133 Eevee*
+#133 Eevee
 + TM: Compatibility with TM86 (Grass Knot).
 + Level Up Moves: Tail Whip (1), Tackle (1), Helping Hand (1), Sand-Attack (3), Bite (8), Growl (13), Quick Attack (18), Yawn (23), Baton Pass (28), Take Down (33), Wish (38), Last Resort (43), Trump Card (48)
 
-#134 Vaporeon*
+#134 Vaporeon
 + Ability: Hydration
 + TM: Compatibility with TM86 (Grass Knot).
 + Level Up Moves: Tail Whip (1), Tackle (1), Helping Hand (1), Sand-Attack (3), Bite (8), Water Gun (13), Quick Attack (18), Water Pulse (23), Aurora Beam (28), Aqua Ring (33), Heal Bell (38), Last Resort (43), Haze (48), Acid Armor (53), Hydro Pump (58), Muddy Water (63), Rest (68)
-#135 Jolteon*
+#135 Jolteon
 + Ability: Quick Feet
 + TM: Compatibility with TM86 (Grass Knot).
 + Level Up Moves: Tail Whip (1), Tackle (1), Helping Hand (1), Sand-Attack (3), Double Kick (8), Thunder Shock (13), Quick Attack (18), Shock Wave (23), Pin Missile (28), Thunder Fang (33), Detect (38), Last Resort (43), Thunder Wave (48), Agility (53), Thunder (58), Discharge (63), Volt Tackle (68)
 
-#136 Flareon*
+#136 Flareon
 + Ability: Guts
 + TM: Compatibility with TM80 (Rock Slide), TM71 (Stone Edge), and TM86 (Grass Knot).
 + Stat Change: HP (110), Attack (130), Defense (65), Special Attack (60), Special Defense (65), Speed (95), Total (525)

@@ -119,6 +119,7 @@ Porygon2 has no alternate forms.
 | 56 | <span class="tooltip" title="A barrier reflects back to the foe moves like Leech Seed and moves that damage status.">Magic Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 | 62 | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 50 | 5 |
 | 67 | <span class="tooltip" title="The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.">Hyper Beam</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 150 | 90 | 5 |
+| 73 | <span class="tooltip" title="Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.">Gravity</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

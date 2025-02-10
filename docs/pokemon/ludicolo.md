@@ -108,9 +108,13 @@ Ludicolo has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.">Astonish</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 30 | 100 | 15 |
+| 1 | <span class="tooltip" title="The foe is punched with a fiery fist. It may leave the target with a burn. ">Fire Punch</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
 | 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 40 |
+| 1 | <span class="tooltip" title="The foe is punched with an icy fist. It may leave the target frozen. ">Ice Punch</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
 | 1 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 15 |
 | 1 | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 1 | <span class="tooltip" title="The foe is punched with an electrified fist. It may leave the target with paralysis.">Thunder Punch</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
+| 49 | <span class="tooltip" title="The user performs a wobbly dance that confuses all the Pokémon in battle. ">Teeter Dance</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 
 ### TM Moves
 

@@ -114,6 +114,7 @@ Grotle has no alternate forms.
 | 42 | <span class="tooltip" title="The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.">Crunch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | 47 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 100 | 10 |
 | 52 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
+| 57 | <span class="tooltip" title="The user slams a barrage of hard- shelled seeds down on the foe from above.">Seed Bomb</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 
 ### TM Moves
 

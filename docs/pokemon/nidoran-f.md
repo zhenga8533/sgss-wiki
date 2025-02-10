@@ -116,6 +116,7 @@ Nidoran F has no alternate forms.
 | 37 | <span class="tooltip" title="The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.">Crunch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | 43 | <span class="tooltip" title="If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.">Captivate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 45 | <span class="tooltip" title="The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. ">Poison Fang</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 50 | 100 | 15 |
+| 47 | <span class="tooltip" title="The user chomps hard on the foe with its sharp front fangs. It cuts the target’s HP to half.">Super Fang</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 10 |
 
 ### TM Moves
 

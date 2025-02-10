@@ -107,6 +107,7 @@ Azurill has no alternate forms.
 | 10 | <span class="tooltip" title="A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.">Bubble</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
 | 15 | <span class="tooltip" title="The foe is slammed with a long tail, vines, etc., to inflict damage. ">Slam</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 75 | 20 |
 | 18 | <span class="tooltip" title="The foe is blasted with a forceful shot of water.  ">Water Gun</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 25 |
+| 22 | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.">Sing</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 55 | 15 |
 
 ### TM Moves
 

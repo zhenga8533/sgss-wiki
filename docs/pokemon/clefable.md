@@ -107,6 +107,7 @@ Clefable has no alternate forms.
 | 1 | <span class="tooltip" title="The user waggles a finger and stimulates the brain into randomly using nearly any move.">Metronome</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 1 | <span class="tooltip" title="The user compresses its body to make itself look smaller. The user’s evasion stat is boosted.">Minimize</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | 1 | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.">Sing</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 55 | 15 |
+| 1 | <span class="tooltip" title="The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.">Soft Boiled</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 
 ### TM Moves
 

@@ -103,6 +103,7 @@ Delcatty has no alternate forms.
 | 1 | <span class="tooltip" title="The foe is slapped repeatedly, back and forth, two to five times in a row. ">Double Slap</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 85 | 10 |
 | 1 | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 10 |
 | 1 | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.">Sing</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 55 | 15 |
+| 43 | <span class="tooltip" title="A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.">Wish</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

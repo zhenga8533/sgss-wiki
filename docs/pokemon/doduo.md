@@ -120,6 +120,8 @@ Doduo has no alternate forms.
 | 41 | <span class="tooltip" title="A corkscrewing attack with the sharp beak acting as a drill. ">Drill Peck</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 20 |
 | 46 | <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 | 50 | <span class="tooltip" title="The user rampages and attacks for two to three turns. It then becomes confused, however.">Thrash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 10 |
+| 51 | <span class="tooltip" title="The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.">Jump Kick</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 95 | 10 |
+| 56 | <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. The user also takes serious damage.">Brave Bird</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
 
 ### TM Moves
 

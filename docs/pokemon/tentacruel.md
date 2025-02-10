@@ -119,6 +119,7 @@ Tentacruel has no alternate forms.
 | 52 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
 | 56 | <span class="tooltip" title="Inflicts regular damage.  Has a 10% chance to poison the target.">Sludge Wave</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 95 | 100 | 10 |
 | 61 | <span class="tooltip" title="The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.">Wring Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 5 |
+| 62 | <span class="tooltip" title="The user applies pressure to stress points, sharply boosting one of its stats.">Acupressure</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 
 ### TM Moves
 

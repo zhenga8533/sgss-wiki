@@ -125,6 +125,7 @@ Tangrowth has no alternate forms.
 | 50 | <span class="tooltip" title="The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.">Wring Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 5 |
 | 54 | <span class="tooltip" title="The user violently whirls its vines or tentacles to harshly lash the foe. ">Power Whip</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 85 | 10 |
 | 57 | <span class="tooltip" title="The user blocks the foe’s way with arms spread wide to prevent escape. ">Block</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 60 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
 
 ### TM Moves
 

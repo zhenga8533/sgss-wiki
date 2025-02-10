@@ -122,7 +122,9 @@ Donphan has no alternate forms.
 | 31 | <span class="tooltip" title="If the foe has already taken some damage in the same turn, this attack’s power is doubled.">Assurance</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 10 |
 | 39 | <span class="tooltip" title="The user frightens the foe with a scary face to sharply reduce its Speed stat.">Scary Face</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
 | 46 | <span class="tooltip" title="The user sets off an earthquake that hits all the Pokémon in the battle. ">Earthquake</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100 | 10 |
-| 54 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 150 | 90 | 5 |
+| 54 | <span class="tooltip" title="The user flash freezes chunks of ice and hurls them. This move always goes first.">Ice Shard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
+| 60 | <span class="tooltip" title="The user delivers a life-endangering attack at full power. The user also takes terrible damage.">Head Smash</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 150 | 80 | 5 |
+| 68 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 150 | 90 | 5 |
 
 ### TM Moves
 

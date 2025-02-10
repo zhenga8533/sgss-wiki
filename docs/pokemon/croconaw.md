@@ -119,7 +119,7 @@ Croconaw has no alternate forms.
 | 48 | <span class="tooltip" title="The user rampages and attacks for two to three turns. It then becomes confused, however.">Thrash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 10 |
 | 51 | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm. ">Aqua Tail</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 90 | 10 |
 | 57 | <span class="tooltip" title="The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense.">Superpower</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
-| 60 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 80 | 5 |
+| 60 | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.">Dragon Dance</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

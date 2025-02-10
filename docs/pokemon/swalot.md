@@ -123,7 +123,7 @@ Swalot has no alternate forms.
 | 52 | <span class="tooltip" title="The user attacks by hurling filthy sludge at the foe. It may also poison the target.">Sludge Bomb</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 | 59 | <span class="tooltip" title="The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe’s ability.">Gastro Acid</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
 | 66 | <span class="tooltip" title="The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.">Wring Out</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 5 |
-| 73 | <span class="tooltip" title="The user shoots filthy garbage at the foe to attack. It may also poison the target.">Gunk Shot</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 80 | 5 |
+| 73 | <span class="tooltip" title="The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.">Pain Split</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 
 ### TM Moves
 

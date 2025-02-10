@@ -108,11 +108,14 @@ Shiftry has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.">Feint Attack</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | — | 20 |
+| 1 | <span class="tooltip" title="The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.">Heat Wave</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 95 | 90 | 10 |
+| 1 | <span class="tooltip" title="The user attacks with a gust of chilled air. It also lowers the target’s Speed stat. ">Icy Wind</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 55 | 95 | 15 |
 | 1 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 1 | <span class="tooltip" title="The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.">Ominous Wind</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
 | 1 | <span class="tooltip" title="Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.">Razor Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 55 | 95 | 25 |
 | 1 | <span class="tooltip" title="The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Whirlwind</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 19 | <span class="tooltip" title="Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.">Leaf Tornado</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 90 | 10 |
-| 49 | <span class="tooltip" title="A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
+| 49 | <span class="tooltip" title="The foe is slashed with a sharp leaf. It has a high critical-hit ratio. ">Leaf Blade</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 100 | 15 |
 
 ### TM Moves
 

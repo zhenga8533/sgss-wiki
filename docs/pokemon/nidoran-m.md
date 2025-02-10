@@ -116,6 +116,7 @@ Nidoran M has no alternate forms.
 | 37 | <span class="tooltip" title="The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.">Poison Jab</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 20 |
 | 43 | <span class="tooltip" title="If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.">Captivate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 45 | <span class="tooltip" title="The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.">Horn Drill</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 30 | 5 |
+| 47 | <span class="tooltip" title="The user chomps hard on the foe with its sharp front fangs. It cuts the target’s HP to half.">Super Fang</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 90 | 10 |
 
 ### TM Moves
 

@@ -116,8 +116,10 @@ Froslass has no alternate forms.
 | 31 | <span class="tooltip" title="If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.">Captivate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 37 | <span class="tooltip" title="The user flash freezes chunks of ice and hurls them. This move always goes first.">Ice Shard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
 | 40 | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 42 | <span class="tooltip" title="The user delivers a life-endangering attack at full power. The user also takes terrible damage.">Head Smash</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 150 | 80 | 5 |
 | 51 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 5 |
 | 59 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 67 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
 
 ### TM Moves
 

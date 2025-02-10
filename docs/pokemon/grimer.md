@@ -116,6 +116,7 @@ Grimer has no alternate forms.
 | 44 | <span class="tooltip" title="Inflicts regular damage.  Has a 10% chance to poison the target.">Sludge Wave</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 95 | 100 | 10 |
 | 49 | <span class="tooltip" title="The user shoots filthy garbage at the foe to attack. It may also poison the target.">Gunk Shot</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 80 | 5 |
 | 52 | <span class="tooltip" title="The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.">Memento</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 54 | <span class="tooltip" title="A move that works differently for the Ghost type than for all the other types. ">Curse</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

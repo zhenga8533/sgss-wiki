@@ -97,8 +97,11 @@ Zangoose has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <span class="tooltip" title="The foe is punched with a fiery fist. It may leave the target with a burn. ">Fire Punch</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
+| 1 | <span class="tooltip" title="The foe is punched with an icy fist. It may leave the target frozen. ">Ice Punch</span> | ![ice](../assets/types/ice.png "Ice"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
 | 1 | <span class="tooltip" title="The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.">Leer</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 30 |
 | 1 | <span class="tooltip" title="Hard, pointed, and sharp claws rake the foe to inflict damage.  ">Scratch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="The foe is punched with an electrified fist. It may leave the target with paralysis.">Thunder Punch</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 75 | 100 | 15 |
 | 5 | <span class="tooltip" title="The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.">Quick Attack</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
 | 9 | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat.">Swords Dance</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 14 | <span class="tooltip" title="The foe is slashed with scythes or claws. Its power increases if it hits in succession.">Fury Cutter</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 95 | 20 |
@@ -111,6 +114,7 @@ Zangoose has no alternate forms.
 | 44 | <span class="tooltip" title="A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.">False Swipe</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 40 |
 | 48 | <span class="tooltip" title="The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.">X Scissor</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 | 53 | <span class="tooltip" title="The user fights the foe up close without guarding itself. It also cuts the user’s Defense and Sp. Def.">Close Combat</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
+| 57 | <span class="tooltip" title="The user charges the foe at blinding speed. This attack always goes before any other move.">Extreme Speed</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 5 |
 
 ### TM Moves
 

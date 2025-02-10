@@ -115,7 +115,10 @@ Munchlax has no alternate forms.
 | 44 | <span class="tooltip" title="The user continually rolls into the foe over five turns. It becomes stronger each time it hits.">Rollout</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 30 | 90 | 20 |
 | 49 | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines its type and power.">Natural Gift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | 52 | <span class="tooltip" title="The user steals the effects of any healing or stat- changing move the foe attempts to use.">Snatch</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| 54 | <span class="tooltip" title="The user slacks off, restoring its own HP by up to half of its maximum HP. ">Slack Off</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 57 | <span class="tooltip" title="This move can be used only after the user has used all the other moves it knows in the battle.">Last Resort</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 140 | 100 | 5 |
+| 60 | <span class="tooltip" title="A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.">Double Edge</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 15 |
+| 63 | <span class="tooltip" title="The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.">Self Destruct</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 200 | 100 | 5 |
 
 ### TM Moves
 
