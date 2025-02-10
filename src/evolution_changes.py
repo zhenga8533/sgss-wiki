@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_id
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import glob
 import json
@@ -109,6 +109,9 @@ def main():
             num, curr_pokemon = line.split(" ", 1)
             pokemon_id = format_id(curr_pokemon)
             md += f"### [{num} {curr_pokemon}](../pokemon/{pokemon_id}.md)\n\n"
+
+            sprite = find_pokemon_sprite(pokemon_id, "front", logger)
+            md += sprite + "\n\n"
         # List changes
         elif line.startswith("- "):
             line = line[2:]

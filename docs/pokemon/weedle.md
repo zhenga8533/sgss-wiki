@@ -18,12 +18,6 @@
 |-------|-------|------|-------|
 | ![Weedle](../assets/sprites/weedle/front.gif "Weedle: It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.") | ![Weedle](../assets/sprites/weedle/front_shiny.png "Weedle: It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.") | ![Weedle](../assets/sprites/weedle/back.png "Weedle: It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.") | ![Weedle](../assets/sprites/weedle/back_shiny.png "Weedle: It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -109,9 +103,9 @@ Weedle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 | 1 | <span class="tooltip" title="The foe is stabbed with a poisonous barb of some sort. It may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 100 | 35 |
 | 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
+| 15 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 
 ### TM Moves
 
@@ -121,8 +115,4 @@ Weedle cannot learn any TM moves.
 Weedle cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-
+Weedle cannot learn any moves from tutors.

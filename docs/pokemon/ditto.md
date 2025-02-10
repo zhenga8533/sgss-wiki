@@ -18,12 +18,6 @@
 |-------|-------|------|-------|
 | ![Ditto](../assets/sprites/ditto/front.gif "Ditto: Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.") | ![Ditto](../assets/sprites/ditto/front_shiny.png "Ditto: Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.") | ![Ditto](../assets/sprites/ditto/back.png "Ditto: Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.") | ![Ditto](../assets/sprites/ditto/back_shiny.png "Ditto: Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):

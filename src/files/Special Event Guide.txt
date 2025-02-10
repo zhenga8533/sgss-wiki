@@ -33,7 +33,7 @@ top of the ladder into Slowpoke Well, and press A. You will be asked if you want
 throw the keystone into the well; choose Yes to encounter a Level 20 Spiritomb. Note
 that the keystone is consumed immediately, so defeating the Spiritomb will not let
 you immediately retry without another Odd Keystone. Further Odd Keystones can be
-obtained from the captain of the S.S. Aqua after obtaining the Earth Badge.
+obtained from the captain of the S.S. Aqua after obtaining the Earth Badge.
 
 #185 Sudowoodo
 Requirements:

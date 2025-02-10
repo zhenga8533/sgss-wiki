@@ -18,12 +18,6 @@
 |-------|-------|------|-------|
 | ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna: From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.") | ![Kakuna](../assets/sprites/kakuna/front_shiny.png "Kakuna: From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.") | ![Kakuna](../assets/sprites/kakuna/back.png "Kakuna: From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.") | ![Kakuna](../assets/sprites/kakuna/back_shiny.png "Kakuna: From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -120,9 +114,4 @@ Kakuna cannot learn any TM moves.
 Kakuna cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-
+Kakuna cannot learn any moves from tutors.

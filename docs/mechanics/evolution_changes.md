@@ -41,6 +41,8 @@ Instead of trading, obtain an item called the "Voltaic Ore" and simply "Use" it 
 
 ### [#133 Eevee](../pokemon/eevee.md)
 
+![eevee](../assets/sprites/eevee/front.gif "eevee: Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.")
+
 Changed evolution methods for four of its possible seven evolutions…
 
 1. [Espeon](../pokemon/espeon.md) - Get an "Aubade Orb" and "Use" it from the menu.
@@ -49,6 +51,8 @@ Changed evolution methods for four of its possible seven evolutions…
 1. [Glaceon](../pokemon/glaceon.md) - Get an "Chilled Ore" and "Use" it from the menu.
 
 ### [#349 Feebas](../pokemon/feebas.md)
+
+![feebas](../assets/sprites/feebas/front.gif "feebas: It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.")
 
 The evolution has not been changed; to raise a Feebas' happiness in HG/SS you must either get its haircut or get it groomed by Daisy a total of eight times combined to raise its Beauty to a sufficiently high point.
 

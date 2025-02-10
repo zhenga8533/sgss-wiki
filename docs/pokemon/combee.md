@@ -20,7 +20,7 @@ At night, COMBEE sleep in a group of about a thousand, packed closely together i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combee](../assets/sprites/combee/front_female.gif "Combee: At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee: At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.") | ? | ? |
+| ![Combee](../assets/sprites/combee/front_female.gif "Combee: At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee: At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.") | N/A | N/A |
 
 ### Cries
 
@@ -108,8 +108,6 @@ Combee has no alternate forms.
 | 1 | <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the foe to inflict damage. ">Gust</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 35 |
 | 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 13 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-| 16 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
-| 19 | <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 
 ### TM Moves
 
@@ -119,15 +117,4 @@ Combee cannot learn any TM moves.
 Combee cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="Star-shaped rays are shot at the foe. This attack never misses. ">Swift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
-| <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
-| <span class="tooltip" title="The user hurls mud in the foe’s face to inflict damage and lower its accuracy. ">Mud Slap</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 20 | 100 | 10 |
-| <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
-| <span class="tooltip" title="The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.">Air Cutter</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 95 | 25 |
-| <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-| <span class="tooltip" title="The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.">Ominous Wind</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
-
+Combee cannot learn any moves from tutors.

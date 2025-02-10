@@ -16,12 +16,6 @@ It covers itself with a cloak to shelter from the cold. When it’s hot, its clo
 |-------|-------|------|-------|
 | ![Burmy](../assets/sprites/burmy/front.gif "Burmy: It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.") | ![Burmy](../assets/sprites/burmy/front_shiny.png "Burmy: It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.") | ![Burmy](../assets/sprites/burmy/back.png "Burmy: It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.") | ![Burmy](../assets/sprites/burmy/back_shiny.png "Burmy: It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Burmy Sandy Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -123,12 +117,10 @@ Burmy has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-| 1 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 15 |
 | 1 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
-| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
-| 9 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| 18 | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
+| 10 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 15 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 20 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 15 |
 
 ### TM Moves
 
@@ -138,9 +130,4 @@ Burmy cannot learn any TM moves.
 Burmy cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-
+Burmy cannot learn any moves from tutors.

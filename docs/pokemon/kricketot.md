@@ -106,8 +106,9 @@ Kricketot has no alternate forms.
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | — | 10 |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 | 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 40 |
+| 6 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 20 |
+| 16 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 
 ### TM Moves
 
@@ -117,12 +118,4 @@ Kricketot cannot learn any TM moves.
 Kricketot cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
-| <span class="tooltip" title="The user hurls mud in the foe’s face to inflict damage and lower its accuracy. ">Mud Slap</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 20 | 100 | 10 |
-| <span class="tooltip" title="The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.">Uproar</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
-| <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-
+Kricketot cannot learn any moves from tutors.

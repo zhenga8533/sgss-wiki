@@ -16,12 +16,6 @@ It tends to move in a pack. Individuals squash against one another to toughen th
 |-------|-------|------|-------|
 | ![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut: It tends to move in a pack. Individuals squash against one another to toughen their spirits.") | ![Wynaut](../assets/sprites/wynaut/front_shiny.png "Wynaut: It tends to move in a pack. Individuals squash against one another to toughen their spirits.") | ![Wynaut](../assets/sprites/wynaut/back.png "Wynaut: It tends to move in a pack. Individuals squash against one another to toughen their spirits.") | ![Wynaut](../assets/sprites/wynaut/back_shiny.png "Wynaut: It tends to move in a pack. Individuals squash against one another to toughen their spirits.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):

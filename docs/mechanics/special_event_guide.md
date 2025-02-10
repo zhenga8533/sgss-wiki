@@ -38,8 +38,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 2. With a keystone in hand, return to Azalea Town and stand on the top of the ladder into Slowpoke Well, and press A
 3. You will be asked if you want to throw the keystone into the well; choose Yes to encounter a Level 20 Spiritomb
 4. Note that the keystone is consumed immediately, so defeating the Spiritomb will not let you immediately retry without another Odd Keystone
-5. Further Odd Keystones can be obtained from the captain of the S.S
-6. Aqua after obtaining the Earth Badge.
+5. Further Odd Keystones can be obtained from the captain of the S.S. Aqua after obtaining the Earth Badge.
 
 ### [#185 Sudowoodo](../pokemon/sudowoodo.md)
 

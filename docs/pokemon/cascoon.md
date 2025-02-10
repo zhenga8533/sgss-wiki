@@ -16,12 +16,6 @@ It endures attacks with patience, because the more pain before evolution, the st
 |-------|-------|------|-------|
 | ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon: It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.") | ![Cascoon](../assets/sprites/cascoon/front_shiny.png "Cascoon: It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.") | ![Cascoon](../assets/sprites/cascoon/back.png "Cascoon: It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.") | ![Cascoon](../assets/sprites/cascoon/back_shiny.png "Cascoon: It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -122,9 +116,4 @@ Cascoon cannot learn any TM moves.
 Cascoon cannot learn any moves by breeding.
 ### Tutor Moves
 
-| Move | Type | Cat. | Power | Acc. | PP |
-| --- | --- | --- | --- | --- | --- |
-| <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
-| <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-
+Cascoon cannot learn any moves from tutors.

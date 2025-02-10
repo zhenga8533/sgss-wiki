@@ -42,7 +42,7 @@ def parse_sprite_tables(
     valid = False
 
     for sprite in sprites:
-        if sprite == "":
+        if sprite == "?":
             md += " N/A |"
             continue
         valid = True
@@ -404,9 +404,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
     moves = pokemon["moves"]
     move_keys = list(moves.keys())
-    move_key = (
-        "heartgold-soulsilver" if "heartgold-soulsilver" in move_keys else move_keys[-1] if len(move_keys) > 0 else ""
-    )
+    move_key = "black-white" if "black-white" in move_keys else move_keys[-1] if len(move_keys) > 0 else ""
     moves = moves.get(move_key, [])
 
     for move in moves:

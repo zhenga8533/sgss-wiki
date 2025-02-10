@@ -120,10 +120,10 @@ def main():
                 )
 
                 # Add pokemon to markdown
-                md += f"{j + 1}. [{name}](../pokemon/{pokemon_id}.md) ({chance})\n"
+                md += f"{j + 1}. <a href='/sgss-wiki/pokemon/{pokemon_id}.md/'>{name}</a> ({chance})\n"
                 wild_encounters[curr_location] += f"| {sprite} "
                 wild_encounters[curr_location] += f"| [{name}](../../pokemon/{pokemon_id}.md) "
-                wild_encounters[curr_location] += f"| encounter_sprites"
+                wild_encounters[curr_location] += f"| {encounter_sprites}"
                 wild_encounters[curr_location] += f"| {rod_levels[encounter] if encounter in rod_levels else level} "
                 wild_encounters[curr_location] += f"| {chance} |\n"
             md += "</code></pre>\n\n"

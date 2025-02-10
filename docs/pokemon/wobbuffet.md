@@ -111,7 +111,6 @@ Wobbuffet has no alternate forms.
 | 1 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 1 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
 | 1 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 25 |
-| 15 | <span class="tooltip" title="The user copies the move last used by the foe. The move can be used for the rest of the battle.">Mimic</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

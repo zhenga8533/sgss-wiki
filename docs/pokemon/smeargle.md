@@ -18,12 +18,6 @@
 |-------|-------|------|-------|
 | ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle: Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.") | ![Smeargle](../assets/sprites/smeargle/front_shiny.png "Smeargle: Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.") | ![Smeargle](../assets/sprites/smeargle/back.png "Smeargle: Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.") | ![Smeargle](../assets/sprites/smeargle/back_shiny.png "Smeargle: Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
