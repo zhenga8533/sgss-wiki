@@ -254,7 +254,9 @@ def main():
     lines = data.split("\n")
     n = len(lines)
     md = "# Trainer Pokémon\n\n"
-    md += "!!! tip\n\n\tFor a more comprehensive list of trainers, please refer to the [Wild Encounters]() page.\n\n"
+    md += "!!! tip\n\n\t"
+    md += "For a more comprehensive list of trainers, please refer to the [Wild Encounters](../wild_encounters/route_46/trainer_rosters.md) page."
+    md += "\n\n"
 
     trainer = None
     trainers = []

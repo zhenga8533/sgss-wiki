@@ -29,6 +29,9 @@ def main():
     lines = data.split("\n")
     n = len(lines)
     md = "# Pokémon Locations\n\n"
+    md += "!!! tip\n\n\t"
+    md += "For a more comprehensive list of wild Pokémon encounters, please refer to the [Wild Encounters](../wild_encounters/new_bark_town/wild_pokemon.md) page."
+    md += "\n\n"
 
     # Wild Encounter data
     curr_location = None

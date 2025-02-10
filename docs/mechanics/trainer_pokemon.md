@@ -2,7 +2,7 @@
 
 !!! tip
 
-	For a more comprehensive list of trainers, please refer to the [Wild Encounters]() page.
+	For a more comprehensive list of trainers, please refer to the [Wild Encounters](../wild_encounters/route_46/trainer_rosters.md) page.
 
 1. Important trainers have their entire roster listed including species, levels, items, moves.
 1. Some trainers have a (!) next to their name. This means that they have further rosters via the Pokegear.
