@@ -105,13 +105,13 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Level Up Moves: Super Fang (41), Earthquake (45)
 #028 Sandslash
 + Level Up Moves: Super Fang (57), Earthquake (65)
-#029 Nidoran♀
+#029 Nidoran F
 + Level Up Moves: Super Fang (47)
 #030 Nidorina
 + Level Up Moves: Super Fang (65)
 #031 Nidoqueen
 + Stat Changes: HP (100), Total (505)
-#032 Nidoran♂
+#032 Nidoran M
 + Level Up Moves: Super Fang (47)
 
 #033 Nidorino

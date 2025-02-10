@@ -894,7 +894,7 @@ Wild Levels: 28 – 30
 **Meridian Sound:**
 
 <pre><code>1. Lickilicky
-2. ExploudPastoral
+2. Exploud
 </code></pre>
 
 **Pastoral Sound:**
@@ -1421,7 +1421,7 @@ Wild Levels: 21 – 24
 **Meridian Sound:**
 
 <pre><code>1. Arcanine
-2. NinetalesPastoral
+2. Ninetales
 </code></pre>
 
 **Pastoral Sound:**
@@ -1585,13 +1585,12 @@ Wild Levels: 27 – 28
 7. Farfetch’d (5%)
 8. Miltank (5%)
 9. Tauros (5%)
-10. Pidgeotto (5%)Grass
-11. Night
+10. Pidgeotto (5%)
 </code></pre>
 
-**Night:**
+**Grass, Night:**
 
-<pre><code>1. ht Raticate (20%)
+<pre><code>1. Raticate (20%)
 2. Ponyta (20%)
 3. Elekid (10%)
 4. Mankey (10%)
@@ -1690,11 +1689,9 @@ Wild Levels: 25 – 35
 
 Wild Levels: 25 – 35
 
-Surf
-
 **Surf:**
 
-<pre><code>1. rf Wingull (60%)
+<pre><code>1. Wingull (60%)
 2. Mantyke (30%)
 3. Mantine (5%)
 4. Tentacruel (3%)
@@ -3442,7 +3439,7 @@ Wild Levels: 47 – 50
 
 <pre><code>1. Pidgeotto (20%)
 2. Raticate (20%)
-3. Kadabara (10%)
+3. Kadabra (10%)
 4. Jigglypuff (10%)
 5. Machop (10%)
 6. Weepinbell (10%)
@@ -3454,7 +3451,7 @@ Wild Levels: 47 – 50
 
 <pre><code>1. Mightyena (20%)
 2. Raticate (20%)
-3. Kadabara (10%)
+3. Kadabra (10%)
 4. Jigglypuff (10%)
 5. Machop (10%)
 6. Weepinbell (10%)
@@ -4116,7 +4113,7 @@ Wild Levels: 52 – 55
 **Meridian Sound:**
 
 <pre><code>1. Swalot
-2. Misagmius
+2. Mismagius
 </code></pre>
 
 **Pastoral Sound:**
@@ -4316,7 +4313,7 @@ Wild Levels: 54 – 59
 
 **Grass:**
 
-<pre><code>1. (32%)
+<pre><code>1. Tangela (32%)
 2. Mr. Mime (28%)
 3. Raticate (15%)
 4. Pelipper (15%)
@@ -4760,7 +4757,7 @@ Storm Silver Wild Levels: 45 – 48
 
 **Building:**
 
-<pre><code>1. Building Rattata (35%)
+<pre><code>1. Rattata (35%)
 2. Zigzagoon (20%)
 3. Golbat (20%)
 4. Gastly (15%)
@@ -4788,7 +4785,7 @@ Storm Silver Wild Levels: 46 – 49
 
 **Building:**
 
-<pre><code>1. Building Raticate (30%)
+<pre><code>1. Raticate (30%)
 2. Linoone (20%)
 3. Golbat (20%)
 4. Haunter (15%)
@@ -4816,7 +4813,7 @@ Storm Silver Wild Levels: 46 – 50
 
 **Building:**
 
-<pre><code>1. Building Raticate (20%)
+<pre><code>1. Raticate (20%)
 2. Haunter (20%)
 3. Golbat (15%)
 4. Dusclops (10%)
@@ -4847,7 +4844,7 @@ Storm Silver Wild Levels: 48 – 50
 
 **Building:**
 
-<pre><code>1. Building Raticate (20%)
+<pre><code>1. Raticate (20%)
 2. Ditto (20%)
 3. Golbat (10%)
 4. Altaria (10%)
@@ -5357,7 +5354,6 @@ Wild Levels: 64 – 68
 5. Misdreavus (10%)
 6. Quagsire (5%)
 7. Pupitar (5%)
-8. 
 </code></pre>
 
 **Meridian Sound:**

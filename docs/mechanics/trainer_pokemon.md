@@ -173,7 +173,7 @@
 	2. Lv. 11 Pidgey
 	3. Lv. 11 Doduo
 1. Bird Keeper Rod
-	1. Lv. 11 Tailow
+	1. Lv. 11 Taillow
 	2. Lv. 11 Wingull
 	3. Lv. 11 Natu
 	4. Lv. 11 Zubat
@@ -242,7 +242,7 @@
 	1. Lv. 14 Sandshrew
 	2. Lv. 14 Onix
 1. Picnicker Liz (!)
-	1. Lv. 14 Nidoran♀
+	1. Lv. 14 Nidoran F
 	2. Lv. 14 Ponyta
 1. Fisherman Henry
 	1. Lv. 14 Poliwag
@@ -257,7 +257,7 @@
 	1. Lv. 14 Goldeen
 	2. Lv. 14 Qwilfish
 1. Camper Roland
-	1. Lv. 14 Nidoran♂
+	1. Lv. 14 Nidoran M
 	2. Lv. 14 Diglett
 	3. Lv. 14 Pikachu
 1. Ace Trainer Peter
@@ -4640,11 +4640,11 @@
 <h3>Generic Trainers</h3>
 
 1. Juggler Horton
-	1. Lv. 57 Rotom(H)
-	2. Lv. 57 Rotom(W)
-	3. Lv. 57 Rotom(Fr)
-	4. Lv. 57 Rotom(F)
-	5. Lv. 57 Rotom(M)
+	1. Lv. 57 Rotom-Heat
+	2. Lv. 57 Rotom-Wash
+	3. Lv. 57 Rotom-Frost
+	4. Lv. 57 Rotom-Fan
+	5. Lv. 57 Rotom-Mow
 1. Guitarist Vincent
 	1. Lv. 59 Electabuzz
 	2. Lv. 59 Electrode
@@ -5578,7 +5578,7 @@
 1. Bug Catcher Rob (!)
 	1. Lv. 60 Scyther
 	2. Lv. 60 Pinsir
-	3. Lv. 60 Hercross
+	3. Lv. 60 Heracross
 1. Bug Catcher Doug (!)
 	1. Lv. 63 Forretress
 
@@ -5587,11 +5587,11 @@
 1. Bug Catcher Rob (F4a-10a)
 	1. Lv. 63 Scyther
 	2. Lv. 63 Pinsir
-	3. Lv. 63 Hercross
+	3. Lv. 63 Heracross
 1. Bug Catcher Rob (F4a-10a)
 	1. Lv. 65 Scyther
 	2. Lv. 65 Pinsir
-	3. Lv. 65 Hercross
+	3. Lv. 65 Heracross
 1. Bug Catcher Rob (F4a-10a)
 	1. Lv. 68 Pinsir
 	2. Lv. 68 Scizor

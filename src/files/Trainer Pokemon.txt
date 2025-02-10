@@ -54,7 +54,7 @@ Psychic Nathan               Girafarig Lv. 30
 Violet City (Gym)
 =================================================================================================================================================
 Bird Keeper Abe              Spearow Lv. 11, Pidgey Lv. 11, Doduo Lv. 11
-Bird Keeper Rod              Tailow Lv. 11, Wingull Lv. 11, Natu Lv. 11, Zubat Lv. 11
+Bird Keeper Rod              Taillow Lv. 11, Wingull Lv. 11, Natu Lv. 11, Zubat Lv. 11
 Leader Falkner               Doduo Lv. 12, Farfetch'd Lv. 12, Chatot Lv. 12, Murkrow Lv. 14, Swablu Lv. 14, Pidgeotto Lv. 15
 
 Leader Falkner
@@ -69,11 +69,11 @@ Route 32
 =================================================================================================================================================
 Parasol Lady Joan            Mareep Lv. 14, Drifloon Lv. 14
 Ruin Maniac Gordon           Sandshrew Lv. 14, Onix Lv. 14
-Picnicker Liz (!)            Nidoran♀ Lv. 14, Ponyta Lv. 14
+Picnicker Liz (!)            Nidoran F Lv. 14, Ponyta Lv. 14
 Fisherman Henry              Poliwag Lv. 14, Remoraid Lv. 14, Goldeen Lv. 14
 Fisherman Justin             Magikarp Lv. 10, Magikarp Lv. 10, Magikarp Lv. 15, Feebas Lv. 15
 Fisherman Ralph (!)          Goldeen Lv. 14, Qwilfish Lv. 14
-Camper Roland                Nidoran♂ Lv. 14, Diglett Lv. 14, Pikachu Lv. 14
+Camper Roland                Nidoran M Lv. 14, Diglett Lv. 14, Pikachu Lv. 14
 Ace Trainer Peter            Staravia Lv. 14, Oddish Lv. 14, Elekid Lv. 14, Nidorino Lv. 16
 
 Rematches
@@ -1056,7 +1056,7 @@ Starmie (Lv. 62) @ Sitrus Berry     /   Natural Cure    /   Hydro Pump, Thunderb
 
 Vermilion City (Gym)
 =================================================================================================================================================
-Juggler Horton               Rotom(H) Lv. 57, Rotom(W) Lv. 57, Rotom(Fr) Lv. 57, Rotom(F) Lv. 57, Rotom(M) Lv. 57
+Juggler Horton               Rotom-Heat Lv. 57, Rotom-Wash Lv. 57, Rotom-Frost Lv. 57, Rotom-Fan Lv. 57, Rotom-Mow Lv. 57
 Guitarist Vincent            Electabuzz Lv. 59, Electrode Lv. 59, Magneton Lv. 59
 Gentleman Gregory            Manectric Lv. 60, Luxray Lv. 60
 Leader Lt. Surge             Magnezone Lv. 61, Ampharos Lv. 59, Jolteon Lv. 60, Electrode Lv. 61, Electivire Lv. 61, Raichu Lv. 63
@@ -1326,12 +1326,12 @@ School Kid Sherman           Furret Lv. 63, Pidgeot Lv. 63
 
 Route 2 (South)
 =================================================================================================================================================
-Bug Catcher Rob (!)          Scyther Lv. 60, Pinsir Lv. 60, Hercross Lv. 60
+Bug Catcher Rob (!)          Scyther Lv. 60, Pinsir Lv. 60, Heracross Lv. 60
 Bug Catcher Doug (!)         Forretress Lv. 63
 
 Rematches
-Bug Catcher Rob (F4a-10a)    Scyther Lv. 63, Pinsir Lv. 63, Hercross Lv. 63
-Bug Catcher Rob (F4a-10a)    Scyther Lv. 65, Pinsir Lv. 65, Hercross Lv. 65
+Bug Catcher Rob (F4a-10a)    Scyther Lv. 63, Pinsir Lv. 63, Heracross Lv. 63
+Bug Catcher Rob (F4a-10a)    Scyther Lv. 65, Pinsir Lv. 65, Heracross Lv. 65
 Bug Catcher Rob (F4a-10a)    Pinsir Lv. 68, Scizor Lv. 68, Heracross Lv. 68
 Bug Catcher Doug (W4a-10a)   Forretress Lv. 65, Forretress Lv. 65
 Bug Catcher Doug (W4a-10a)   Forretress Lv. 67, Forretress Lv. 67

@@ -298,7 +298,6 @@ Super Rod:
 Gyarados (60%), Seaking (30%), Whiscash (10%)
 Meridian Sound:
 Lickilicky, Exploud
-Pastoral
 Pastoral Sound:
 Kangaskhan
 
@@ -467,7 +466,6 @@ Growlithe (20%), Vulpix (20%), Stantler (10%), Ariados (10%), Noctowl (10%), Mig
 (10%), Linoone (10%), Zangoose (5%), Seviper (5%)
 Meridian Sound:
 Arcanine, Ninetales
-Pastoral
 Pastoral Sound:
 Zangoose, Seviper
 
@@ -526,9 +524,8 @@ Wild Levels: 27 – 28
 Grass, Morning / Day:
 Raticate (20%), Ponyta (20%), Elekid (10%), Mankey (10%), Voltorb (10%), 
 Cherubi (10%), Farfetch’d (5%), Miltank (5%), Tauros (5%), Pidgeotto (5%)
-Grass, Night
-Night:
-ht Raticate (20%), Ponyta (20%), Elekid (10%), Mankey (10%), Voltorb (10%), Meowth (10%), 
+Grass, Night:
+Raticate (20%), Ponyta (20%), Elekid (10%), Mankey (10%), Voltorb (10%), Meowth (10%), 
 Farfetch’d (5%), Miltank (5%), Tauros (5%), Skitty (5%)
 Meridian Sound:
 Rapidash, Primeape
@@ -562,9 +559,8 @@ Finneon (60%), Corsola (30%), Lumineon (10%)
 Route 41
 Wild Levels: 25 – 35
 
-Surf
 Surf:
-rf Wingull (60%), Mantyke (30%), Mantine (5%), Tentacruel (3%), Phione (2%)
+Wingull (60%), Mantyke (30%), Mantine (5%), Tentacruel (3%), Phione (2%)
 Old Rod:
 Magikarp (60%), Tentacool (30%), Horsea (10%)
 Good Rod:
@@ -1176,10 +1172,10 @@ Route 5
 Wild Levels: 47 – 50
 
 Grass, Morning / Day:
-Pidgeotto (20%), Raticate (20%), Kadabara (10%), Jigglypuff (10%), 
+Pidgeotto (20%), Raticate (20%), Kadabra (10%), Jigglypuff (10%), 
 Machop (10%), Weepinbell (10%), Meditite (10%), Chatot (10%)
 Grass, Night:
-Mightyena (20%), Raticate (20%), Kadabara (10%), Jigglypuff (10%), 
+Mightyena (20%), Raticate (20%), Kadabra (10%), Jigglypuff (10%), 
 Machop (10%), Weepinbell (10%), Meditite (10%), Persian (10%)
 Meridian Sound:
 Medicham
@@ -1412,7 +1408,7 @@ Grass, Night:
 Grimer (35%), Gulpin (20%), Fearow (20%), Muk (10%), Magcargo (10%), 
 Misdreavus (5%)
 Meridian Sound:
-Swalot, Misagmius
+Swalot, Mismagius
 Pastoral Sound:
 Dusclops, Drifblim
 
@@ -1491,7 +1487,7 @@ Route 21
 Wild Levels: 54 – 59
 
 Grass:
-(32%), Mr. Mime (28%), Raticate (15%), Pelipper (15%), Gastrodon (10%)
+Tangela (32%), Mr. Mime (28%), Raticate (15%), Pelipper (15%), Gastrodon (10%)
 Surf:
 Wingull (63%), Wailmer (32%), Pelipper (5%)
 Meridian Sound:
@@ -1643,7 +1639,7 @@ Bell Tower / Tin Tower
 Sacred Gold Wild Levels: 40 – 43
 Storm Silver Wild Levels: 45 – 48
 Building:
-Building Rattata (35%), Zigzagoon (20%), Golbat (20%), Gastly (15%), Shuppet (5%), Duskull (5%)
+Rattata (35%), Zigzagoon (20%), Golbat (20%), Gastly (15%), Shuppet (5%), Duskull (5%)
 Meridian Sound:
 Haunter, Linoone
 Pastoral Sound:
@@ -1653,7 +1649,7 @@ Shuppet, Duskull
 Sacred Gold Wild Levels: 41 – 44
 Storm Silver Wild Levels: 46 – 49
 Building:
-Building Raticate (30%), Linoone (20%), Golbat (20%), Haunter (15%), Shuppet (5%), Duskull (5%), 
+Raticate (30%), Linoone (20%), Golbat (20%), Haunter (15%), Shuppet (5%), Duskull (5%), 
 Ditto (5%)
 Meridian Sound:
 Dusclops, Banette
@@ -1664,7 +1660,7 @@ Ditto
 Sacred Gold Wild Levels: 41 – 45
 Storm Silver Wild Levels: 46 – 50
 Building:
-Building Raticate (20%), Haunter (20%), Golbat (15%), Dusclops (10%), Banette (10%), Swablu (10%), 
+Raticate (20%), Haunter (20%), Golbat (15%), Dusclops (10%), Banette (10%), Swablu (10%), 
 Natu (5%), Bronzor (5%), Ditto (5%)
 Meridian Sound:
 Altaria, Xatu
@@ -1675,7 +1671,7 @@ Bronzor, Ditto
 Sacred Gold Wild Levels: 43 – 45
 Storm Silver Wild Levels: 48 – 50
 Building:
-Building Raticate (20%), Ditto (20%), Golbat (10%), Altaria (10%), Xatu (10%), Haunter (10%), 
+Raticate (20%), Ditto (20%), Golbat (10%), Altaria (10%), Xatu (10%), Haunter (10%), 
 Claydol (5%), Solrock (5%), Bronzong (5%), Lunatone (5%)
 Meridian Sound:
 Gengar
@@ -1837,7 +1833,7 @@ Golbat (20%), Graveler (20%), Steelix (20%), Rhydon (20%), Quagsire (10%),
 Pupitar (10%)
 Cave, Night:
 Golbat (20%), Graveler (20%), Steelix (20%), Rhydon (20%), Misdreavus (10%), 
-Quagsire (5%), Pupitar (5%), 
+Quagsire (5%), Pupitar (5%)
 Meridian Sound:
 Rhyperior
 Pastoral Sound:

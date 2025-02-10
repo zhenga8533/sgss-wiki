@@ -57,7 +57,6 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     pokemon_id = format_id(name)
     pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
     pokemon_types = pokemon_data["types"]
-    pokemon_text = pokemon_data["flavor_text_entries"].get("heartgold", name).replace("\n", " ")
 
     # Load item data
     if item != "None":
@@ -76,9 +75,7 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     )
 
     # Generate the Pokemon table
-    sprite = (
-        find_pokemon_sprite(name, "front").replace(f'"{name}"', f'"{name}: {pokemon_text}"').replace("../", "../../")
-    )
+    sprite = find_pokemon_sprite(name, "front", logger).replace("../", "../../")
     table = f"| " + sprite
     # table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
     table += f" | **Lv. {level}** {name}<br>"
@@ -131,7 +128,7 @@ def parse_trainer_roster(trainers: list, logger: Logger) -> tuple:
         for i, p in enumerate(pokemon.split(", "), 1):
             pokemon_name, level = p.split(" Lv. ")
             pokemon_id = format_id(pokemon_name)
-            pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
+            pokemon_sprite = find_pokemon_sprite(pokemon_name, "front", logger).replace("../", "../../")
 
             pokemon_link = f"../pokemon/{pokemon_id}.md/"
             # md += f"\n\t{i}. Lv. {level} [{pokemon_name}]({pokemon_link})"
@@ -231,6 +228,48 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
     return md, trainer_rosters, important_trainers
 
 
+def update_markdown(
+    location: str,
+    section: str,
+    trainers: list,
+    rematches: list,
+    important: dict,
+    wild_rosters: dict,
+    wild_trainers: dict,
+    logger: Logger,
+) -> str:
+    """
+    Update the markdown with the current data.
+
+    :param location: The current location.
+    :param section: The current section.
+    :param trainers: The list of trainers.
+    :param rematches: The list of rematch trainers.
+    :param important: The list of important trainers.
+    :param wild_rosters: The wild rosters dictionary.
+    :param wild_trainers: The wild trainers dictionary.
+    :param logger: The logger to use.
+    :return: The updated markdown to add.
+    """
+
+    if len(trainers) == 0:
+        trainers = rematches
+        rematches = []
+    roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important, logger)
+    md = roster_md
+
+    if trainer_rosters != "":
+        wild_rosters[location] = wild_rosters.get(location, f"# {location} — Trainer Rosters\n")
+        wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
+        wild_rosters[location] += trainer_rosters
+    if important_trainers != "":
+        wild_trainers[location] = wild_trainers.get(location, f"# {location} — Important Trainers\n\n")
+        wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
+        wild_trainers[location] += important_trainers
+
+    return md
+
+
 def main():
     """
     Main function for parsing the trainer Pokémon data.
@@ -268,33 +307,6 @@ def main():
     location = None
     section = None
 
-    def update_markdown():
-        """
-        Update the markdown with the current data.
-
-        :return: None
-        """
-
-        nonlocal location, section, trainers, rematches, important, wild_rosters, wild_trainers, md
-        if len(trainers) == 0:
-            trainers = rematches
-            rematches = []
-        roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important, logger)
-        md += roster_md
-
-        if trainer_rosters != "":
-            wild_rosters[location] = wild_rosters.get(location, f"# {location} — Trainer Rosters\n")
-            wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
-            wild_rosters[location] += trainer_rosters
-        if important_trainers != "":
-            wild_trainers[location] = wild_trainers.get(location, f"# {location} — Important Trainers\n\n")
-            wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
-            wild_trainers[location] += important_trainers
-
-        trainers = []
-        rematches = []
-        important = {}
-
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
     for i in range(n):
@@ -308,7 +320,12 @@ def main():
         # Section headers
         elif next_line.startswith("="):
             if len(trainers) > 0 or len(rematches) > 0:
-                update_markdown()
+                md += update_markdown(
+                    location, section, trainers, rematches, important, wild_rosters, wild_trainers, logger
+                )
+                trainers = []
+                rematches = []
+                important = {}
             location, section = line.split(" (", 1) if "(" in line else (line, None)
             md += f"\n---\n\n## {line}\n\n"
         # List trainers
@@ -331,7 +348,7 @@ def main():
         # Note
         elif line.startswith("Note:"):
             md += f"!!! note\n\n\t{line[6:]}\n\n"
-    update_markdown()
+    md += update_markdown(location, section, trainers, rematches, important, wild_rosters, wild_trainers, logger)
     logger.log(logging.INFO, "Data parsed successfully!")
 
     save(OUTPUT_PATH + "trainer_pokemon.md", md, logger)

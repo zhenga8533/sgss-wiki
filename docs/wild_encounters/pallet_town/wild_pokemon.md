@@ -4,23 +4,23 @@
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Marill](../../assets/sprites/marill/front.gif "Marill") | Marill | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 1 – 70 | 100% |
+| ![Marill](../../assets/sprites/marill/front.gif "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.") | Marill | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 1 – 70 | 100% |
 
 ### Old Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Finneon](../../assets/sprites/finneon/front.gif "Finneon") | Finneon | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 100% |
+| ![Finneon](../../assets/sprites/finneon/front.gif "Swimming and fluttering its two tail fins, it looks like a BEAUTIFLY. At night, the patterns on its tail fins softly shine.") | Finneon | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 100% |
 
 ### Good Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Tentacool](../../assets/sprites/tentacool/front.gif "Tentacool") | Tentacool | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 100% |
+| ![Tentacool](../../assets/sprites/tentacool/front.gif "When the tide goes out, dehydrated TENTACOOL remains can be found washed up on the shore.") | Tentacool | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 100% |
 
 ### Super Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Staryu](../../assets/sprites/staryu/front.gif "Staryu") | Staryu | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 100% |
+| ![Staryu](../../assets/sprites/staryu/front.gif "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.") | Staryu | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 100% |
 
