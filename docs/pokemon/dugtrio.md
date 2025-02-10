@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | N/A |
+| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 

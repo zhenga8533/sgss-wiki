@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #462 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 180.0 kg /<br>396.8 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #462 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 180.0 kg /<br>396.8 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 

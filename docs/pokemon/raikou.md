@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #243 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.9 m /<br>6.2 ft | 178.0 kg /<br>392.4 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #243 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.9 m /<br>6.2 ft | 178.0 kg /<br>392.4 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span> | N/A |
 
 ---
 

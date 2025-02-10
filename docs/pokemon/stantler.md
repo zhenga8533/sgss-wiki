@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span><br>3. <span class="tooltip" title="Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it.">Sap Sipper</span> | N/A |
+| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
 
 ---
 

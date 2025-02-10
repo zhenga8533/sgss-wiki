@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #241 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 75.5 kg /<br>166.4 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span><br>3. <span class="tooltip" title="Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it.">Sap Sipper</span> | N/A |
+| #241 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 75.5 kg /<br>166.4 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #325 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.7 m /<br>2.3 ft | 30.6 kg /<br>67.5 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #325 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.7 m /<br>2.3 ft | 30.6 kg /<br>67.5 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 

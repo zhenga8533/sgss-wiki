@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #263 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 17.5 kg /<br>38.6 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>3. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
+| #263 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 17.5 kg /<br>38.6 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 

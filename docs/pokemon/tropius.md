@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span><br>3. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
+| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #379 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.9 m /<br>6.2 ft | 205.0 kg /<br>451.9 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="This Pokémon has half the usual weight for its species.">Light Metal</span> | N/A |
+| #379 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.9 m /<br>6.2 ft | 205.0 kg /<br>451.9 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 

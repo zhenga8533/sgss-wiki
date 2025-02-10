@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #105 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 45.0 kg /<br>99.2 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span><br>3. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #105 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 45.0 kg /<br>99.2 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 

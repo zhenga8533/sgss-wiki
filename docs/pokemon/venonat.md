@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #48 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>3. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #48 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 

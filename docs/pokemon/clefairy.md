@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #35 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>3. <span class="tooltip" title="All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.  This effect stacks if multiple allied Pokémon have it.">Friend Guard</span> | #100 |
+| #35 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #100 |
 
 ---
 

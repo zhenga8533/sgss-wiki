@@ -39,7 +39,23 @@ def parse_change(attribute: str, changes: str, pokemon: str, pokemon_path: str, 
     md = attribute + ":\n\n```"
     for change in changes.split(", "):
         if attribute == "Ability":
-            pass
+            if change.endswith("}"):
+                ability, slot = change.rsplit(" ", 1)
+                slot = int(slot[1])
+            else:
+                ability = change
+                slot = 2
+            ability_id = format_id(ability)
+
+            slot_index = next((i for i, a in enumerate(data["abilities"]) if a["slot"] == slot), None)
+            if slot_index is not None:
+                data["abilities"].pop(slot_index)
+
+            ability_index = next((i for i, a in enumerate(data["abilities"]) if a["name"] == ability_id), None)
+            if ability_index is not None:
+                data["abilities"].pop(ability_index)
+
+            data["abilities"].append({"name": ability_id, "slot": slot, "hidden": False})
         elif attribute == "Level Up Moves":
             move, level = change.rsplit(" ", 1)
             level = int(re.sub(r"[\[\]{}()]", "", level))

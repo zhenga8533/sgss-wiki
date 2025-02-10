@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #447 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 20.2 kg /<br>44.5 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>3. <span class="tooltip" title="This Pokémon's non-damaging moves have their priority increased by one stage.">Prankster</span> | #115 |
+| #447 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 20.2 kg /<br>44.5 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | #115 |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #73 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>3. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | #137 |
+| #73 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span> | #137 |
 
 ---
 

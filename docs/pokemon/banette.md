@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #354 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.1 m /<br>3.6 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span><br>3. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | N/A |
+| #354 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.1 m /<br>3.6 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
 
 ---
 

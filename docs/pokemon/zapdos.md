@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #145 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 52.6 kg /<br>116.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
+| #145 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 52.6 kg /<br>116.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span> | N/A |
 
 ---
 

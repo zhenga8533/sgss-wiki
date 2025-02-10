@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #469 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.9 m /<br>6.2 ft | 51.5 kg /<br>113.5 lbs | 1. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #469 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.9 m /<br>6.2 ft | 51.5 kg /<br>113.5 lbs | 1. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 

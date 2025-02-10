@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #106 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 49.8 kg /<br>109.8 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>3. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | N/A |
+| #106 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 49.8 kg /<br>109.8 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
 
 ---
 

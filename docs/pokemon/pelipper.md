@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #279 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span><br>3. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | #120 |
+| #279 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | #120 |
 
 ---
 

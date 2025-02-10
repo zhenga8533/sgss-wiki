@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #127 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Moves can be used regardless of abilities.">Mold Breaker</span><br>3. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | N/A |
+| #127 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Moves can be used regardless of abilities.">Mold Breaker</span> | N/A |
 
 ---
 

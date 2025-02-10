@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #339 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #80 |
+| #339 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #80 |
 
 ---
 

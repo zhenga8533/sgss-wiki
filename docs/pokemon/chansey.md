@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #113 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 34.6 kg /<br>76.3 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>3. <span class="tooltip" title="Friendly Pokémon next to this Pokémon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.">Healer</span> | #97 |
+| #113 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 34.6 kg /<br>76.3 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #97 |
 
 ---
 

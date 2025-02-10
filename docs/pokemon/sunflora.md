@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #192 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.8 m /<br>2.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span><br>3. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #192 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.8 m /<br>2.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 

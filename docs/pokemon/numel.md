@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #322 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 24.0 kg /<br>52.9 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #322 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 24.0 kg /<br>52.9 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
 
 ---
 

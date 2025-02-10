@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #320 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span><br>2. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
+| #320 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 

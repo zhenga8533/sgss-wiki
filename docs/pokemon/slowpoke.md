@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #79 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #79 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 

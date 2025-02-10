@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #454 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 44.4 kg /<br>97.9 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>3. <span class="tooltip" title="This Pokémon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison Touch</span> | #130 |
+| #454 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 44.4 kg /<br>97.9 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | #130 |
 
 ---
 

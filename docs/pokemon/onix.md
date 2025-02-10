@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #95 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 8.8 m /<br>28.9 ft | 210.0 kg /<br>463.0 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | #34 |
+| #95 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 8.8 m /<br>28.9 ft | 210.0 kg /<br>463.0 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span> | #34 |
 
 ---
 

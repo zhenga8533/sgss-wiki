@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #289 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.0 m /<br>6.6 ft | 130.5 kg /<br>287.7 lbs | 1. <span class="tooltip" title="Pokémon can’t attack on consecutive turns.">Truant</span> | N/A |
+| #289 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.0 m /<br>6.6 ft | 130.5 kg /<br>287.7 lbs | 1. <span class="tooltip" title="Pokémon can’t attack on consecutive turns.">Truant</span><br>2. <span class="tooltip" title="Temporarily halves Attack and Speed.">Slow Start</span> | N/A |
 
 ---
 

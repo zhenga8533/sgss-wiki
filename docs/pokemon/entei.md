@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #244 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 2.1 m /<br>6.9 ft | 198.0 kg /<br>436.5 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #244 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 2.1 m /<br>6.9 ft | 198.0 kg /<br>436.5 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 

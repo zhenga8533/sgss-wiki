@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #341 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
+| #341 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #32 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>3. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #32 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | N/A |
 
 ---
 

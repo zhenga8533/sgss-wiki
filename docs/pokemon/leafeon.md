@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #470 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 25.5 kg /<br>56.2 lbs | 1. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
+| #470 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 25.5 kg /<br>56.2 lbs | 1. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br>2. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 

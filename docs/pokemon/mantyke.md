@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #458 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 65.0 kg /<br>143.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>3. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span> | #140 |
+| #458 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 65.0 kg /<br>143.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | #140 |
 
 ---
 

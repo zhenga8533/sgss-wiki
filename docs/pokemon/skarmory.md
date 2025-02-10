@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 

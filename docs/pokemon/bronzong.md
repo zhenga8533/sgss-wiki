@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #437 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 187.0 kg /<br>412.3 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span><br>3. <span class="tooltip" title="This Pokémon has double the usual weight for its species.">Heavy Metal</span> | #89 |
+| #437 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 187.0 kg /<br>412.3 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | #89 |
 
 ---
 

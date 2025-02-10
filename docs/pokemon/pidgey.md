@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>3. <span class="tooltip" title="This Pokémon's Defense cannot be lowered by other Pokémon.  This Pokémon can still be passed negative Defense modifiers through heart swap or guard swap.">Big Pecks</span> | N/A |
+| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 

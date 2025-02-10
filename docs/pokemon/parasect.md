@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #47 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>3. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span> | N/A |
+| #47 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 

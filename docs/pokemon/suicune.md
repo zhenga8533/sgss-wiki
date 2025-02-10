@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #245 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 187.0 kg /<br>412.3 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #245 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 187.0 kg /<br>412.3 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 

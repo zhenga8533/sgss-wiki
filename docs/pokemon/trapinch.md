@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #328 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #328 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 

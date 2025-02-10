@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #182 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 5.8 kg /<br>12.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Friendly Pokémon next to this Pokémon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.">Healer</span> | N/A |
+| #182 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 5.8 kg /<br>12.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 

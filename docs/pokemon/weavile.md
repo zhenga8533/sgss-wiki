@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Whenever a move makes contact with this Pokémon, if it does not have a held item, it steals the attacker's held item.  This Pokémon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pokémon is wild, it cannot steal from a trained Pokémon.">Pickpocket</span> | #145 |
+| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #145 |
 
 ---
 

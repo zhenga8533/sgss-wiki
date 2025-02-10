@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #187 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 0.5 kg /<br>1.1 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br>3. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
+| #187 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 0.5 kg /<br>1.1 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | #46 |
+| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | #46 |
 
 ---
 

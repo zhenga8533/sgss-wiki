@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #176 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>3. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | N/A |
+| #176 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 

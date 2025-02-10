@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #91 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.5 m /<br>4.9 ft | 132.5 kg /<br>292.1 lbs | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>2. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>3. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | N/A |
+| #91 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.5 m /<br>4.9 ft | 132.5 kg /<br>292.1 lbs | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>2. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span> | N/A |
 
 ---
 

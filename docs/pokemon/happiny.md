@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #440 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 24.4 kg /<br>53.8 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>3. <span class="tooltip" title="All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.  This effect stacks if multiple allied Pokémon have it.">Friend Guard</span> | #96 |
+| #440 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 24.4 kg /<br>53.8 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #96 |
 
 ---
 

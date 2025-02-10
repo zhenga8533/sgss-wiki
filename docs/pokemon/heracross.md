@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #214 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>3. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | #62 |
+| #214 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | #62 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #393 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Raises Special Attack by two stages upon having any stat lowered.">Competitive</span> | #7 |
+| #393 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | #7 |
 
 ---
 

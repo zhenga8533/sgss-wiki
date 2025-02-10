@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #212 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.8 m /<br>5.9 ft | 118.0 kg /<br>260.1 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>3. <span class="tooltip" title="This Pokémon has half the usual weight for its species.">Light Metal</span> | N/A |
+| #212 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.8 m /<br>5.9 ft | 118.0 kg /<br>260.1 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

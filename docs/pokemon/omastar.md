@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #139 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #139 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 

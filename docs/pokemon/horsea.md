@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #116 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 8.0 kg /<br>17.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>3. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span> | N/A |
+| #116 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 8.0 kg /<br>17.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 

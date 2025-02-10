@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #77 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>3. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | #90 |
+| #77 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | #90 |
 
 ---
 

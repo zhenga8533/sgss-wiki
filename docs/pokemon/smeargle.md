@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #235 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 58.0 kg /<br>127.9 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | N/A |
+| #235 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 58.0 kg /<br>127.9 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

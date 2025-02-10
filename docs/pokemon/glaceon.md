@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #471 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.8 m /<br>2.6 ft | 25.9 kg /<br>57.1 lbs | 1. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #471 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.8 m /<br>2.6 ft | 25.9 kg /<br>57.1 lbs | 1. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 

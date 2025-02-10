@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #486 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 3.7 m /<br>12.1 ft | 420.0 kg /<br>925.9 lbs | 1. <span class="tooltip" title="Temporarily halves Attack and Speed.">Slow Start</span> | N/A |
+| #486 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 3.7 m /<br>12.1 ft | 420.0 kg /<br>925.9 lbs | 1. <span class="tooltip" title="Temporarily halves Attack and Speed.">Slow Start</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
 
 ---
 

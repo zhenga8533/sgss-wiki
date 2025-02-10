@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #49 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>3. <span class="tooltip" title="Non-damaging moves have exactly 50% base accuracy against this Pokémon.">Wonder Skin</span> | N/A |
+| #49 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 

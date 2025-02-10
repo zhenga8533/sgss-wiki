@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #209 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.8 kg /<br>17.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>3. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | N/A |
+| #209 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.8 kg /<br>17.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 

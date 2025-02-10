@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #20 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.7 m /<br>2.3 ft | 18.5 kg /<br>40.8 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>3. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #20 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.7 m /<br>2.3 ft | 18.5 kg /<br>40.8 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | 1. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br>2. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | N/A |
+| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | 1. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

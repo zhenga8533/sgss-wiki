@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #115 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.2 m /<br>7.2 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span><br>3. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #115 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.2 m /<br>7.2 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
 
 ---
 

@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #215 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.9 m /<br>3.0 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>3. <span class="tooltip" title="Whenever a move makes contact with this Pokémon, if it does not have a held item, it steals the attacker's held item.  This Pokémon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pokémon is wild, it cannot steal from a trained Pokémon.">Pickpocket</span> | #144 |
+| #215 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.9 m /<br>3.0 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #144 |
 
 ---
 

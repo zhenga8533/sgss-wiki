@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #111 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 115.0 kg /<br>253.5 lbs | 1. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>3. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
+| #111 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 115.0 kg /<br>253.5 lbs | 1. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 

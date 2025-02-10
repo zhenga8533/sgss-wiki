@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>3. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 

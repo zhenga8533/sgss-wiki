@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | N/A |
+| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
 
 ---
 

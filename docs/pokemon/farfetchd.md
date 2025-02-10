@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>3. <span class="tooltip" title="When any of this Pokémon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</span> | N/A |
+| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #430 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 27.3 kg /<br>60.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span><br>3. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | #75 |
+| #430 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 27.3 kg /<br>60.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #75 |
 
 ---
 

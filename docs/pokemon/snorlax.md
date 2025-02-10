@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #143 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.1 m /<br>6.9 ft | 460.0 kg /<br>1014.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span><br>2. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | #113 |
+| #143 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 2.1 m /<br>6.9 ft | 460.0 kg /<br>1014.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span><br>2. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #113 |
 
 ---
 

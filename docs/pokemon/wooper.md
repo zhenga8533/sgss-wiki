@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #194 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>3. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span> | #117 |
+| #194 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | #117 |
 
 ---
 

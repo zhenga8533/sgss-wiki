@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #438 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.5 m /<br>1.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>3. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | #92 |
+| #438 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.5 m /<br>1.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | #92 |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #90 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>2. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>3. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | N/A |
+| #90 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>2. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span> | N/A |
 
 ---
 

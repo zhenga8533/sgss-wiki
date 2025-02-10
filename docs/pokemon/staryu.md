@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #110 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span><br>3. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | N/A |
+| #110 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span> | N/A |
 
 ---
 

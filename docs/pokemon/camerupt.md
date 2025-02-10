@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks">Solid Rock</span><br>3. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span> | N/A |
+| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks">Solid Rock</span> | N/A |
 
 ---
 

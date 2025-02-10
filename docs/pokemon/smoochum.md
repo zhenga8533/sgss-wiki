@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | N/A |
 
 ---
 

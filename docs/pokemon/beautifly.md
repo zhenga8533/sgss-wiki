@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #267 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 28.4 kg /<br>62.6 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | #50 |
+| #267 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 28.4 kg /<br>62.6 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | #50 |
 
 ---
 

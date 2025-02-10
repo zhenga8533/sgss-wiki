@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #100 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 10.4 kg /<br>22.9 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>3. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span> | N/A |
+| #100 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 10.4 kg /<br>22.9 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #225 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 16.0 kg /<br>35.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>3. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
+| #225 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 16.0 kg /<br>35.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

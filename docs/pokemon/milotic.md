@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #350 | ![water](../assets/types/water.png "Water"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs | 1. <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span><br>2. <span class="tooltip" title="Raises Special Attack by two stages upon having any stat lowered.">Competitive</span><br>3. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #139 |
+| #350 | ![water](../assets/types/water.png "Water"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs | 1. <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #139 |
 
 ---
 

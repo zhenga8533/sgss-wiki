@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #196 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.9 m /<br>3.0 ft | 26.5 kg /<br>58.4 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="When this Pokémon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pokémon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.">Magic Bounce</span> | N/A |
+| #196 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.9 m /<br>3.0 ft | 26.5 kg /<br>58.4 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

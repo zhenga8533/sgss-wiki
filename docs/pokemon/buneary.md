@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #427 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span><br>3. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #67 |
+| #427 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #67 |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #23 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.0 m /<br>6.6 ft | 6.9 kg /<br>15.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>3. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #23 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.0 m /<br>6.6 ft | 6.9 kg /<br>15.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 

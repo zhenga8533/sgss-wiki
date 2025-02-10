@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span> | N/A |
+| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 

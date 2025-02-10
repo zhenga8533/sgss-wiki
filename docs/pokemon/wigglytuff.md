@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="Raises Special Attack by two stages upon having any stat lowered.">Competitive</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
 
 ---
 

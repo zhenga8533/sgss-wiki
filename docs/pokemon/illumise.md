@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>3. <span class="tooltip" title="This Pokémon's non-damaging moves have their priority increased by one stage.">Prankster</span> | N/A |
+| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 

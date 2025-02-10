@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #131 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.5 m /<br>8.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #131 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.5 m /<br>8.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 

@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #65 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 48.0 kg /<br>105.8 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>3. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #22 |
+| #65 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 48.0 kg /<br>105.8 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #22 |
 
 ---
 

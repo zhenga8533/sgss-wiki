@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>3. <span class="tooltip" title="Whenever this Pokémon's stats would be raised, they are instead lowered by the same amount, and vice versa.">Contrary</span> | N/A |
+| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs | 1. <span class="tooltip" title="Reduces damage from supereffective attacks">Solid Rock</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 

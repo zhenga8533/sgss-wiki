@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #271 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #271 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
 
 ---
 

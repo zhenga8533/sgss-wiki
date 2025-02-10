@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #171 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.5 kg /<br>49.6 lbs | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>3. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #171 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.5 kg /<br>49.6 lbs | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #407 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 14.5 kg /<br>32.0 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>3. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #27 |
+| #407 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 14.5 kg /<br>32.0 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #27 |
 
 ---
 

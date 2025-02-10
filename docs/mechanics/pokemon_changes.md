@@ -486,7 +486,7 @@ Stat Change:
 Ability:
 
 ```
-+ Lightningrod
++ Lightning Rod
 ```
 
 Level Up Moves:
@@ -518,7 +518,7 @@ Stat Change:
 Ability:
 
 ```
-+ Lightningrod
++ Lightning Rod
 ```
 
 Level Up Moves:
@@ -2224,7 +2224,7 @@ Ability:
 Ability:
 
 ```
-+ LightningRod
++ Lightning Rod
 ```
 
 **[#146 Moltres](../pokemon/moltres.md)**
@@ -2687,7 +2687,7 @@ Stat Change:
 Ability:
 
 ```
-+ Lightningrod
++ Lightning Rod
 ```
 
 Level Up Moves:
@@ -3401,7 +3401,7 @@ Level Up Moves:
 Ability:
 
 ```
-+ Honey Gather [{2}]
++ Honey Gather {2}
 ```
 
 **[#217 Ursaring](../pokemon/ursaring.md)**
@@ -4111,7 +4111,7 @@ Stat Change:
 Ability:
 
 ```
-+ Compoundeyes
++ Compound Eyes
 ```
 
 Level Up Moves:

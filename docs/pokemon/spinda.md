@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #327 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>3. <span class="tooltip" title="Whenever this Pokémon's stats would be raised, they are instead lowered by the same amount, and vice versa.">Contrary</span> | N/A |
+| #327 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 

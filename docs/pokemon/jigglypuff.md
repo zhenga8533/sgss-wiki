@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="Raises Special Attack by two stages upon having any stat lowered.">Competitive</span><br>3. <span class="tooltip" title="All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.  This effect stacks if multiple allied Pokémon have it.">Friend Guard</span> | N/A |
+| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
 
 ---
 

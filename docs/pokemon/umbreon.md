@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #197 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 27.0 kg /<br>59.5 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #197 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 27.0 kg /<br>59.5 lbs | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

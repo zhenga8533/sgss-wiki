@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #75 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 105.0 kg /<br>231.5 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #32 |
+| #75 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 105.0 kg /<br>231.5 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span> | #32 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="This Pokémon has half the usual weight for its species.">Light Metal</span> | N/A |
+| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #54 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 19.6 kg /<br>43.2 lbs | 1. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | #43 |
+| #54 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 19.6 kg /<br>43.2 lbs | 1. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | #43 |
 
 ---
 

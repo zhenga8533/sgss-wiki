@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #275 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 59.6 kg /<br>131.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="">Wind Rider</span><br>3. <span class="tooltip" title="Whenever a move makes contact with this Pokémon, if it does not have a held item, it steals the attacker's held item.  This Pokémon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pokémon is wild, it cannot steal from a trained Pokémon.">Pickpocket</span> | N/A |
+| #275 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 59.6 kg /<br>131.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="">Wind Rider</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #246 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.6 m /<br>2.0 ft | 72.0 kg /<br>158.7 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
+| #246 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.6 m /<br>2.0 ft | 72.0 kg /<br>158.7 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 

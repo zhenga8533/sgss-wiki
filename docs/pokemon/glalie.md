@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | N/A |
+| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

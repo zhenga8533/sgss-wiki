@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>3. <span class="tooltip" title="Whenever a dark-type move hits this Pokémon, its Attack rises one stage.  The move is not negated in any way.">Justified</span> | #116 |
+| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | #116 |
 
 ---
 

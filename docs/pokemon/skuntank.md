@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>3. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #85 |
+| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span> | #85 |
 
 ---
 

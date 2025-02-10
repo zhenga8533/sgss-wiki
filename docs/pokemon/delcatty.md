@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #301 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 32.6 kg /<br>71.9 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span><br>3. <span class="tooltip" title="Non-damaging moves have exactly 50% base accuracy against this Pokémon.">Wonder Skin</span> | N/A |
+| #301 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 32.6 kg /<br>71.9 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span> | N/A |
 
 ---
 

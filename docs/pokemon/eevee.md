@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>3. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | N/A |
+| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
 
 ---
 

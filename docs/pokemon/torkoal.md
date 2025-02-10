@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">White Smoke</span><br>2. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span><br>3. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
+| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs | 1. <span class="tooltip" title="Prevents its stats from being lowered.">White Smoke</span><br>2. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span> | N/A |
 
 ---
 

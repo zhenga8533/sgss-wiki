@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #404 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.9 m /<br>3.0 ft | 30.5 kg /<br>67.2 lbs | 1. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>2. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>3. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | #18 |
+| #404 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.9 m /<br>3.0 ft | 30.5 kg /<br>67.2 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #18 |
 
 ---
 

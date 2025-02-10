@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #417 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>3. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span> | #55 |
+| #417 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | #55 |
 
 ---
 

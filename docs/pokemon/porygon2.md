@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #233 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #233 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span> | N/A |
 
 ---
 

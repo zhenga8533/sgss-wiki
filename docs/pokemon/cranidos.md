@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #408 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="Moves can be used regardless of abilities.">Mold Breaker</span><br>2. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | #36 |
+| #408 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="Moves can be used regardless of abilities.">Mold Breaker</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | #36 |
 
 ---
 

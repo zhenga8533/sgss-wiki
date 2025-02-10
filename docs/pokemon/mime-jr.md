@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span><br>3. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #94 |
+| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | #94 |
 
 ---
 

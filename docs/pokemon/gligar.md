@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #207 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 64.8 kg /<br>142.9 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>3. <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span> | N/A |
+| #207 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 64.8 kg /<br>142.9 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span> | N/A |
 
 ---
 

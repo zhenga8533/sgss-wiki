@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #68 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures both Pokémon’s and foe’s attacks land.">No Guard</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | #42 |
+| #68 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures both Pokémon’s and foe’s attacks land.">No Guard</span> | #42 |
 
 ---
 

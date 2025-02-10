@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #446 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 105.0 kg /<br>231.5 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | #112 |
+| #446 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 105.0 kg /<br>231.5 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #112 |
 
 ---
 

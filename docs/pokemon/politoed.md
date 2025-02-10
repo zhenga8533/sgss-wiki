@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #186 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 33.9 kg /<br>74.7 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Prevents combatants from self-destructing.">Damp</span><br>3. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #186 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 33.9 kg /<br>74.7 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 

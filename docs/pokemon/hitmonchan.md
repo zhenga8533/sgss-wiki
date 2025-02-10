@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #107 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 50.2 kg /<br>110.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>3. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #107 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 50.2 kg /<br>110.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
 
 ---
 

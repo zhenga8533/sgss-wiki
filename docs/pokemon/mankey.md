@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #56 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.5 m /<br>1.6 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span><br>3. <span class="tooltip" title="When any of this Pokémon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</span> | N/A |
+| #56 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.5 m /<br>1.6 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span> | N/A |
 
 ---
 

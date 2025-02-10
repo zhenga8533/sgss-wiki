@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>3. <span class="tooltip" title="This Pokémon has double the usual weight for its species.">Heavy Metal</span> | N/A |
+| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="It is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 

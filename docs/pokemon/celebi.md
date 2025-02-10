@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

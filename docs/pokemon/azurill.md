@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #298 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>3. <span class="tooltip" title="Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it.">Sap Sipper</span> | #124 |
+| #298 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span> | #124 |
 
 ---
 

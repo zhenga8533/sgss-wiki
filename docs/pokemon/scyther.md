@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #123 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 56.0 kg /<br>123.5 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | N/A |
+| #123 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 56.0 kg /<br>123.5 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

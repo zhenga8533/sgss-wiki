@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span><br>3. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
 
 ---
 

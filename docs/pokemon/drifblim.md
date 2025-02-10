@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>3. <span class="tooltip" title="This Pokémon has 1.5× its Special Attack when burned.">Flare Boost</span> | #66 |
+| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | #66 |
 
 ---
 

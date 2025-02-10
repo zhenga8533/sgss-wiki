@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #193 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #193 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
 
 ---
 

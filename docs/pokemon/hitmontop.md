@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #237 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.0 kg /<br>105.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | N/A |
+| #237 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.0 kg /<br>105.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

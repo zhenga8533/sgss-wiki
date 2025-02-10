@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #422 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 6.3 kg /<br>13.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | #60 |
+| #422 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 6.3 kg /<br>13.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span> | #60 |
 
 ---
 

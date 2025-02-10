@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #59 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.9 m /<br>6.2 ft | 155.0 kg /<br>341.7 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>3. <span class="tooltip" title="Whenever a dark-type move hits this Pokémon, its Attack rises one stage.  The move is not negated in any way.">Justified</span> | N/A |
+| #59 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.9 m /<br>6.2 ft | 155.0 kg /<br>341.7 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 

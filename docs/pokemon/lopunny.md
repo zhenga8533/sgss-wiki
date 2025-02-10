@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span><br>3. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #68 |
+| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #68 |
 
 ---
 

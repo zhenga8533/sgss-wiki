@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #349 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 7.4 kg /<br>16.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | #138 |
+| #349 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 7.4 kg /<br>16.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | #138 |
 
 ---
 

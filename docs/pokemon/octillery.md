@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #224 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 28.5 kg /<br>62.8 lbs | 1. <span class="tooltip" title="Negates foes’ moves that force switching out.">Suction Cups</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | #133 |
+| #224 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 28.5 kg /<br>62.8 lbs | 1. <span class="tooltip" title="Negates foes’ moves that force switching out.">Suction Cups</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | #133 |
 
 ---
 

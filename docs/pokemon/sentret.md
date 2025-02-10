@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #161 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #161 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon moves after even slower foes.">Stall</span><br>3. <span class="tooltip" title="This Pokémon's non-damaging moves have their priority increased by one stage.">Prankster</span> | N/A |
+| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="The Pokémon moves after even slower foes.">Stall</span> | N/A |
 
 ---
 

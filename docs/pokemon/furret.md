@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #162 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #162 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | N/A |
 
 ---
 

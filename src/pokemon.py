@@ -301,7 +301,12 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f" | {pokemon['height']} m /<br>{pokemon['height'] * 3.28084:.1f} ft"
     md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs"
 
+    # Abilities
     abilities = []
+    pokemon["abilities"].sort(key=lambda ability: ability["slot"])
+    if len(pokemon["abilities"]) > 2:
+        pokemon["abilities"] = pokemon["abilities"][:2]
+
     for i, ability in enumerate(pokemon["abilities"], 1):
         ability_id = ability["name"]
         if ability_id == "none":

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #96 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 32.4 kg /<br>71.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span><br>3. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #96 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 32.4 kg /<br>71.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
 
 ---
 

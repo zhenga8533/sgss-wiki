@@ -94,12 +94,12 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Base Experience: 147 >> 163
 #025 Pikachu
 + Stat Change: Attack (65), Special Attack (60), Speed (95), Total (325)
-+ Ability: Lightningrod
++ Ability: Lightning Rod
 + Level Up Moves: Charge (1), Volt Tackle (49)
 + Base Experience: 82 >> 92
 #026 Raichu
 + Stat Change: Attack (100), Special Attack (100), Speed (121), Total (516)
-+ Ability: Lightningrod
++ Ability: Lightning Rod
 + Level Up Moves: Volt Tackle (49)
 + Base Experience: 122 >> 179
 #027 Sandshrew
@@ -400,7 +400,7 @@ Psybeam (19)
 #144 Articuno
 + Ability: Snow Cloak
 #145 Zapdos
-+ Ability: LightningRod
++ Ability: Lightning Rod
 #146 Moltres
 + Ability: Flame Body
 #147 Dratini
@@ -484,7 +484,7 @@ Psybeam (19)
 + Ability: Water Absorb {2}
 + Stat Change: Special Attack (86), Special Defense (86), Total (480)
 #172 Pichu
-+ Ability: Lightningrod
++ Ability: Lightning Rod
 + Level Up Moves: Sing (23), Petal Dance (24), Wish (29)
 #173 Cleffa
 + Level Up Moves: Metronome (19), Petal Dance (22)
@@ -604,7 +604,7 @@ Psybeam (19)
 + Level Up Moves: Feint Attack [13], Ice Fang (17), Ice Punch (32), Slash [36], Crunch (46), 
 Ice Shard [50]
 #216 Teddiursa
-+ Ability: Honey Gather [{2}]
++ Ability: Honey Gather {2}
 #217 Ursaring
 + Level Up Moves: Crunch (30), Close Combat (76)
 #218 Slugma
@@ -731,7 +731,7 @@ Air Slash (44)
 
 #269 Dustox
 + Stat Change: Special Attack (65), Special Defense (105), Speed (85), Total (435)
-+ Ability: Compoundeyes
++ Ability: Compound Eyes
 + Level Up Moves: Protect [15], Confuse Ray (17), Signal Beam (22), Reflect (31), 
 Tailwind (44)
 #270 Lotad

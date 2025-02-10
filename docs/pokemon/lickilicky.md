@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Prevents it from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
 
 ---
 

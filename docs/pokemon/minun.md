@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #312 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 4.2 kg /<br>9.3 lbs | 1. <span class="tooltip" title="Ups Sp. Atk if another Pokémon has Plus.">Minus</span><br>2. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span> | N/A |
+| #312 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 4.2 kg /<br>9.3 lbs | 1. <span class="tooltip" title="Ups Sp. Atk if another Pokémon has Plus.">Minus</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
 
 ---
 

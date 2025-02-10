@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #114 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #114 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 

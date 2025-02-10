@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #310 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.5 m /<br>4.9 ft | 40.2 kg /<br>88.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span><br>3. <span class="tooltip" title="Ups Sp. Atk if another Pokémon has Plus.">Minus</span> | N/A |
+| #310 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.5 m /<br>4.9 ft | 40.2 kg /<br>88.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span> | N/A |
 
 ---
 

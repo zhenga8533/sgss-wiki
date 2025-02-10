@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #211 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>3. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
+| #211 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
 
 ---
 

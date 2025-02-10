@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #88 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>3. <span class="tooltip" title="This Pokémon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison Touch</span> | N/A |
+| #88 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | N/A |
 
 ---
 
