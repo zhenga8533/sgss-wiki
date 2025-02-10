@@ -29,28 +29,28 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Tentacool (90%)
-2. Tentacruel (10%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (90%)
+2. [Tentacruel](../pokemon/tentacruel.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Shellder (35%)
-3. Chinchou (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Shellder](../pokemon/shellder.md) (35%)
+3. [Chinchou](../pokemon/chinchou.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Shellder (60%)
-2. Chinchou (40%)
+<pre><code>1. [Shellder](../pokemon/shellder.md) (60%)
+2. [Chinchou](../pokemon/chinchou.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Shellder (60%)
-2. Lanturn (30%)
-3. Gyarados (10%)
+<pre><code>1. [Shellder](../pokemon/shellder.md) (60%)
+2. [Lanturn](../pokemon/lanturn.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (10%)
 </code></pre>
 
 ---
@@ -61,36 +61,36 @@ Wild Levels: 3 – 5
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Pidgey (20%)
-2. Sentret (20%)
-3. Starly (15%)
-4. Rattata (15%)
-5. Zigzagoon (10%)
-6. Bidoof (10%)
-7. Hoppip (5%)
-8. Wurmple (5%)
+<pre><code>1. [Pidgey](../pokemon/pidgey.md) (20%)
+2. [Sentret](../pokemon/sentret.md) (20%)
+3. [Starly](../pokemon/starly.md) (15%)
+4. [Rattata](../pokemon/rattata.md) (15%)
+5. [Zigzagoon](../pokemon/zigzagoon.md) (10%)
+6. [Bidoof](../pokemon/bidoof.md) (10%)
+7. [Hoppip](../pokemon/hoppip.md) (5%)
+8. [Wurmple](../pokemon/wurmple.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Hoothoot (20%)
-2. Rattata (20%)
-3. Poochyena (15%)
-4. Zigzagoon (15%)
-5. Bidoof (15%)
-6. Wurmple (15%)
+<pre><code>1. [Hoothoot](../pokemon/hoothoot.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Poochyena](../pokemon/poochyena.md) (15%)
+4. [Zigzagoon](../pokemon/zigzagoon.md) (15%)
+5. [Bidoof](../pokemon/bidoof.md) (15%)
+6. [Wurmple](../pokemon/wurmple.md) (15%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Furret
-2. Raticate
+<pre><code>1. [Furret](../pokemon/furret.md) (50%)
+2. [Raticate](../pokemon/raticate.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Plusle
-2. Minun
+<pre><code>1. [Plusle](../pokemon/plusle.md) (50%)
+2. [Minun](../pokemon/minun.md) (50%)
 </code></pre>
 
 ---
@@ -101,37 +101,37 @@ Wild Levels: 4 – 6
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Geodude (20%)
-2. Spearow (20%)
-3. Spoink (10%)
-4. Swablu (10%)
-5. Rattata (10%)
-6. Numel (10%)
-7. Jigglypuff (10%)
-8. Phanpy (10%)
+<pre><code>1. [Geodude](../pokemon/geodude.md) (20%)
+2. [Spearow](../pokemon/spearow.md) (20%)
+3. [Spoink](../pokemon/spoink.md) (10%)
+4. [Swablu](../pokemon/swablu.md) (10%)
+5. [Rattata](../pokemon/rattata.md) (10%)
+6. [Numel](../pokemon/numel.md) (10%)
+7. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+8. [Phanpy](../pokemon/phanpy.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Geodude (20%)
-2. Numel (20%)
-3. Spoink (10%)
-4. Rattata (10%)
-5. Clefairy (10%)
-6. Jigglypuff (10%)
-7. Houndour (10%)
-8. Shinx (10%)
+<pre><code>1. [Geodude](../pokemon/geodude.md) (20%)
+2. [Numel](../pokemon/numel.md) (20%)
+3. [Spoink](../pokemon/spoink.md) (10%)
+4. [Rattata](../pokemon/rattata.md) (10%)
+5. [Clefairy](../pokemon/clefairy.md) (10%)
+6. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+7. [Houndour](../pokemon/houndour.md) (10%)
+8. [Shinx](../pokemon/shinx.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Graveler
-2. Fearow
+<pre><code>1. [Graveler](../pokemon/graveler.md) (50%)
+2. [Fearow](../pokemon/fearow.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Igglybuff
+<pre><code>1. [Igglybuff](../pokemon/igglybuff.md) (100%)
 </code></pre>
 
 ---
@@ -142,29 +142,29 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Marill (95%)
-2. Azumarill (5%)
+<pre><code>1. [Marill](../pokemon/marill.md) (95%)
+2. [Azumarill](../pokemon/azumarill.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Krabby (30%)
-3. Corphish (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Krabby](../pokemon/krabby.md) (30%)
+3. [Corphish](../pokemon/corphish.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Krabby (60%)
-2. Finneon (30%)
-3. Corphish (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (60%)
+2. [Finneon](../pokemon/finneon.md) (30%)
+3. [Corphish](../pokemon/corphish.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Lumineon (60%)
-2. Kingler (30%)
-3. Crawdaunt (10%)
+<pre><code>1. [Lumineon](../pokemon/lumineon.md) (60%)
+2. [Kingler](../pokemon/kingler.md) (30%)
+3. [Crawdaunt](../pokemon/crawdaunt.md) (10%)
 </code></pre>
 
 ---
@@ -175,81 +175,81 @@ Wild Levels: 4 – 6
 
 **Grass, Morning:**
 
-<pre><code>1. Ledyba (20%)
-2. Taillow (20%)
-3. Lotad (10%)
-4. Seedot (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Kricketot (10%)
-8. Surskit (5%)
-9. Ralts (5%)
+<pre><code>1. [Ledyba](../pokemon/ledyba.md) (20%)
+2. [Taillow](../pokemon/taillow.md) (20%)
+3. [Lotad](../pokemon/lotad.md) (10%)
+4. [Seedot](../pokemon/seedot.md) (10%)
+5. [Caterpie](../pokemon/caterpie.md) (10%)
+6. [Weedle](../pokemon/weedle.md) (10%)
+7. [Kricketot](../pokemon/kricketot.md) (10%)
+8. [Surskit](../pokemon/surskit.md) (5%)
+9. [Ralts](../pokemon/ralts.md) (5%)
 </code></pre>
 
 **Grass, Day:**
 
-<pre><code>1. Caterpie (20%)
-2. Weedle (20%)
-3. Lotad (10%)
-4. Seedot (10%)
-5. Taillow (10%)
-6. Metapod (10%)
-7. Kakuna (10%)
-8. Surskit (5%)
-9. Ralts (5%)
+<pre><code>1. [Caterpie](../pokemon/caterpie.md) (20%)
+2. [Weedle](../pokemon/weedle.md) (20%)
+3. [Lotad](../pokemon/lotad.md) (10%)
+4. [Seedot](../pokemon/seedot.md) (10%)
+5. [Taillow](../pokemon/taillow.md) (10%)
+6. [Metapod](../pokemon/metapod.md) (10%)
+7. [Kakuna](../pokemon/kakuna.md) (10%)
+8. [Surskit](../pokemon/surskit.md) (5%)
+9. [Ralts](../pokemon/ralts.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Spinarak (20%)
-2. Hoothoot (20%)
-3. Lotad (10%)
-4. Seedot (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Kricketot (10%)
-8. Surskit (5%)
-9. Ralts (5%)
+<pre><code>1. [Spinarak](../pokemon/spinarak.md) (20%)
+2. [Hoothoot](../pokemon/hoothoot.md) (20%)
+3. [Lotad](../pokemon/lotad.md) (10%)
+4. [Seedot](../pokemon/seedot.md) (10%)
+5. [Caterpie](../pokemon/caterpie.md) (10%)
+6. [Weedle](../pokemon/weedle.md) (10%)
+7. [Kricketot](../pokemon/kricketot.md) (10%)
+8. [Surskit](../pokemon/surskit.md) (5%)
+9. [Ralts](../pokemon/ralts.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Lombre
-2. Nuzleaf
+<pre><code>1. [Lombre](../pokemon/lombre.md) (50%)
+2. [Nuzleaf](../pokemon/nuzleaf.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ralts
+<pre><code>1. [Ralts](../pokemon/ralts.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Poliwag (60%)
-2. Lotad (30%)
-3. Poliwhirl (5%)
-4. Lombre (5%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Lotad](../pokemon/lotad.md) (30%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (5%)
+4. [Lombre](../pokemon/lombre.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Poliwag (60%)
-2. Goldeen (30%)
-3. Psyduck (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Psyduck](../pokemon/psyduck.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Psyduck (60%)
-2. Goldeen (30%)
-3. Poliwhirl (10%)
+<pre><code>1. [Psyduck](../pokemon/psyduck.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Seaking (30%)
-3. Golduck (10%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 ---
@@ -260,88 +260,88 @@ Wild Levels: 6 – 10
 
 **Grass, Morning:**
 
-<pre><code>1. Ledyba (20%)
-2. Bellsprout (20%)
-3. Buizel (10%)
-4. Shinx (10%)
-5. Abra (10%)
-6. Natu (10%)
-7. Exeggcute (5%)
-8. Psyduck (5%)
-9. Metapod (4%)
-10. Kakuna (4%)
-11. Butterfree (1%)
-12. Beedrill (1%)
+<pre><code>1. [Ledyba](../pokemon/ledyba.md) (20%)
+2. [Bellsprout](../pokemon/bellsprout.md) (20%)
+3. [Buizel](../pokemon/buizel.md) (10%)
+4. [Shinx](../pokemon/shinx.md) (10%)
+5. [Abra](../pokemon/abra.md) (10%)
+6. [Natu](../pokemon/natu.md) (10%)
+7. [Exeggcute](../pokemon/exeggcute.md) (5%)
+8. [Psyduck](../pokemon/psyduck.md) (5%)
+9. [Metapod](../pokemon/metapod.md) (4%)
+10. [Kakuna](../pokemon/kakuna.md) (4%)
+11. [Butterfree](../pokemon/butterfree.md) (1%)
+12. [Beedrill](../pokemon/beedrill.md) (1%)
 </code></pre>
 
 **Grass, Day:**
 
-<pre><code>1. Wurmple (20%)
-2. Bellsprout (20%)
-3. Buizel (10%)
-4. Shinx (10%)
-5. Abra (10%)
-6. Natu (10%)
-7. Budew (5%)
-8. Psyduck (5%)
-9. Silcoon (4%)
-10. Cascoon (4%)
-11. Exeggcute (2%)
+<pre><code>1. [Wurmple](../pokemon/wurmple.md) (20%)
+2. [Bellsprout](../pokemon/bellsprout.md) (20%)
+3. [Buizel](../pokemon/buizel.md) (10%)
+4. [Shinx](../pokemon/shinx.md) (10%)
+5. [Abra](../pokemon/abra.md) (10%)
+6. [Natu](../pokemon/natu.md) (10%)
+7. [Budew](../pokemon/budew.md) (5%)
+8. [Psyduck](../pokemon/psyduck.md) (5%)
+9. [Silcoon](../pokemon/silcoon.md) (4%)
+10. [Cascoon](../pokemon/cascoon.md) (4%)
+11. [Exeggcute](../pokemon/exeggcute.md) (2%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Spinarak (20%)
-2. Bellsprout (20%)
-3. Psyduck (10%)
-4. Shinx (10%)
-5. Abra (10%)
-6. Natu (10%)
-7. Exeggcute (5%)
-8. Buizel (5%)
-9. Metapod (4%)
-10. Kakuna (4%)
-11. Beautifly (1%)
-12. Dustox (1%)
+<pre><code>1. [Spinarak](../pokemon/spinarak.md) (20%)
+2. [Bellsprout](../pokemon/bellsprout.md) (20%)
+3. [Psyduck](../pokemon/psyduck.md) (10%)
+4. [Shinx](../pokemon/shinx.md) (10%)
+5. [Abra](../pokemon/abra.md) (10%)
+6. [Natu](../pokemon/natu.md) (10%)
+7. [Exeggcute](../pokemon/exeggcute.md) (5%)
+8. [Buizel](../pokemon/buizel.md) (5%)
+9. [Metapod](../pokemon/metapod.md) (4%)
+10. [Kakuna](../pokemon/kakuna.md) (4%)
+11. [Beautifly](../pokemon/beautifly.md) (1%)
+12. [Dustox](../pokemon/dustox.md) (1%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Butterfree
-2. Beedrill
+<pre><code>1. [Butterfree](../pokemon/butterfree.md) (50%)
+2. [Beedrill](../pokemon/beedrill.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Budew
+<pre><code>1. [Budew](../pokemon/budew.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Marill (60%)
-2. Surskit (35%)
-3. Masquerain (5%)
+<pre><code>1. [Marill](../pokemon/marill.md) (60%)
+2. [Surskit](../pokemon/surskit.md) (35%)
+3. [Masquerain](../pokemon/masquerain.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Tentacool (60%)
-2. Slowpoke (35%)
-3. Feebas (5%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Slowpoke](../pokemon/slowpoke.md) (35%)
+3. [Feebas](../pokemon/feebas.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (60%)
-2. Slowpoke (30%)
-3. Feebas (10%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Slowpoke](../pokemon/slowpoke.md) (30%)
+3. [Feebas](../pokemon/feebas.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Tentacruel (60%)
-2. Feebas (30%)
-3. Slowbro (10%)
+<pre><code>1. [Tentacruel](../pokemon/tentacruel.md) (60%)
+2. [Feebas](../pokemon/feebas.md) (30%)
+3. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 ---
@@ -354,79 +354,79 @@ Wild Levels: 8 – 10
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Geodude (20%)
-2. Zubat (20%)
-3. Bronzor (10%)
-4. Makuhita (10%)
-5. Sandshrew (10%)
-6. Teddiursa (10%)
-7. Slugma (10%)
-8. Larvitar (4%)
-9. Dunsparce (4%)
-10. Chingling (2%)
+<pre><code>1. [Geodude](../pokemon/geodude.md) (20%)
+2. [Zubat](../pokemon/zubat.md) (20%)
+3. [Bronzor](../pokemon/bronzor.md) (10%)
+4. [Makuhita](../pokemon/makuhita.md) (10%)
+5. [Sandshrew](../pokemon/sandshrew.md) (10%)
+6. [Teddiursa](../pokemon/teddiursa.md) (10%)
+7. [Slugma](../pokemon/slugma.md) (10%)
+8. [Larvitar](../pokemon/larvitar.md) (4%)
+9. [Dunsparce](../pokemon/dunsparce.md) (4%)
+10. [Chingling](../pokemon/chingling.md) (2%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Geodude (20%)
-2. Zubat (20%)
-3. Bronzor (10%)
-4. Makuhita (10%)
-5. Sandshrew (10%)
-6. Wynaut (10%)
-7. Slugma (10%)
-8. Larvitar (4%)
-9. Dunsparce (4%)
-10. Chingling (2%)
+<pre><code>1. [Geodude](../pokemon/geodude.md) (20%)
+2. [Zubat](../pokemon/zubat.md) (20%)
+3. [Bronzor](../pokemon/bronzor.md) (10%)
+4. [Makuhita](../pokemon/makuhita.md) (10%)
+5. [Sandshrew](../pokemon/sandshrew.md) (10%)
+6. [Wynaut](../pokemon/wynaut.md) (10%)
+7. [Slugma](../pokemon/slugma.md) (10%)
+8. [Larvitar](../pokemon/larvitar.md) (4%)
+9. [Dunsparce](../pokemon/dunsparce.md) (4%)
+10. [Chingling](../pokemon/chingling.md) (2%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Golbat
+<pre><code>1. [Golbat](../pokemon/golbat.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chingling
+<pre><code>1. [Chingling](../pokemon/chingling.md) (100%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Larvitar
+<pre><code>1. [Larvitar](../pokemon/larvitar.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Shellos (60%)
-2. Wooper (30%)
-3. Gastrodon (10%)
+<pre><code>1. [Shellos](../pokemon/shellos.md) (60%)
+2. [Wooper](../pokemon/wooper.md) (30%)
+3. [Gastrodon](../pokemon/gastrodon.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Wooper (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Wooper](../pokemon/wooper.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Quagsire (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seaking (60%)
-2. Whiscash (30%)
-3. Quagsire (10%)
+<pre><code>1. [Seaking](../pokemon/seaking.md) (60%)
+2. [Whiscash](../pokemon/whiscash.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Dunsparce (90%)
-2. Nosepass (10%)
+<pre><code>1. [Dunsparce](../pokemon/dunsparce.md) (90%)
+2. [Nosepass](../pokemon/nosepass.md) (10%)
 </code></pre>
 
 ### [ Blackthorn Side ]
@@ -435,51 +435,51 @@ Wild Levels: 26 – 30
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Teddiursa (20%)
-4. Slugma (20%)
-5. Wobbuffet (15%)
-6. Ursaring (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Teddiursa](../pokemon/teddiursa.md) (20%)
+4. [Slugma](../pokemon/slugma.md) (20%)
+5. [Wobbuffet](../pokemon/wobbuffet.md) (15%)
+6. [Ursaring](../pokemon/ursaring.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Shellos (60%)
-2. Wooper (30%)
-3. Gastrodon (10%)
+<pre><code>1. [Shellos](../pokemon/shellos.md) (60%)
+2. [Wooper](../pokemon/wooper.md) (30%)
+3. [Gastrodon](../pokemon/gastrodon.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Wooper (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Wooper](../pokemon/wooper.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Quagsire (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seaking (60%)
-2. Whiscash (30%)
-3. Quagsire (10%)
+<pre><code>1. [Seaking](../pokemon/seaking.md) (60%)
+2. [Whiscash](../pokemon/whiscash.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Golem
-2. Ursaring
+<pre><code>1. [Golem](../pokemon/golem.md) (50%)
+2. [Ursaring](../pokemon/ursaring.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Quagsire
+<pre><code>1. [Quagsire](../pokemon/quagsire.md) (100%)
 </code></pre>
 
 ---
@@ -490,34 +490,34 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Poliwag (90%)
-2. Poliwhirl (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (90%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Poliwag (30%)
-3. Staryu (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (30%)
+3. [Staryu](../pokemon/staryu.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwag (60%)
-2. Staryu (30%)
-3. Chinchou (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Staryu](../pokemon/staryu.md) (30%)
+3. [Chinchou](../pokemon/chinchou.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Staryu (30%)
-3. Lanturn (10%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Staryu](../pokemon/staryu.md) (30%)
+3. [Lanturn](../pokemon/lanturn.md) (10%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Whiscash
+<pre><code>1. [Whiscash](../pokemon/whiscash.md) (100%)
 </code></pre>
 
 ---
@@ -528,65 +528,65 @@ Wild Levels: 10 – 12
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Mareep (20%)
-2. Bellsprout (20%)
-3. Nincada (15%)
-4. Hoppip (15%)
-5. Magnemite (15%)
-6. Ekans (10%)
-7. Pachirisu (5%)
+<pre><code>1. [Mareep](../pokemon/mareep.md) (20%)
+2. [Bellsprout](../pokemon/bellsprout.md) (20%)
+3. [Nincada](../pokemon/nincada.md) (15%)
+4. [Hoppip](../pokemon/hoppip.md) (15%)
+5. [Magnemite](../pokemon/magnemite.md) (15%)
+6. [Ekans](../pokemon/ekans.md) (10%)
+7. [Pachirisu](../pokemon/pachirisu.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Mareep (20%)
-2. Bellsprout (20%)
-3. Nincada (15%)
-4. Wooper (15%)
-5. Magnemite (15%)
-6. Ekans (10%)
-7. Drifloon (5%)
+<pre><code>1. [Mareep](../pokemon/mareep.md) (20%)
+2. [Bellsprout](../pokemon/bellsprout.md) (20%)
+3. [Nincada](../pokemon/nincada.md) (15%)
+4. [Wooper](../pokemon/wooper.md) (15%)
+5. [Magnemite](../pokemon/magnemite.md) (15%)
+6. [Ekans](../pokemon/ekans.md) (10%)
+7. [Drifloon](../pokemon/drifloon.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Flaaffy
-2. Magneton
+<pre><code>1. [Flaaffy](../pokemon/flaaffy.md) (50%)
+2. [Magneton](../pokemon/magneton.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Drifloon
-2. Pachirisu
+<pre><code>1. [Drifloon](../pokemon/drifloon.md) (50%)
+2. [Pachirisu](../pokemon/pachirisu.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wooper (60%)
-2. Tentacool (30%)
-3. Quagsire (5%)
-4. Tentacruel (5%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (5%)
+4. [Tentacruel](../pokemon/tentacruel.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Tentacool (60%)
-2. Psyduck (35%)
-3. Qwilfish (5%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Psyduck](../pokemon/psyduck.md) (35%)
+3. [Qwilfish](../pokemon/qwilfish.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (60%)
-2. Psyduck (30%)
-3. Qwilfish (10%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Psyduck](../pokemon/psyduck.md) (30%)
+3. [Qwilfish](../pokemon/qwilfish.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Qwilfish (60%)
-2. Tentacruel (30%)
-3. Golduck (10%)
+<pre><code>1. [Qwilfish](../pokemon/qwilfish.md) (60%)
+2. [Tentacruel](../pokemon/tentacruel.md) (30%)
+3. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 ---
@@ -597,54 +597,54 @@ Wild Levels: 26 – 30
 
 **Grass:**
 
-<pre><code>1. Natu (40%)
-2. Smeargle (40%)
-3. Girafarig (20%)
+<pre><code>1. [Natu](../pokemon/natu.md) (40%)
+2. [Smeargle](../pokemon/smeargle.md) (40%)
+3. [Girafarig](../pokemon/girafarig.md) (20%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Geodude (90%)
-2. Nosepass (10%)
+<pre><code>1. [Geodude](../pokemon/geodude.md) (90%)
+2. [Nosepass](../pokemon/nosepass.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Xatu
+<pre><code>1. [Xatu](../pokemon/xatu.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Togepi
+<pre><code>1. [Togepi](../pokemon/togepi.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wooper (90%)
-2. Quagsire (10%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (90%)
+2. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Remoraid (30%)
-3. Dratini (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Remoraid](../pokemon/remoraid.md) (30%)
+3. [Dratini](../pokemon/dratini.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Remoraid (30%)
-3. Dratini (9%)
-4. Dragonair (1%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Remoraid](../pokemon/remoraid.md) (30%)
+3. [Dratini](../pokemon/dratini.md) (9%)
+4. [Dragonair](../pokemon/dragonair.md) (1%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Relicanth (30%)
-3. Dragonair (5%)
-4. Octillery (5%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Relicanth](../pokemon/relicanth.md) (30%)
+3. [Dragonair](../pokemon/dragonair.md) (5%)
+4. [Octillery](../pokemon/octillery.md) (5%)
 </code></pre>
 
 ---
@@ -657,37 +657,37 @@ Wild Levels: 9 – 12
 
 **Building, Morning / Day:**
 
-<pre><code>1. Zigzagoon (20%)
-2. Rattata (20%)
-3. Pidgey (20%)
-4. Bidoof (10%)
-5. Starly (10%)
-6. Meditite (10%)
-7. Spinda (5%)
-8. Chatot (5%)
+<pre><code>1. [Zigzagoon](../pokemon/zigzagoon.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Pidgey](../pokemon/pidgey.md) (20%)
+4. [Bidoof](../pokemon/bidoof.md) (10%)
+5. [Starly](../pokemon/starly.md) (10%)
+6. [Meditite](../pokemon/meditite.md) (10%)
+7. [Spinda](../pokemon/spinda.md) (5%)
+8. [Chatot](../pokemon/chatot.md) (5%)
 </code></pre>
 
 **Building, Night:**
 
-<pre><code>1. Gastly (20%)
-2. Rattata (20%)
-3. Bellsprout (20%)
-4. Bidoof (10%)
-5. Glameow (10%)
-6. Stunky (10%)
-7. Spinda (5%)
-8. Drifloon (5%)Meridian
+<pre><code>1. [Gastly](../pokemon/gastly.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Bellsprout](../pokemon/bellsprout.md) (20%)
+4. [Bidoof](../pokemon/bidoof.md) (10%)
+5. [Glameow](../pokemon/glameow.md) (10%)
+6. [Stunky](../pokemon/stunky.md) (10%)
+7. [Spinda](../pokemon/spinda.md) (5%)
+8. [Drifloon](../pokemon/drifloon.md) (5%)Meridia)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Bibarel
-2. Linoone
+<pre><code>1. [Bibarel](../pokemon/bibarel.md) (50%)
+2. [Linoone](../pokemon/linoone.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Spinda
+<pre><code>1. [Spinda](../pokemon/spinda.md) (100%)
 </code></pre>
 
 ### [ 3F ]
@@ -696,37 +696,37 @@ Wild Levels: 10 – 13
 
 **Building, Morning / Day:**
 
-<pre><code>1. Zigzagoon (20%)
-2. Rattata (20%)
-3. Pidgey (20%)
-4. Bidoof (10%)
-5. Starly (10%)
-6. Meditite (10%)
-7. Spinda (5%)
-8. Chatot (5%)
+<pre><code>1. [Zigzagoon](../pokemon/zigzagoon.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Pidgey](../pokemon/pidgey.md) (20%)
+4. [Bidoof](../pokemon/bidoof.md) (10%)
+5. [Starly](../pokemon/starly.md) (10%)
+6. [Meditite](../pokemon/meditite.md) (10%)
+7. [Spinda](../pokemon/spinda.md) (5%)
+8. [Chatot](../pokemon/chatot.md) (5%)
 </code></pre>
 
 **Building, Night:**
 
-<pre><code>1. Gastly (20%)
-2. Rattata (20%)
-3. Bellsprout (20%)
-4. Bidoof (10%)
-5. Glameow (10%)
-6. Stunky (10%)
-7. Spinda (5%)
-8. Drifloon (5%)
+<pre><code>1. [Gastly](../pokemon/gastly.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Bellsprout](../pokemon/bellsprout.md) (20%)
+4. [Bidoof](../pokemon/bidoof.md) (10%)
+5. [Glameow](../pokemon/glameow.md) (10%)
+6. [Stunky](../pokemon/stunky.md) (10%)
+7. [Spinda](../pokemon/spinda.md) (5%)
+8. [Drifloon](../pokemon/drifloon.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Bibarel
-2. Linoone
+<pre><code>1. [Bibarel](../pokemon/bibarel.md) (50%)
+2. [Linoone](../pokemon/linoone.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Spinda
+<pre><code>1. [Spinda](../pokemon/spinda.md) (100%)
 </code></pre>
 
 ---
@@ -739,54 +739,54 @@ Wild Levels: 12 – 15
 
 **Cave:**
 
-<pre><code>1. Zubat (25%)
-2. Sandshrew (25%)
-3. Geodude (10%)
-4. Whismur (10%)
-5. Makuhita (10%)
-6. Machop (10%)
-7. Aron (5%)
-8. Cubone (5%)
+<pre><code>1. [Zubat](../pokemon/zubat.md) (25%)
+2. [Sandshrew](../pokemon/sandshrew.md) (25%)
+3. [Geodude](../pokemon/geodude.md) (10%)
+4. [Whismur](../pokemon/whismur.md) (10%)
+5. [Makuhita](../pokemon/makuhita.md) (10%)
+6. [Machop](../pokemon/machop.md) (10%)
+7. [Aron](../pokemon/aron.md) (5%)
+8. [Cubone](../pokemon/cubone.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wooper (60%)
-2. Shellos (30%)
-3. Quagsire (5%)
-4. Gastrodon (5%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (60%)
+2. [Shellos](../pokemon/shellos.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (5%)
+4. [Gastrodon](../pokemon/gastrodon.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Seaking (30%)
-3. Whiscash (10%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Whiscash](../pokemon/whiscash.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Sandslash
-2. Loudred
+<pre><code>1. [Sandslash](../pokemon/sandslash.md) (50%)
+2. [Loudred](../pokemon/loudred.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Gible
+<pre><code>1. [Gible](../pokemon/gible.md) (100%)
 </code></pre>
 
 ### [ B1F ]
@@ -795,54 +795,54 @@ Wild Levels: 13 – 16
 
 **Cave:**
 
-<pre><code>1. Zubat (25%)
-2. Sandshrew (20%)
-3. Geodude (10%)
-4. Bronzor (10%)
-5. Aron (10%)
-6. Onix (15%)
-7. Bagon (5%)
-8. Gible (5%)
+<pre><code>1. [Zubat](../pokemon/zubat.md) (25%)
+2. [Sandshrew](../pokemon/sandshrew.md) (20%)
+3. [Geodude](../pokemon/geodude.md) (10%)
+4. [Bronzor](../pokemon/bronzor.md) (10%)
+5. [Aron](../pokemon/aron.md) (10%)
+6. [Onix](../pokemon/onix.md) (15%)
+7. [Bagon](../pokemon/bagon.md) (5%)
+8. [Gible](../pokemon/gible.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wooper (60%)
-2. Shellos (30%)
-3. Quagsire (5%)
-4. Gastrodon (5%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (60%)
+2. [Shellos](../pokemon/shellos.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (5%)
+4. [Gastrodon](../pokemon/gastrodon.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Seaking (30%)
-3. Whiscash (10%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Whiscash](../pokemon/whiscash.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Golbat
-2. Steelix
+<pre><code>1. [Golbat](../pokemon/golbat.md) (50%)
+2. [Steelix](../pokemon/steelix.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Cubone
+<pre><code>1. [Cubone](../pokemon/cubone.md) (100%)
 </code></pre>
 
 ### [ B2F ]
@@ -851,55 +851,55 @@ Wild Levels: 28 – 30
 
 **Cave:**
 
-<pre><code>1. Golbat (20%)
-2. Sandslash (20%)
-3. Graveler (10%)
-4. Sableye (10%)
-5. Machoke (10%)
-6. Loudred (10%)
-7. Mawile (10%)
-8. Lickitung (5%)
-9. Kangaskhan (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Sandslash](../pokemon/sandslash.md) (20%)
+3. [Graveler](../pokemon/graveler.md) (10%)
+4. [Sableye](../pokemon/sableye.md) (10%)
+5. [Machoke](../pokemon/machoke.md) (10%)
+6. [Loudred](../pokemon/loudred.md) (10%)
+7. [Mawile](../pokemon/mawile.md) (10%)
+8. [Lickitung](../pokemon/lickitung.md) (5%)
+9. [Kangaskhan](../pokemon/kangaskhan.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wooper (60%)
-2. Shellos (30%)
-3. Quagsire (5%)
-4. Gastrodon (5%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (60%)
+2. [Shellos](../pokemon/shellos.md) (30%)
+3. [Quagsire](../pokemon/quagsire.md) (5%)
+4. [Gastrodon](../pokemon/gastrodon.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Seaking (30%)
-3. Whiscash (10%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Whiscash](../pokemon/whiscash.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Lickilicky
-2. Exploud
+<pre><code>1. [Lickilicky](../pokemon/lickilicky.md) (50%)
+2. [Exploud](../pokemon/exploud.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Kangaskhan
+<pre><code>1. [Kangaskhan](../pokemon/kangaskhan.md) (100%)
 </code></pre>
 
 ---
@@ -910,37 +910,37 @@ Wild Levels: 14 – 16
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Croagunk (20%)
-2. Ekans (20%)
-3. Skorupi (10%)
-4. Slakoth (10%)
-5. Swablu (10%)
-6. Aipom (10%)
-7. Hoppip (10%)
-8. Rhyhorn (10%)
+<pre><code>1. [Croagunk](../pokemon/croagunk.md) (20%)
+2. [Ekans](../pokemon/ekans.md) (20%)
+3. [Skorupi](../pokemon/skorupi.md) (10%)
+4. [Slakoth](../pokemon/slakoth.md) (10%)
+5. [Swablu](../pokemon/swablu.md) (10%)
+6. [Aipom](../pokemon/aipom.md) (10%)
+7. [Hoppip](../pokemon/hoppip.md) (10%)
+8. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Croagunk (20%)
-2. Ekans (20%)
-3. Skorupi (10%)
-4. Slakoth (10%)
-5. Swablu (10%)
-6. Aipom (10%)
-7. Meowth (10%)
-8. Rhyhorn (10%)
+<pre><code>1. [Croagunk](../pokemon/croagunk.md) (20%)
+2. [Ekans](../pokemon/ekans.md) (20%)
+3. [Skorupi](../pokemon/skorupi.md) (10%)
+4. [Slakoth](../pokemon/slakoth.md) (10%)
+5. [Swablu](../pokemon/swablu.md) (10%)
+6. [Aipom](../pokemon/aipom.md) (10%)
+7. [Meowth](../pokemon/meowth.md) (10%)
+8. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Toxicroak
-2. Drapion
+<pre><code>1. [Toxicroak](../pokemon/toxicroak.md) (50%)
+2. [Drapion](../pokemon/drapion.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Lombre
+<pre><code>1. [Lombre](../pokemon/lombre.md) (100%)
 </code></pre>
 
 ---
@@ -953,51 +953,51 @@ Wild Levels: 15 – 16
 
 **Cave:**
 
-<pre><code>1. Zubat (20%)
-2. Slowpoke (20%)
-3. Gastly (10%)
-4. Shellos (10%)
-5. Shellder (10%)
-6. Swinub (10%)
-7. Snorunt (10%)
-8. Bronzor (10%)
+<pre><code>1. [Zubat](../pokemon/zubat.md) (20%)
+2. [Slowpoke](../pokemon/slowpoke.md) (20%)
+3. [Gastly](../pokemon/gastly.md) (10%)
+4. [Shellos](../pokemon/shellos.md) (10%)
+5. [Shellder](../pokemon/shellder.md) (10%)
+6. [Swinub](../pokemon/swinub.md) (10%)
+7. [Snorunt](../pokemon/snorunt.md) (10%)
+8. [Bronzor](../pokemon/bronzor.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Slowpoke (90%)
-2. Slowbro (10%)
+<pre><code>1. [Slowpoke](../pokemon/slowpoke.md) (90%)
+2. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Slowpoke (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Slowpoke](../pokemon/slowpoke.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Barboach (30%)
-3. Slowpoke (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Slowpoke](../pokemon/slowpoke.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Whiscash (30%)
-3. Slowbro (10%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Whiscash](../pokemon/whiscash.md) (30%)
+3. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Slowbro
+<pre><code>1. [Slowbro](../pokemon/slowbro.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Wynaut
+<pre><code>1. [Wynaut](../pokemon/wynaut.md) (100%)
 </code></pre>
 
 ### [ B1F ]
@@ -1006,52 +1006,52 @@ Wild Levels: 28 – 33
 
 **Cave:**
 
-<pre><code>1. Golbat (20%)
-2. Slowpoke (20%)
-3. Haunter (10%)
-4. Gastrodon (10%)
-5. Shellder (10%)
-6. Piloswine (10%)
-7. Snorunt (10%)
-8. Bronzong (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Slowpoke](../pokemon/slowpoke.md) (20%)
+3. [Haunter](../pokemon/haunter.md) (10%)
+4. [Gastrodon](../pokemon/gastrodon.md) (10%)
+5. [Shellder](../pokemon/shellder.md) (10%)
+6. [Piloswine](../pokemon/piloswine.md) (10%)
+7. [Snorunt](../pokemon/snorunt.md) (10%)
+8. [Bronzong](../pokemon/bronzong.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Slowpoke (60%)
-2. Slowbro (40%)
+<pre><code>1. [Slowpoke](../pokemon/slowpoke.md) (60%)
+2. [Slowbro](../pokemon/slowbro.md) (40%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Slowpoke (30%)
-3. Barboach (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Slowpoke](../pokemon/slowpoke.md) (30%)
+3. [Barboach](../pokemon/barboach.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Barboach (30%)
-3. Slowpoke (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Slowpoke](../pokemon/slowpoke.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Whiscash (30%)
-3. Slowbro (10%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Whiscash](../pokemon/whiscash.md) (30%)
+3. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Slowbro
-2. Glalie
+<pre><code>1. [Slowbro](../pokemon/slowbro.md) (50%)
+2. [Glalie](../pokemon/glalie.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Wobbuffet
+<pre><code>1. [Wobbuffet](../pokemon/wobbuffet.md) (100%)
 </code></pre>
 
 ---
@@ -1062,81 +1062,81 @@ Wild Levels: 15 – 18
 
 **Grass, Morning:**
 
-<pre><code>1. Shroomish (20%)
-2. Ledyba (20%)
-3. Pineco (10%)
-4. Exeggcute (10%)
-5. Buneary (10%)
-6. Budew (10%)
-7. Pikachu (5%)
-8. Butterfree (5%)
-9. Beedrill (5%)
-10. Roselia (5%)
+<pre><code>1. [Shroomish](../pokemon/shroomish.md) (20%)
+2. [Ledyba](../pokemon/ledyba.md) (20%)
+3. [Pineco](../pokemon/pineco.md) (10%)
+4. [Exeggcute](../pokemon/exeggcute.md) (10%)
+5. [Buneary](../pokemon/buneary.md) (10%)
+6. [Budew](../pokemon/budew.md) (10%)
+7. [Pikachu](../pokemon/pikachu.md) (5%)
+8. [Butterfree](../pokemon/butterfree.md) (5%)
+9. [Beedrill](../pokemon/beedrill.md) (5%)
+10. [Roselia](../pokemon/roselia.md) (5%)
 </code></pre>
 
 **Grass, Day:**
 
-<pre><code>1. Shroomish (20%)
-2. Wurmple (20%)
-3. Pineco (10%)
-4. Exeggcute (10%)
-5. Buneary (10%)
-6. Budew (10%)
-7. Pikachu (5%)
-8. Beautifly (5%)
-9. Dustox (5%)
-10. Roselia (5%)
+<pre><code>1. [Shroomish](../pokemon/shroomish.md) (20%)
+2. [Wurmple](../pokemon/wurmple.md) (20%)
+3. [Pineco](../pokemon/pineco.md) (10%)
+4. [Exeggcute](../pokemon/exeggcute.md) (10%)
+5. [Buneary](../pokemon/buneary.md) (10%)
+6. [Budew](../pokemon/budew.md) (10%)
+7. [Pikachu](../pokemon/pikachu.md) (5%)
+8. [Beautifly](../pokemon/beautifly.md) (5%)
+9. [Dustox](../pokemon/dustox.md) (5%)
+10. [Roselia](../pokemon/roselia.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Paras (20%)
-2. Spinarak (20%)
-3. Pineco (10%)
-4. Oddish (10%)
-5. Buneary (10%)
-6. Venonat (10%)
-7. Pikachu (5%)
-8. Murkrow (5%)
-9. Misdreavus (5%)
-10. Carnivine (5%)
+<pre><code>1. [Paras](../pokemon/paras.md) (20%)
+2. [Spinarak](../pokemon/spinarak.md) (20%)
+3. [Pineco](../pokemon/pineco.md) (10%)
+4. [Oddish](../pokemon/oddish.md) (10%)
+5. [Buneary](../pokemon/buneary.md) (10%)
+6. [Venonat](../pokemon/venonat.md) (10%)
+7. [Pikachu](../pokemon/pikachu.md) (5%)
+8. [Murkrow](../pokemon/murkrow.md) (5%)
+9. [Misdreavus](../pokemon/misdreavus.md) (5%)
+10. [Carnivine](../pokemon/carnivine.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Psyduck (90%)
-2. Golduck (10%)
+<pre><code>1. [Psyduck](../pokemon/psyduck.md) (90%)
+2. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Poliwag (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (40%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwhirl (90%)
-2. Gyarados (10%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (90%)
+2. [Gyarados](../pokemon/gyarados.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Gyarados (30%)
-3. Poliwrath (5%)
-4. Politoed (5%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Gyarados](../pokemon/gyarados.md) (30%)
+3. [Poliwrath](../pokemon/poliwrath.md) (5%)
+4. [Politoed](../pokemon/politoed.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Gloom
-2. Venomoth
+<pre><code>1. [Gloom](../pokemon/gloom.md) (50%)
+2. [Venomoth](../pokemon/venomoth.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Pichu
+<pre><code>1. [Pichu](../pokemon/pichu.md) (100%)
 </code></pre>
 
 ---
@@ -1147,60 +1147,60 @@ Wild Levels: 15 – 19
 
 **Grass:**
 
-<pre><code>1. Drowzee (20%)
-2. Gulpin (20%)
-3. Electrike (10%)
-4. Bonsly (10%)
-5. Mime Jr. (10%)
-6. Abra (10%)
-7. Ditto (9%)
-8. Snubbull (9%)
-9. Kadabra (2%)
+<pre><code>1. [Drowzee](../pokemon/drowzee.md) (20%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Electrike](../pokemon/electrike.md) (10%)
+4. [Bonsly](../pokemon/bonsly.md) (10%)
+5. [Mime Jr.](../pokemon/mime-jr.md) (10%)
+6. [Abra](../pokemon/abra.md) (10%)
+7. [Ditto](../pokemon/ditto.md) (9%)
+8. [Snubbull](../pokemon/snubbull.md) (9%)
+9. [Kadabra](../pokemon/kadabra.md) (2%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Tentacool (95%)
-2. Tentacruel (5%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (95%)
+2. [Tentacruel](../pokemon/tentacruel.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Chinchou (30%)
-3. Staryu (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Staryu](../pokemon/staryu.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Chinchou (30%)
-3. Staryu (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Staryu](../pokemon/staryu.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seaking (60%)
-2. Staryu (30%)
-3. Lanturn (5%)
-4. Starmie (5%)
+<pre><code>1. [Seaking](../pokemon/seaking.md) (60%)
+2. [Staryu](../pokemon/staryu.md) (30%)
+3. [Lanturn](../pokemon/lanturn.md) (5%)
+4. [Starmie](../pokemon/starmie.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Manectric
-2. Hypno
+<pre><code>1. [Manectric](../pokemon/manectric.md) (50%)
+2. [Hypno](../pokemon/hypno.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ralts
-2. Kirlia
+<pre><code>1. [Ralts](../pokemon/ralts.md) (50%)
+2. [Kirlia](../pokemon/kirlia.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Kadabra
+<pre><code>1. [Kadabra](../pokemon/kadabra.md) (100%)
 </code></pre>
 
 ---
@@ -1211,73 +1211,73 @@ Wild Levels: 17 – 19
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Nidoran M (20%)
-2. Nidoran F (20%)
-3. Pidgeotto (10%)
-4. Stunky (10%)
-5. Glameow (10%)
-6. Staravia (10%)
-7. Illumise (5%)
-8. Volbeat (5%)
-9. Ditto (5%)
-10. Yanma (5%)
+<pre><code>1. [Nidoran M](../pokemon/nidoran-m.md) (20%)
+2. [Nidoran F](../pokemon/nidoran-f.md) (20%)
+3. [Pidgeotto](../pokemon/pidgeotto.md) (10%)
+4. [Stunky](../pokemon/stunky.md) (10%)
+5. [Glameow](../pokemon/glameow.md) (10%)
+6. [Staravia](../pokemon/staravia.md) (10%)
+7. [Illumise](../pokemon/illumise.md) (5%)
+8. [Volbeat](../pokemon/volbeat.md) (5%)
+9. [Ditto](../pokemon/ditto.md) (5%)
+10. [Yanma](../pokemon/yanma.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Nidoran M (20%)
-2. Nidoran F (20%)
-3. Meowth (10%)
-4. Stunky (10%)
-5. Glameow (10%)
-6. Noctowl (10%)
-7. Illumise (5%)
-8. Volbeat (5%)
-9. Ditto (5%)
-10. Yanma (5%)
+<pre><code>1. [Nidoran M](../pokemon/nidoran-m.md) (20%)
+2. [Nidoran F](../pokemon/nidoran-f.md) (20%)
+3. [Meowth](../pokemon/meowth.md) (10%)
+4. [Stunky](../pokemon/stunky.md) (10%)
+5. [Glameow](../pokemon/glameow.md) (10%)
+6. [Noctowl](../pokemon/noctowl.md) (10%)
+7. [Illumise](../pokemon/illumise.md) (5%)
+8. [Volbeat](../pokemon/volbeat.md) (5%)
+9. [Ditto](../pokemon/ditto.md) (5%)
+10. [Yanma](../pokemon/yanma.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Psyduck (90%)
-2. Golduck (10%)
+<pre><code>1. [Psyduck](../pokemon/psyduck.md) (90%)
+2. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (65%)
-2. Psyduck (35%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (65%)
+2. [Psyduck](../pokemon/psyduck.md) (35%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Luvdisc (35%)
-3. Psyduck (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Luvdisc](../pokemon/luvdisc.md) (35%)
+3. [Psyduck](../pokemon/psyduck.md) (5%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Luvdisc (60%)
-2. Psyduck (35%)
-3. Gyarados (5%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (60%)
+2. [Psyduck](../pokemon/psyduck.md) (35%)
+3. [Gyarados](../pokemon/gyarados.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Skuntank
-2. Purugly
+<pre><code>1. [Skuntank](../pokemon/skuntank.md) (50%)
+2. [Purugly](../pokemon/purugly.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Yanma
+<pre><code>1. [Yanma](../pokemon/yanma.md) (100%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Illumise [SG]
-2. Volbeat [SS]
+<pre><code>1. [Illumise](../pokemon/illumise.md) (100%)
+2. [Volbeat](../pokemon/volbeat.md) (100%)
 </code></pre>
 
 ---
@@ -1290,57 +1290,57 @@ Bug Catching Contest is unchanged.
 
 **Grass, Morning:**
 
-<pre><code>1. Metapod (20%)
-2. Kakuna (20%)
-3. Combee (10%)
-4. Taillow (10%)
-5. Nincada (10%)
-6. Burmy (10%)
-7. Scyther (5%)
-8. Pinsir (5%)
-9. Heracross (5%)
-10. Kricketune (5%)
+<pre><code>1. [Metapod](../pokemon/metapod.md) (20%)
+2. [Kakuna](../pokemon/kakuna.md) (20%)
+3. [Combee](../pokemon/combee.md) (10%)
+4. [Taillow](../pokemon/taillow.md) (10%)
+5. [Nincada](../pokemon/nincada.md) (10%)
+6. [Burmy](../pokemon/burmy.md) (10%)
+7. [Scyther](../pokemon/scyther.md) (5%)
+8. [Pinsir](../pokemon/pinsir.md) (5%)
+9. [Heracross](../pokemon/heracross.md) (5%)
+10. [Kricketune](../pokemon/kricketune.md) (5%)
 </code></pre>
 
 **Grass, Day:**
 
-<pre><code>1. Metapod (20%)
-2. Kakuna (20%)
-3. Combee (10%)
-4. Taillow (10%)
-5. Sunkern (10%)
-6. Burmy (10%)
-7. Scyther (5%)
-8. Pinsir (5%)
-9. Heracross (5%)
-10. Kricketune (5%)
+<pre><code>1. [Metapod](../pokemon/metapod.md) (20%)
+2. [Kakuna](../pokemon/kakuna.md) (20%)
+3. [Combee](../pokemon/combee.md) (10%)
+4. [Taillow](../pokemon/taillow.md) (10%)
+5. [Sunkern](../pokemon/sunkern.md) (10%)
+6. [Burmy](../pokemon/burmy.md) (10%)
+7. [Scyther](../pokemon/scyther.md) (5%)
+8. [Pinsir](../pokemon/pinsir.md) (5%)
+9. [Heracross](../pokemon/heracross.md) (5%)
+10. [Kricketune](../pokemon/kricketune.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Metapod (20%)
-2. Kakuna (20%)
-3. Combee (10%)
-4. Poochyena (10%)
-5. Nincada (10%)
-6. Burmy (10%)
-7. Scyther (5%)
-8. Pinsir (5%)
-9. Heracross (5%)
-10. Kricketune (5%)
+<pre><code>1. [Metapod](../pokemon/metapod.md) (20%)
+2. [Kakuna](../pokemon/kakuna.md) (20%)
+3. [Combee](../pokemon/combee.md) (10%)
+4. [Poochyena](../pokemon/poochyena.md) (10%)
+5. [Nincada](../pokemon/nincada.md) (10%)
+6. [Burmy](../pokemon/burmy.md) (10%)
+7. [Scyther](../pokemon/scyther.md) (5%)
+8. [Pinsir](../pokemon/pinsir.md) (5%)
+9. [Heracross](../pokemon/heracross.md) (5%)
+10. [Kricketune](../pokemon/kricketune.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Butterfree
-2. Beedrill
+<pre><code>1. [Butterfree](../pokemon/butterfree.md) (50%)
+2. [Beedrill](../pokemon/beedrill.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Scyther (SG)
-2. Pinsir (SS)
-3. Heracross (SG/SS)
+<pre><code>1. [Scyther](../pokemon/scyther.md) (SG)
+2. [Pinsir](../pokemon/pinsir.md) (SS)
+3. [Heracross](../pokemon/heracross.md) (SG/SS)
 </code></pre>
 
 ---
@@ -1351,39 +1351,39 @@ Wild Levels: 17 – 19
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Growlithe (20%)
-2. Vulpix (20%)
-3. Combee (10%)
-4. Plusle (10%)
-5. Minun (10%)
-6. Nidorino (10%)
-7. Nidorina (10%)
-8. Staravia (5%)
-9. Stantler (5%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (20%)
+2. [Vulpix](../pokemon/vulpix.md) (20%)
+3. [Combee](../pokemon/combee.md) (10%)
+4. [Plusle](../pokemon/plusle.md) (10%)
+5. [Minun](../pokemon/minun.md) (10%)
+6. [Nidorino](../pokemon/nidorino.md) (10%)
+7. [Nidorina](../pokemon/nidorina.md) (10%)
+8. [Staravia](../pokemon/staravia.md) (5%)
+9. [Stantler](../pokemon/stantler.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Growlithe (20%)
-2. Vulpix (20%)
-3. Combee (10%)
-4. Plusle (10%)
-5. Minun (10%)
-6. Nidorino (10%)
-7. Nidorina (10%)
-8. Noctowl (5%)
-9. Stantler (5%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (20%)
+2. [Vulpix](../pokemon/vulpix.md) (20%)
+3. [Combee](../pokemon/combee.md) (10%)
+4. [Plusle](../pokemon/plusle.md) (10%)
+5. [Minun](../pokemon/minun.md) (10%)
+6. [Nidorino](../pokemon/nidorino.md) (10%)
+7. [Nidorina](../pokemon/nidorina.md) (10%)
+8. [Noctowl](../pokemon/noctowl.md) (5%)
+9. [Stantler](../pokemon/stantler.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Vespiquen
+<pre><code>1. [Vespiquen](../pokemon/vespiquen.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Bonsly
-2. Mime Jr.
+<pre><code>1. [Bonsly](../pokemon/bonsly.md) (50%)
+2. [Mime Jr.](../pokemon/mime-jr.md) (50%)
 </code></pre>
 
 ---
@@ -1394,40 +1394,40 @@ Wild Levels: 21 – 24
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Growlithe (20%)
-2. Vulpix (20%)
-3. Stantler (10%)
-4. Ledian (10%)
-5. Pidgeotto (10%)
-6. Nidorino (10%)
-7. Nidorina (10%)
-8. Zangoose (5%)
-9. Seviper (5%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (20%)
+2. [Vulpix](../pokemon/vulpix.md) (20%)
+3. [Stantler](../pokemon/stantler.md) (10%)
+4. [Ledian](../pokemon/ledian.md) (10%)
+5. [Pidgeotto](../pokemon/pidgeotto.md) (10%)
+6. [Nidorino](../pokemon/nidorino.md) (10%)
+7. [Nidorina](../pokemon/nidorina.md) (10%)
+8. [Zangoose](../pokemon/zangoose.md) (5%)
+9. [Seviper](../pokemon/seviper.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Growlithe (20%)
-2. Vulpix (20%)
-3. Stantler (10%)
-4. Ariados (10%)
-5. Noctowl (10%)
-6. Mightyena (10%)
-7. Linoone (10%)
-8. Zangoose (5%)
-9. Seviper (5%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (20%)
+2. [Vulpix](../pokemon/vulpix.md) (20%)
+3. [Stantler](../pokemon/stantler.md) (10%)
+4. [Ariados](../pokemon/ariados.md) (10%)
+5. [Noctowl](../pokemon/noctowl.md) (10%)
+6. [Mightyena](../pokemon/mightyena.md) (10%)
+7. [Linoone](../pokemon/linoone.md) (10%)
+8. [Zangoose](../pokemon/zangoose.md) (5%)
+9. [Seviper](../pokemon/seviper.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Arcanine
-2. Ninetales
+<pre><code>1. [Arcanine](../pokemon/arcanine.md) (50%)
+2. [Ninetales](../pokemon/ninetales.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Zangoose
-2. Seviper
+<pre><code>1. [Zangoose](../pokemon/zangoose.md) (50%)
+2. [Seviper](../pokemon/seviper.md) (50%)
 </code></pre>
 
 ---
@@ -1438,25 +1438,25 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Poliwag (90%)
-2. Poliwhirl (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (90%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Poliwag (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Gyarados (40%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Gyarados](../pokemon/gyarados.md) (40%)
 </code></pre>
 
 ---
@@ -1469,25 +1469,25 @@ Wild Levels: 22 – 23
 
 **Cave:**
 
-<pre><code>1. Rattata (20%)
-2. Koffing (20%)
-3. Zigzagoon (10%)
-4. Cubone (10%)
-5. Magby (10%)
-6. Grimer (10%)
-7. Duskull (10%)
-8. Shuppet (10%)
+<pre><code>1. [Rattata](../pokemon/rattata.md) (20%)
+2. [Koffing](../pokemon/koffing.md) (20%)
+3. [Zigzagoon](../pokemon/zigzagoon.md) (10%)
+4. [Cubone](../pokemon/cubone.md) (10%)
+5. [Magby](../pokemon/magby.md) (10%)
+6. [Grimer](../pokemon/grimer.md) (10%)
+7. [Duskull](../pokemon/duskull.md) (10%)
+8. [Shuppet](../pokemon/shuppet.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Raticate
-2. Marowak
+<pre><code>1. [Raticate](../pokemon/raticate.md) (50%)
+2. [Marowak](../pokemon/marowak.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (100%)
 </code></pre>
 
 ### [ B1F ]
@@ -1496,25 +1496,25 @@ Wild Levels: 23 – 24
 
 **Cave:**
 
-<pre><code>1. Raticate (20%)
-2. Koffing (20%)
-3. Linoone (10%)
-4. Cubone (10%)
-5. Magby (10%)
-6. Grimer (10%)
-7. Duskull (10%)
-8. Shuppet (10%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Koffing](../pokemon/koffing.md) (20%)
+3. [Linoone](../pokemon/linoone.md) (10%)
+4. [Cubone](../pokemon/cubone.md) (10%)
+5. [Magby](../pokemon/magby.md) (10%)
+6. [Grimer](../pokemon/grimer.md) (10%)
+7. [Duskull](../pokemon/duskull.md) (10%)
+8. [Shuppet](../pokemon/shuppet.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Weezing
-2. Magmar
+<pre><code>1. [Weezing](../pokemon/weezing.md) (50%)
+2. [Magmar](../pokemon/magmar.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (100%)
 </code></pre>
 
 ---
@@ -1525,47 +1525,47 @@ Wild Levels: 26 – 27
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Doduo (20%)
-2. Luxio (20%)
-3. Magnemite (10%)
-4. Mankey (10%)
-5. Voltorb (10%)
-6. Elekid (10%)
-7. Farfetch’d (5%)
-8. Miltank (5%)
-9. Tauros (5%)
-10. Cherubi (5%)
+<pre><code>1. [Doduo](../pokemon/doduo.md) (20%)
+2. [Luxio](../pokemon/luxio.md) (20%)
+3. [Magnemite](../pokemon/magnemite.md) (10%)
+4. [Mankey](../pokemon/mankey.md) (10%)
+5. [Voltorb](../pokemon/voltorb.md) (10%)
+6. [Elekid](../pokemon/elekid.md) (10%)
+7. [Farfetch’d](../pokemon/farfetchd.md) (5%)
+8. [Miltank](../pokemon/miltank.md) (5%)
+9. [Tauros](../pokemon/tauros.md) (5%)
+10. [Cherubi](../pokemon/cherubi.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Meowth (20%)
-2. Luxio (20%)
-3. Magnemite (10%)
-4. Mankey (10%)
-5. Voltorb (10%)
-6. Elekid (10%)
-7. Farfetch’d (5%)
-8. Miltank (5%)
-9. Tauros (5%)
-10. Skitty (5%)
+<pre><code>1. [Meowth](../pokemon/meowth.md) (20%)
+2. [Luxio](../pokemon/luxio.md) (20%)
+3. [Magnemite](../pokemon/magnemite.md) (10%)
+4. [Mankey](../pokemon/mankey.md) (10%)
+5. [Voltorb](../pokemon/voltorb.md) (10%)
+6. [Elekid](../pokemon/elekid.md) (10%)
+7. [Farfetch’d](../pokemon/farfetchd.md) (5%)
+8. [Miltank](../pokemon/miltank.md) (5%)
+9. [Tauros](../pokemon/tauros.md) (5%)
+10. [Skitty](../pokemon/skitty.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Dodrio
-2. Electabuzz
+<pre><code>1. [Dodrio](../pokemon/dodrio.md) (50%)
+2. [Electabuzz](../pokemon/electabuzz.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Skitty
-2. Cherubi
+<pre><code>1. [Skitty](../pokemon/skitty.md) (50%)
+2. [Cherubi](../pokemon/cherubi.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Farfetch’d
+<pre><code>1. [Farfetch’d](../pokemon/farfetchd.md) (100%)
 </code></pre>
 
 ---
@@ -1576,42 +1576,42 @@ Wild Levels: 27 – 28
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Raticate (20%)
-2. Ponyta (20%)
-3. Elekid (10%)
-4. Mankey (10%)
-5. Voltorb (10%)
-6. Cherubi (10%)
-7. Farfetch’d (5%)
-8. Miltank (5%)
-9. Tauros (5%)
-10. Pidgeotto (5%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Ponyta](../pokemon/ponyta.md) (20%)
+3. [Elekid](../pokemon/elekid.md) (10%)
+4. [Mankey](../pokemon/mankey.md) (10%)
+5. [Voltorb](../pokemon/voltorb.md) (10%)
+6. [Cherubi](../pokemon/cherubi.md) (10%)
+7. [Farfetch’d](../pokemon/farfetchd.md) (5%)
+8. [Miltank](../pokemon/miltank.md) (5%)
+9. [Tauros](../pokemon/tauros.md) (5%)
+10. [Pidgeotto](../pokemon/pidgeotto.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Raticate (20%)
-2. Ponyta (20%)
-3. Elekid (10%)
-4. Mankey (10%)
-5. Voltorb (10%)
-6. Meowth (10%)
-7. Farfetch’d (5%)
-8. Miltank (5%)
-9. Tauros (5%)
-10. Skitty (5%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Ponyta](../pokemon/ponyta.md) (20%)
+3. [Elekid](../pokemon/elekid.md) (10%)
+4. [Mankey](../pokemon/mankey.md) (10%)
+5. [Voltorb](../pokemon/voltorb.md) (10%)
+6. [Meowth](../pokemon/meowth.md) (10%)
+7. [Farfetch’d](../pokemon/farfetchd.md) (5%)
+8. [Miltank](../pokemon/miltank.md) (5%)
+9. [Tauros](../pokemon/tauros.md) (5%)
+10. [Skitty](../pokemon/skitty.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Rapidash
-2. Primeape
+<pre><code>1. [Rapidash](../pokemon/rapidash.md) (50%)
+2. [Primeape](../pokemon/primeape.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Skitty
-2. Cherubi
+<pre><code>1. [Skitty](../pokemon/skitty.md) (50%)
+2. [Cherubi](../pokemon/cherubi.md) (50%)
 </code></pre>
 
 ---
@@ -1622,30 +1622,30 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Tentacool (65%)
-2. Wingull (30%)
-3. Tentacruel (5%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (65%)
+2. [Wingull](../pokemon/wingull.md) (30%)
+3. [Tentacruel](../pokemon/tentacruel.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (95%)
-2. Staryu (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (95%)
+2. [Staryu](../pokemon/staryu.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Staryu (30%)
-3. Chinchou (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Staryu](../pokemon/staryu.md) (30%)
+3. [Chinchou](../pokemon/chinchou.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Staryu (60%)
-2. Chinchou (30%)
-3. Lanturn (5%)
-4. Gyarados (5%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (60%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Lanturn](../pokemon/lanturn.md) (5%)
+4. [Gyarados](../pokemon/gyarados.md) (5%)
 </code></pre>
 
 ---
@@ -1656,31 +1656,31 @@ Wild Levels: 25 – 35
 
 **Surf:**
 
-<pre><code>1. Wingull (60%)
-2. Tentacool (30%)
-3. Pelipper (5%)
-4. Tentacruel (3%)
-5. Phione (2%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Pelipper](../pokemon/pelipper.md) (5%)
+4. [Tentacruel](../pokemon/tentacruel.md) (3%)
+5. [Phione](../pokemon/phione.md) (2%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Tentacool (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (40%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Staryu (60%)
-2. Finneon (35%)
-3. Corsola (5%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (60%)
+2. [Finneon](../pokemon/finneon.md) (35%)
+3. [Corsola](../pokemon/corsola.md) (5%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Finneon (60%)
-2. Corsola (30%)
-3. Lumineon (10%)
+<pre><code>1. [Finneon](../pokemon/finneon.md) (60%)
+2. [Corsola](../pokemon/corsola.md) (30%)
+3. [Lumineon](../pokemon/lumineon.md) (10%)
 </code></pre>
 
 ---
@@ -1691,34 +1691,34 @@ Wild Levels: 25 – 35
 
 **Surf:**
 
-<pre><code>1. Wingull (60%)
-2. Mantyke (30%)
-3. Mantine (5%)
-4. Tentacruel (3%)
-5. Phione (2%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (60%)
+2. [Mantyke](../pokemon/mantyke.md) (30%)
+3. [Mantine](../pokemon/mantine.md) (5%)
+4. [Tentacruel](../pokemon/tentacruel.md) (3%)
+5. [Phione](../pokemon/phione.md) (2%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Tentacool (30%)
-3. Horsea (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Horsea](../pokemon/horsea.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Wailmer (60%)
-2. Horsea (30%)
-3. Chinchou (5%)
-4. Corsola (5%)
+<pre><code>1. [Wailmer](../pokemon/wailmer.md) (60%)
+2. [Horsea](../pokemon/horsea.md) (30%)
+3. [Chinchou](../pokemon/chinchou.md) (5%)
+4. [Corsola](../pokemon/corsola.md) (5%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seadra (60%)
-2. Corsola (30%)
-3. Lanturn (7%)
-4. Wailord (3%)
+<pre><code>1. [Seadra](../pokemon/seadra.md) (60%)
+2. [Corsola](../pokemon/corsola.md) (30%)
+3. [Lanturn](../pokemon/lanturn.md) (7%)
+4. [Wailord](../pokemon/wailord.md) (3%)
 </code></pre>
 
 ---
@@ -1729,35 +1729,35 @@ Wild Levels: N/A
 
 **Rock Smash:**
 
-<pre><code>1. Shuckle (90%)
-2. Kingler (10%)
+<pre><code>1. [Shuckle](../pokemon/shuckle.md) (90%)
+2. [Kingler](../pokemon/kingler.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wingull (60%)
-2. Tentacool (30%)
-3. Pelipper (5%)
-4. Tentacruel (5%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Pelipper](../pokemon/pelipper.md) (5%)
+4. [Tentacruel](../pokemon/tentacruel.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Carvanha (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Carvanha](../pokemon/carvanha.md) (40%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Carvanha (60%)
-2. Clamperl (40%)
+<pre><code>1. [Carvanha](../pokemon/carvanha.md) (60%)
+2. [Clamperl](../pokemon/clamperl.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Carvanha (60%)
-2. Clamperl (30%)
-3. Sharpedo (10%)
+<pre><code>1. [Carvanha](../pokemon/carvanha.md) (60%)
+2. [Clamperl](../pokemon/clamperl.md) (30%)
+3. [Sharpedo](../pokemon/sharpedo.md) (10%)
 </code></pre>
 
 ---
@@ -1772,70 +1772,70 @@ Wild Levels: 41 – 45
 
 **Day*:**
 
-<pre><code>1. Farfetch’d (20%)
-2. Ditto (20%)
-3. Miltank (10%)
-4. Gloom (10%)
-5. Weepinbell (10%)
-6. Fearow (10%)
-7. Raticate (10%)
-8. Swellow (10%)
+<pre><code>1. [Farfetch’d](../pokemon/farfetchd.md) (20%)
+2. [Ditto](../pokemon/ditto.md) (20%)
+3. [Miltank](../pokemon/miltank.md) (10%)
+4. [Gloom](../pokemon/gloom.md) (10%)
+5. [Weepinbell](../pokemon/weepinbell.md) (10%)
+6. [Fearow](../pokemon/fearow.md) (10%)
+7. [Raticate](../pokemon/raticate.md) (10%)
+8. [Swellow](../pokemon/swellow.md) (10%)
 </code></pre>
 
 **Grass, Night*:**
 
-<pre><code>1. Venomoth (20%)
-2. Ditto (20%)
-3. Miltank (10%)
-4. Gloom (10%)
-5. Weepinbell (10%)
-6. Fearow (10%)
-7. Raticate (10%)
-8. Noctowl (10%)
+<pre><code>1. [Venomoth](../pokemon/venomoth.md) (20%)
+2. [Ditto](../pokemon/ditto.md) (20%)
+3. [Miltank](../pokemon/miltank.md) (10%)
+4. [Gloom](../pokemon/gloom.md) (10%)
+5. [Weepinbell](../pokemon/weepinbell.md) (10%)
+6. [Fearow](../pokemon/fearow.md) (10%)
+7. [Raticate](../pokemon/raticate.md) (10%)
+8. [Noctowl](../pokemon/noctowl.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Bellossom
-2. Victreebel
+<pre><code>1. [Bellossom](../pokemon/bellossom.md) (50%)
+2. [Victreebel](../pokemon/victreebel.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Yanma
+<pre><code>1. [Yanma](../pokemon/yanma.md) (100%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Altaria
+<pre><code>1. [Altaria](../pokemon/altaria.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wingull (60%)
-2. Seel (30%)
-3. Spheal (10%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (60%)
+2. [Seel](../pokemon/seel.md) (30%)
+3. [Spheal](../pokemon/spheal.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Tentacool (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Tentacool](../pokemon/tentacool.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (60%)
-2. Shellder (30%)
-3. Chinchou (10%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Shellder](../pokemon/shellder.md) (30%)
+3. [Chinchou](../pokemon/chinchou.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Shellder (60%)
-2. Tentacool (30%)
-3. Tentacruel (7%)
-4. Lanturn (3%)
+<pre><code>1. [Shellder](../pokemon/shellder.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Tentacruel](../pokemon/tentacruel.md) (7%)
+4. [Lanturn](../pokemon/lanturn.md) (3%)
 </code></pre>
 
 ---
@@ -1846,33 +1846,33 @@ Wild Levels: 30 – 33
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Baltoy (10%)
-4. Machoke (10%)
-5. Trapinch (10%)
-6. Kingler (10%)
-7. Quagsire (10%)
-8. Hippopotas (8%)
-9. Steelix (2%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Baltoy](../pokemon/baltoy.md) (10%)
+4. [Machoke](../pokemon/machoke.md) (10%)
+5. [Trapinch](../pokemon/trapinch.md) (10%)
+6. [Kingler](../pokemon/kingler.md) (10%)
+7. [Quagsire](../pokemon/quagsire.md) (10%)
+8. [Hippopotas](../pokemon/hippopotas.md) (8%)
+9. [Steelix](../pokemon/steelix.md) (2%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Krabby (90%)
-2. Graveler (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (90%)
+2. [Graveler](../pokemon/graveler.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Claydol
-2. Hippowdon
+<pre><code>1. [Claydol](../pokemon/claydol.md) (50%)
+2. [Hippowdon](../pokemon/hippowdon.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Onix
-2. Misdreavus
+<pre><code>1. [Onix](../pokemon/onix.md) (50%)
+2. [Misdreavus](../pokemon/misdreavus.md) (50%)
 </code></pre>
 
 ---
@@ -1885,41 +1885,41 @@ Grass, Morning
 
 **Morning / Day:**
 
-<pre><code>1. Farfetch’d (20%)
-2. Tangela (20%)
-3. Diglett (10%)
-4. Gloom (10%)
-5. Weepinbell (10%)
-6. Girafarig (10%)
-7. Kecleon (5%)
-8. Chansey (5%)
-9. Absol (5%)
-10. Tropius (5%)
+<pre><code>1. [Farfetch’d](../pokemon/farfetchd.md) (20%)
+2. [Tangela](../pokemon/tangela.md) (20%)
+3. [Diglett](../pokemon/diglett.md) (10%)
+4. [Gloom](../pokemon/gloom.md) (10%)
+5. [Weepinbell](../pokemon/weepinbell.md) (10%)
+6. [Girafarig](../pokemon/girafarig.md) (10%)
+7. [Kecleon](../pokemon/kecleon.md) (5%)
+8. [Chansey](../pokemon/chansey.md) (5%)
+9. [Absol](../pokemon/absol.md) (5%)
+10. [Tropius](../pokemon/tropius.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Houndour (20%)
-2. Tangela (20%)
-3. Diglett (10%)
-4. Gloom (10%)
-5. Weepinbell (10%)
-6. Girafarig (10%)
-7. Kecleon (5%)
-8. Chansey (5%)
-9. Absol (5%)
-10. Tropius (5%)
+<pre><code>1. [Houndour](../pokemon/houndour.md) (20%)
+2. [Tangela](../pokemon/tangela.md) (20%)
+3. [Diglett](../pokemon/diglett.md) (10%)
+4. [Gloom](../pokemon/gloom.md) (10%)
+5. [Weepinbell](../pokemon/weepinbell.md) (10%)
+6. [Girafarig](../pokemon/girafarig.md) (10%)
+7. [Kecleon](../pokemon/kecleon.md) (5%)
+8. [Chansey](../pokemon/chansey.md) (5%)
+9. [Absol](../pokemon/absol.md) (5%)
+10. [Tropius](../pokemon/tropius.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Tangrowth
-2. Dugtrio
+<pre><code>1. [Tangrowth](../pokemon/tangrowth.md) (50%)
+2. [Dugtrio](../pokemon/dugtrio.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Happiny
+<pre><code>1. [Happiny](../pokemon/happiny.md) (100%)
 </code></pre>
 
 ---
@@ -1930,62 +1930,62 @@ Wild Levels: 30 – 32
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Flaaffy (20%)
-2. Fearow (20%)
-3. Hippopotas (10%)
-4. Cacnea (10%)
-5. Arbok (10%)
-6. Sandslash (10%)
-7. Munchlax (10%)
-8. Trapinch (10%)
+<pre><code>1. [Flaaffy](../pokemon/flaaffy.md) (20%)
+2. [Fearow](../pokemon/fearow.md) (20%)
+3. [Hippopotas](../pokemon/hippopotas.md) (10%)
+4. [Cacnea](../pokemon/cacnea.md) (10%)
+5. [Arbok](../pokemon/arbok.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Munchlax](../pokemon/munchlax.md) (10%)
+8. [Trapinch](../pokemon/trapinch.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Flaaffy (20%)
-2. Golbat (20%)
-3. Hippopotas (10%)
-4. Cacnea (10%)
-5. Arbok (10%)
-6. Sandslash (10%)
-7. Munchlax (10%)
-8. Trapinch (10%)
+<pre><code>1. [Flaaffy](../pokemon/flaaffy.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Hippopotas](../pokemon/hippopotas.md) (10%)
+4. [Cacnea](../pokemon/cacnea.md) (10%)
+5. [Arbok](../pokemon/arbok.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Munchlax](../pokemon/munchlax.md) (10%)
+8. [Trapinch](../pokemon/trapinch.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Cacturne
-2. Vibrava
+<pre><code>1. [Cacturne](../pokemon/cacturne.md) (50%)
+2. [Vibrava](../pokemon/vibrava.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Tyrogue
+<pre><code>1. [Tyrogue](../pokemon/tyrogue.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Goldeen (95%)
-2. Seaking (5%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (95%)
+2. [Seaking](../pokemon/seaking.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (100%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (65%)
-2. Carvanha (35%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (65%)
+2. [Carvanha](../pokemon/carvanha.md) (35%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Carvanha (30%)
-3. Seaking (7%)
-4. Sharpedo (3%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Carvanha](../pokemon/carvanha.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (7%)
+4. [Sharpedo](../pokemon/sharpedo.md) (3%)
 </code></pre>
 
 ---
@@ -1998,54 +1998,54 @@ Wild Levels: 31 – 34
 
 **Cave:**
 
-<pre><code>1. Graveler (30%)
-2. Golbat (30%)
-3. Rhyhorn (10%)
-4. Lairon (10%)
-5. Meditite (10%)
-6. Marill (10%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (30%)
+2. [Golbat](../pokemon/golbat.md) (30%)
+3. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Meditite](../pokemon/meditite.md) (10%)
+6. [Marill](../pokemon/marill.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Marill (95%)
-2. Azumarill (5%)
+<pre><code>1. [Marill](../pokemon/marill.md) (95%)
+2. [Azumarill](../pokemon/azumarill.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Rhydon
-2. Medicham
+<pre><code>1. [Rhydon](../pokemon/rhydon.md) (50%)
+2. [Medicham](../pokemon/medicham.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Azurill
+<pre><code>1. [Azurill](../pokemon/azurill.md) (100%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Solrock [SG]
-2. Lunatone [SS]
+<pre><code>1. [Solrock](../pokemon/solrock.md) (100%)
+2. [Lunatone](../pokemon/lunatone.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (100%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (65%)
-2. Barboach (35%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (65%)
+2. [Barboach](../pokemon/barboach.md) (35%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Seaking (5%)
-4. Whiscash (5%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (5%)
+4. [Whiscash](../pokemon/whiscash.md) (5%)
 </code></pre>
 
 ### [ 1F-2 ]
@@ -2054,28 +2054,28 @@ Wild Levels: 33 – 37
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Rhyhorn (10%)
-4. Lairon (10%)
-5. Marill (10%)
-6. Hariyama (10%)
-7. Clefairy (5%)
-8. Medicham (5%)
-9. Solrock (5%)
-10. Lunatone (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Marill](../pokemon/marill.md) (10%)
+6. [Hariyama](../pokemon/hariyama.md) (10%)
+7. [Clefairy](../pokemon/clefairy.md) (5%)
+8. [Medicham](../pokemon/medicham.md) (5%)
+9. [Solrock](../pokemon/solrock.md) (5%)
+10. [Lunatone](../pokemon/lunatone.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Rhydon
-2. Azumarill
+<pre><code>1. [Rhydon](../pokemon/rhydon.md) (50%)
+2. [Azumarill](../pokemon/azumarill.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Cleffa
-2. Clefairy
+<pre><code>1. [Cleffa](../pokemon/cleffa.md) (50%)
+2. [Clefairy](../pokemon/clefairy.md) (50%)
 </code></pre>
 
 ### [ 1F-3 ]
@@ -2084,53 +2084,53 @@ Wild Levels: 41 – 45
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Rhydon (10%)
-4. Lairon (10%)
-5. Azumarill (10%)
-6. Hariyama (10%)
-7. Clefairy (5%)
-8. Medicham (5%)
-9. Solrock (5%)
-10. Lunatone (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Rhydon](../pokemon/rhydon.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Azumarill](../pokemon/azumarill.md) (10%)
+6. [Hariyama](../pokemon/hariyama.md) (10%)
+7. [Clefairy](../pokemon/clefairy.md) (5%)
+8. [Medicham](../pokemon/medicham.md) (5%)
+9. [Solrock](../pokemon/solrock.md) (5%)
+10. [Lunatone](../pokemon/lunatone.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Marill (95%)
-2. Azumarill (5%)
+<pre><code>1. [Marill](../pokemon/marill.md) (95%)
+2. [Azumarill](../pokemon/azumarill.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Golem
-2. Clefable
+<pre><code>1. [Golem](../pokemon/golem.md) (50%)
+2. [Clefable](../pokemon/clefable.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Cleffa
-2. Azurill
+<pre><code>1. [Cleffa](../pokemon/cleffa.md) (50%)
+2. [Azurill](../pokemon/azurill.md) (50%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (100%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (65%)
-2. Barboach (35%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (65%)
+2. [Barboach](../pokemon/barboach.md) (35%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Seaking (5%)
-4. Whiscash (5%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (5%)
+4. [Whiscash](../pokemon/whiscash.md) (5%)
 </code></pre>
 
 ### [ B1F ]
@@ -2139,52 +2139,52 @@ Wild Levels: 33 – 35
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Rhyhorn (10%)
-4. Lairon (10%)
-5. Machoke (10%)
-6. Hariyama (10%)
-7. Clefairy (5%)
-8. Marill (5%)
-9. Metang (5%)
-10. Pupitar (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Machoke](../pokemon/machoke.md) (10%)
+6. [Hariyama](../pokemon/hariyama.md) (10%)
+7. [Clefairy](../pokemon/clefairy.md) (5%)
+8. [Marill](../pokemon/marill.md) (5%)
+9. [Metang](../pokemon/metang.md) (5%)
+10. [Pupitar](../pokemon/pupitar.md) (5%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Marill (95%)
-2. Azumarill (5%)
+<pre><code>1. [Marill](../pokemon/marill.md) (95%)
+2. [Azumarill](../pokemon/azumarill.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Clefable
-2. Azumarill
+<pre><code>1. [Clefable](../pokemon/clefable.md) (50%)
+2. [Azumarill](../pokemon/azumarill.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Riolu
+<pre><code>1. [Riolu](../pokemon/riolu.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (100%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (65%)
-2. Barboach (35%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (65%)
+2. [Barboach](../pokemon/barboach.md) (35%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Barboach (30%)
-3. Seaking (5%)
-4. Whiscash (5%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Barboach](../pokemon/barboach.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (5%)
+4. [Whiscash](../pokemon/whiscash.md) (5%)
 </code></pre>
 
 ---
@@ -2195,57 +2195,57 @@ Wild Levels: 34 – 36
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Pidgeotto (20%)
-2. Girafarig (20%)
-3. Exeggcute (10%)
-4. Kirlia (10%)
-5. Swablu (10%)
-6. Bibarel (10%)
-7. Linoone (10%)
-8. Manectric (10%)
+<pre><code>1. [Pidgeotto](../pokemon/pidgeotto.md) (20%)
+2. [Girafarig](../pokemon/girafarig.md) (20%)
+3. [Exeggcute](../pokemon/exeggcute.md) (10%)
+4. [Kirlia](../pokemon/kirlia.md) (10%)
+5. [Swablu](../pokemon/swablu.md) (10%)
+6. [Bibarel](../pokemon/bibarel.md) (10%)
+7. [Linoone](../pokemon/linoone.md) (10%)
+8. [Manectric](../pokemon/manectric.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Venomoth (20%)
-2. Girafarig (20%)
-3. Exeggcute (10%)
-4. Kirlia (10%)
-5. Swablu (10%)
-6. Bibarel (10%)
-7. Linoone (10%)
-8. Manectric (10%)
+<pre><code>1. [Venomoth](../pokemon/venomoth.md) (20%)
+2. [Girafarig](../pokemon/girafarig.md) (20%)
+3. [Exeggcute](../pokemon/exeggcute.md) (10%)
+4. [Kirlia](../pokemon/kirlia.md) (10%)
+5. [Swablu](../pokemon/swablu.md) (10%)
+6. [Bibarel](../pokemon/bibarel.md) (10%)
+7. [Linoone](../pokemon/linoone.md) (10%)
+8. [Manectric](../pokemon/manectric.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Altaria
+<pre><code>1. [Altaria](../pokemon/altaria.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Happiny
-2. Chansey
+<pre><code>1. [Happiny](../pokemon/happiny.md) (50%)
+2. [Chansey](../pokemon/chansey.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Slowpoke (100%)
+<pre><code>1. [Slowpoke](../pokemon/slowpoke.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (100%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (100%)
 </code></pre>
 
 ---
@@ -2256,28 +2256,28 @@ Wild Levels: 10 – 50
 
 **Surf:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (95%)
-2. Feebas (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (95%)
+2. [Feebas](../pokemon/feebas.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Gyarados (30%)
-3. Feebas (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Gyarados](../pokemon/gyarados.md) (30%)
+3. [Feebas](../pokemon/feebas.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Feebas (30%)
-3. Gyarados (7%)
-4. Milotic (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Feebas](../pokemon/feebas.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (7%)
+4. [Milotic](../pokemon/milotic.md) (3%)
 </code></pre>
 
 ---
@@ -2290,45 +2290,45 @@ Wild Levels: 34 – 36
 
 **Cave:**
 
-<pre><code>1. Krabby (20%)
-2. Seel (20%)
-3. Psyduck (20%)
-4. Spheal (20%)
-5. Golbat (10%)
-6. Shellder (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (20%)
+2. [Seel](../pokemon/seel.md) (20%)
+3. [Psyduck](../pokemon/psyduck.md) (20%)
+4. [Spheal](../pokemon/spheal.md) (20%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Shellder](../pokemon/shellder.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Kingler
-2. Dewgong
+<pre><code>1. [Kingler](../pokemon/kingler.md) (50%)
+2. [Dewgong](../pokemon/dewgong.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staryu
+<pre><code>1. [Staryu](../pokemon/staryu.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Horsea (90%)
-2. Seadra (10%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (90%)
+2. [Seadra](../pokemon/seadra.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Horsea (100%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Horsea (100%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Horsea (60%)
-2. Seadra (40%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (60%)
+2. [Seadra](../pokemon/seadra.md) (40%)
 </code></pre>
 
 ### [ B1F ]
@@ -2337,23 +2337,23 @@ Wild Levels: 35 – 38
 
 **Cave:**
 
-<pre><code>1. Krabby (20%)
-2. Seel (20%)
-3. Shellder (20%)
-4. Spheal (20%)
-5. Golbat (10%)
-6. Golduck (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (20%)
+2. [Seel](../pokemon/seel.md) (20%)
+3. [Shellder](../pokemon/shellder.md) (20%)
+4. [Spheal](../pokemon/spheal.md) (20%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Kingler
-2. Dewgong
+<pre><code>1. [Kingler](../pokemon/kingler.md) (50%)
+2. [Dewgong](../pokemon/dewgong.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staryu
+<pre><code>1. [Staryu](../pokemon/staryu.md) (100%)
 </code></pre>
 
 ### [ B2F ]
@@ -2362,46 +2362,46 @@ Wild Levels: 37 – 39
 
 **Cave:**
 
-<pre><code>1. Krabby (20%)
-2. Seel (20%)
-3. Shellder (20%)
-4. Spheal (20%)
-5. Golbat (10%)
-6. Golduck (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (20%)
+2. [Seel](../pokemon/seel.md) (20%)
+3. [Shellder](../pokemon/shellder.md) (20%)
+4. [Spheal](../pokemon/spheal.md) (20%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Sealeo
-2. Dewgong
+<pre><code>1. [Sealeo](../pokemon/sealeo.md) (50%)
+2. [Dewgong](../pokemon/dewgong.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staryu
+<pre><code>1. [Staryu](../pokemon/staryu.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Horsea (90%)
-2. Seadra (10%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (90%)
+2. [Seadra](../pokemon/seadra.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Horsea (100%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Horsea (100%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Horsea (60%)
-2. Seadra (38%)
-3. Kingdra (2%)
+<pre><code>1. [Horsea](../pokemon/horsea.md) (60%)
+2. [Seadra](../pokemon/seadra.md) (38%)
+3. [Kingdra](../pokemon/kingdra.md) (2%)
 </code></pre>
 
 ### [ B3F ]
@@ -2412,24 +2412,24 @@ Storm Silver Wild Levels: 42 – 44
 
 **Cave:**
 
-<pre><code>1. Kingler (20%)
-2. Dewgong (20%)
-3. Shellder (20%)
-4. Sealeo (20%)
-5. Golbat (10%)
-6. Golduck (10%)
+<pre><code>1. [Kingler](../pokemon/kingler.md) (20%)
+2. [Dewgong](../pokemon/dewgong.md) (20%)
+3. [Shellder](../pokemon/shellder.md) (20%)
+4. [Sealeo](../pokemon/sealeo.md) (20%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Golduck](../pokemon/golduck.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Cloyster
-2. Crobat
+<pre><code>1. [Cloyster](../pokemon/cloyster.md) (50%)
+2. [Crobat](../pokemon/crobat.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staryu
-2. Starmie (See near bottom for Bell Tower).
+<pre><code>1. [Staryu](../pokemon/staryu.md) (50%)
+2. [Starmie](../pokemon/starmie.md) (See near bottom for Bell Tower))
 </code></pre>
 
 ---
@@ -2440,75 +2440,75 @@ Wild Levels: 38 – 39
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Tangela (20%)
-2. Lickitung (20%)
-3. Butterfree (10%)
-4. Beedrill (10%)
-5. Beautifly (10%)
-6. Skiploom (10%)
-7. Nuzleaf (10%)
-8. Cherrim (5%)
-9. Altaria (4%)
-10. Vespiquen (1%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (20%)
+2. [Lickitung](../pokemon/lickitung.md) (20%)
+3. [Butterfree](../pokemon/butterfree.md) (10%)
+4. [Beedrill](../pokemon/beedrill.md) (10%)
+5. [Beautifly](../pokemon/beautifly.md) (10%)
+6. [Skiploom](../pokemon/skiploom.md) (10%)
+7. [Nuzleaf](../pokemon/nuzleaf.md) (10%)
+8. [Cherrim](../pokemon/cherrim.md) (5%)
+9. [Altaria](../pokemon/altaria.md) (4%)
+10. [Vespiquen](../pokemon/vespiquen.md) (1%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Tangela (20%)
-2. Lickitung (20%)
-3. Butterfree (10%)
-4. Beedrill (10%)
-5. Dustox (10%)
-6. Venomoth (10%)
-7. Nuzleaf (10%)
-8. Snover (5%)
-9. Altaria (4%)
-10. Vespiquen (1%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (20%)
+2. [Lickitung](../pokemon/lickitung.md) (20%)
+3. [Butterfree](../pokemon/butterfree.md) (10%)
+4. [Beedrill](../pokemon/beedrill.md) (10%)
+5. [Dustox](../pokemon/dustox.md) (10%)
+6. [Venomoth](../pokemon/venomoth.md) (10%)
+7. [Nuzleaf](../pokemon/nuzleaf.md) (10%)
+8. [Snover](../pokemon/snover.md) (5%)
+9. [Altaria](../pokemon/altaria.md) (4%)
+10. [Vespiquen](../pokemon/vespiquen.md) (1%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Remoraid
+<pre><code>1. [Remoraid](../pokemon/remoraid.md) (100%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Tangrowth
-2. Lickilicky
+<pre><code>1. [Tangrowth](../pokemon/tangrowth.md) (50%)
+2. [Lickilicky](../pokemon/lickilicky.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Combee
-2. Lombre
+<pre><code>1. [Combee](../pokemon/combee.md) (50%)
+2. [Lombre](../pokemon/lombre.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Lotad (60%)
-2. Poliwag (30%)
-3. Poliwhirl (5%)
-4. Lombre (5%)
+<pre><code>1. [Lotad](../pokemon/lotad.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (30%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (5%)
+4. [Lombre](../pokemon/lombre.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Remoraid (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Remoraid](../pokemon/remoraid.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Remoraid (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Remoraid](../pokemon/remoraid.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Remoraid (30%)
-3. Gyarados (7%)
-4. Octillery (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Remoraid](../pokemon/remoraid.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (7%)
+4. [Octillery](../pokemon/octillery.md) (3%)
 </code></pre>
 
 ---
@@ -2521,22 +2521,22 @@ Wild Levels: 37 – 40
 
 **Cave:**
 
-<pre><code>1. Golbat (30%)
-2. Swinub (30%)
-3. Snover (15%)
-4. Spheal (10%)
-5. Seel (10%)
-6. Smoochum (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (30%)
+2. [Swinub](../pokemon/swinub.md) (30%)
+3. [Snover](../pokemon/snover.md) (15%)
+4. [Spheal](../pokemon/spheal.md) (10%)
+5. [Seel](../pokemon/seel.md) (10%)
+6. [Smoochum](../pokemon/smoochum.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Piloswine
+<pre><code>1. [Piloswine](../pokemon/piloswine.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Smoochum
+<pre><code>1. [Smoochum](../pokemon/smoochum.md) (100%)
 </code></pre>
 
 ### [ B1F ]
@@ -2545,24 +2545,24 @@ Wild Levels: 38 – 41
 
 **Cave:**
 
-<pre><code>1. Golbat (30%)
-2. Swinub (30%)
-3. Shellder (10%)
-4. Spheal (10%)
-5. Seel (10%)
-6. Smoochum (5%)
-7. Delibird (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (30%)
+2. [Swinub](../pokemon/swinub.md) (30%)
+3. [Shellder](../pokemon/shellder.md) (10%)
+4. [Spheal](../pokemon/spheal.md) (10%)
+5. [Seel](../pokemon/seel.md) (10%)
+6. [Smoochum](../pokemon/smoochum.md) (5%)
+7. [Delibird](../pokemon/delibird.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Piloswine
-2. Sealeo
+<pre><code>1. [Piloswine](../pokemon/piloswine.md) (50%)
+2. [Sealeo](../pokemon/sealeo.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Delibird
+<pre><code>1. [Delibird](../pokemon/delibird.md) (100%)
 </code></pre>
 
 ### [ B2F ]
@@ -2571,25 +2571,25 @@ Wild Levels: 40 – 43
 
 **Cave:**
 
-<pre><code>1. Golbat (30%)
-2. Piloswine (30%)
-3. Sealeo (10%)
-4. Dewgong (10%)
-5. Snorunt (10%)
-6. Jynx (5%)
-7. Delibird (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (30%)
+2. [Piloswine](../pokemon/piloswine.md) (30%)
+3. [Sealeo](../pokemon/sealeo.md) (10%)
+4. [Dewgong](../pokemon/dewgong.md) (10%)
+5. [Snorunt](../pokemon/snorunt.md) (10%)
+6. [Jynx](../pokemon/jynx.md) (5%)
+7. [Delibird](../pokemon/delibird.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Glalie
-2. Froslass
+<pre><code>1. [Glalie](../pokemon/glalie.md) (50%)
+2. [Froslass](../pokemon/froslass.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Delibird
-2. Jynx
+<pre><code>1. [Delibird](../pokemon/delibird.md) (50%)
+2. [Jynx](../pokemon/jynx.md) (50%)
 </code></pre>
 
 ### [ B3F ]
@@ -2598,25 +2598,25 @@ Wild Levels: 42 – 44
 
 **Cave:**
 
-<pre><code>1. Golbat (30%)
-2. Piloswine (30%)
-3. Sealeo (10%)
-4. Dewgong (10%)
-5. Glalie (10%)
-6. Jynx (5%)
-7. Sneasel (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (30%)
+2. [Piloswine](../pokemon/piloswine.md) (30%)
+3. [Sealeo](../pokemon/sealeo.md) (10%)
+4. [Dewgong](../pokemon/dewgong.md) (10%)
+5. [Glalie](../pokemon/glalie.md) (10%)
+6. [Jynx](../pokemon/jynx.md) (5%)
+7. [Sneasel](../pokemon/sneasel.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Mamoswine
-2. Walrein
+<pre><code>1. [Mamoswine](../pokemon/mamoswine.md) (50%)
+2. [Walrein](../pokemon/walrein.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Jynx
-2. Sneasel
+<pre><code>1. [Jynx](../pokemon/jynx.md) (50%)
+2. [Sneasel](../pokemon/sneasel.md) (50%)
 </code></pre>
 
 ---
@@ -2627,25 +2627,25 @@ Wild Levels: N/A
 
 **Surf:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)Super
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)Supe)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)
 </code></pre>
 
 ---
@@ -2656,54 +2656,54 @@ Wild Levels: 42 – 45
 
 **Grass:**
 
-<pre><code>1. Graveler (30%)
-2. Grumpig (20%)
-3. Donphan (10%)
-4. Camerupt (10%)
-5. Torkoal (10%)
-6. Gligar (10%)
-7. Vibrava (5%)
-8. Skarmory (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (30%)
+2. [Grumpig](../pokemon/grumpig.md) (20%)
+3. [Donphan](../pokemon/donphan.md) (10%)
+4. [Camerupt](../pokemon/camerupt.md) (10%)
+5. [Torkoal](../pokemon/torkoal.md) (10%)
+6. [Gligar](../pokemon/gligar.md) (10%)
+7. [Vibrava](../pokemon/vibrava.md) (5%)
+8. [Skarmory](../pokemon/skarmory.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Gliscor
-2. Golem
+<pre><code>1. [Gliscor](../pokemon/gliscor.md) (50%)
+2. [Golem](../pokemon/golem.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Rhyhorn
-2. Vibrava
+<pre><code>1. [Rhyhorn](../pokemon/rhyhorn.md) (50%)
+2. [Vibrava](../pokemon/vibrava.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Rhydon
+<pre><code>1. [Rhydon](../pokemon/rhydon.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Dratini (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Dratini](../pokemon/dratini.md) (3%)
 </code></pre>
 
 ---
@@ -2714,30 +2714,30 @@ Wild Levels: 10 – 40
 
 **Surf:**
 
-<pre><code>1. Magikarp (60%)
-2. Dratini (30%)
-3. Gyarados (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Dratini](../pokemon/dratini.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (93%)
-2. Dratini (7%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (93%)
+2. [Dratini](../pokemon/dratini.md) (7%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Dratini (7%)
-3. Gyarados (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Dratini](../pokemon/dratini.md) (7%)
+3. [Gyarados](../pokemon/gyarados.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Dratini (30%)
-3. Gyarados (7%)
-4. Dragonair (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Dratini](../pokemon/dratini.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (7%)
+4. [Dragonair](../pokemon/dragonair.md) (3%)
 </code></pre>
 
 ---
@@ -2748,50 +2748,50 @@ Wild Levels: 43 – 45
 
 **Cave:**
 
-<pre><code>1. Raticate (20%)
-2. Azumarill (20%)
-3. Slowbro (20%)
-4. Dewgong (10%)
-5. Golbat (10%)
-6. Bronzong (10%)
-7. Quagsire (10%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Azumarill](../pokemon/azumarill.md) (20%)
+3. [Slowbro](../pokemon/slowbro.md) (20%)
+4. [Dewgong](../pokemon/dewgong.md) (10%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Bronzong](../pokemon/bronzong.md) (10%)
+7. [Quagsire](../pokemon/quagsire.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Crobat
+<pre><code>1. [Crobat](../pokemon/crobat.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Azurill
-2. Chingling
+<pre><code>1. [Azurill](../pokemon/azurill.md) (50%)
+2. [Chingling](../pokemon/chingling.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Goldeen (60%)
-2. Slowpoke (30%)
-3. Seaking (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Slowpoke](../pokemon/slowpoke.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (95%)
-2. Goldeen (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (95%)
+2. [Goldeen](../pokemon/goldeen.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (90%)
-2. Gyarados (7%)
-3. Seaking (3%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (90%)
+2. [Gyarados](../pokemon/gyarados.md) (7%)
+3. [Seaking](../pokemon/seaking.md) (3%)
 </code></pre>
 
 ---
@@ -2802,60 +2802,60 @@ Wild Levels: 42 – 45
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Doduo (20%)
-2. Skiploom (20%)
-3. Ponyta (20%)
-4. Dodrio (10%)
-5. Rapidash (10%)
-6. Sandslash (10%)
-7. Arbok (10%)
+<pre><code>1. [Doduo](../pokemon/doduo.md) (20%)
+2. [Skiploom](../pokemon/skiploom.md) (20%)
+3. [Ponyta](../pokemon/ponyta.md) (20%)
+4. [Dodrio](../pokemon/dodrio.md) (10%)
+5. [Rapidash](../pokemon/rapidash.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Arbok](../pokemon/arbok.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Wooper (20%)
-2. Houndour (20%)
-3. Ponyta (20%)
-4. Quagsire (10%)
-5. Rapidash (10%)
-6. Sandslash (10%)
-7. Arbok (10%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (20%)
+2. [Houndour](../pokemon/houndour.md) (20%)
+3. [Ponyta](../pokemon/ponyta.md) (20%)
+4. [Quagsire](../pokemon/quagsire.md) (10%)
+5. [Rapidash](../pokemon/rapidash.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Arbok](../pokemon/arbok.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Grumpig
+<pre><code>1. [Grumpig](../pokemon/grumpig.md) (100%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Feebas
+<pre><code>1. [Feebas](../pokemon/feebas.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Buizel (93%)
-2. Floatzel (7%)
+<pre><code>1. [Buizel](../pokemon/buizel.md) (93%)
+2. [Floatzel](../pokemon/floatzel.md) (7%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Luvdisc (100%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Luvdisc (100%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Luvdisc (100%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (100%)
 </code></pre>
 
 ---
@@ -2866,57 +2866,57 @@ Wild Levels: 44 – 46
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Dodrio (20%)
-2. Skiploom (20%)
-3. Rapidash (20%)
-4. Magneton (10%)
-5. Kangaskhan (10%)
-6. Sandslash (10%)
-7. Arbok (10%)
+<pre><code>1. [Dodrio](../pokemon/dodrio.md) (20%)
+2. [Skiploom](../pokemon/skiploom.md) (20%)
+3. [Rapidash](../pokemon/rapidash.md) (20%)
+4. [Magneton](../pokemon/magneton.md) (10%)
+5. [Kangaskhan](../pokemon/kangaskhan.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Arbok](../pokemon/arbok.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Quagsire (20%)
-2. Houndoom (20%)
-3. Rapidash (20%)
-4. Magneton (10%)
-5. Kangaskhan (10%)
-6. Sandslash (10%)
-7. Arbok (10%)
+<pre><code>1. [Quagsire](../pokemon/quagsire.md) (20%)
+2. [Houndoom](../pokemon/houndoom.md) (20%)
+3. [Rapidash](../pokemon/rapidash.md) (20%)
+4. [Magneton](../pokemon/magneton.md) (10%)
+5. [Kangaskhan](../pokemon/kangaskhan.md) (10%)
+6. [Sandslash](../pokemon/sandslash.md) (10%)
+7. [Arbok](../pokemon/arbok.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Granbull
+<pre><code>1. [Granbull](../pokemon/granbull.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Buizel (93%)
-2. Floatzel (7%)
+<pre><code>1. [Buizel](../pokemon/buizel.md) (93%)
+2. [Floatzel](../pokemon/floatzel.md) (7%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Luvdisc (100%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Luvdisc (100%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Luvdisc (60%)
-2. Lanturn (35%)
-3. Tentacruel (5%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (60%)
+2. [Lanturn](../pokemon/lanturn.md) (35%)
+3. [Tentacruel](../pokemon/tentacruel.md) (5%)
 </code></pre>
 
 ---
@@ -2929,26 +2929,26 @@ Wild Levels: 44 – 46
 
 **Cave:**
 
-<pre><code>1. Golbat (20%)
-2. Graveler (20%)
-3. Rhydon (10%)
-4. Ursaring (10%)
-5. Donphan (10%)
-6. Marowak (10%)
-7. Steelix (10%)
-8. Bronzong (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Graveler](../pokemon/graveler.md) (20%)
+3. [Rhydon](../pokemon/rhydon.md) (10%)
+4. [Ursaring](../pokemon/ursaring.md) (10%)
+5. [Donphan](../pokemon/donphan.md) (10%)
+6. [Marowak](../pokemon/marowak.md) (10%)
+7. [Steelix](../pokemon/steelix.md) (10%)
+8. [Bronzong](../pokemon/bronzong.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Crobat
-2. Golem
+<pre><code>1. [Crobat](../pokemon/crobat.md) (50%)
+2. [Golem](../pokemon/golem.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
-2. Marowak
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (50%)
+2. [Marowak](../pokemon/marowak.md) (50%)
 </code></pre>
 
 ### [ 2F ]
@@ -2957,28 +2957,28 @@ Wild Levels: 44 – 46
 
 **Cave:**
 
-<pre><code>1. Machoke (20%)
-2. Hariyama (20%)
-3. Golbat (10%)
-4. Lairon (10%)
-5. Loudred (10%)
-6. Graveler (10%)
-7. Medicham (5%)
-8. Magneton (5%)
-9. Venomoth (5%)
-10. Kadabra (5%)
+<pre><code>1. [Machoke](../pokemon/machoke.md) (20%)
+2. [Hariyama](../pokemon/hariyama.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Loudred](../pokemon/loudred.md) (10%)
+6. [Graveler](../pokemon/graveler.md) (10%)
+7. [Medicham](../pokemon/medicham.md) (5%)
+8. [Magneton](../pokemon/magneton.md) (5%)
+9. [Venomoth](../pokemon/venomoth.md) (5%)
+10. [Kadabra](../pokemon/kadabra.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Exploud
-2. Aggron
+<pre><code>1. [Exploud](../pokemon/exploud.md) (50%)
+2. [Aggron](../pokemon/aggron.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
-2. Marowak
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (50%)
+2. [Marowak](../pokemon/marowak.md) (50%)
 </code></pre>
 
 ### [ 3F ]
@@ -2987,34 +2987,34 @@ Wild Levels: 45 – 46
 
 **Cave:**
 
-<pre><code>1. Donphan (20%)
-2. Ursaring (20%)
-3. Golbat (10%)
-4. Lairon (10%)
-5. Mawile (10%)
-6. Sableye (10%)
-7. Gabite (5%)
-8. Magneton (5%)
-9. Metang (5%)
-10. Kadabra (5%)
+<pre><code>1. [Donphan](../pokemon/donphan.md) (20%)
+2. [Ursaring](../pokemon/ursaring.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (10%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Mawile](../pokemon/mawile.md) (10%)
+6. [Sableye](../pokemon/sableye.md) (10%)
+7. [Gabite](../pokemon/gabite.md) (5%)
+8. [Magneton](../pokemon/magneton.md) (5%)
+9. [Metang](../pokemon/metang.md) (5%)
+10. [Kadabra](../pokemon/kadabra.md) (5%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Graveler (90%)
-2. Nosepass (10%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (90%)
+2. [Nosepass](../pokemon/nosepass.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Alakazam
-2. Aggron
+<pre><code>1. [Alakazam](../pokemon/alakazam.md) (50%)
+2. [Aggron](../pokemon/aggron.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
-2. Marowak
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (50%)
+2. [Marowak](../pokemon/marowak.md) (50%)
 </code></pre>
 
 ---
@@ -3025,38 +3025,38 @@ Wild Levels: 27 – 53
 
 **Surf:**
 
-<pre><code>1. Wingull (95%)
-2. Pelipper (5%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (95%)
+2. [Pelipper](../pokemon/pelipper.md) (5%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Lanturn
+<pre><code>1. [Lanturn](../pokemon/lanturn.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Tentacool (100%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (67%)
-2. Chinchou (30%)
-3. Shellder (3%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (67%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Shellder](../pokemon/shellder.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Tentacruel (60%)
-2. Shellder (33%)
-3. Lanturn (7%)
+<pre><code>1. [Tentacruel](../pokemon/tentacruel.md) (60%)
+2. [Shellder](../pokemon/shellder.md) (33%)
+3. [Lanturn](../pokemon/lanturn.md) (7%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Krabby (90%)
-2. Shuckle (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (90%)
+2. [Shuckle](../pokemon/shuckle.md) (10%)
 </code></pre>
 
 ---
@@ -3067,19 +3067,19 @@ Wild Levels: 15 – 63
 
 **Cave:**
 
-<pre><code>1. Diglett (80%)
-2. Hippopotas (10%)
-3. Dugtrio (10%)
+<pre><code>1. [Diglett](../pokemon/diglett.md) (80%)
+2. [Hippopotas](../pokemon/hippopotas.md) (10%)
+3. [Dugtrio](../pokemon/dugtrio.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Hippowdon
+<pre><code>1. [Hippowdon](../pokemon/hippowdon.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Dunsparce
+<pre><code>1. [Dunsparce](../pokemon/dunsparce.md) (100%)
 </code></pre>
 
 ---
@@ -3090,55 +3090,55 @@ Wild Levels: 45 – 48
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Pidgeotto (25%)
-2. Kadabra (25%)
-3. Raticate (20%)
-4. Weepinbell (20%)
-5. Cherrim (10%)
+<pre><code>1. [Pidgeotto](../pokemon/pidgeotto.md) (25%)
+2. [Kadabra](../pokemon/kadabra.md) (25%)
+3. [Raticate](../pokemon/raticate.md) (20%)
+4. [Weepinbell](../pokemon/weepinbell.md) (20%)
+5. [Cherrim](../pokemon/cherrim.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Persian (25%)
-2. Kadabra (25%)
-3. Raticate (20%)
-4. Weepinbell (20%)
-5. Gloom (10%)
+<pre><code>1. [Persian](../pokemon/persian.md) (25%)
+2. [Kadabra](../pokemon/kadabra.md) (25%)
+3. [Raticate](../pokemon/raticate.md) (20%)
+4. [Weepinbell](../pokemon/weepinbell.md) (20%)
+5. [Gloom](../pokemon/gloom.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Hippowdon
+<pre><code>1. [Hippowdon](../pokemon/hippowdon.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Dunsparce
+<pre><code>1. [Dunsparce](../pokemon/dunsparce.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Psyduck (95%)
-2. Golduck (5%)
+<pre><code>1. [Psyduck](../pokemon/psyduck.md) (95%)
+2. [Golduck](../pokemon/golduck.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (95%)
-2. Poliwag (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (95%)
+2. [Poliwag](../pokemon/poliwag.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Poliwag (40%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwag (90%)
-2. Magikarp (7%)
-3. Poliwhirl (3%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (90%)
+2. [Magikarp](../pokemon/magikarp.md) (7%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (3%)
 </code></pre>
 
 ---
@@ -3151,33 +3151,33 @@ Wild Levels: 45 – 49
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Beautifly (25%)
-2. Dustox (25%)
-3. Ledian (20%)
-4. Staravia (10%)
-5. Pachirisu (10%)
-6. Cherrim (10%)
+<pre><code>1. [Beautifly](../pokemon/beautifly.md) (25%)
+2. [Dustox](../pokemon/dustox.md) (25%)
+3. [Ledian](../pokemon/ledian.md) (20%)
+4. [Staravia](../pokemon/staravia.md) (10%)
+5. [Pachirisu](../pokemon/pachirisu.md) (10%)
+6. [Cherrim](../pokemon/cherrim.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Beautifly (25%)
-2. Dustox (25%)
-3. Ariados (20%)
-4. Bibarel (10%)
-5. Pachirisu (10%)
-6. Yanma (10%)
+<pre><code>1. [Beautifly](../pokemon/beautifly.md) (25%)
+2. [Dustox](../pokemon/dustox.md) (25%)
+3. [Ariados](../pokemon/ariados.md) (20%)
+4. [Bibarel](../pokemon/bibarel.md) (10%)
+5. [Pachirisu](../pokemon/pachirisu.md) (10%)
+6. [Yanma](../pokemon/yanma.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Pidgeot
+<pre><code>1. [Pidgeot](../pokemon/pidgeot.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Pikachu
-2. Burmy
+<pre><code>1. [Pikachu](../pokemon/pikachu.md) (50%)
+2. [Burmy](../pokemon/burmy.md) (50%)
 </code></pre>
 
 ### [ South ]
@@ -3186,33 +3186,33 @@ Wild Levels: 45 – 49
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Butterfree (25%)
-2. Beedrill (25%)
-3. Ledian (20%)
-4. Pidgeotto (10%)
-5. Pachirisu (10%)
-6. Cherrim (10%)
+<pre><code>1. [Butterfree](../pokemon/butterfree.md) (25%)
+2. [Beedrill](../pokemon/beedrill.md) (25%)
+3. [Ledian](../pokemon/ledian.md) (20%)
+4. [Pidgeotto](../pokemon/pidgeotto.md) (10%)
+5. [Pachirisu](../pokemon/pachirisu.md) (10%)
+6. [Cherrim](../pokemon/cherrim.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Butterfree (25%)
-2. Beedrill (25%)
-3. Ariados (20%)
-4. Noctowl (10%)
-5. Pachirisu (10%)
-6. Yanma (10%)
+<pre><code>1. [Butterfree](../pokemon/butterfree.md) (25%)
+2. [Beedrill](../pokemon/beedrill.md) (25%)
+3. [Ariados](../pokemon/ariados.md) (20%)
+4. [Noctowl](../pokemon/noctowl.md) (10%)
+5. [Pachirisu](../pokemon/pachirisu.md) (10%)
+6. [Yanma](../pokemon/yanma.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Pidgeot
+<pre><code>1. [Pidgeot](../pokemon/pidgeot.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Sunkern
-2. Budew
+<pre><code>1. [Sunkern](../pokemon/sunkern.md) (50%)
+2. [Budew](../pokemon/budew.md) (50%)
 </code></pre>
 
 ---
@@ -3223,39 +3223,39 @@ Wild Levels: 46 – 49
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Fearow (20%)
-2. Staravia (20%)
-3. Pidgeotto (15%)
-4. Primeape (15%)
-5. Nidorino (15%)
-6. Nidorina (15%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (20%)
+2. [Staravia](../pokemon/staravia.md) (20%)
+3. [Pidgeotto](../pokemon/pidgeotto.md) (15%)
+4. [Primeape](../pokemon/primeape.md) (15%)
+5. [Nidorino](../pokemon/nidorino.md) (15%)
+6. [Nidorina](../pokemon/nidorina.md) (15%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Fearow (20%)
-2. Jigglypuff (20%)
-3. Noctowl (15%)
-4. Primeape (15%)
-5. Nidorino (15%)
-6. Nidorina (15%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (20%)
+2. [Jigglypuff](../pokemon/jigglypuff.md) (20%)
+3. [Noctowl](../pokemon/noctowl.md) (15%)
+4. [Primeape](../pokemon/primeape.md) (15%)
+5. [Nidorino](../pokemon/nidorino.md) (15%)
+6. [Nidorina](../pokemon/nidorina.md) (15%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Spinda
+<pre><code>1. [Spinda](../pokemon/spinda.md) (100%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Wigglytuff
-2. Staraptor
+<pre><code>1. [Wigglytuff](../pokemon/wigglytuff.md) (50%)
+2. [Staraptor](../pokemon/staraptor.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Growlithe
-2. Vulpix
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (50%)
+2. [Vulpix](../pokemon/vulpix.md) (50%)
 </code></pre>
 
 ---
@@ -3266,50 +3266,50 @@ Wild Levels: 46 – 50
 
 **Grass:**
 
-<pre><code>1. Fearow (25%)
-2. Raticate (25%)
-3. Arbok (20%)
-4. Purugly (10%)
-5. Skuntank (10%)
-6. Jigglypuff (9%)
-7. Wigglytuff (1%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (25%)
+2. [Raticate](../pokemon/raticate.md) (25%)
+3. [Arbok](../pokemon/arbok.md) (20%)
+4. [Purugly](../pokemon/purugly.md) (10%)
+5. [Skuntank](../pokemon/skuntank.md) (10%)
+6. [Jigglypuff](../pokemon/jigglypuff.md) (9%)
+7. [Wigglytuff](../pokemon/wigglytuff.md) (1%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Wigglytuff
+<pre><code>1. [Wigglytuff](../pokemon/wigglytuff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Sandslash
+<pre><code>1. [Sandslash](../pokemon/sandslash.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Goldeen (93%)
-2. Seaking (7%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (93%)
+2. [Seaking](../pokemon/seaking.md) (7%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 ---
@@ -3322,22 +3322,22 @@ Wild Levels: 47 – 51
 
 **Cave:**
 
-<pre><code>1. Golbat (30%)
-2. Clefairy (20%)
-3. Graveler (20%)
-4. Sandslash (15%)
-5. Parasect (15%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (30%)
+2. [Clefairy](../pokemon/clefairy.md) (20%)
+3. [Graveler](../pokemon/graveler.md) (20%)
+4. [Sandslash](../pokemon/sandslash.md) (15%)
+5. [Parasect](../pokemon/parasect.md) (15%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Crobat
-2. Golem
+<pre><code>1. [Crobat](../pokemon/crobat.md) (50%)
+2. [Golem](../pokemon/golem.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (100%)
 </code></pre>
 
 ### [ 2F ]
@@ -3346,25 +3346,25 @@ Wild Levels: 48 – 50
 
 **Cave:**
 
-<pre><code>1. Golbat (24%)
-2. Clefairy (20%)
-3. Graveler (14%)
-4. Sandslash (10%)
-5. Parasect (10%)
-6. Chimecho (10%)
-7. Solrock (5%)
-8. Lunatone (5%)
-9. Clefable (1%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (24%)
+2. [Clefairy](../pokemon/clefairy.md) (20%)
+3. [Graveler](../pokemon/graveler.md) (14%)
+4. [Sandslash](../pokemon/sandslash.md) (10%)
+5. [Parasect](../pokemon/parasect.md) (10%)
+6. [Chimecho](../pokemon/chimecho.md) (10%)
+7. [Solrock](../pokemon/solrock.md) (5%)
+8. [Lunatone](../pokemon/lunatone.md) (5%)
+9. [Clefable](../pokemon/clefable.md) (1%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Clefable
+<pre><code>1. [Clefable](../pokemon/clefable.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Chimecho
+<pre><code>1. [Chimecho](../pokemon/chimecho.md) (100%)
 </code></pre>
 
 ### [ Outside ]
@@ -3373,25 +3373,25 @@ Wild Levels: 40 – 50
 
 **Surf:**
 
-<pre><code>1. Wooper (63%)
-2. Poliwhirl (32%)
-3. Quagsire (5%)
+<pre><code>1. [Wooper](../pokemon/wooper.md) (63%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (32%)
+3. [Quagsire](../pokemon/quagsire.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Poliwag (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Poliwag](../pokemon/poliwag.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (100%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (100%)
 </code></pre>
 
 ---
@@ -3402,31 +3402,31 @@ Wild Levels: 20 – 50
 
 **Surf:**
 
-<pre><code>1. Hoppip (60%)
-2. Goldeen (30%)
-3. Skiploom (7%)
-4. Masquerain (3%)
+<pre><code>1. [Hoppip](../pokemon/hoppip.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Skiploom](../pokemon/skiploom.md) (7%)
+4. [Masquerain](../pokemon/masquerain.md) (3%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (90%)
-2. Seaking (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (90%)
+2. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Staryu (60%)
-2. Seaking (30%)
-3. Dratini (7%)
-4. Dragonair (3%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Dratini](../pokemon/dratini.md) (7%)
+4. [Dragonair](../pokemon/dragonair.md) (3%)
 </code></pre>
 
 ---
@@ -3437,37 +3437,37 @@ Wild Levels: 47 – 50
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Pidgeotto (20%)
-2. Raticate (20%)
-3. Kadabra (10%)
-4. Jigglypuff (10%)
-5. Machop (10%)
-6. Weepinbell (10%)
-7. Meditite (10%)
-8. Chatot (10%)
+<pre><code>1. [Pidgeotto](../pokemon/pidgeotto.md) (20%)
+2. [Raticate](../pokemon/raticate.md) (20%)
+3. [Kadabra](../pokemon/kadabra.md) (10%)
+4. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+5. [Machop](../pokemon/machop.md) (10%)
+6. [Weepinbell](../pokemon/weepinbell.md) (10%)
+7. [Meditite](../pokemon/meditite.md) (10%)
+8. [Chatot](../pokemon/chatot.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Mightyena (20%)
-2. Raticate (20%)
-3. Kadabra (10%)
-4. Jigglypuff (10%)
-5. Machop (10%)
-6. Weepinbell (10%)
-7. Meditite (10%)
-8. Persian (10%)
+<pre><code>1. [Mightyena](../pokemon/mightyena.md) (20%)
+2. [Raticate](../pokemon/raticate.md) (20%)
+3. [Kadabra](../pokemon/kadabra.md) (10%)
+4. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+5. [Machop](../pokemon/machop.md) (10%)
+6. [Weepinbell](../pokemon/weepinbell.md) (10%)
+7. [Meditite](../pokemon/meditite.md) (10%)
+8. [Persian](../pokemon/persian.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Medicham
+<pre><code>1. [Medicham](../pokemon/medicham.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staravia
-2. Swellow
+<pre><code>1. [Staravia](../pokemon/staravia.md) (50%)
+2. [Swellow](../pokemon/swellow.md) (50%)
 </code></pre>
 
 ---
@@ -3478,63 +3478,63 @@ Wild Levels: 47 – 51
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Weepinbell (20%)
-2. Kirlia (20%)
-3. Skiploom (15%)
-4. Staravia (15%)
-5. Pidgeotto (15%)
-6. Roselia (10%)
-7. Surskit (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (20%)
+2. [Kirlia](../pokemon/kirlia.md) (20%)
+3. [Skiploom](../pokemon/skiploom.md) (15%)
+4. [Staravia](../pokemon/staravia.md) (15%)
+5. [Pidgeotto](../pokemon/pidgeotto.md) (15%)
+6. [Roselia](../pokemon/roselia.md) (10%)
+7. [Surskit](../pokemon/surskit.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Weepinbell (20%)
-2. Kirlia (20%)
-3. Gloom (15%)
-4. Noctowl (15%)
-5. Mightyena (15%)
-6. Roselia (10%)
-7. Surskit (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (20%)
+2. [Kirlia](../pokemon/kirlia.md) (20%)
+3. [Gloom](../pokemon/gloom.md) (15%)
+4. [Noctowl](../pokemon/noctowl.md) (15%)
+5. [Mightyena](../pokemon/mightyena.md) (15%)
+6. [Roselia](../pokemon/roselia.md) (10%)
+7. [Surskit](../pokemon/surskit.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Surskit
+<pre><code>1. [Surskit](../pokemon/surskit.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Hoppip (60%)
-2. Goldeen (30%)
-3. Skiploom (7%)
-4. Masquerain (3%)
+<pre><code>1. [Hoppip](../pokemon/hoppip.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Skiploom](../pokemon/skiploom.md) (7%)
+4. [Masquerain](../pokemon/masquerain.md) (3%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (90%)
-2. Seaking (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (90%)
+2. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Staryu (60%)
-2. Seaking (30%)
-3. Dratini (7%)
-4. Dragonair (3%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Dratini](../pokemon/dratini.md) (7%)
+4. [Dragonair](../pokemon/dragonair.md) (3%)
 </code></pre>
 
 ---
@@ -3545,68 +3545,68 @@ Wild Levels: 47 – 52
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Sunkern (20%)
-2. Buneary (20%)
-3. Vigoroth (15%)
-4. Combee (15%)
-5. Weepinbell (15%)
-6. Exeggcute (15%)
+<pre><code>1. [Sunkern](../pokemon/sunkern.md) (20%)
+2. [Buneary](../pokemon/buneary.md) (20%)
+3. [Vigoroth](../pokemon/vigoroth.md) (15%)
+4. [Combee](../pokemon/combee.md) (15%)
+5. [Weepinbell](../pokemon/weepinbell.md) (15%)
+6. [Exeggcute](../pokemon/exeggcute.md) (15%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Venomoth (20%)
-2. Buneary (20%)
-3. Vigoroth (15%)
-4. Combee (15%)
-5. Weepinbell (15%)
-6. Exeggcute (15%)
+<pre><code>1. [Venomoth](../pokemon/venomoth.md) (20%)
+2. [Buneary](../pokemon/buneary.md) (20%)
+3. [Vigoroth](../pokemon/vigoroth.md) (15%)
+4. [Combee](../pokemon/combee.md) (15%)
+5. [Weepinbell](../pokemon/weepinbell.md) (15%)
+6. [Exeggcute](../pokemon/exeggcute.md) (15%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Sunflora
-2. Lopunny
+<pre><code>1. [Sunflora](../pokemon/sunflora.md) (50%)
+2. [Lopunny](../pokemon/lopunny.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Venonat
-2. Slakoth
+<pre><code>1. [Venonat](../pokemon/venonat.md) (50%)
+2. [Slakoth](../pokemon/slakoth.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Lairon
+<pre><code>1. [Lairon](../pokemon/lairon.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Hoppip (60%)
-2. Goldeen (30%)
-3. Skiploom (7%)
-4. Masquerain (3%)
+<pre><code>1. [Hoppip](../pokemon/hoppip.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Skiploom](../pokemon/skiploom.md) (7%)
+4. [Masquerain](../pokemon/masquerain.md) (3%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (90%)
-2. Seaking (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (90%)
+2. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Staryu (60%)
-2. Seaking (30%)
-3. Dratini (7%)
-4. Dragonair (3%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Dratini](../pokemon/dratini.md) (7%)
+4. [Dragonair](../pokemon/dragonair.md) (3%)
 </code></pre>
 
 ---
@@ -3617,53 +3617,53 @@ Wild Levels: 49 – 51
 
 **Grass:**
 
-<pre><code>1. Primeape (25%)
-2. Fearow (20%)
-3. Arbok (20%)
-4. Nidorina (15%)
-5. Nidorino (15%)
-6. Marowak (5%)
+<pre><code>1. [Primeape](../pokemon/primeape.md) (25%)
+2. [Fearow](../pokemon/fearow.md) (20%)
+3. [Arbok](../pokemon/arbok.md) (20%)
+4. [Nidorina](../pokemon/nidorina.md) (15%)
+5. [Nidorino](../pokemon/nidorino.md) (15%)
+6. [Marowak](../pokemon/marowak.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Nidoqueen
-2. Nidoking
+<pre><code>1. [Nidoqueen](../pokemon/nidoqueen.md) (50%)
+2. [Nidoking](../pokemon/nidoking.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Marowak
-2. Kangaskhan
+<pre><code>1. [Marowak](../pokemon/marowak.md) (50%)
+2. [Kangaskhan](../pokemon/kangaskhan.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Flaaffy
+<pre><code>1. [Flaaffy](../pokemon/flaaffy.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Goldeen (60%)
-2. Seaking (40%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (40%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Goldeen (30%)
-3. Seaking (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (90%)
-2. Seaking (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (90%)
+2. [Seaking](../pokemon/seaking.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seaking (100%)
+<pre><code>1. [Seaking](../pokemon/seaking.md) (100%)
 </code></pre>
 
 ---
@@ -3674,48 +3674,48 @@ Wild Levels: 47 – 52
 
 **Grass:**
 
-<pre><code>1. Fearow (20%)
-2. Luxio (20%)
-3. Electrode (15%)
-4. Flaaffy (10%)
-5. Raticate (10%)
-6. Manectric (10%)
-7. Electabuzz (10%)
-8. Pikachu (5%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (20%)
+2. [Luxio](../pokemon/luxio.md) (20%)
+3. [Electrode](../pokemon/electrode.md) (15%)
+4. [Flaaffy](../pokemon/flaaffy.md) (10%)
+5. [Raticate](../pokemon/raticate.md) (10%)
+6. [Manectric](../pokemon/manectric.md) (10%)
+7. [Electabuzz](../pokemon/electabuzz.md) (10%)
+8. [Pikachu](../pokemon/pikachu.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Luxray
-2. Ampharos
+<pre><code>1. [Luxray](../pokemon/luxray.md) (50%)
+2. [Ampharos](../pokemon/ampharos.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Pichu
-2. Elekid
+<pre><code>1. [Pichu](../pokemon/pichu.md) (50%)
+2. [Elekid](../pokemon/elekid.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Fearow (60%)
-2. Chinchou (40%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (60%)
+2. [Chinchou](../pokemon/chinchou.md) (40%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Chinchou (100%)
+<pre><code>1. [Chinchou](../pokemon/chinchou.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Chinchou (93%)
-2. Lanturn (7%)
+<pre><code>1. [Chinchou](../pokemon/chinchou.md) (93%)
+2. [Lanturn](../pokemon/lanturn.md) (7%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Lanturn (100%)
+<pre><code>1. [Lanturn](../pokemon/lanturn.md) (100%)
 </code></pre>
 
 ---
@@ -3728,26 +3728,26 @@ Wild Levels: 52 – 55
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Lairon (10%)
-4. Makuhita (10%)
-5. Cubone (10%)
-6. Ditto (10%)
-7. Mankey (10%)
-8. Magnemite (10%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Lairon](../pokemon/lairon.md) (10%)
+4. [Makuhita](../pokemon/makuhita.md) (10%)
+5. [Cubone](../pokemon/cubone.md) (10%)
+6. [Ditto](../pokemon/ditto.md) (10%)
+7. [Mankey](../pokemon/mankey.md) (10%)
+8. [Magnemite](../pokemon/magnemite.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Hariyama
-2. Magneton
+<pre><code>1. [Hariyama](../pokemon/hariyama.md) (50%)
+2. [Magneton](../pokemon/magneton.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Absol
-2. Kangaskhan
+<pre><code>1. [Absol](../pokemon/absol.md) (50%)
+2. [Kangaskhan](../pokemon/kangaskhan.md) (50%)
 </code></pre>
 
 ### [ B1F ]
@@ -3756,32 +3756,32 @@ Wild Levels: 53 – 56
 
 **Cave:**
 
-<pre><code>1. Graveler (20%)
-2. Golbat (20%)
-3. Lairon (10%)
-4. Hariyama (10%)
-5. Marowak (10%)
-6. Primeape (10%)
-7. Magneton (10%)
-8. Kangaskhan (5%)
-9. Onix (5%)
+<pre><code>1. [Graveler](../pokemon/graveler.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Lairon](../pokemon/lairon.md) (10%)
+4. [Hariyama](../pokemon/hariyama.md) (10%)
+5. [Marowak](../pokemon/marowak.md) (10%)
+6. [Primeape](../pokemon/primeape.md) (10%)
+7. [Magneton](../pokemon/magneton.md) (10%)
+8. [Kangaskhan](../pokemon/kangaskhan.md) (5%)
+9. [Onix](../pokemon/onix.md) (5%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Nosepass (100%)
+<pre><code>1. [Nosepass](../pokemon/nosepass.md) (100%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Aggron
-2. Steelix
+<pre><code>1. [Aggron](../pokemon/aggron.md) (50%)
+2. [Steelix](../pokemon/steelix.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Onix
-2. Kangaskhan
+<pre><code>1. [Onix](../pokemon/onix.md) (50%)
+2. [Kangaskhan](../pokemon/kangaskhan.md) (50%)
 </code></pre>
 
 ---
@@ -3792,34 +3792,34 @@ Wild Levels: 50 – 54
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Growlithe (25%)
-2. Vulpix (25%)
-3. Kadabra (20%)
-4. Xatu (20%)
-5. Staravia (10%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (25%)
+2. [Vulpix](../pokemon/vulpix.md) (25%)
+3. [Kadabra](../pokemon/kadabra.md) (20%)
+4. [Xatu](../pokemon/xatu.md) (20%)
+5. [Staravia](../pokemon/staravia.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Growlithe (25%)
-2. Vulpix (25%)
-3. Kadabra (10%)
-4. Haunter (10%)
-5. Xatu (20%)
-6. Banette (10%)
+<pre><code>1. [Growlithe](../pokemon/growlithe.md) (25%)
+2. [Vulpix](../pokemon/vulpix.md) (25%)
+3. [Kadabra](../pokemon/kadabra.md) (10%)
+4. [Haunter](../pokemon/haunter.md) (10%)
+5. [Xatu](../pokemon/xatu.md) (20%)
+6. [Banette](../pokemon/banette.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Arcanine
-2. Alakazam (SG) / Gengar
-3. Ninetales (SS)
+<pre><code>1. [Arcanine](../pokemon/arcanine.md) (33%)
+2. [Alakazam](../pokemon/alakazam.md) (SG) / Genga)
+3. [Ninetales](../pokemon/ninetales.md) (SS)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Duskull
-2. Shuppet
+<pre><code>1. [Duskull](../pokemon/duskull.md) (50%)
+2. [Shuppet](../pokemon/shuppet.md) (50%)
 </code></pre>
 
 ---
@@ -3830,32 +3830,32 @@ Wild Levels: 20 – 55
 
 **Surf:**
 
-<pre><code>1. Slowpoke (90%)
-2. Slowbro (10%)
+<pre><code>1. [Slowpoke](../pokemon/slowpoke.md) (90%)
+2. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Relicanth (Fish)
+<pre><code>1. [Relicanth](../pokemon/relicanth.md) (Fish)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwag (60%)
-2. Goldeen (30%)
-3. Horsea (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Horsea](../pokemon/horsea.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seadra (60%)
-2. Poliwhirl (30%)
-3. Qwilfish (10%)
+<pre><code>1. [Seadra](../pokemon/seadra.md) (60%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (30%)
+3. [Qwilfish](../pokemon/qwilfish.md) (10%)
 </code></pre>
 
 ---
@@ -3866,61 +3866,61 @@ Wild Levels: 50 – 54
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (20%)
-4. Skiploom (20%)
-5. Farfetch’d (10%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (20%)
+4. [Skiploom](../pokemon/skiploom.md) (20%)
+5. [Farfetch’d](../pokemon/farfetchd.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (20%)
-4. Quagsire (20%)
-5. Noctowl (10%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (20%)
+4. [Quagsire](../pokemon/quagsire.md) (20%)
+5. [Noctowl](../pokemon/noctowl.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Bonsly
-2. Mime Jr.
+<pre><code>1. [Bonsly](../pokemon/bonsly.md) (50%)
+2. [Mime Jr.](../pokemon/mime-jr.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Chansey
+<pre><code>1. [Chansey](../pokemon/chansey.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Slowpoke (90%)
-2. Slowbro (10%)
+<pre><code>1. [Slowpoke](../pokemon/slowpoke.md) (90%)
+2. [Slowbro](../pokemon/slowbro.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwag (60%)
-2. Goldeen (30%)
-3. Horsea (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (30%)
+3. [Horsea](../pokemon/horsea.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seadra (60%)
-2. Poliwhirl (30%)
-3. Qwilfish (10%)
+<pre><code>1. [Seadra](../pokemon/seadra.md) (60%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (30%)
+3. [Qwilfish](../pokemon/qwilfish.md) (10%)
 </code></pre>
 
 ---
@@ -3931,31 +3931,31 @@ Wild Levels: 51 – 55
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (24%)
-4. Skiploom (20%)
-5. Chansey (6%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (24%)
+4. [Skiploom](../pokemon/skiploom.md) (20%)
+5. [Chansey](../pokemon/chansey.md) (6%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (24%)
-4. Venomoth (20%)
-5. Chansey (6%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (24%)
+4. [Venomoth](../pokemon/venomoth.md) (20%)
+5. [Chansey](../pokemon/chansey.md) (6%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Bonsly
-2. Mime Jr.
+<pre><code>1. [Bonsly](../pokemon/bonsly.md) (50%)
+2. [Mime Jr.](../pokemon/mime-jr.md) (50%)
 </code></pre>
 
 ---
@@ -3966,30 +3966,30 @@ Wild Levels: 51 – 55
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (20%)
-4. Skiploom (20%)
-5. Ditto (10%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (20%)
+4. [Skiploom](../pokemon/skiploom.md) (20%)
+5. [Ditto](../pokemon/ditto.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Nidorina (25%)
-2. Nidorino (25%)
-3. Swellow (20%)
-4. Venomoth (20%)
-5. Ditto (10%)
+<pre><code>1. [Nidorina](../pokemon/nidorina.md) (25%)
+2. [Nidorino](../pokemon/nidorino.md) (25%)
+3. [Swellow](../pokemon/swellow.md) (20%)
+4. [Venomoth](../pokemon/venomoth.md) (20%)
+5. [Ditto](../pokemon/ditto.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Jumpluff
+<pre><code>1. [Jumpluff](../pokemon/jumpluff.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ditto
+<pre><code>1. [Ditto](../pokemon/ditto.md) (100%)
 </code></pre>
 
 ---
@@ -4000,23 +4000,23 @@ Wild Levels: 50 – 55
 
 **Grass:**
 
-<pre><code>1. Hypno (30%)
-2. Raticate (20%)
-3. Plusle (15%)
-4. Minun (15%)
-5. Linoone (10%)
-6. Luxio (10%)
+<pre><code>1. [Hypno](../pokemon/hypno.md) (30%)
+2. [Raticate](../pokemon/raticate.md) (20%)
+3. [Plusle](../pokemon/plusle.md) (15%)
+4. [Minun](../pokemon/minun.md) (15%)
+5. [Linoone](../pokemon/linoone.md) (10%)
+6. [Luxio](../pokemon/luxio.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Luxray
+<pre><code>1. [Luxray](../pokemon/luxray.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Tangela
-2. Munchlax
+<pre><code>1. [Tangela](../pokemon/tangela.md) (50%)
+2. [Munchlax](../pokemon/munchlax.md) (50%)
 </code></pre>
 
 ---
@@ -4027,24 +4027,24 @@ Wild Levels: 10 – 20
 
 **Surf:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (97%)
-2. Gyarados (3%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (97%)
+2. [Gyarados](../pokemon/gyarados.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Magikarp (70%)
-2. Gyarados (30%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (70%)
+2. [Gyarados](../pokemon/gyarados.md) (30%)
 </code></pre>
 
 ---
@@ -4055,33 +4055,33 @@ Wild Levels: 50 – 56
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Grimer (35%)
-2. Gulpin (20%)
-3. Fearow (20%)
-4. Muk (10%)
-5. Magcargo (10%)
-6. Dodrio (5%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (35%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Fearow](../pokemon/fearow.md) (20%)
+4. [Muk](../pokemon/muk.md) (10%)
+5. [Magcargo](../pokemon/magcargo.md) (10%)
+6. [Dodrio](../pokemon/dodrio.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Grimer (35%)
-2. Gulpin (20%)
-3. Fearow (20%)
-4. Muk (10%)
-5. Magcargo (10%)
-6. Murkrow (5%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (35%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Fearow](../pokemon/fearow.md) (20%)
+4. [Muk](../pokemon/muk.md) (10%)
+5. [Magcargo](../pokemon/magcargo.md) (10%)
+6. [Murkrow](../pokemon/murkrow.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Swalot
-2. Honchkrow
+<pre><code>1. [Swalot](../pokemon/swalot.md) (50%)
+2. [Honchkrow](../pokemon/honchkrow.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ninjask
+<pre><code>1. [Ninjask](../pokemon/ninjask.md) (100%)
 </code></pre>
 
 ---
@@ -4092,34 +4092,34 @@ Wild Levels: 52 – 55
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Grimer (35%)
-2. Gulpin (20%)
-3. Fearow (20%)
-4. Muk (10%)
-5. Magcargo (10%)
-6. Dodrio (5%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (35%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Fearow](../pokemon/fearow.md) (20%)
+4. [Muk](../pokemon/muk.md) (10%)
+5. [Magcargo](../pokemon/magcargo.md) (10%)
+6. [Dodrio](../pokemon/dodrio.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Grimer (35%)
-2. Gulpin (20%)
-3. Fearow (20%)
-4. Muk (10%)
-5. Magcargo (10%)
-6. Misdreavus (5%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (35%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Fearow](../pokemon/fearow.md) (20%)
+4. [Muk](../pokemon/muk.md) (10%)
+5. [Magcargo](../pokemon/magcargo.md) (10%)
+6. [Misdreavus](../pokemon/misdreavus.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Swalot
-2. Mismagius
+<pre><code>1. [Swalot](../pokemon/swalot.md) (50%)
+2. [Mismagius](../pokemon/mismagius.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Dusclops
-2. Drifblim
+<pre><code>1. [Dusclops](../pokemon/dusclops.md) (50%)
+2. [Drifblim](../pokemon/drifblim.md) (50%)
 </code></pre>
 
 ---
@@ -4130,23 +4130,23 @@ Wild Levels: 52 – 55
 
 **Grass:**
 
-<pre><code>1. Grimer (35%)
-2. Gulpin (20%)
-3. Skorupi (20%)
-4. Muk (10%)
-5. Magcargo (10%)
-6. Drapion (5%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (35%)
+2. [Gulpin](../pokemon/gulpin.md) (20%)
+3. [Skorupi](../pokemon/skorupi.md) (20%)
+4. [Muk](../pokemon/muk.md) (10%)
+5. [Magcargo](../pokemon/magcargo.md) (10%)
+6. [Drapion](../pokemon/drapion.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Drapion
-2. Swalot
+<pre><code>1. [Drapion](../pokemon/drapion.md) (50%)
+2. [Swalot](../pokemon/swalot.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ninjask
+<pre><code>1. [Ninjask](../pokemon/ninjask.md) (100%)
 </code></pre>
 
 ---
@@ -4157,37 +4157,37 @@ Wild Levels: 50 – 54
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Weepinbell (20%)
-2. Pidgeotto (20%)
-3. Staravia (15%)
-4. Growlithe (10%)
-5. Vulpix (10%)
-6. Jigglypuff (10%)
-7. Raticate (10%)
-8. Kadabra (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (20%)
+2. [Pidgeotto](../pokemon/pidgeotto.md) (20%)
+3. [Staravia](../pokemon/staravia.md) (15%)
+4. [Growlithe](../pokemon/growlithe.md) (10%)
+5. [Vulpix](../pokemon/vulpix.md) (10%)
+6. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+7. [Raticate](../pokemon/raticate.md) (10%)
+8. [Kadabra](../pokemon/kadabra.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Weepinbell (20%)
-2. Gloom (20%)
-3. Houndour (15%)
-4. Growlithe (10%)
-5. Vulpix (10%)
-6. Jigglypuff (10%)
-7. Persian (10%)
-8. Houndoom (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (20%)
+2. [Gloom](../pokemon/gloom.md) (20%)
+3. [Houndour](../pokemon/houndour.md) (15%)
+4. [Growlithe](../pokemon/growlithe.md) (10%)
+5. [Vulpix](../pokemon/vulpix.md) (10%)
+6. [Jigglypuff](../pokemon/jigglypuff.md) (10%)
+7. [Persian](../pokemon/persian.md) (10%)
+8. [Houndoom](../pokemon/houndoom.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Bellossom
+<pre><code>1. [Bellossom](../pokemon/bellossom.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Linoone
-2. Bibarel
+<pre><code>1. [Linoone](../pokemon/linoone.md) (50%)
+2. [Bibarel](../pokemon/bibarel.md) (50%)
 </code></pre>
 
 ---
@@ -4198,8 +4198,8 @@ Wild Levels: 15 – 20
 
 **Surf:**
 
-<pre><code>1. Grimer (90%)
-2. Muk (10%)
+<pre><code>1. [Grimer](../pokemon/grimer.md) (90%)
+2. [Muk](../pokemon/muk.md) (10%)
 </code></pre>
 
 ---
@@ -4210,22 +4210,22 @@ Wild Levels: 1 – 70
 
 **Surf:**
 
-<pre><code>1. Poliwag (100%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Poliwag (100%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Psyduck (100%)
+<pre><code>1. [Psyduck](../pokemon/psyduck.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Goldeen (100%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (100%)
 </code></pre>
 
 ---
@@ -4236,47 +4236,47 @@ Wild Levels: 48 – 60
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Pidgey (20%)
-2. Rattata (20%)
-3. Sentret (10%)
-4. Zigzagoon (10%)
-5. Bidoof (10%)
-6. Starly (10%)
-7. Pidgeotto (5%)
-8. Raticate (5%)
-9. Furret (5%)
-10. Staravia (5%)
+<pre><code>1. [Pidgey](../pokemon/pidgey.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Sentret](../pokemon/sentret.md) (10%)
+4. [Zigzagoon](../pokemon/zigzagoon.md) (10%)
+5. [Bidoof](../pokemon/bidoof.md) (10%)
+6. [Starly](../pokemon/starly.md) (10%)
+7. [Pidgeotto](../pokemon/pidgeotto.md) (5%)
+8. [Raticate](../pokemon/raticate.md) (5%)
+9. [Furret](../pokemon/furret.md) (5%)
+10. [Staravia](../pokemon/staravia.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Hoothoot (20%)
-2. Rattata (20%)
-3. Ponyta (10%)
-4. Zigzagoon (10%)
-5. Bidoof (10%)
-6. Shinx (10%)
-7. Noctowl (5%)
-8. Raticate (5%)
-9. Rapidash (5%)
-10. Luxio (5%)
+<pre><code>1. [Hoothoot](../pokemon/hoothoot.md) (20%)
+2. [Rattata](../pokemon/rattata.md) (20%)
+3. [Ponyta](../pokemon/ponyta.md) (10%)
+4. [Zigzagoon](../pokemon/zigzagoon.md) (10%)
+5. [Bidoof](../pokemon/bidoof.md) (10%)
+6. [Shinx](../pokemon/shinx.md) (10%)
+7. [Noctowl](../pokemon/noctowl.md) (5%)
+8. [Raticate](../pokemon/raticate.md) (5%)
+9. [Rapidash](../pokemon/rapidash.md) (5%)
+10. [Luxio](../pokemon/luxio.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Staraptor
-2. Bibarel
+<pre><code>1. [Staraptor](../pokemon/staraptor.md) (50%)
+2. [Bibarel](../pokemon/bibarel.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Furret
-2. Skiploom
+<pre><code>1. [Furret](../pokemon/furret.md) (50%)
+2. [Skiploom](../pokemon/skiploom.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Linoone
+<pre><code>1. [Linoone](../pokemon/linoone.md) (100%)
 </code></pre>
 
 ---
@@ -4287,22 +4287,22 @@ Wild Levels: 1 – 70
 
 **Surf:**
 
-<pre><code>1. Marill (100%)
+<pre><code>1. [Marill](../pokemon/marill.md) (100%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Finneon (100%)
+<pre><code>1. [Finneon](../pokemon/finneon.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (100%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Staryu (100%)
+<pre><code>1. [Staryu](../pokemon/staryu.md) (100%)
 </code></pre>
 
 ---
@@ -4313,48 +4313,48 @@ Wild Levels: 54 – 59
 
 **Grass:**
 
-<pre><code>1. Tangela (32%)
-2. Mr. Mime (28%)
-3. Raticate (15%)
-4. Pelipper (15%)
-5. Gastrodon (10%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (32%)
+2. [Mr. Mime](../pokemon/mr-mime.md) (28%)
+3. [Raticate](../pokemon/raticate.md) (15%)
+4. [Pelipper](../pokemon/pelipper.md) (15%)
+5. [Gastrodon](../pokemon/gastrodon.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Wingull (63%)
-2. Wailmer (32%)
-3. Pelipper (5%)
+<pre><code>1. [Wingull](../pokemon/wingull.md) (63%)
+2. [Wailmer](../pokemon/wailmer.md) (32%)
+3. [Pelipper](../pokemon/pelipper.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Tangrowth
+<pre><code>1. [Tangrowth](../pokemon/tangrowth.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Floatzel
-2. Lickitung
+<pre><code>1. [Floatzel](../pokemon/floatzel.md) (50%)
+2. [Lickitung](../pokemon/lickitung.md) (50%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Tentacool (100%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (67%)
-2. Chinchou (30%)
-3. Shellder (3%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (67%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Shellder](../pokemon/shellder.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Tentacruel (60%)
-2. Shellder (33%)
-3. Lanturn (7%)
+<pre><code>1. [Tentacruel](../pokemon/tentacruel.md) (60%)
+2. [Shellder](../pokemon/shellder.md) (33%)
+3. [Lanturn](../pokemon/lanturn.md) (7%)
 </code></pre>
 
 ---
@@ -4365,44 +4365,44 @@ Wild Levels: 54 – 59
 
 **Grass:**
 
-<pre><code>1. Fearow (30%)
-2. Dodrio (30%)
-3. Raticate (15%)
-4. Primeape (15%)
-5. Rapidash (10%)
+<pre><code>1. [Fearow](../pokemon/fearow.md) (30%)
+2. [Dodrio](../pokemon/dodrio.md) (30%)
+3. [Raticate](../pokemon/raticate.md) (15%)
+4. [Primeape](../pokemon/primeape.md) (15%)
+5. [Rapidash](../pokemon/rapidash.md) (10%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Poliwag (63%)
-2. Buizel (37%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (63%)
+2. [Buizel](../pokemon/buizel.md) (37%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Poliwhirl
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Lombre
-2. Nuzleaf
+<pre><code>1. [Lombre](../pokemon/lombre.md) (50%)
+2. [Nuzleaf](../pokemon/nuzleaf.md) (50%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Poliwag (100%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwag (100%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (100%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (98%)
-2. Politoed (2%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (98%)
+2. [Politoed](../pokemon/politoed.md) (2%)
 </code></pre>
 
 ---
@@ -4413,28 +4413,28 @@ Wild Levels: 40 – 55
 
 **Surf:**
 
-<pre><code>1. Tentacool (90%)
-2. Tentacruel (7%)
-3. Relicanth (3%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (90%)
+2. [Tentacruel](../pokemon/tentacruel.md) (7%)
+3. [Relicanth](../pokemon/relicanth.md) (3%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Tentacool (100%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Tentacool (67%)
-2. Chinchou (30%)
-3. Shellder (3%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (67%)
+2. [Chinchou](../pokemon/chinchou.md) (30%)
+3. [Shellder](../pokemon/shellder.md) (3%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Tentacruel (60%)
-2. Shellder (33%)
-3. Lanturn (7%)
+<pre><code>1. [Tentacruel](../pokemon/tentacruel.md) (60%)
+2. [Shellder](../pokemon/shellder.md) (33%)
+3. [Lanturn](../pokemon/lanturn.md) (7%)
 </code></pre>
 
 ---
@@ -4445,32 +4445,32 @@ Wild Levels: 5 – 60
 
 **Surf:**
 
-<pre><code>1. Tentacool (60%)
-2. Wingull (30%)
-3. Pelipper (5%)
-4. Tentacruel (3%)
-5. Wailord (2%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Wingull](../pokemon/wingull.md) (30%)
+3. [Pelipper](../pokemon/pelipper.md) (5%)
+4. [Tentacruel](../pokemon/tentacruel.md) (3%)
+5. [Wailord](../pokemon/wailord.md) (2%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Goldeen (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Goldeen](../pokemon/goldeen.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Finneon (30%)
-3. Clamperl (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Finneon](../pokemon/finneon.md) (30%)
+3. [Clamperl](../pokemon/clamperl.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Lumineon (60%)
-2. Seaking (30%)
-3. Huntail (5%)
-4. Gorebyss (5%)
+<pre><code>1. [Lumineon](../pokemon/lumineon.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Huntail](../pokemon/huntail.md) (5%)
+4. [Gorebyss](../pokemon/gorebyss.md) (5%)
 </code></pre>
 
 ---
@@ -4481,42 +4481,42 @@ Wild Levels: 5 – 60
 
 **Surf:**
 
-<pre><code>1. Tentacool (60%)
-2. Wingull (30%)
-3. Pelipper (5%)
-4. Mantine (5%)
+<pre><code>1. [Tentacool](../pokemon/tentacool.md) (60%)
+2. [Wingull](../pokemon/wingull.md) (30%)
+3. [Pelipper](../pokemon/pelipper.md) (5%)
+4. [Mantine](../pokemon/mantine.md) (5%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Mantine (Surf)
+<pre><code>1. [Mantine](../pokemon/mantine.md) (Surf)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Goldeen (10%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Goldeen](../pokemon/goldeen.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Finneon (30%)
-3. Clamperl (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Finneon](../pokemon/finneon.md) (30%)
+3. [Clamperl](../pokemon/clamperl.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Lumineon (60%)
-2. Seaking (30%)
-3. Huntail (5%)
-4. Gorebyss (5%)
+<pre><code>1. [Lumineon](../pokemon/lumineon.md) (60%)
+2. [Seaking](../pokemon/seaking.md) (30%)
+3. [Huntail](../pokemon/huntail.md) (5%)
+4. [Gorebyss](../pokemon/gorebyss.md) (5%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Krabby (90%)
-2. Kingler (10%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (90%)
+2. [Kingler](../pokemon/kingler.md) (10%)
 </code></pre>
 
 ---
@@ -4529,21 +4529,21 @@ Wild Levels: 48 – 58
 
 **Cave:**
 
-<pre><code>1. Zubat (30%)
-2. Psyduck (30%)
-3. Slowpoke (30%)
-4. Golbat (10%)
+<pre><code>1. [Zubat](../pokemon/zubat.md) (30%)
+2. [Psyduck](../pokemon/psyduck.md) (30%)
+3. [Slowpoke](../pokemon/slowpoke.md) (30%)
+4. [Golbat](../pokemon/golbat.md) (10%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Golduck
-2. Slowbro
+<pre><code>1. [Golduck](../pokemon/golduck.md) (50%)
+2. [Slowbro](../pokemon/slowbro.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Staryu
+<pre><code>1. [Staryu](../pokemon/staryu.md) (100%)
 </code></pre>
 
 ### [ B1F ]
@@ -4552,23 +4552,23 @@ Wild Levels: 49 – 59
 
 **Cave:**
 
-<pre><code>1. Seel (25%)
-2. Golbat (20%)
-3. Slowbro (20%)
-4. Piloswine (20%)
-5. Snorunt (15%)
+<pre><code>1. [Seel](../pokemon/seel.md) (25%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Slowbro](../pokemon/slowbro.md) (20%)
+4. [Piloswine](../pokemon/piloswine.md) (20%)
+5. [Snorunt](../pokemon/snorunt.md) (15%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Glalie
-2. Froslass
+<pre><code>1. [Glalie](../pokemon/glalie.md) (50%)
+2. [Froslass](../pokemon/froslass.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Kingler
-2. Golduck
+<pre><code>1. [Kingler](../pokemon/kingler.md) (50%)
+2. [Golduck](../pokemon/golduck.md) (50%)
 </code></pre>
 
 ### [ B2F ]
@@ -4577,25 +4577,25 @@ Wild Levels: 56 – 60
 
 **Cave:**
 
-<pre><code>1. Golbat (35%)
-2. Dewgong (20%)
-3. Kingler (10%)
-4. Piloswine (10%)
-5. Slowbro (10%)
-6. Sealeo (10%)
-7. Glalie (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (35%)
+2. [Dewgong](../pokemon/dewgong.md) (20%)
+3. [Kingler](../pokemon/kingler.md) (10%)
+4. [Piloswine](../pokemon/piloswine.md) (10%)
+5. [Slowbro](../pokemon/slowbro.md) (10%)
+6. [Sealeo](../pokemon/sealeo.md) (10%)
+7. [Glalie](../pokemon/glalie.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Walrein
-2. Mamoswine
+<pre><code>1. [Walrein](../pokemon/walrein.md) (50%)
+2. [Mamoswine](../pokemon/mamoswine.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Froslass
-2. Slowking
+<pre><code>1. [Froslass](../pokemon/froslass.md) (50%)
+2. [Slowking](../pokemon/slowking.md) (50%)
 </code></pre>
 
 ### [ B3F ]
@@ -4604,27 +4604,27 @@ Wild Levels: 56 – 60
 
 **Cave:**
 
-<pre><code>1. Golbat (25%)
-2. Dewgong (20%)
-3. Kingler (10%)
-4. Sealeo (10%)
-5. Piloswine (10%)
-6. Glalie (10%)
-7. Delibird (5%)
-8. Sneasel (5%)
-9. Jynx (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Dewgong](../pokemon/dewgong.md) (20%)
+3. [Kingler](../pokemon/kingler.md) (10%)
+4. [Sealeo](../pokemon/sealeo.md) (10%)
+5. [Piloswine](../pokemon/piloswine.md) (10%)
+6. [Glalie](../pokemon/glalie.md) (10%)
+7. [Delibird](../pokemon/delibird.md) (5%)
+8. [Sneasel](../pokemon/sneasel.md) (5%)
+9. [Jynx](../pokemon/jynx.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Weavile
-2. Mamoswine
+<pre><code>1. [Weavile](../pokemon/weavile.md) (50%)
+2. [Mamoswine](../pokemon/mamoswine.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Delibird
-2. Jynx
+<pre><code>1. [Delibird](../pokemon/delibird.md) (50%)
+2. [Jynx](../pokemon/jynx.md) (50%)
 </code></pre>
 
 ### [ B4F ]
@@ -4633,57 +4633,57 @@ Wild Levels: 57 – 60
 
 **Cave:**
 
-<pre><code>1. Golbat (25%)
-2. Dewgong (20%)
-3. Kingler (10%)
-4. Sealeo (10%)
-5. Piloswine (10%)
-6. Glalie (10%)
-7. Delibird (5%)
-8. Sneasel (5%)
-9. Jynx (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Dewgong](../pokemon/dewgong.md) (20%)
+3. [Kingler](../pokemon/kingler.md) (10%)
+4. [Sealeo](../pokemon/sealeo.md) (10%)
+5. [Piloswine](../pokemon/piloswine.md) (10%)
+6. [Glalie](../pokemon/glalie.md) (10%)
+7. [Delibird](../pokemon/delibird.md) (5%)
+8. [Sneasel](../pokemon/sneasel.md) (5%)
+9. [Jynx](../pokemon/jynx.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Crobat
-2. Walrein
+<pre><code>1. [Crobat](../pokemon/crobat.md) (50%)
+2. [Walrein](../pokemon/walrein.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Lapras
+<pre><code>1. [Lapras](../pokemon/lapras.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Spheal (60%)
-2. Tentacool (30%)
-3. Staryu (8%)
-4. Lapras (2%)
+<pre><code>1. [Spheal](../pokemon/spheal.md) (60%)
+2. [Tentacool](../pokemon/tentacool.md) (30%)
+3. [Staryu](../pokemon/staryu.md) (8%)
+4. [Lapras](../pokemon/lapras.md) (2%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (90%)
-2. Horsea (5%)
-3. Krabby (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (90%)
+2. [Horsea](../pokemon/horsea.md) (5%)
+3. [Krabby](../pokemon/krabby.md) (5%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Magikarp (60%)
-2. Krabby (30%)
-3. Horsea (5%)
-4. Shellder (5%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (60%)
+2. [Krabby](../pokemon/krabby.md) (30%)
+3. [Horsea](../pokemon/horsea.md) (5%)
+4. [Shellder](../pokemon/shellder.md) (5%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Gyarados (60%)
-2. Seadra (30%)
-3. Shellder (5%)
-4. Kingler (5%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Seadra](../pokemon/seadra.md) (30%)
+3. [Shellder](../pokemon/shellder.md) (5%)
+4. [Kingler](../pokemon/kingler.md) (5%)
 </code></pre>
 
 ---
@@ -4694,55 +4694,55 @@ Wild Levels: 60 – 68
 
 **Grass, Morning:**
 
-<pre><code>1. Weepinbell (25%)
-2. Gloom (25%)
-3. Ledian (10%)
-4. Nuzleaf (10%)
-5. Scyther (10%)
-6. Pinsir (10%)
-7. Wormadam (5%)
-8. Mothim (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (25%)
+2. [Gloom](../pokemon/gloom.md) (25%)
+3. [Ledian](../pokemon/ledian.md) (10%)
+4. [Nuzleaf](../pokemon/nuzleaf.md) (10%)
+5. [Scyther](../pokemon/scyther.md) (10%)
+6. [Pinsir](../pokemon/pinsir.md) (10%)
+7. [Wormadam](../pokemon/wormadam-plant.md) (5%)
+8. [Mothim](../pokemon/mothim.md) (5%)
 </code></pre>
 
 **Grass, Day:**
 
-<pre><code>1. Weepinbell (25%)
-2. Gloom (25%)
-3. Tropius (10%)
-4. Nuzleaf (10%)
-5. Scyther (10%)
-6. Pinsir (10%)
-7. Wormadam (5%)
-8. Mothim (5%)
+<pre><code>1. [Weepinbell](../pokemon/weepinbell.md) (25%)
+2. [Gloom](../pokemon/gloom.md) (25%)
+3. [Tropius](../pokemon/tropius.md) (10%)
+4. [Nuzleaf](../pokemon/nuzleaf.md) (10%)
+5. [Scyther](../pokemon/scyther.md) (10%)
+6. [Pinsir](../pokemon/pinsir.md) (10%)
+7. [Wormadam](../pokemon/wormadam-plant.md) (5%)
+8. [Mothim](../pokemon/mothim.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Parasect (25%)
-2. Gloom (25%)
-3. Ariados (10%)
-4. Carnivine (10%)
-5. Murkrow (10%)
-6. Misdreavus (10%)
-7. Wormadam (5%)
-8. Mothim (5%)
+<pre><code>1. [Parasect](../pokemon/parasect.md) (25%)
+2. [Gloom](../pokemon/gloom.md) (25%)
+3. [Ariados](../pokemon/ariados.md) (10%)
+4. [Carnivine](../pokemon/carnivine.md) (10%)
+5. [Murkrow](../pokemon/murkrow.md) (10%)
+6. [Misdreavus](../pokemon/misdreavus.md) (10%)
+7. [Wormadam](../pokemon/wormadam-plant.md) (5%)
+8. [Mothim](../pokemon/mothim.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Shiftry
-2. Vileplume
+<pre><code>1. [Shiftry](../pokemon/shiftry.md) (50%)
+2. [Vileplume](../pokemon/vileplume.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ambipom
-2. Raichu
+<pre><code>1. [Ambipom](../pokemon/ambipom.md) (50%)
+2. [Raichu](../pokemon/raichu.md) (50%)
 </code></pre>
 
 **Swarm:**
 
-<pre><code>1. Heracross
+<pre><code>1. [Heracross](../pokemon/heracross.md) (100%)
 </code></pre>
 
 ---
@@ -4757,24 +4757,24 @@ Storm Silver Wild Levels: 45 – 48
 
 **Building:**
 
-<pre><code>1. Rattata (35%)
-2. Zigzagoon (20%)
-3. Golbat (20%)
-4. Gastly (15%)
-5. Shuppet (5%)
-6. Duskull (5%)
+<pre><code>1. [Rattata](../pokemon/rattata.md) (35%)
+2. [Zigzagoon](../pokemon/zigzagoon.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (20%)
+4. [Gastly](../pokemon/gastly.md) (15%)
+5. [Shuppet](../pokemon/shuppet.md) (5%)
+6. [Duskull](../pokemon/duskull.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Haunter
-2. Linoone
+<pre><code>1. [Haunter](../pokemon/haunter.md) (50%)
+2. [Linoone](../pokemon/linoone.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Shuppet
-2. Duskull
+<pre><code>1. [Shuppet](../pokemon/shuppet.md) (50%)
+2. [Duskull](../pokemon/duskull.md) (50%)
 </code></pre>
 
 ### [ 4F, 5F, 6F ]
@@ -4785,24 +4785,24 @@ Storm Silver Wild Levels: 46 – 49
 
 **Building:**
 
-<pre><code>1. Raticate (30%)
-2. Linoone (20%)
-3. Golbat (20%)
-4. Haunter (15%)
-5. Shuppet (5%)
-6. Duskull (5%)
-7. Ditto (5%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (30%)
+2. [Linoone](../pokemon/linoone.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (20%)
+4. [Haunter](../pokemon/haunter.md) (15%)
+5. [Shuppet](../pokemon/shuppet.md) (5%)
+6. [Duskull](../pokemon/duskull.md) (5%)
+7. [Ditto](../pokemon/ditto.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Dusclops
-2. Banette
+<pre><code>1. [Dusclops](../pokemon/dusclops.md) (50%)
+2. [Banette](../pokemon/banette.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Ditto
+<pre><code>1. [Ditto](../pokemon/ditto.md) (100%)
 </code></pre>
 
 ### [ 7F, 8F, 9F ]
@@ -4813,27 +4813,27 @@ Storm Silver Wild Levels: 46 – 50
 
 **Building:**
 
-<pre><code>1. Raticate (20%)
-2. Haunter (20%)
-3. Golbat (15%)
-4. Dusclops (10%)
-5. Banette (10%)
-6. Swablu (10%)
-7. Natu (5%)
-8. Bronzor (5%)
-9. Ditto (5%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Haunter](../pokemon/haunter.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (15%)
+4. [Dusclops](../pokemon/dusclops.md) (10%)
+5. [Banette](../pokemon/banette.md) (10%)
+6. [Swablu](../pokemon/swablu.md) (10%)
+7. [Natu](../pokemon/natu.md) (5%)
+8. [Bronzor](../pokemon/bronzor.md) (5%)
+9. [Ditto](../pokemon/ditto.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Altaria
-2. Xatu
+<pre><code>1. [Altaria](../pokemon/altaria.md) (50%)
+2. [Xatu](../pokemon/xatu.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Bronzor
-2. Ditto
+<pre><code>1. [Bronzor](../pokemon/bronzor.md) (50%)
+2. [Ditto](../pokemon/ditto.md) (50%)
 </code></pre>
 
 ### [ 10F ]
@@ -4844,27 +4844,27 @@ Storm Silver Wild Levels: 48 – 50
 
 **Building:**
 
-<pre><code>1. Raticate (20%)
-2. Ditto (20%)
-3. Golbat (10%)
-4. Altaria (10%)
-5. Xatu (10%)
-6. Haunter (10%)
-7. Claydol (5%)
-8. Solrock (5%)
-9. Bronzong (5%)
-10. Lunatone (5%)
+<pre><code>1. [Raticate](../pokemon/raticate.md) (20%)
+2. [Ditto](../pokemon/ditto.md) (20%)
+3. [Golbat](../pokemon/golbat.md) (10%)
+4. [Altaria](../pokemon/altaria.md) (10%)
+5. [Xatu](../pokemon/xatu.md) (10%)
+6. [Haunter](../pokemon/haunter.md) (10%)
+7. [Claydol](../pokemon/claydol.md) (5%)
+8. [Solrock](../pokemon/solrock.md) (5%)
+9. [Bronzong](../pokemon/bronzong.md) (5%)
+10. [Lunatone](../pokemon/lunatone.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Gengar
+<pre><code>1. [Gengar](../pokemon/gengar.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Claydol
-2. Bronzong
+<pre><code>1. [Claydol](../pokemon/claydol.md) (50%)
+2. [Bronzong](../pokemon/bronzong.md) (50%)
 </code></pre>
 
 ---
@@ -4877,83 +4877,83 @@ Wild Levels: 60 – 64
 
 **Cave, Morning:**
 
-<pre><code>1. Golbat (40%)
-2. Graveler (15%)
-3. Sandslash (10%)
-4. Gloom (10%)
-5. Weepinbell (10%)
-6. Venomoth (5%)
-7. Parasect (5%)
-8. Ditto (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (40%)
+2. [Graveler](../pokemon/graveler.md) (15%)
+3. [Sandslash](../pokemon/sandslash.md) (10%)
+4. [Gloom](../pokemon/gloom.md) (10%)
+5. [Weepinbell](../pokemon/weepinbell.md) (10%)
+6. [Venomoth](../pokemon/venomoth.md) (5%)
+7. [Parasect](../pokemon/parasect.md) (5%)
+8. [Ditto](../pokemon/ditto.md) (5%)
 </code></pre>
 
 **Cave, Day:**
 
-<pre><code>1. Golbat (40%)
-2. Haunter (10%)
-3. Kadabra (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Electrode (5%)
-7. Wobbuffet (5%)
-8. Bronzong (5%)
-9. Magneton (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (40%)
+2. [Haunter](../pokemon/haunter.md) (10%)
+3. [Kadabra](../pokemon/kadabra.md) (10%)
+4. [Graveler](../pokemon/graveler.md) (10%)
+5. [Machoke](../pokemon/machoke.md) (10%)
+6. [Electrode](../pokemon/electrode.md) (5%)
+7. [Wobbuffet](../pokemon/wobbuffet.md) (5%)
+8. [Bronzong](../pokemon/bronzong.md) (5%)
+9. [Magneton](../pokemon/magneton.md) (5%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Golbat (20%)
-2. Magneton (20%)
-3. Hypno (15%)
-4. Arbok (10%)
-5. Venomoth (10%)
-6. Rapidash (10%)
-7. Parasect (5%)
-8. Kadabra (5%)
-9. Raichu (4%)
-10. Ditto (1%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Magneton](../pokemon/magneton.md) (20%)
+3. [Hypno](../pokemon/hypno.md) (15%)
+4. [Arbok](../pokemon/arbok.md) (10%)
+5. [Venomoth](../pokemon/venomoth.md) (10%)
+6. [Rapidash](../pokemon/rapidash.md) (10%)
+7. [Parasect](../pokemon/parasect.md) (5%)
+8. [Kadabra](../pokemon/kadabra.md) (5%)
+9. [Raichu](../pokemon/raichu.md) (4%)
+10. [Ditto](../pokemon/ditto.md) (1%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Nosepass (100%)
+<pre><code>1. [Nosepass](../pokemon/nosepass.md) (100%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Exploud
-2. Alakazam
+<pre><code>1. [Exploud](../pokemon/exploud.md) (50%)
+2. [Alakazam](../pokemon/alakazam.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Porygon
-2. Ditto
+<pre><code>1. [Porygon](../pokemon/porygon.md) (50%)
+2. [Ditto](../pokemon/ditto.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Golduck (60%)
-2. Slowbro (40%)
+<pre><code>1. [Golduck](../pokemon/golduck.md) (60%)
+2. [Slowbro](../pokemon/slowbro.md) (40%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Magikarp (100%)
+<pre><code>1. [Magikarp](../pokemon/magikarp.md) (100%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Poliwag (60%)
-2. Goldeen (40%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (60%)
+2. [Goldeen](../pokemon/goldeen.md) (40%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Krabby (60%)
-2. Slowbro (30%)
-3. Seadra (5%)
-4. Seaking (5%)
+<pre><code>1. [Krabby](../pokemon/krabby.md) (60%)
+2. [Slowbro](../pokemon/slowbro.md) (30%)
+3. [Seadra](../pokemon/seadra.md) (5%)
+4. [Seaking](../pokemon/seaking.md) (5%)
 </code></pre>
 
 ### [ 2F ]
@@ -4962,53 +4962,53 @@ Wild Levels: 64 – 68
 
 **Cave, Morning:**
 
-<pre><code>1. Golbat (40%)
-2. Graveler (15%)
-3. Ditto (10%)
-4. Sandslash (10%)
-5. Rhyhorn (10%)
-6. Rhydon (5%)
-7. Gloom (5%)
-8. Weepinbell (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (40%)
+2. [Graveler](../pokemon/graveler.md) (15%)
+3. [Ditto](../pokemon/ditto.md) (10%)
+4. [Sandslash](../pokemon/sandslash.md) (10%)
+5. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
+6. [Rhydon](../pokemon/rhydon.md) (5%)
+7. [Gloom](../pokemon/gloom.md) (5%)
+8. [Weepinbell](../pokemon/weepinbell.md) (5%)
 </code></pre>
 
 **Cave, Day:**
 
-<pre><code>1. Golbat (20%)
-2. Graveler (20%)
-3. Wobbuffet (10%)
-4. Solrock (10%)
-5. Lunatone (10%)
-6. Electrode (10%)
-7. Arbok (5%)
-8. Sandslash (5%)
-9. Bronzong (5%)
-10. Magneton (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Graveler](../pokemon/graveler.md) (20%)
+3. [Wobbuffet](../pokemon/wobbuffet.md) (10%)
+4. [Solrock](../pokemon/solrock.md) (10%)
+5. [Lunatone](../pokemon/lunatone.md) (10%)
+6. [Electrode](../pokemon/electrode.md) (10%)
+7. [Arbok](../pokemon/arbok.md) (5%)
+8. [Sandslash](../pokemon/sandslash.md) (5%)
+9. [Bronzong](../pokemon/bronzong.md) (5%)
+10. [Magneton](../pokemon/magneton.md) (5%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Dodrio (20%)
-2. Venomoth (20%)
-3. Kadabra (15%)
-4. Electrode (10%)
-5. Marowak (10%)
-6. Rhydon (10%)
-7. Wigglytuff (5%)
-8. Chansey (5%)
-9. Ditto (5%)
+<pre><code>1. [Dodrio](../pokemon/dodrio.md) (20%)
+2. [Venomoth](../pokemon/venomoth.md) (20%)
+3. [Kadabra](../pokemon/kadabra.md) (15%)
+4. [Electrode](../pokemon/electrode.md) (10%)
+5. [Marowak](../pokemon/marowak.md) (10%)
+6. [Rhydon](../pokemon/rhydon.md) (10%)
+7. [Wigglytuff](../pokemon/wigglytuff.md) (5%)
+8. [Chansey](../pokemon/chansey.md) (5%)
+9. [Ditto](../pokemon/ditto.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Alakazam
-2. Rhyperior
+<pre><code>1. [Alakazam](../pokemon/alakazam.md) (50%)
+2. [Rhyperior](../pokemon/rhyperior.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Porygon
-2. Chansey
+<pre><code>1. [Porygon](../pokemon/porygon.md) (50%)
+2. [Chansey](../pokemon/chansey.md) (50%)
 </code></pre>
 
 ### [ B2F ]
@@ -5017,87 +5017,87 @@ Wild Levels: 68 – 72
 
 **Cave, Morning:**
 
-<pre><code>1. Golbat (40%)
-2. Ditto (15%)
-3. Graveler (15%)
-4. Rhydon (10%)
-5. Rhyhorn (10%)
-6. Chansey (5%)
-7. Lickitung (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (40%)
+2. [Ditto](../pokemon/ditto.md) (15%)
+3. [Graveler](../pokemon/graveler.md) (15%)
+4. [Rhydon](../pokemon/rhydon.md) (10%)
+5. [Rhyhorn](../pokemon/rhyhorn.md) (10%)
+6. [Chansey](../pokemon/chansey.md) (5%)
+7. [Lickitung](../pokemon/lickitung.md) (5%)
 </code></pre>
 
 **Cave, Day:**
 
-<pre><code>1. Golbat (20%)
-2. Bronzong (20%)
-3. Dusclops (10%)
-4. Chimecho (10%)
-5. Banette (10%)
-6. Rhydon (10%)
-7. Magcargo (5%)
-8. Haunter (5%)
-9. Magmar (4%)
-10. Electabuzz (4%)
-11. Steelix (2%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Bronzong](../pokemon/bronzong.md) (20%)
+3. [Dusclops](../pokemon/dusclops.md) (10%)
+4. [Chimecho](../pokemon/chimecho.md) (10%)
+5. [Banette](../pokemon/banette.md) (10%)
+6. [Rhydon](../pokemon/rhydon.md) (10%)
+7. [Magcargo](../pokemon/magcargo.md) (5%)
+8. [Haunter](../pokemon/haunter.md) (5%)
+9. [Magmar](../pokemon/magmar.md) (4%)
+10. [Electabuzz](../pokemon/electabuzz.md) (4%)
+11. [Steelix](../pokemon/steelix.md) (2%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Rhydon (20%)
-2. Electrode (20%)
-3. Marowak (15%)
-4. Raichu (10%)
-5. Parasect (10%)
-6. Chansey (10%)
-7. Ditto (10%)
-8. Sandslash (5%)
+<pre><code>1. [Rhydon](../pokemon/rhydon.md) (20%)
+2. [Electrode](../pokemon/electrode.md) (20%)
+3. [Marowak](../pokemon/marowak.md) (15%)
+4. [Raichu](../pokemon/raichu.md) (10%)
+5. [Parasect](../pokemon/parasect.md) (10%)
+6. [Chansey](../pokemon/chansey.md) (10%)
+7. [Ditto](../pokemon/ditto.md) (10%)
+8. [Sandslash](../pokemon/sandslash.md) (5%)
 </code></pre>
 
 **Rock Smash:**
 
-<pre><code>1. Nosepass (100%)
+<pre><code>1. [Nosepass](../pokemon/nosepass.md) (100%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Dusknoir
-2. Lickilicky
+<pre><code>1. [Dusknoir](../pokemon/dusknoir.md) (50%)
+2. [Lickilicky](../pokemon/lickilicky.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Clefairy
-2. Arbok
+<pre><code>1. [Clefairy](../pokemon/clefairy.md) (50%)
+2. [Arbok](../pokemon/arbok.md) (50%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Gyarados (60%)
-2. Tentacruel (30%)
-3. Lanturn (5%)
-4. Quagsire (5%)
+<pre><code>1. [Gyarados](../pokemon/gyarados.md) (60%)
+2. [Tentacruel](../pokemon/tentacruel.md) (30%)
+3. [Lanturn](../pokemon/lanturn.md) (5%)
+4. [Quagsire](../pokemon/quagsire.md) (5%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Barboach (60%)
-2. Finneon (40%)
+<pre><code>1. [Barboach](../pokemon/barboach.md) (60%)
+2. [Finneon](../pokemon/finneon.md) (40%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Whiscash (60%)
-2. Lumineon (30%)
-3. Seadra (5%)
-4. Seaking (5%)
+<pre><code>1. [Whiscash](../pokemon/whiscash.md) (60%)
+2. [Lumineon](../pokemon/lumineon.md) (30%)
+3. [Seadra](../pokemon/seadra.md) (5%)
+4. [Seaking](../pokemon/seaking.md) (5%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seadra (60%)
-2. Lumineon (30%)
-3. Whiscash (5%)
-4. Seaking (5%)
+<pre><code>1. [Seadra](../pokemon/seadra.md) (60%)
+2. [Lumineon](../pokemon/lumineon.md) (30%)
+3. [Whiscash](../pokemon/whiscash.md) (5%)
+4. [Seaking](../pokemon/seaking.md) (5%)
 </code></pre>
 
 ---
@@ -5108,61 +5108,61 @@ Wild Levels: 58 - 64
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Tangela (25%)
-2. Ponyta (25%)
-3. Rapidash (10%)
-4. Ursaring (10%)
-5. Donphan (10%)
-6. Dodrio (10%)
-7. Manectric (10%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (25%)
+2. [Ponyta](../pokemon/ponyta.md) (25%)
+3. [Rapidash](../pokemon/rapidash.md) (10%)
+4. [Ursaring](../pokemon/ursaring.md) (10%)
+5. [Donphan](../pokemon/donphan.md) (10%)
+6. [Dodrio](../pokemon/dodrio.md) (10%)
+7. [Manectric](../pokemon/manectric.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Tangela (25%)
-2. Ponyta (20%)
-3. Rapidash (10%)
-4. Ursaring (10%)
-5. Donphan (10%)
-6. Quagsire (10%)
-7. Manectric (10%)
-8. Sneasel (5%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (25%)
+2. [Ponyta](../pokemon/ponyta.md) (20%)
+3. [Rapidash](../pokemon/rapidash.md) (10%)
+4. [Ursaring](../pokemon/ursaring.md) (10%)
+5. [Donphan](../pokemon/donphan.md) (10%)
+6. [Quagsire](../pokemon/quagsire.md) (10%)
+7. [Manectric](../pokemon/manectric.md) (10%)
+8. [Sneasel](../pokemon/sneasel.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Tangrowth
+<pre><code>1. [Tangrowth](../pokemon/tangrowth.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Arbok
+<pre><code>1. [Arbok](../pokemon/arbok.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Poliwag (90%)
-2. Poliwhirl (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (90%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Luvdisc (90%)
-2. Poliwag (10%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (90%)
+2. [Poliwag](../pokemon/poliwag.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Luvdisc (60%)
-2. Poliwag (30%)
-3. Poliwhirl (10%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (30%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Luvdisc (30%)
-3. Gyarados (10%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Luvdisc](../pokemon/luvdisc.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (10%)
 </code></pre>
 
 ---
@@ -5175,60 +5175,60 @@ Wild Levels: 59 - 65
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Tangela (35%)
-2. Manectric (25%)
-3. Rapidash (10%)
-4. Ursaring (10%)
-5. Donphan (10%)
-6. Dodrio (10%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (35%)
+2. [Manectric](../pokemon/manectric.md) (25%)
+3. [Rapidash](../pokemon/rapidash.md) (10%)
+4. [Ursaring](../pokemon/ursaring.md) (10%)
+5. [Donphan](../pokemon/donphan.md) (10%)
+6. [Dodrio](../pokemon/dodrio.md) (10%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Tangela (25%)
-2. Manectric (20%)
-3. Rapidash (10%)
-4. Ursaring (10%)
-5. Donphan (10%)
-6. Quagsire (10%)
-7. Dusclops (10%)
-8. Sneasel (5%)
+<pre><code>1. [Tangela](../pokemon/tangela.md) (25%)
+2. [Manectric](../pokemon/manectric.md) (20%)
+3. [Rapidash](../pokemon/rapidash.md) (10%)
+4. [Ursaring](../pokemon/ursaring.md) (10%)
+5. [Donphan](../pokemon/donphan.md) (10%)
+6. [Quagsire](../pokemon/quagsire.md) (10%)
+7. [Dusclops](../pokemon/dusclops.md) (10%)
+8. [Sneasel](../pokemon/sneasel.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Tangrowth
+<pre><code>1. [Tangrowth](../pokemon/tangrowth.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Arbok
+<pre><code>1. [Arbok](../pokemon/arbok.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Poliwag (90%)
-2. Poliwhirl (10%)
+<pre><code>1. [Poliwag](../pokemon/poliwag.md) (90%)
+2. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Luvdisc (90%)
-2. Poliwag (10%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (90%)
+2. [Poliwag](../pokemon/poliwag.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Luvdisc (60%)
-2. Poliwag (30%)
-3. Poliwhirl (10%)
+<pre><code>1. [Luvdisc](../pokemon/luvdisc.md) (60%)
+2. [Poliwag](../pokemon/poliwag.md) (30%)
+3. [Poliwhirl](../pokemon/poliwhirl.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Poliwhirl (60%)
-2. Luvdisc (30%)
-3. Gyarados (10%)
+<pre><code>1. [Poliwhirl](../pokemon/poliwhirl.md) (60%)
+2. [Luvdisc](../pokemon/luvdisc.md) (30%)
+3. [Gyarados](../pokemon/gyarados.md) (10%)
 </code></pre>
 
 ### [ 1F – Entrance Room ]
@@ -5237,64 +5237,64 @@ Wild Levels: 50 – 64
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Phanpy (20%)
-2. Teddiursa (20%)
-3. Donphan (15%)
-4. Ursaring (15%)
-5. Quagsire (10%)
-6. Magmar (10%)
-7. Larvitar (5%)
-8. Graveler (5%)
+<pre><code>1. [Phanpy](../pokemon/phanpy.md) (20%)
+2. [Teddiursa](../pokemon/teddiursa.md) (20%)
+3. [Donphan](../pokemon/donphan.md) (15%)
+4. [Ursaring](../pokemon/ursaring.md) (15%)
+5. [Quagsire](../pokemon/quagsire.md) (10%)
+6. [Magmar](../pokemon/magmar.md) (10%)
+7. [Larvitar](../pokemon/larvitar.md) (5%)
+8. [Graveler](../pokemon/graveler.md) (5%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Quagsire (20%)
-2. Golbat (20%)
-3. Golduck (20%)
-4. Graveler (20%)
-5. Donphan (5%)
-6. Ursaring (5%)
-7. Larvitar (5%)
-8. Misdreavus (5%)
+<pre><code>1. [Quagsire](../pokemon/quagsire.md) (20%)
+2. [Golbat](../pokemon/golbat.md) (20%)
+3. [Golduck](../pokemon/golduck.md) (20%)
+4. [Graveler](../pokemon/graveler.md) (20%)
+5. [Donphan](../pokemon/donphan.md) (5%)
+6. [Ursaring](../pokemon/ursaring.md) (5%)
+7. [Larvitar](../pokemon/larvitar.md) (5%)
+8. [Misdreavus](../pokemon/misdreavus.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Pupitar
+<pre><code>1. [Pupitar](../pokemon/pupitar.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Larvitar
+<pre><code>1. [Larvitar](../pokemon/larvitar.md) (100%)
 </code></pre>
 
 **Surf:**
 
-<pre><code>1. Golbat (60%)
-2. Seadra (30%)
-3. Horsea (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (60%)
+2. [Seadra](../pokemon/seadra.md) (30%)
+3. [Horsea](../pokemon/horsea.md) (10%)
 </code></pre>
 
 **Old Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Krabby (30%)
-3. Corphish (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Krabby](../pokemon/krabby.md) (30%)
+3. [Corphish](../pokemon/corphish.md) (10%)
 </code></pre>
 
 **Good Rod:**
 
-<pre><code>1. Goldeen (60%)
-2. Krabby (30%)
-3. Corphish (10%)
+<pre><code>1. [Goldeen](../pokemon/goldeen.md) (60%)
+2. [Krabby](../pokemon/krabby.md) (30%)
+3. [Corphish](../pokemon/corphish.md) (10%)
 </code></pre>
 
 **Super Rod:**
 
-<pre><code>1. Seaking (60%)
-2. Kingler (30%)
-3. Crawdaunt (10%)
+<pre><code>1. [Seaking](../pokemon/seaking.md) (60%)
+2. [Kingler](../pokemon/kingler.md) (30%)
+3. [Crawdaunt](../pokemon/crawdaunt.md) (10%)
 </code></pre>
 
 ### [ 1F – Side Room ]
@@ -5303,32 +5303,32 @@ Wild Levels: 50 – 64
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Parasect (45%)
-2. Golduck (20%)
-3. Quagsire (15%)
-4. Shelgon (15%)
-5. Bagon (5%)
+<pre><code>1. [Parasect](../pokemon/parasect.md) (45%)
+2. [Golduck](../pokemon/golduck.md) (20%)
+3. [Quagsire](../pokemon/quagsire.md) (15%)
+4. [Shelgon](../pokemon/shelgon.md) (15%)
+5. [Bagon](../pokemon/bagon.md) (5%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Parasect (35%)
-2. Golduck (20%)
-3. Quagsire (15%)
-4. Shelgon (15%)
-5. Misdreavus (10%)
-6. Bagon (5%)
+<pre><code>1. [Parasect](../pokemon/parasect.md) (35%)
+2. [Golduck](../pokemon/golduck.md) (20%)
+3. [Quagsire](../pokemon/quagsire.md) (15%)
+4. [Shelgon](../pokemon/shelgon.md) (15%)
+5. [Misdreavus](../pokemon/misdreavus.md) (10%)
+6. [Bagon](../pokemon/bagon.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Shelgon
+<pre><code>1. [Shelgon](../pokemon/shelgon.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Paras
-2. Bagon
+<pre><code>1. [Paras](../pokemon/paras.md) (50%)
+2. [Bagon](../pokemon/bagon.md) (50%)
 </code></pre>
 
 ### [ 1F – Back Room ]
@@ -5337,33 +5337,33 @@ Wild Levels: 64 – 68
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Golbat (20%)
-2. Graveler (20%)
-3. Steelix (20%)
-4. Rhydon (20%)
-5. Quagsire (10%)
-6. Pupitar (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Graveler](../pokemon/graveler.md) (20%)
+3. [Steelix](../pokemon/steelix.md) (20%)
+4. [Rhydon](../pokemon/rhydon.md) (20%)
+5. [Quagsire](../pokemon/quagsire.md) (10%)
+6. [Pupitar](../pokemon/pupitar.md) (10%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Golbat (20%)
-2. Graveler (20%)
-3. Steelix (20%)
-4. Rhydon (20%)
-5. Misdreavus (10%)
-6. Quagsire (5%)
-7. Pupitar (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (20%)
+2. [Graveler](../pokemon/graveler.md) (20%)
+3. [Steelix](../pokemon/steelix.md) (20%)
+4. [Rhydon](../pokemon/rhydon.md) (20%)
+5. [Misdreavus](../pokemon/misdreavus.md) (10%)
+6. [Quagsire](../pokemon/quagsire.md) (5%)
+7. [Pupitar](../pokemon/pupitar.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Rhyperior
+<pre><code>1. [Rhyperior](../pokemon/rhyperior.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Pupitar
+<pre><code>1. [Pupitar](../pokemon/pupitar.md) (100%)
 </code></pre>
 
 ### [ 2F – Spiral Cave ]
@@ -5372,35 +5372,35 @@ Wild Levels: 62 – 66
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Golbat (25%)
-2. Graveler (25%)
-3. Magneton (20%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Solrock (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Graveler](../pokemon/graveler.md) (25%)
+3. [Magneton](../pokemon/magneton.md) (20%)
+4. [Mawile](../pokemon/mawile.md) (10%)
+5. [Sableye](../pokemon/sableye.md) (10%)
+6. [Solrock](../pokemon/solrock.md) (10%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Golbat (25%)
-2. Graveler (20%)
-3. Dusclops (10%)
-4. Magneton (10%)
-5. Mawile (10%)
-6. Sableye (10%)
-7. Lunatone (10%)
-8. Misdreavus (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Graveler](../pokemon/graveler.md) (20%)
+3. [Dusclops](../pokemon/dusclops.md) (10%)
+4. [Magneton](../pokemon/magneton.md) (10%)
+5. [Mawile](../pokemon/mawile.md) (10%)
+6. [Sableye](../pokemon/sableye.md) (10%)
+7. [Lunatone](../pokemon/lunatone.md) (10%)
+8. [Misdreavus](../pokemon/misdreavus.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Magnezone
+<pre><code>1. [Magnezone](../pokemon/magnezone.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Solrock
-2. Lunatone
+<pre><code>1. [Solrock](../pokemon/solrock.md) (50%)
+2. [Lunatone](../pokemon/lunatone.md) (50%)
 </code></pre>
 
 ### [ Outside – Snowy Area ]
@@ -5409,37 +5409,37 @@ Wild Levels: 54 - 65
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Sneasel (10%)
-5. Piloswine (10%)
-6. Snover (5%)
-7. Absol (5%)
+<pre><code>1. [Abomasnow](../pokemon/abomasnow.md) (30%)
+2. [Medicham](../pokemon/medicham.md) (20%)
+3. [Loudred](../pokemon/loudred.md) (20%)
+4. [Sneasel](../pokemon/sneasel.md) (10%)
+5. [Piloswine](../pokemon/piloswine.md) (10%)
+6. [Snover](../pokemon/snover.md) (5%)
+7. [Absol](../pokemon/absol.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Abomasnow (20%)
-2. Loudred (20%)
-3. Medicham (10%)
-4. Noctowl (10%)
-5. Golbat (10%)
-6. Sneasel (10%)
-7. Piloswine (10%)
-8. Snover (5%)
-9. Absol (5%)
+<pre><code>1. [Abomasnow](../pokemon/abomasnow.md) (20%)
+2. [Loudred](../pokemon/loudred.md) (20%)
+3. [Medicham](../pokemon/medicham.md) (10%)
+4. [Noctowl](../pokemon/noctowl.md) (10%)
+5. [Golbat](../pokemon/golbat.md) (10%)
+6. [Sneasel](../pokemon/sneasel.md) (10%)
+7. [Piloswine](../pokemon/piloswine.md) (10%)
+8. [Snover](../pokemon/snover.md) (5%)
+9. [Absol](../pokemon/absol.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Mamoswine
-2. Weavile
+<pre><code>1. [Mamoswine](../pokemon/mamoswine.md) (50%)
+2. [Weavile](../pokemon/weavile.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Absol
+<pre><code>1. [Absol](../pokemon/absol.md) (100%)
 </code></pre>
 
 ### [ Outside – Mountainous Area ]
@@ -5448,35 +5448,35 @@ Wild Levels: 60 – 64
 
 **Grass, Morning / Day:**
 
-<pre><code>1. Onix (30%)
-2. Gligar (20%)
-3. Graveler (20%)
-4. Lairon (10%)
-5. Machoke (10%)
-6. Skarmory (5%)
+<pre><code>1. [Onix](../pokemon/onix.md) (30%)
+2. [Gligar](../pokemon/gligar.md) (20%)
+3. [Graveler](../pokemon/graveler.md) (20%)
+4. [Lairon](../pokemon/lairon.md) (10%)
+5. [Machoke](../pokemon/machoke.md) (10%)
+6. [Skarmory](../pokemon/skarmory.md) (5%)
 </code></pre>
 
 **Grass, Night:**
 
-<pre><code>1. Golbat (40%)
-2. Gligar (10%)
-3. Onix (10%)
-4. Graveler (10%)
-5. Lairon (10%)
-6. Machoke (5%)
-7. Vibrava (5%)
-8. Skarmory (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (40%)
+2. [Gligar](../pokemon/gligar.md) (10%)
+3. [Onix](../pokemon/onix.md) (10%)
+4. [Graveler](../pokemon/graveler.md) (10%)
+5. [Lairon](../pokemon/lairon.md) (10%)
+6. [Machoke](../pokemon/machoke.md) (5%)
+7. [Vibrava](../pokemon/vibrava.md) (5%)
+8. [Skarmory](../pokemon/skarmory.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Gliscor
-2. Flygon
+<pre><code>1. [Gliscor](../pokemon/gliscor.md) (50%)
+2. [Flygon](../pokemon/flygon.md) (50%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Skarmory
+<pre><code>1. [Skarmory](../pokemon/skarmory.md) (100%)
 </code></pre>
 
 ### [ 3F – Final Cave ]
@@ -5485,35 +5485,35 @@ Wild Levels: 64 – 68
 
 **Cave, Morning / Day:**
 
-<pre><code>1. Golbat (25%)
-2. Gabite (20%)
-3. Bronzong (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Magneton (10%)
-7. Machoke (10%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Gabite](../pokemon/gabite.md) (20%)
+3. [Bronzong](../pokemon/bronzong.md) (15%)
+4. [Mawile](../pokemon/mawile.md) (10%)
+5. [Sableye](../pokemon/sableye.md) (10%)
+6. [Magneton](../pokemon/magneton.md) (10%)
+7. [Machoke](../pokemon/machoke.md) (10%)
 </code></pre>
 
 **Cave, Night:**
 
-<pre><code>1. Golbat (25%)
-2. Gabite (20%)
-3. Bronzong (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Machoke (10%)
-7. Magneton (5%)
-8. Dusclops (5%)
+<pre><code>1. [Golbat](../pokemon/golbat.md) (25%)
+2. [Gabite](../pokemon/gabite.md) (20%)
+3. [Bronzong](../pokemon/bronzong.md) (15%)
+4. [Mawile](../pokemon/mawile.md) (10%)
+5. [Sableye](../pokemon/sableye.md) (10%)
+6. [Machoke](../pokemon/machoke.md) (10%)
+7. [Magneton](../pokemon/magneton.md) (5%)
+8. [Dusclops](../pokemon/dusclops.md) (5%)
 </code></pre>
 
 **Meridian Sound:**
 
-<pre><code>1. Machamp
+<pre><code>1. [Machamp](../pokemon/machamp.md) (100%)
 </code></pre>
 
 **Pastoral Sound:**
 
-<pre><code>1. Mawile
-2. Sableye
+<pre><code>1. [Mawile](../pokemon/mawile.md) (50%)
+2. [Sableye](../pokemon/sableye.md) (50%)
 </code></pre>
 

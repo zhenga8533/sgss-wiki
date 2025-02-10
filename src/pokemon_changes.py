@@ -158,7 +158,8 @@ def main():
             pass
         # Section headers
         elif next_line.startswith("---"):
-            md += f"---\n\n## {line}\n\n"
+            pokemon_id = format_id(line.split(" ", 1)[1])
+            md += f"---\n\n## [{line}](../pokemon/{pokemon_id}.md)\n\n"
         # List changes
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
@@ -176,8 +177,7 @@ def main():
                 md += f"---\n\n## {regions[region_index]} Pokémon\n\n"
                 region_index += 1
 
-            # md += f"**[{line}](../pokemon/{pokemon_id}.md)**\n\n"
-            md += f"**{line}**\n\n"
+            md += f"**[{line}](../pokemon/{curr_pokemon}.md)**\n\n"
             md += find_pokemon_sprite(pokemon, "front", logger) + "\n\n"
         elif line.startswith("+ "):
             attribute, changes = line[2:].split(": ")

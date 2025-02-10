@@ -108,6 +108,7 @@ def main():
                 if " [" in name:
                     name = name.split(" [")[0]
                 sprite = find_pokemon_sprite(name, "front", logger).replace("../", "../../")
+                pokemon_id = format_id(name)
 
                 # Format encounters
                 encounters = [sub_e for e in encounter.split(", ") for sub_e in e.split(" / ")]
@@ -118,12 +119,13 @@ def main():
                     ]
                 )
 
-                # Determine level
-                md += f"{j + 1}. {p}\n"
-                wild_encounters[curr_location] += f"| {sprite} | {name} | "
-                wild_encounters[curr_location] += encounter_sprites
-                wild_encounters[curr_location] += " | " + (rod_levels[encounter] if encounter in rod_levels else level)
-                wild_encounters[curr_location] += f" | {chance} |\n"
+                # Add pokemon to markdown
+                md += f"{j + 1}. [{name}](../pokemon/{pokemon_id}.md) ({chance})\n"
+                wild_encounters[curr_location] += f"| {sprite} "
+                wild_encounters[curr_location] += f"| [{name}](../../pokemon/{pokemon_id}.md) "
+                wild_encounters[curr_location] += f"| encounter_sprites"
+                wild_encounters[curr_location] += f"| {rod_levels[encounter] if encounter in rod_levels else level} "
+                wild_encounters[curr_location] += f"| {chance} |\n"
             md += "</code></pre>\n\n"
             wild_encounters[curr_location] += "\n"
         # Miscellaneous lines

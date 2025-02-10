@@ -17,12 +17,12 @@ Magneton, Nosepass
 Condition Evolutions
 ---
 
-Eevee
+#133 Eevee
 Changed evolution methods for four of its possible seven evolutions…
 - Espeon - Get an "Aubade Orb" and "Use" it from the menu.
 - Umbreon - Get a "Serenade Orb" and "Use" it from the menu.
 - Leafeon - Get an "Woodland Ore" and "Use" it from the menu.
 - Glaceon - Get an "Chilled Ore" and "Use" it from the menu.
 
-Feebas
+#349 Feebas
 The evolution has not been changed; to raise a Feebas' happiness in HG/SS you must either get its haircut or get it groomed by Daisy a total of eight times combined to raise its Beauty to a sufficiently high point.

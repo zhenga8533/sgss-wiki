@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import find_pokemon_sprite
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -49,10 +49,17 @@ def main():
                 md += "\n"
         # Special Pokemon header
         elif line.startswith("#"):
-            md += f"### {line}\n\n"
-            pokemon = line.split(", ")
-            md += " ".join([find_pokemon_sprite(p.split(" ", 1)[1], "front", logger) for p in pokemon])
-            md += "\n\n"
+            pokemon = []
+            sprites = []
+            for p in line.split(", "):
+                name = p.split(" ", 1)[1]
+                pokemon_id = format_id(name)
+                pokemon.append(f"[{p}](../pokemon/{pokemon_id}.md)")
+                view = "front_shiny" if pokemon_id == "gyarados" else "front"
+                sprites.append(find_pokemon_sprite(name, view, logger))
+
+            md += f"### {', '.join(pokemon)}\n\n"
+            md += " ".join(sprites) + "\n\n"
         # Encounter Guide
         elif line == "Guide:":
             guide = ""

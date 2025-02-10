@@ -104,31 +104,37 @@ def main():
         # Section headers
         elif next_line.startswith("---"):
             md += f"---\n\n## {line}\n\n"
+        # Pokemon headers
+        elif line.startswith("#"):
+            num, curr_pokemon = line.split(" ", 1)
+            pokemon_id = format_id(curr_pokemon)
+            md += f"### [{num} {curr_pokemon}](../pokemon/{pokemon_id}.md)\n\n"
         # List changes
         elif line.startswith("- "):
-            md += f"1. {line[2:]}\n"
+            line = line[2:]
+            if len(changes) > 0:
+                pokemon, change = line.split(" - ")
+                md += f"1. [{pokemon}](../pokemon/{format_id(pokemon)}.md) - {change}\n"
+                changes.append(line)
+            else:
+                md += f"1. {line}\n"
+
             if not next_line.startswith("- "):
                 md += "\n"
-            if len(changes) > 0:
-                changes.append(line)
         # Changed Pokémon names
         elif line.endswith("For the following Pokémon:"):
             md += line + "\n\n"
             change = line[: -len("For the following Pokémon:") - 1]
 
             for pokemon in next_line.split(", "):
-                md += f"1. {pokemon}\n"
-
                 pokemon_id = format_id(pokemon)
+                md += f"1. [{pokemon}](../pokemon/{pokemon_id}.md)\n"
+
                 pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
                 evolutions = fix_evolutions(pokemon_data["evolutions"], pokemon_id, [change])
                 fix_pokemon(evolutions, pokemon_data["evolutions"], POKEMON_INPUT_PATH, logger)
             md += "\n"
             skip_next = True
-        # Change pokemon header
-        elif next_line.startswith("Change"):
-            md += line + "\n\n"
-            curr_pokemon = line
         # Change description
         elif line.startswith("Change"):
             md += line + "\n\n"

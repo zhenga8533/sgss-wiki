@@ -10,7 +10,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ## Non-Legendary Encounters
 
-### #479 Rotom
+### [#479 Rotom](../pokemon/rotom.md)
 
 ![Rotom](../assets/sprites/rotom/front.gif "Rotom: Research continues on this Pokémon, which could be the power source of a unique motor.")
 
@@ -24,7 +24,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 2. You will be asked if you want to thump it, á la Diamond & Pearl; choose Yes to encounter a Level 20 Rotom
 3. Note that if you wish to change Rotom's form prior to reaching Saffron City properly, there is a thief in the bottom of the Goldenrod Mart behind a box who will teleport you to the appropriate room.
 
-### #442 Spiritomb
+### [#442 Spiritomb](../pokemon/spiritomb.md)
 
 ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb: It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.")
 
@@ -41,7 +41,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 5. Further Odd Keystones can be obtained from the captain of the S.S
 6. Aqua after obtaining the Earth Badge.
 
-### #185 Sudowoodo
+### [#185 Sudowoodo](../pokemon/sudowoodo.md)
 
 ![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo: It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.")
 
@@ -54,7 +54,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 1. Sudowoodo, being there to begin with, has not changed much from the original Heart Gold and Soul Silver; get the Plain Badge, get the SquirtBottle, and toss some water on it
 2. The only difference is that it is now Level 25, as opposed to its original Level 20.
 
-### #131 Lapras
+### [#131 Lapras](../pokemon/lapras.md)
 
 ![Lapras](../assets/sprites/lapras/front.gif "Lapras: It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.")
 
@@ -68,9 +68,9 @@ Note that for newly added event encounters, you have endless opportunities to ca
 1. Lapras has also not changed; once you get the Fog Badge from Morty you are able to catch one every Friday
 2. The only difference is that Lapras is now Level 25, instead of its original Level 20.
 
-### #130 Gyarados
+### [#130 Gyarados](../pokemon/gyarados.md)
 
-![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados: Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.")
+![Gyarados](../assets/sprites/gyarados/front_shiny.png "Gyarados: Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.")
 
 **Requirements:**
 
@@ -81,7 +81,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 1. The Red Gyarados has also changed very little
 2. The main difference is that it is now Level 40 instead of Level 30.
 
-### #143 Snorlax
+### [#143 Snorlax](../pokemon/snorlax.md)
 
 ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax: Its stomach’s digestive juices can dissolve any kind of poison. It can even eat things off the ground.")
 
@@ -108,31 +108,31 @@ Note that for newly added event encounters, you have endless opportunities to ca
 2. The one you pick will cause a particular Pokémon to appear at Level 60 in its shiny form
 3. The options correlate as follows: Sixteen Hours
 
-### #149 Dragonite
+### [#149 Dragonite](../pokemon/dragonite.md)
 
 ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite: This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.")
 
 The Black Rock
 
-### #248 Tyranitar
+### [#248 Tyranitar](../pokemon/tyranitar.md)
 
 ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar: Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.")
 
 Menacing Boom
 
-### #373 Salamence
+### [#373 Salamence](../pokemon/salamence.md)
 
 ![Salamence](../assets/sprites/salamence/front.gif "Salamence: It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.")
 
 Cross Attack
 
-### #376 Metagross
+### [#376 Metagross](../pokemon/metagross.md)
 
 ![Metagross](../assets/sprites/metagross/front.gif "Metagross: It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.")
 
 Jaws on Land
 
-### #445 Garchomp
+### [#445 Garchomp](../pokemon/garchomp.md)
 
 ![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp: Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.")
 
@@ -140,7 +140,7 @@ Jaws on Land
 
 ## Gifted Pokémon
 
-### #133 Eevee
+### [#133 Eevee](../pokemon/eevee.md)
 
 ![Eevee](../assets/sprites/eevee/front.gif "Eevee: Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.")
 
@@ -156,7 +156,7 @@ Jaws on Land
 4. You will obtain an evolution item for Eevee from the sage at Sprout Tower, and its first elemental attack is learned at Level 13
 5. Further Eevee are available from the Celadon Game Corner later in the game.
 
-### #351 Castform
+### [#351 Castform](../pokemon/castform.md)
 
 ![Castform](../assets/sprites/castform/front.gif "Castform: This Pokémon can change its cells, taking different forms based on the temperature and humidity.")
 
@@ -169,7 +169,7 @@ Jaws on Land
 1. Castform replaces the Eevee that Bill gave you previously; all other rules are the same
 2. It comes at Level 25, and is attached with a Mystic Water (as usual..)
 
-### #447 Riolu
+### [#447 Riolu](../pokemon/riolu.md)
 
 ![Riolu](../assets/sprites/riolu/front.gif "Riolu: They communicate with one another using their auras. They are able to run all through the night.")
 
@@ -182,7 +182,7 @@ Jaws on Land
 1. Once you get to Mahogany Town, you will find Riley and Buck situated in one of the houses
 2. Talk to Riley and he'll give you an Egg that hatches into a Riolu if there is a free slot n your party.
 
-### #148 Dragonair
+### [#148 Dragonair](../pokemon/dragonair.md)
 
 ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair: Its crystalline orbs appear to give this Pokémon the power to freely control the weather.")
 
@@ -226,7 +226,7 @@ unchanged from their HG/SS events.
 
 ## Starters
 
-### #001 Bulbasaur, #004 Charmander, #007 Squirtle
+### [#001 Bulbasaur](../pokemon/bulbasaur.md), [#004 Charmander](../pokemon/charmander.md), [#007 Squirtle](../pokemon/squirtle.md)
 
 ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur: It carries a seed on its back right from birth. As it grows older, the seed also grows larger.") ![Charmander](../assets/sprites/charmander/front.gif "Charmander: The flame on its tail indicates CHARMANDER’s life force. If it is healthy, the flame burns brightly.") ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle: The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.")
 
@@ -242,7 +242,7 @@ unchanged from their HG/SS events.
 4. Show him your Kanto starter (evolution doesn't matter) and you'll receive the two you didn't pick
 5. (N.B.: This replaces the original Kanto starter event.)
 
-### #152 Chikorita, #155 Cyndaquil, #158 Totodile
+### [#152 Chikorita](../pokemon/chikorita.md), [#155 Cyndaquil](../pokemon/cyndaquil.md), [#158 Totodile](../pokemon/totodile.md)
 
 ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita: Its pleasantly aromatic leaf has the ability to check humidity and temperature.") ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil: It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.") ![Totodile](../assets/sprites/totodile/front.gif "Totodile: It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.")
 
@@ -256,7 +256,7 @@ unchanged from their HG/SS events.
 2. Once you reach Saffron City, you will find Professor Elm in Silph Co
 3. Talk to him with two free slots in your party and you'll automatically receive the other two Johto starters that you didn't pick.
 
-### #252 Treecko, #255 Torchic, #258 Mudkip
+### [#252 Treecko](../pokemon/treecko.md), [#255 Torchic](../pokemon/torchic.md), [#258 Mudkip](../pokemon/mudkip.md)
 
 ![Treecko](../assets/sprites/treecko/front.gif "Treecko: Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.") ![Torchic](../assets/sprites/torchic/front.gif "Torchic: Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.") ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip: Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.")
 
@@ -269,7 +269,7 @@ unchanged from their HG/SS events.
 1. A Hoenn starter is first available in the Azalea Town Pokémon Center for correctly answering the quiz questions
 2. You can then obtain the other two from Steven in Pewter City later on, by showing him the Hoenn starter you did pick (evolved is fine).
 
-### #387 Turtwig, #390 Chimchar, #393 Piplup
+### [#387 Turtwig](../pokemon/turtwig.md), [#390 Chimchar](../pokemon/chimchar.md), [#393 Piplup](../pokemon/piplup.md)
 
 ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig: Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.") ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar: The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.") ![Piplup](../assets/sprites/piplup/front.gif "Piplup: It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.")
 
@@ -286,7 +286,7 @@ unchanged from their HG/SS events.
 
 ## Legendary Pokémon
 
-### #144 Articuno, #145 Zapdos
+### [#144 Articuno](../pokemon/articuno.md), [#145 Zapdos](../pokemon/zapdos.md)
 
 ![Articuno](../assets/sprites/articuno/front.gif "Articuno: One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.") ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos: This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.")
 
@@ -300,7 +300,7 @@ unchanged from their HG/SS events.
 2. The difference is that they are now ten levels higher i.e
 3. Level 60.
 
-### #146 Moltres
+### [#146 Moltres](../pokemon/moltres.md)
 
 ![Moltres](../assets/sprites/moltres/front.gif "Moltres: This legendary bird Pokémon is said to bring early spring to the wintry lands it visits.")
 
@@ -314,7 +314,7 @@ unchanged from their HG/SS events.
 1. Moltres has been moved again; this time you will find it within the Cinnabar Gym after you have captured Heatran (see its section on how to do so)
 2. As with its relations, it is Level 60.
 
-### #150 Mewtwo
+### [#150 Mewtwo](../pokemon/mewtwo.md)
 
 ![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo: It usually remains motionless to conserve energy, so that it may unleash its full power in battle.")
 
@@ -328,7 +328,7 @@ unchanged from their HG/SS events.
 2. Its main difference is that it is now Level 75
 3. Check back in the same spot after capturing Mewtwo for a special surprise!
 
-### #151 Mew
+### [#151 Mew](../pokemon/mew.md)
 
 ![Mew](../assets/sprites/mew/front.gif "Mew: Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.")
 
@@ -343,7 +343,7 @@ unchanged from their HG/SS events.
 3. Talk to it again and it'll Teleport to the center-south; talk to it once more to get it to Teleport to a small alcove between the trees just south of the northern exit
 4. Talk to it again to battle it; it is Level 45.
 
-### #243 Raikou, #244 Entei, #245 Suicune
+### [#243 Raikou](../pokemon/raikou.md), [#244 Entei](../pokemon/entei.md), [#245 Suicune](../pokemon/suicune.md)
 
 ![Raikou](../assets/sprites/raikou/front.gif "Raikou: A Pokémon that races across the land while barking a cry that sounds like crashing thunder.") ![Entei](../assets/sprites/entei/front.gif "Entei: A Pokémon that races across the land. It is said that one is born every time a new volcano appears.") ![Suicune](../assets/sprites/suicune/front.gif "Suicune: This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears.")
 
@@ -357,7 +357,7 @@ unchanged from their HG/SS events.
 1. These beasts are exactly the same as HG/SS
 2. No changes to level or anything, so just do as you normally would.
 
-### #249 Lugia, #250 Ho-oh
+### [#249 Lugia](../pokemon/lugia.md), [#250 Ho-oh](../pokemon/ho-oh.md)
 
 ![Lugia](../assets/sprites/lugia/front.gif "Lugia: It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.") ![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh: A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.")
 
@@ -369,7 +369,7 @@ unchanged from their HG/SS events.
 
 1. Lugia and Ho-oh are also unchanged, save for the fact that the first one you encounter is now Level 50 instead of Level 45.
 
-### #251 Celebi
+### [#251 Celebi](../pokemon/celebi.md)
 
 ![Celebi](../assets/sprites/celebi/front.gif "Celebi: When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.")
 
@@ -394,7 +394,7 @@ appear and attack – note that this is one of the legendaries who you get ONLY 
 
 chance to battle, regardless of the result of the fight. It comes at Level 45.
 
-### #377 Regirock, #378 Regice, #379 Registeel
+### [#377 Regirock](../pokemon/regirock.md), [#378 Regice](../pokemon/regice.md), [#379 Registeel](../pokemon/registeel.md)
 
 ![Regirock](../assets/sprites/regirock/front.gif "Regirock: The same rocks that form its body have been found in ground layers around the world.") ![Regice](../assets/sprites/regice/front.gif "Regice: It is said to have slept in a glacier for thousands of years. Its body can’t be melted, even by magma.") ![Registeel](../assets/sprites/registeel/front.gif "Registeel: Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.")
 
@@ -411,7 +411,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 5. Mortar, Regice on the second to bottom floor of Ice Path, and Registeel in the Blackthorn Side of Dark Cave
 6. All three are encountered at Level 40.
 
-### #380 Latias, #381 Latios
+### [#380 Latias](../pokemon/latias.md), [#381 Latios](../pokemon/latios.md)
 
 ![Latias](../assets/sprites/latias/front.gif "Latias: It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.") ![Latios](../assets/sprites/latios/front.gif "Latios: It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.")
 
@@ -429,7 +429,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 6. Return to Vermilion City and talk to the plaque on the raised bit; with the Soul Dew in your inventory you will have the option to challenge the other Lati, though as the game warns you this is a one-time encounter
 7. If you select Yes, the other Lati will appear and you'll engage in battle with it; it will be at Level 40.
 
-### #383 Groudon, #382 Kyogre, #384 Rayquaza
+### [#383 Groudon](../pokemon/groudon.md), [#382 Kyogre](../pokemon/kyogre.md), [#384 Rayquaza](../pokemon/rayquaza.md)
 
 ![Groudon](../assets/sprites/groudon/front.gif "Groudon: Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.") ![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre: A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.") ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza: It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.")
 
@@ -450,7 +450,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 9. Re-enter the room again to find Rayquaza
 10. Rayquaza's level has been shifted up to Level 75.
 
-### #385 Jirachi
+### [#385 Jirachi](../pokemon/jirachi.md)
 
 ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi: Generations have believed that any wish written on a note on its head will come true when it awakens.")
 
@@ -470,7 +470,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 7. You have a choice between $300,000, a maxed Coin Case, a large amount of Rare Candies or a battle with a Level 45 Jirachi
 8. This will be your only chance to capture it, so I would recommend the last option…
 
-### #386 Deoxys
+### [#386 Deoxys](../pokemon/deoxys-normal.md)
 
 ![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys: DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.")
 
@@ -484,7 +484,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 2. If you do this after getting the Earth Badge between midnight and 4am inclusive, Deoxys will make an appearance and attack you
 3. It will be at Level 60.
 
-### #480 Uxie, #481 Mesprit, #482 Azelf
+### [#480 Uxie](../pokemon/uxie.md), [#481 Mesprit](../pokemon/mesprit.md), [#482 Azelf](../pokemon/azelf.md)
 
 ![Uxie](../assets/sprites/uxie/front.gif "Uxie: According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.") ![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit: This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.") ![Azelf](../assets/sprites/azelf/front.gif "Azelf: This Pokémon is said to have endowed humans with the determination needed to face any of life’s difficulties.")
 
@@ -499,7 +499,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 3. Once you do so, head to the Mystri Stage and you'll already find Uxie, Mesprit and Azelf there
 4. All three are encountered at Level 50.
 
-### #483 Dialga, #484 Palkia, #487 Giratina
+### [#483 Dialga](../pokemon/dialga.md), [#484 Palkia](../pokemon/palkia.md), [#487 Giratina](../pokemon/giratina-altered.md)
 
 ![Dialga](../assets/sprites/dialga/front.gif "Dialga: This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.") ![Palkia](../assets/sprites/palkia/front.gif "Palkia: Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.") ![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina: This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.")
 
@@ -515,7 +515,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 3. After capturing each one, you will get their respective Orb item as well (e.g
 4. capturing Dialga gives you the Adamant Orb.)
 
-### #485 Heatran
+### [#485 Heatran](../pokemon/heatran.md)
 
 ![Heatran](../assets/sprites/heatran/front.gif "Heatran: Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.")
 
@@ -531,7 +531,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 4. Talk to it to encounter it at Level 70
 5. Capturing Heatran also allows you to capture Moltres—and don't forget to trade your Magma Stone for the Azure Flute in Lavender Town!
 
-### #486 Regigigas
+### [#486 Regigigas](../pokemon/regigigas.md)
 
 ![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas: It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma.")
 
@@ -548,7 +548,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 4. Rock Climb down and talk to Regigigas to encounter it; it appears at Level 75
 5. Note that for those of you playing the full version of the game, it's no longer restricted by Slow Start!
 
-### #488 Cresselia
+### [#488 Cresselia](../pokemon/cresselia.md)
 
 ![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia: Those who sleep holding CRESSELIA’s feather are assured of joyful dreams. It is said to represent the crescent moon.")
 
@@ -567,7 +567,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 7. Challenge it to get a chance at capturing it; it is at Level 50
 8. Note that capturing it will reward you with the Lunar Wing, which is key to obtaining Darkrai.
 
-### #489 Phione
+### [#489 Phione](../pokemon/phione.md)
 
 ![Phione](../assets/sprites/phione/front.gif "Phione: When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.")
 
@@ -582,7 +582,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 3. This translates to you having a 2% chance of encountering a Level 30 Phione each time you find a Wild Pokémon on the water of Route 40 or Route 41
 4. Note that every other findable Pokémon by Surf can also be found at Level 30, so Repels won't work in this case! Once you get a Phione, show it to the girl who mentioned them on the shore to receive five Heart Scales!
 
-### #490 Manaphy
+### [#490 Manaphy](../pokemon/manaphy.md)
 
 ![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy: It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.")
 
@@ -596,7 +596,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 2. Talk to her and she'll mention how she's picked up a special Egg, and asks if you want to take hold of it
 3. Accept and she will give you a Manaphy Egg, complete with the usual special design! Just walk around for a while and it'll hatch into Manaphy.
 
-### #491 Darkrai
+### [#491 Darkrai](../pokemon/darkrai.md)
 
 ![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai: It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.")
 
@@ -611,7 +611,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 2. With it in hand, return to your room in New Bark Town and attempt to sleep again
 3. This time, the effect of the Lunar Wing will kick in, causing Darkrai to reveal itself and attack! It appears at Level 50, and you can do this as many times as you wish.
 
-### #492 Shaymin
+### [#492 Shaymin](../pokemon/shaymin-land.md)
 
 ![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin: The blooming of Gracidea flowers confers the power of flight upon it. Feelings  of gratitude are the message it delivers.")
 
@@ -627,7 +627,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 3. Talk to it; if you have the Azure Flute you will be asked if you want to play it
 4. If you agree, then Shaymin will calm down and challenge you to a battle; it is at Level 45.
 
-### #493 Arceus
+### [#493 Arceus](../pokemon/arceus.md)
 
 ![Arceus](../assets/sprites/arceus/front.gif "Arceus: According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.")
 

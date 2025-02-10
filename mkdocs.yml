@@ -1,8 +1,8 @@
 site_name: Sacred Gold/Storm Silver Wiki
-site_url: https://zhenga8533.github.io/ssgs-wiki/
+site_url: https://zhenga8533.github.io/sgss-wiki/
 site_description: A fanmade wiki for the Sacred Gold and Storm Silver ROM hacks.
 site_author: Volcaronitee
-repo_url: https://github.com/zhenga8533/ssgs-wiki
+repo_url: https://github.com/zhenga8533/sgss-wiki
 
 markdown_extensions:
   - admonition
