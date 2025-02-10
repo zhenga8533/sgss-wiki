@@ -6,7 +6,7 @@ Trade Evolutions
 ---
 
 Instead of trading them with the necessary item, simply "Use" it from the menu instead like an evolutionary stone. For the following Pokémon:
-Clamperl, Dusclops, Electabuzz, Magmar, Onix, Poliwhirl, Porygon, Porygon2, Rhydon, Scyther, Seadra, Slowpoke.
+Clamperl, Dusclops, Electabuzz, Magmar, Onix, Poliwhirl, Porygon, Porygon2, Rhydon, Scyther, Seadra, Slowpoke
 
 Instead of trading, obtain an item called the "Covenant Orb" and simply "Use" it from the menu. For the following Pokémon:
 Kadabra, Machoke, Graveler, Haunter

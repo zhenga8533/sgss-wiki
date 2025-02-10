@@ -7,7 +7,7 @@ Notation is the following…
 1. () = New
 1. {} = Replaces Original
 1. [] = Shifts from Original Position
-1. * = Level Up Moves Revamped
+1. \* = Level Up Moves Revamped
 
 In an ability context, if {} is used then it refers to which ability has been replaced by the new one, otherwise it's just an addition. For level-up moves, it is explanatory with the prior definitions.
 
@@ -16,8 +16,8 @@ Remember: Use Ctrl+F to find a Pokémon easily! If a Pokémon is missing from th
 Also an important note: the move relearner, together with the move deleter has been moved to the top left house in Cianwood City. There are also some changes to moves:
 
 1. Cut is a 60-power Grass move
-1. Strength is a 60-power Rock move with a 10% chance of reducing the foe's Attack
-1. Rock Smash is a 60-power Fighting move which now has a 30% chance of reducing Defense.
+1. Strength is a 60-power Rock move with a 10% chance of reducing the foe's Attack.
+1. Rock Smash is a 60-power Fighting move with a 30% chance of reducing Defense.
 1. All Black and White upgrades to moves have been added where possible, too.
 
 ---

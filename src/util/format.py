@@ -25,7 +25,7 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     pokemon_text = pokemon_data["flavor_text_entries"].get("heartgold", pokemon).replace("\n", " ")
 
     return (
-        f'![{pokemon}]({sprite}.gif "{pokemon_text}")'
+        f'![{pokemon}]({sprite}.gif "{pokemon}: {pokemon_text}")'
         if verify_asset_path(sprite + ".gif", logger)
         else (
             f'![{pokemon}]({sprite}.png "{pokemon}: {pokemon_text}")'

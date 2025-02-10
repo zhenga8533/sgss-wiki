@@ -21,7 +21,7 @@ Instead of trading them with the necessary item, simply "Use" it from the menu i
 1. Rhydon
 1. Scyther
 1. Seadra
-1. Slowpoke.
+1. Slowpoke
 
 Instead of trading, obtain an item called the "Covenant Orb" and simply "Use" it from the menu. For the following Pokémon:
 
