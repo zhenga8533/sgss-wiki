@@ -4,54 +4,54 @@
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Fearow](../../assets/sprites/fearow/front.gif "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.") | Fearow | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 25% |
-| ![Raticate](../../assets/sprites/raticate/front.gif "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.") | Raticate | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 25% |
-| ![Arbok](../../assets/sprites/arbok/front.gif "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.") | Arbok | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 20% |
-| ![Purugly](../../assets/sprites/purugly/front.gif "It would claim another Pokémon’s nest as its own if it finds a nest sufficiently comfortable.") | Purugly | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 10% |
-| ![Skuntank](../../assets/sprites/skuntank/front.gif "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.") | Skuntank | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 10% |
-| ![Jigglypuff](../../assets/sprites/jigglypuff/front.gif "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.") | Jigglypuff | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 9% |
-| ![Wigglytuff](../../assets/sprites/wigglytuff/front.gif "Their fur feels so good that if two of them snuggle together, they won’t want to be separated.") | Wigglytuff | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 1% |
+| ![Fearow](../../assets/sprites/fearow/front.gif "Fearow: It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.") | Fearow | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 25% |
+| ![Raticate](../../assets/sprites/raticate/front.gif "Raticate: Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.") | Raticate | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 25% |
+| ![Arbok](../../assets/sprites/arbok/front.gif "Arbok: With a very vengeful nature, it won’t give up the chase, no matter how far, once it targets its prey.") | Arbok | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 20% |
+| ![Purugly](../../assets/sprites/purugly/front.gif "Purugly: It would claim another Pokémon’s nest as its own if it finds a nest sufficiently comfortable.") | Purugly | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 10% |
+| ![Skuntank](../../assets/sprites/skuntank/front.gif "Skuntank: It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.") | Skuntank | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 10% |
+| ![Jigglypuff](../../assets/sprites/jigglypuff/front.gif "Jigglypuff: Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.") | Jigglypuff | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 9% |
+| ![Wigglytuff](../../assets/sprites/wigglytuff/front.gif "Wigglytuff: It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.") | Wigglytuff | ![Grass](../../assets/encounter_types/grass.png "Grass"){: style="max-width: 24px;"" } | 46 – 50 | 1% |
 
 ### Meridian Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Wigglytuff](../../assets/sprites/wigglytuff/front.gif "Their fur feels so good that if two of them snuggle together, they won’t want to be separated.") | Wigglytuff | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 46 – 50 | 100% |
+| ![Wigglytuff](../../assets/sprites/wigglytuff/front.gif "Wigglytuff: It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.") | Wigglytuff | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 46 – 50 | 100% |
 
 ### Pastoral Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Sandslash](../../assets/sprites/sandslash/front.gif "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.") | Sandslash | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 46 – 50 | 100% |
+| ![Sandslash](../../assets/sprites/sandslash/front.gif "Sandslash: If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.") | Sandslash | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 46 – 50 | 100% |
 
 ### Surf
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Goldeen](../../assets/sprites/goldeen/front.gif "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.") | Goldeen | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 46 – 50 | 93% |
-| ![Seaking](../../assets/sprites/seaking/front.gif "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.") | Seaking | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 46 – 50 | 7% |
+| ![Goldeen](../../assets/sprites/goldeen/front.gif "Goldeen: A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.") | Goldeen | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 46 – 50 | 93% |
+| ![Seaking](../../assets/sprites/seaking/front.gif "Seaking: Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.") | Seaking | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style="max-width: 24px;"" } | 46 – 50 | 7% |
 
 ### Old Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Magikarp](../../assets/sprites/magikarp/front.gif "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but usually not more than seven feet.") | Magikarp | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 60% |
-| ![Goldeen](../../assets/sprites/goldeen/front.gif "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.") | Goldeen | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 30% |
-| ![Seaking](../../assets/sprites/seaking/front.gif "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.") | Seaking | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 10% |
+| ![Magikarp](../../assets/sprites/magikarp/front.gif "Magikarp: For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.") | Magikarp | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 60% |
+| ![Goldeen](../../assets/sprites/goldeen/front.gif "Goldeen: A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.") | Goldeen | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 30% |
+| ![Seaking](../../assets/sprites/seaking/front.gif "Seaking: Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.") | Seaking | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style="max-width: 24px;"" } | 10 | 10% |
 
 ### Good Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Magikarp](../../assets/sprites/magikarp/front.gif "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but usually not more than seven feet.") | Magikarp | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 60% |
-| ![Goldeen](../../assets/sprites/goldeen/front.gif "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.") | Goldeen | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 30% |
-| ![Seaking](../../assets/sprites/seaking/front.gif "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.") | Seaking | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 10% |
+| ![Magikarp](../../assets/sprites/magikarp/front.gif "Magikarp: For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.") | Magikarp | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 60% |
+| ![Goldeen](../../assets/sprites/goldeen/front.gif "Goldeen: A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.") | Goldeen | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 30% |
+| ![Seaking](../../assets/sprites/seaking/front.gif "Seaking: Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.") | Seaking | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style="max-width: 24px;"" } | 25 | 10% |
 
 ### Super Rod
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Magikarp](../../assets/sprites/magikarp/front.gif "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but usually not more than seven feet.") | Magikarp | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 60% |
-| ![Goldeen](../../assets/sprites/goldeen/front.gif "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.") | Goldeen | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 30% |
-| ![Seaking](../../assets/sprites/seaking/front.gif "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.") | Seaking | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 10% |
+| ![Magikarp](../../assets/sprites/magikarp/front.gif "Magikarp: For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.") | Magikarp | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 60% |
+| ![Goldeen](../../assets/sprites/goldeen/front.gif "Goldeen: A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.") | Goldeen | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 30% |
+| ![Seaking](../../assets/sprites/seaking/front.gif "Seaking: Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.") | Seaking | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style="max-width: 24px;"" } | 50 | 10% |
 

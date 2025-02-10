@@ -21,8 +21,11 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     pokemon_id = format_id(pokemon)
     sprite = f"../assets/sprites/{pokemon_id}/{view}"
-    pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
-    pokemon_text = pokemon_data["flavor_text_entries"].get("heartgold", pokemon).replace("\n", " ")
+    file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
+    if not os.path.exists(file_path):
+        file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
+    pokemon_data = json.loads(load(file_path, logger))
+    pokemon_text = pokemon_data["flavor_text_entries"].get("soulsilver", pokemon).replace("\n", " ")
 
     return (
         f'![{pokemon}]({sprite}.gif "{pokemon}: {pokemon_text}")'

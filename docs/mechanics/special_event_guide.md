@@ -12,7 +12,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #479 Rotom
 
-![Rotom](../assets/sprites/rotom/front.gif "Research continues on this Pokémon, which could be the power source of a unique motor.")
+![Rotom](../assets/sprites/rotom/front.gif "Rotom: Research continues on this Pokémon, which could be the power source of a unique motor.")
 
 **Requirements:**
 
@@ -26,7 +26,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #442 Spiritomb
 
-![Spiritomb](../assets/sprites/spiritomb/front.gif "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.")
+![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb: It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.")
 
 **Requirements:**
 
@@ -43,7 +43,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #185 Sudowoodo
 
-![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.")
+![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo: It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.")
 
 **Requirements:**
 
@@ -56,7 +56,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #131 Lapras
 
-![Lapras](../assets/sprites/lapras/front.gif "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.")
+![Lapras](../assets/sprites/lapras/front.gif "Lapras: It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.")
 
 **Requirements:**
 
@@ -70,7 +70,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #130 Gyarados
 
-![Gyarados](../assets/sprites/gyarados/front.gif "They say that during past strife, GYARADOS would appear and leave blazing ruins in its wake.")
+![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados: Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.")
 
 **Requirements:**
 
@@ -83,7 +83,7 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #143 Snorlax
 
-![Snorlax](../assets/sprites/snorlax/front.gif "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.")
+![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax: Its stomach’s digestive juices can dissolve any kind of poison. It can even eat things off the ground.")
 
 **Requirements:**
 
@@ -110,31 +110,31 @@ Note that for newly added event encounters, you have endless opportunities to ca
 
 ### #149 Dragonite
 
-![Dragonite](../assets/sprites/dragonite/front.gif "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.")
+![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite: This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.")
 
 The Black Rock
 
 ### #248 Tyranitar
 
-![Tyranitar](../assets/sprites/tyranitar/front.gif "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.")
+![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar: Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.")
 
 Menacing Boom
 
 ### #373 Salamence
 
-![Salamence](../assets/sprites/salamence/front.gif "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.")
+![Salamence](../assets/sprites/salamence/front.gif "Salamence: It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.")
 
 Cross Attack
 
 ### #376 Metagross
 
-![Metagross](../assets/sprites/metagross/front.gif "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.")
+![Metagross](../assets/sprites/metagross/front.gif "Metagross: It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.")
 
 Jaws on Land
 
 ### #445 Garchomp
 
-![Garchomp](../assets/sprites/garchomp/front.gif "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.")
+![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp: Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.")
 
 ---
 
@@ -142,7 +142,7 @@ Jaws on Land
 
 ### #133 Eevee
 
-![Eevee](../assets/sprites/eevee/front.gif "It has the ability to alter the composition of its body to suit its surrounding environment.")
+![Eevee](../assets/sprites/eevee/front.gif "Eevee: Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.")
 
 **Requirements:**
 
@@ -158,7 +158,7 @@ Jaws on Land
 
 ### #351 Castform
 
-![Castform](../assets/sprites/castform/front.gif "This Pokémon can change its cells, taking different forms based on the temperature and humidity.")
+![Castform](../assets/sprites/castform/front.gif "Castform: This Pokémon can change its cells, taking different forms based on the temperature and humidity.")
 
 **Requirements:**
 
@@ -171,7 +171,7 @@ Jaws on Land
 
 ### #447 Riolu
 
-![Riolu](../assets/sprites/riolu/front.gif "They communicate with one another using their auras. They are able to run all through the night.")
+![Riolu](../assets/sprites/riolu/front.gif "Riolu: They communicate with one another using their auras. They are able to run all through the night.")
 
 **Requirements:**
 
@@ -184,7 +184,7 @@ Jaws on Land
 
 ### #148 Dragonair
 
-![Dragonair](../assets/sprites/dragonair/front.gif "They say that if it emits an aura from its whole body, the weather will begin to change instantly.")
+![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair: Its crystalline orbs appear to give this Pokémon the power to freely control the weather.")
 
 **Requirements:**
 
@@ -228,7 +228,7 @@ unchanged from their HG/SS events.
 
 ### #001 Bulbasaur, #004 Charmander, #007 Squirtle
 
-![Bulbasaur](../assets/sprites/bulbasaur/front.gif "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.") ![Charmander](../assets/sprites/charmander/front.gif "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.") ![Squirtle](../assets/sprites/squirtle/front.gif "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.")
+![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur: It carries a seed on its back right from birth. As it grows older, the seed also grows larger.") ![Charmander](../assets/sprites/charmander/front.gif "Charmander: The flame on its tail indicates CHARMANDER’s life force. If it is healthy, the flame burns brightly.") ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle: The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.")
 
 **Requirements:**
 
@@ -244,7 +244,7 @@ unchanged from their HG/SS events.
 
 ### #152 Chikorita, #155 Cyndaquil, #158 Totodile
 
-![Chikorita](../assets/sprites/chikorita/front.gif "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sunrays.") ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.") ![Totodile](../assets/sprites/totodile/front.gif "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.")
+![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita: Its pleasantly aromatic leaf has the ability to check humidity and temperature.") ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil: It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.") ![Totodile](../assets/sprites/totodile/front.gif "Totodile: It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.")
 
 **Requirements:**
 
@@ -258,7 +258,7 @@ unchanged from their HG/SS events.
 
 ### #252 Treecko, #255 Torchic, #258 Mudkip
 
-![Treecko](../assets/sprites/treecko/front.gif "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.") ![Torchic](../assets/sprites/torchic/front.gif "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.") ![Mudkip](../assets/sprites/mudkip/front.gif "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.")
+![Treecko](../assets/sprites/treecko/front.gif "Treecko: Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.") ![Torchic](../assets/sprites/torchic/front.gif "Torchic: Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.") ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip: Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.")
 
 **Requirements:**
 
@@ -271,7 +271,7 @@ unchanged from their HG/SS events.
 
 ### #387 Turtwig, #390 Chimchar, #393 Piplup
 
-![Turtwig](../assets/sprites/turtwig/front.gif "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.") ![Chimchar](../assets/sprites/chimchar/front.gif "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.") ![Piplup](../assets/sprites/piplup/front.gif "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.")
+![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig: Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.") ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar: The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.") ![Piplup](../assets/sprites/piplup/front.gif "Piplup: It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.")
 
 **Requirements:**
 
@@ -288,7 +288,7 @@ unchanged from their HG/SS events.
 
 ### #144 Articuno, #145 Zapdos
 
-![Articuno](../assets/sprites/articuno/front.gif "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.") ![Zapdos](../assets/sprites/zapdos/front.gif "This legendary bird Pokémon causes savage thunderstorms by flapping its glittering wings.")
+![Articuno](../assets/sprites/articuno/front.gif "Articuno: One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.") ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos: This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.")
 
 **Requirements:**
 
@@ -302,7 +302,7 @@ unchanged from their HG/SS events.
 
 ### #146 Moltres
 
-![Moltres](../assets/sprites/moltres/front.gif "This legendary Pokémon scatters embers with every flap of its wings. It is a thrilling sight to behold.")
+![Moltres](../assets/sprites/moltres/front.gif "Moltres: This legendary bird Pokémon is said to bring early spring to the wintry lands it visits.")
 
 **Requirements:**
 
@@ -316,7 +316,7 @@ unchanged from their HG/SS events.
 
 ### #150 Mewtwo
 
-![Mewtwo](../assets/sprites/mewtwo/front.gif "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.")
+![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo: It usually remains motionless to conserve energy, so that it may unleash its full power in battle.")
 
 **Requirements:**
 
@@ -330,7 +330,7 @@ unchanged from their HG/SS events.
 
 ### #151 Mew
 
-![Mew](../assets/sprites/mew/front.gif "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.")
+![Mew](../assets/sprites/mew/front.gif "Mew: Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.")
 
 **Requirements:**
 
@@ -345,7 +345,7 @@ unchanged from their HG/SS events.
 
 ### #243 Raikou, #244 Entei, #245 Suicune
 
-![Raikou](../assets/sprites/raikou/front.gif "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.") ![Entei](../assets/sprites/entei/front.gif "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.") ![Suicune](../assets/sprites/suicune/front.gif "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.")
+![Raikou](../assets/sprites/raikou/front.gif "Raikou: A Pokémon that races across the land while barking a cry that sounds like crashing thunder.") ![Entei](../assets/sprites/entei/front.gif "Entei: A Pokémon that races across the land. It is said that one is born every time a new volcano appears.") ![Suicune](../assets/sprites/suicune/front.gif "Suicune: This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears.")
 
 **Requirements:**
 
@@ -359,7 +359,7 @@ unchanged from their HG/SS events.
 
 ### #249 Lugia, #250 Ho-oh
 
-![Lugia](../assets/sprites/lugia/front.gif "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.") ![Ho-oh](../assets/sprites/ho-oh/front.gif "Legends claim this Pokémon flies the world’s skies continuously on its magnificent, seven-colored wings.")
+![Lugia](../assets/sprites/lugia/front.gif "Lugia: It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.") ![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh: A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.")
 
 **Requirements:**
 
@@ -371,7 +371,7 @@ unchanged from their HG/SS events.
 
 ### #251 Celebi
 
-![Celebi](../assets/sprites/celebi/front.gif "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.")
+![Celebi](../assets/sprites/celebi/front.gif "Celebi: When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.")
 
 **Requirements:**
 
@@ -396,7 +396,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #377 Regirock, #378 Regice, #379 Registeel
 
-![Regirock](../assets/sprites/regirock/front.gif "The same rocks that form its body have been found in ground layers around the world.") ![Regice](../assets/sprites/regice/front.gif "It is said to have slept in a glacier for thousands of years. Its body can’t be melted, even by magma.") ![Registeel](../assets/sprites/registeel/front.gif "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.")
+![Regirock](../assets/sprites/regirock/front.gif "Regirock: The same rocks that form its body have been found in ground layers around the world.") ![Regice](../assets/sprites/regice/front.gif "Regice: It is said to have slept in a glacier for thousands of years. Its body can’t be melted, even by magma.") ![Registeel](../assets/sprites/registeel/front.gif "Registeel: Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.")
 
 **Requirements:**
 
@@ -413,7 +413,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #380 Latias, #381 Latios
 
-![Latias](../assets/sprites/latias/front.gif "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.") ![Latios](../assets/sprites/latios/front.gif "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.")
+![Latias](../assets/sprites/latias/front.gif "Latias: It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.") ![Latios](../assets/sprites/latios/front.gif "Latios: It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.")
 
 **Requirements:**
 
@@ -431,7 +431,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #383 Groudon, #382 Kyogre, #384 Rayquaza
 
-![Groudon](../assets/sprites/groudon/front.gif "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.") ![Kyogre](../assets/sprites/kyogre/front.gif "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.") ![Rayquaza](../assets/sprites/rayquaza/front.gif "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.")
+![Groudon](../assets/sprites/groudon/front.gif "Groudon: Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.") ![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre: A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.") ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza: It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.")
 
 **Requirements:**
 
@@ -452,7 +452,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #385 Jirachi
 
-![Jirachi](../assets/sprites/jirachi/front.gif "Generations have believed that any wish written on a note on its head will come true when it awakens.")
+![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi: Generations have believed that any wish written on a note on its head will come true when it awakens.")
 
 **Requirements:**
 
@@ -472,7 +472,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #386 Deoxys
 
-![Deoxys](../assets/sprites/deoxys-normal/front.gif "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.")
+![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys: DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.")
 
 **Requirements:**
 
@@ -486,7 +486,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #480 Uxie, #481 Mesprit, #482 Azelf
 
-![Uxie](../assets/sprites/uxie/front.gif "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.") ![Mesprit](../assets/sprites/mesprit/front.gif "This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.") ![Azelf](../assets/sprites/azelf/front.gif "This Pokémon is said to have endowed humans with the determination needed to face any of life’s difficulties.")
+![Uxie](../assets/sprites/uxie/front.gif "Uxie: According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.") ![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit: This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.") ![Azelf](../assets/sprites/azelf/front.gif "Azelf: This Pokémon is said to have endowed humans with the determination needed to face any of life’s difficulties.")
 
 **Requirements:**
 
@@ -501,7 +501,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #483 Dialga, #484 Palkia, #487 Giratina
 
-![Dialga](../assets/sprites/dialga/front.gif "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.") ![Palkia](../assets/sprites/palkia/front.gif "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.") ![Giratina](../assets/sprites/giratina-altered/front.gif "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.")
+![Dialga](../assets/sprites/dialga/front.gif "Dialga: This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.") ![Palkia](../assets/sprites/palkia/front.gif "Palkia: Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.") ![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina: This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.")
 
 **Requirements:**
 
@@ -517,7 +517,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #485 Heatran
 
-![Heatran](../assets/sprites/heatran/front.gif "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.")
+![Heatran](../assets/sprites/heatran/front.gif "Heatran: Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.")
 
 **Requirements:**
 
@@ -533,7 +533,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #486 Regigigas
 
-![Regigigas](../assets/sprites/regigigas/front.gif "It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma.")
+![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas: It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma.")
 
 **Requirements:**
 
@@ -550,7 +550,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #488 Cresselia
 
-![Cresselia](../assets/sprites/cresselia/front.gif "Those who sleep holding CRESSELIA’s feather are assured of joyful dreams. It is said to represent the crescent moon.")
+![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia: Those who sleep holding CRESSELIA’s feather are assured of joyful dreams. It is said to represent the crescent moon.")
 
 **Requirements:**
 
@@ -569,7 +569,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #489 Phione
 
-![Phione](../assets/sprites/phione/front.gif "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.")
+![Phione](../assets/sprites/phione/front.gif "Phione: When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.")
 
 **Requirements:**
 
@@ -584,7 +584,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #490 Manaphy
 
-![Manaphy](../assets/sprites/manaphy/front.gif "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.")
+![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy: It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.")
 
 **Requirements:**
 
@@ -598,7 +598,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #491 Darkrai
 
-![Darkrai](../assets/sprites/darkrai/front.gif "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.")
+![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai: It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.")
 
 **Requirements:**
 
@@ -613,7 +613,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #492 Shaymin
 
-![Shaymin](../assets/sprites/shaymin-land/front.gif "The blooming of Gracidea flowers confers the power of flight upon it. Feelings  of gratitude are the message it delivers.")
+![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin: The blooming of Gracidea flowers confers the power of flight upon it. Feelings  of gratitude are the message it delivers.")
 
 **Requirements:**
 
@@ -629,7 +629,7 @@ chance to battle, regardless of the result of the fight. It comes at Level 45.
 
 ### #493 Arceus
 
-![Arceus](../assets/sprites/arceus/front.gif "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.")
+![Arceus](../assets/sprites/arceus/front.gif "Arceus: According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.")
 
 Capturing Arceus is the main objective of Sacred Gold & Storm Silver, so if you do manage to capture it, you will have officially completed the hack (and there will be text in the game reflecting as such). However, due to this, it's an incredibly tough Pokémon to capture!
 

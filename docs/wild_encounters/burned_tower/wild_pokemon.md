@@ -8,27 +8,27 @@
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Rattata](../../assets/sprites/rattata/front.gif "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.") | Rattata | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 20% |
-| ![Koffing](../../assets/sprites/koffing/front.gif "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.") | Koffing | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 20% |
-| ![Zigzagoon](../../assets/sprites/zigzagoon/front.gif "It gets interested in everything, which is why it zigs and zags. It is good at finding items.") | Zigzagoon | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
-| ![Cubone](../../assets/sprites/cubone/front.gif "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.") | Cubone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
-| ![Magby](../../assets/sprites/magby/front.gif "Each and every time it inhales and exhales, hot embers dribble from its mouth and nostrils.") | Magby | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
-| ![Grimer](../../assets/sprites/grimer/front.gif "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.") | Grimer | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
-| ![Duskull](../../assets/sprites/duskull/front.gif "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.") | Duskull | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
-| ![Shuppet](../../assets/sprites/shuppet/front.gif "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.") | Shuppet | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Rattata](../../assets/sprites/rattata/front.gif "Rattata: Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.") | Rattata | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 20% |
+| ![Koffing](../../assets/sprites/koffing/front.gif "Koffing: The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.") | Koffing | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 20% |
+| ![Zigzagoon](../../assets/sprites/zigzagoon/front.gif "Zigzagoon: It gets interested in everything, which is why it zigs and zags. It is good at finding items.") | Zigzagoon | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Cubone](../../assets/sprites/cubone/front.gif "Cubone: It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.") | Cubone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Magby](../../assets/sprites/magby/front.gif "Magby: It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don’t underestimate it.") | Magby | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Grimer](../../assets/sprites/grimer/front.gif "Grimer: Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.") | Grimer | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Duskull](../../assets/sprites/duskull/front.gif "Duskull: If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.") | Duskull | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
+| ![Shuppet](../../assets/sprites/shuppet/front.gif "Shuppet: It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.") | Shuppet | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 22 – 23 | 10% |
 
 ### Meridian Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Raticate](../../assets/sprites/raticate/front.gif "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.") | Raticate | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 22 – 23 | 50% |
-| ![Marowak](../../assets/sprites/marowak/front.gif "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.") | Marowak | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 22 – 23 | 50% |
+| ![Raticate](../../assets/sprites/raticate/front.gif "Raticate: Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.") | Raticate | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 22 – 23 | 50% |
+| ![Marowak](../../assets/sprites/marowak/front.gif "Marowak: It collects bones from an unknown place. Some whisper that a MAROWAK graveyard exists somewhere in the world.") | Marowak | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 22 – 23 | 50% |
 
 ### Pastoral Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Chimecho](../../assets/sprites/chimecho/front.gif "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.") | Chimecho | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 22 – 23 | 100% |
+| ![Chimecho](../../assets/sprites/chimecho/front.gif "Chimecho: It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.") | Chimecho | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 22 – 23 | 100% |
 
 ---
 
@@ -38,25 +38,25 @@
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Raticate](../../assets/sprites/raticate/front.gif "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.") | Raticate | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 20% |
-| ![Koffing](../../assets/sprites/koffing/front.gif "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.") | Koffing | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 20% |
-| ![Linoone](../../assets/sprites/linoone/front.gif "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.") | Linoone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
-| ![Cubone](../../assets/sprites/cubone/front.gif "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.") | Cubone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
-| ![Magby](../../assets/sprites/magby/front.gif "Each and every time it inhales and exhales, hot embers dribble from its mouth and nostrils.") | Magby | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
-| ![Grimer](../../assets/sprites/grimer/front.gif "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.") | Grimer | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
-| ![Duskull](../../assets/sprites/duskull/front.gif "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.") | Duskull | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
-| ![Shuppet](../../assets/sprites/shuppet/front.gif "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.") | Shuppet | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Raticate](../../assets/sprites/raticate/front.gif "Raticate: Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.") | Raticate | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 20% |
+| ![Koffing](../../assets/sprites/koffing/front.gif "Koffing: The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.") | Koffing | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 20% |
+| ![Linoone](../../assets/sprites/linoone/front.gif "Linoone: When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.") | Linoone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Cubone](../../assets/sprites/cubone/front.gif "Cubone: It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.") | Cubone | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Magby](../../assets/sprites/magby/front.gif "Magby: It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don’t underestimate it.") | Magby | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Grimer](../../assets/sprites/grimer/front.gif "Grimer: Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.") | Grimer | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Duskull](../../assets/sprites/duskull/front.gif "Duskull: If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.") | Duskull | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
+| ![Shuppet](../../assets/sprites/shuppet/front.gif "Shuppet: It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.") | Shuppet | ![Cave](../../assets/encounter_types/cave.png "Cave"){: style="max-width: 24px;"" } | 23 – 24 | 10% |
 
 ### Meridian Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Weezing](../../assets/sprites/weezing/front.gif "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.") | Weezing | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 23 – 24 | 50% |
-| ![Magmar](../../assets/sprites/magmar/front.gif "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.") | Magmar | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 23 – 24 | 50% |
+| ![Weezing](../../assets/sprites/weezing/front.gif "Weezing: Top-grade perfume is made using its internal poison gases by diluting them to the highest level.") | Weezing | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 23 – 24 | 50% |
+| ![Magmar](../../assets/sprites/magmar/front.gif "Magmar: The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.") | Magmar | ![Meridian Sound](../../assets/encounter_types/meridian_sound.png "Meridian Sound"){: style="max-width: 24px;"" } | 23 – 24 | 50% |
 
 ### Pastoral Sound
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Chimecho](../../assets/sprites/chimecho/front.gif "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.") | Chimecho | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 23 – 24 | 100% |
+| ![Chimecho](../../assets/sprites/chimecho/front.gif "Chimecho: It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.") | Chimecho | ![Pastoral Sound](../../assets/encounter_types/pastoral_sound.png "Pastoral Sound"){: style="max-width: 24px;"" } | 23 – 24 | 100% |
 
