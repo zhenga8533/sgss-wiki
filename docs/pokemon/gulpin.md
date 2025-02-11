@@ -83,7 +83,7 @@ Gulpin has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
+| 1 HP | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
 
 ---
 

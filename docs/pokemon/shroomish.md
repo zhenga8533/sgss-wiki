@@ -77,7 +77,7 @@ Shroomish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Poison-type attack.">Kebia Berry</span> (5%) |
+| 1 HP | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Poison-type attack.">Kebia Berry</span> (5%) |
 
 ---
 

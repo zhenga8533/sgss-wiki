@@ -79,7 +79,7 @@ Happiny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 130 | 140 | 110 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.">Lucky Punch</span> (5%) |
+| 1 HP | 130 | 140 | 110 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.">Lucky Punch</span> (5%) |
 
 ---
 

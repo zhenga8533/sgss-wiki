@@ -79,7 +79,7 @@ Muk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None<br>1 Atk | 75 | 70 | 175 | Medium | <span class="tooltip" title="A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.">Nugget</span> (5%) |
+| 1 HP<br>1 Atk | 75 | 70 | 175 | Medium | <span class="tooltip" title="A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.">Nugget</span> (5%) |
 
 ---
 

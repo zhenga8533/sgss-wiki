@@ -79,7 +79,7 @@ Phanpy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 120 | 70 | 66 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.">Passho Berry</span> (5%) |
+| 1 HP | 120 | 70 | 66 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.">Passho Berry</span> (5%) |
 
 ---
 

@@ -81,7 +81,7 @@ Chansey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 30 | 140 | 395 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
+| 2 HP | 30 | 140 | 395 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
 
 ---
 
