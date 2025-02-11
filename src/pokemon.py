@@ -375,7 +375,11 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         for item in held_items:
             item_rarity = held_items[item]
             item_data = get_item(item)
-            if item_data is None or "generation-iv" not in item_data["games"] or "soulsilver" not in item_rarity:
+            if item_data is None:
+                logger.log(logging.WARNING, f"Item {item} not found in PokéAPI")
+                continue
+            if "generation-iv" not in item_data["games"] or "soulsilver" not in item_rarity:
+                logger.log(logging.WARNING, f"Item {item} not found in Generation IV games")
                 continue
 
             item_effect = (
