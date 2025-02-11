@@ -81,7 +81,7 @@ Porygon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 79 | Medium | N/A |
+| 1 Sp. Atk | 45 | 50 | 79 | Medium | N/A |
 
 ---
 

@@ -75,7 +75,7 @@ Kecleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 200 | 70 | 154 | Medium Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from confusion.">Persim Berry</span> (5%) |
+| 1 Sp. Def | 200 | 70 | 154 | Medium Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from confusion.">Persim Berry</span> (5%) |
 
 ---
 

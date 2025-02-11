@@ -79,7 +79,7 @@ Dewgong has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 75 | 70 | 166 | Mediu |
+| 2 Sp. Def | 75 | 70 | 166 | Mediu |
 
 ---
 

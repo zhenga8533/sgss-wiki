@@ -83,7 +83,7 @@ Cacturne has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 60 | 35 | 166 | Medium Slow | <span class="tooltip" title="A held item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
+| 1 Atk<br>1 Sp. Atk | 60 | 35 | 166 | Medium Slow | <span class="tooltip" title="A held item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
 
 ---
 

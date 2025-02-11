@@ -75,7 +75,7 @@ Regigigas has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 0 | 335 | Slow | N/A |
+| 3 Atk | 3 | 0 | 335 | Slow | N/A |
 
 ---
 

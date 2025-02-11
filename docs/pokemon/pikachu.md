@@ -87,7 +87,7 @@ Pikachu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 190 | 50 | 92 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.">Light Ball</span> (5%) |
+| 2 Spd | 190 | 50 | 92 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.">Light Ball</span> (5%) |
 
 ---
 

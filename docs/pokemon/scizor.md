@@ -85,7 +85,7 @@ Scizor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 25 | 50 | 175 | Medium | N/A |
+| 2 Atk | 25 | 50 | 175 | Medium | N/A |
 
 ---
 

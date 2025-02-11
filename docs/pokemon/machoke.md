@@ -81,7 +81,7 @@ Machoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 50 | 142 | Medium Slo |
+| 2 Atk | 90 | 50 | 142 | Medium Slo |
 
 ---
 

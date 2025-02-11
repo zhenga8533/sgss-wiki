@@ -85,7 +85,7 @@ Staravia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 119 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.">Yache Berry</span> (5%) |
+| 2 Spd | 120 | 70 | 119 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.">Yache Berry</span> (5%) |
 
 ---
 

@@ -81,7 +81,7 @@ Slowpoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
+| 1 None | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
 
 ---
 

@@ -75,7 +75,7 @@ Chatot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 30 | 35 | 144 | Medium Slow | <span class="tooltip" title="A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
+| 1 Atk | 30 | 35 | 144 | Medium Slow | <span class="tooltip" title="A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
 
 ---
 

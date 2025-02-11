@@ -79,7 +79,7 @@ Spinarak has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 50 | Fast | N/A |
+| 1 Atk | 255 | 70 | 50 | Fast | N/A |
 
 ---
 

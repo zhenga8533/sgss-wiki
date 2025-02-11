@@ -79,7 +79,7 @@ Mantine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 25 | 50 | 170 | Slow | N/A |
+| 2 Sp. Def | 25 | 50 | 170 | Slow | N/A |
 
 ---
 

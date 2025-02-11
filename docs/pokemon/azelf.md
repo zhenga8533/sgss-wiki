@@ -75,7 +75,7 @@ Azelf has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Attack | 3 | 140 | 290 | Slow | N/A |
+| 2 Atk<br>1 Sp. Atk | 3 | 140 | 290 | Slow | N/A |
 
 ---
 

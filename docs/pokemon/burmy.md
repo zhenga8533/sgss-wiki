@@ -95,7 +95,7 @@ Burmy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 120 | 70 | 45 | Medium | N/A |
+| 1 Sp. Def | 120 | 70 | 45 | Medium | N/A |
 
 ---
 

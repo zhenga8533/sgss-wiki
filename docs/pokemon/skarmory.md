@@ -77,7 +77,7 @@ Skarmory has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 25 | 50 | 163 | Slo |
+| 2 Def | 25 | 50 | 163 | Slo |
 
 ---
 

@@ -79,7 +79,7 @@ Ninetales has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
+| 1 Sp. Def<br>1 Spd | 75 | 50 | 177 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
 
 ---
 

@@ -85,7 +85,7 @@ Doduo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 62 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
+| 1 Atk | 190 | 70 | 62 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
 
 ---
 

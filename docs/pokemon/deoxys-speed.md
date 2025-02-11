@@ -88,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 3 | 0 | 270 | Slow | N/A |
+| 3 Spd | 3 | 0 | 270 | Slow | N/A |
 
 ---
 

@@ -85,7 +85,7 @@ Starly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 49 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.">Yache Berry</span> (5%) |
+| 1 Spd | 255 | 70 | 49 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.">Yache Berry</span> (5%) |
 
 ---
 

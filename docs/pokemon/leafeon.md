@@ -89,7 +89,7 @@ Leafeon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 35 | 184 | Medium | N/A |
+| 2 Def | 45 | 35 | 184 | Medium | N/A |
 
 ---
 

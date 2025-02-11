@@ -79,7 +79,7 @@ Growlithe has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 50 | 70 | Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
+| 1 Atk | 190 | 50 | 70 | Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
 
 ---
 

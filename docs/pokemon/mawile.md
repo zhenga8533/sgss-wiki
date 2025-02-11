@@ -75,7 +75,7 @@ Mawile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 50 | 118 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Fire-type attack.">Occa Berry</span> (5%) |
+| 1 Atk<br>1 Def | 45 | 50 | 118 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Fire-type attack.">Occa Berry</span> (5%) |
 
 ---
 

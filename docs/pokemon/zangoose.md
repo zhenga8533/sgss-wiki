@@ -75,7 +75,7 @@ Zangoose has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 160 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
+| 2 Atk | 90 | 70 | 160 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
 
 ---
 

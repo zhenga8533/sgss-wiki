@@ -81,7 +81,7 @@ Cleffa has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 150 | 140 | 44 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (50%) |
+| 1 Sp. Def | 150 | 140 | 44 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (50%) |
 
 ---
 

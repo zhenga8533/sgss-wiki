@@ -85,7 +85,7 @@ Ledian has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 90 | 70 | 137 | Fast | N/A |
+| 2 Sp. Def | 90 | 70 | 137 | Fast | N/A |
 
 ---
 

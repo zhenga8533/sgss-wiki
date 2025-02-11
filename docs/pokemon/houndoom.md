@@ -85,7 +85,7 @@ Houndoom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 35 | 175 | Slow | N/A |
+| 2 Sp. Atk | 45 | 35 | 175 | Slow | N/A |
 
 ---
 

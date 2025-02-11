@@ -86,7 +86,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 50 | 154 | Medium | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 50 | 154 | Medium | N/A |
 
 ---
 

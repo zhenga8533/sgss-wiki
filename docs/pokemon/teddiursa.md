@@ -79,7 +79,7 @@ Teddiursa has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 120 | 70 | 66 | Mediu |
+| 1 Atk | 120 | 70 | 66 | Mediu |
 
 ---
 

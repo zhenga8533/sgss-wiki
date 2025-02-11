@@ -77,7 +77,7 @@ Skuntank has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 168 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (5%) |
+| 2 None | 60 | 50 | 168 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (5%) |
 
 ---
 

@@ -79,7 +79,7 @@ Seedot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 44 | Medium Slo |
+| 1 Def | 255 | 50 | 44 | Medium Slo |
 
 ---
 

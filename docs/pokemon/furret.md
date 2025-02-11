@@ -79,7 +79,7 @@ Furret has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 126 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 2 Spd | 90 | 70 | 126 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

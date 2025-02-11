@@ -77,7 +77,7 @@ Ho Oh has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (100%) |
+| 3 Sp. Def | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (100%) |
 
 ---
 

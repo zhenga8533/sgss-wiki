@@ -79,7 +79,7 @@ Duskull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 35 | 59 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ghost-type attack.">Kasib Berry</span> (5%) |
+| 1 Sp. Def | 190 | 35 | 59 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Ghost-type attack.">Kasib Berry</span> (5%) |
 
 ---
 

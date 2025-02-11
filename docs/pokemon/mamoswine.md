@@ -87,7 +87,7 @@ Mamoswine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 50 | 50 | 265 | Slow | N/A |
+| 3 Atk | 50 | 50 | 265 | Slow | N/A |
 
 ---
 

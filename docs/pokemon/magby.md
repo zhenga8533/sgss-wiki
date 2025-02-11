@@ -81,7 +81,7 @@ Magby has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 73 | Mediu |
+| 1 Spd | 45 | 50 | 73 | Mediu |
 
 ---
 

@@ -88,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense<br>1 Special Defense | 3 | 0 | 270 | Slow | N/A |
+| 2 Def<br>1 Sp. Def | 3 | 0 | 270 | Slow | N/A |
 
 ---
 

@@ -79,7 +79,7 @@ Koffing has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 68 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
+| 1 Def | 190 | 50 | 68 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
 
 ---
 

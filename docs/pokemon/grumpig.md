@@ -77,7 +77,7 @@ Grumpig has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 70 | 165 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Bug-type attack.">Tanga Berry</span> (5%) |
+| 2 Sp. Def | 60 | 70 | 165 | Fast | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Bug-type attack.">Tanga Berry</span> (5%) |
 
 ---
 

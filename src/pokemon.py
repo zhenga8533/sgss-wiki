@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from util.ability import get_ability
 from util.file import load, save, verify_asset_path
-from util.format import find_pokemon_sprite, format_id, revert_id, verify_pokemon_form
+from util.format import find_pokemon_sprite, format_id, format_stat, revert_id, verify_pokemon_form
 from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
@@ -362,7 +362,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |\n"
     md += f"|----------|------------|-----------------|-----------|-------------|------------|\n"
     ev_yield = pokemon["ev_yield"]
-    md += f"| " + "<br>".join([f"{ev_yield[stat]} {revert_id(stat)}" for stat in ev_yield if ev_yield[stat] > 0])
+    md += f"| " + "<br>".join([f"{ev_yield[stat]} {format_stat(stat)}" for stat in ev_yield if ev_yield[stat] > 0])
     md += " | " + str(pokemon["capture_rate"])
     md += " | " + str(pokemon["base_happiness"])
     md += " | " + str(pokemon["base_experience"])

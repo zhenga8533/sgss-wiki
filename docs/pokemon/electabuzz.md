@@ -81,7 +81,7 @@ Electabuzz has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 172 | Mediu |
+| 2 Spd | 45 | 50 | 172 | Mediu |
 
 ---
 

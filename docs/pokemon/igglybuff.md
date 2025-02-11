@@ -81,7 +81,7 @@ Igglybuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 170 | 50 | 42 | Fas |
+| 1 None | 170 | 50 | 42 | Fas |
 
 ---
 

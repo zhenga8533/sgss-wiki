@@ -75,7 +75,7 @@ Regirock has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

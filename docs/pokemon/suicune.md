@@ -77,7 +77,7 @@ Suicune has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 1 Def<br>2 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

@@ -77,7 +77,7 @@ Poochyena has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 56 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (5%) |
+| 1 Atk | 255 | 70 | 56 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (5%) |
 
 ---
 

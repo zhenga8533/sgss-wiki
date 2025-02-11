@@ -91,7 +91,7 @@ Umbreon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 35 | 184 | Medium | N/A |
+| 2 Sp. Def | 45 | 35 | 184 | Medium | N/A |
 
 ---
 

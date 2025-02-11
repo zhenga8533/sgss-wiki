@@ -77,7 +77,7 @@ Breloom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Poison-type attack.">Kebia Berry</span> (5%) |
+| 2 Atk | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Poison-type attack.">Kebia Berry</span> (5%) |
 
 ---
 

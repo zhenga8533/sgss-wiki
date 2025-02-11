@@ -79,7 +79,7 @@ Forretress has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 70 | 163 | Medium | N/A |
+| 2 Def | 75 | 70 | 163 | Medium | N/A |
 
 ---
 

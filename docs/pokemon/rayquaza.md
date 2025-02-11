@@ -75,7 +75,7 @@ Rayquaza has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Attack | 45 | 0 | 340 | Slow | N/A |
+| 2 Atk<br>1 Sp. Atk | 45 | 0 | 340 | Slow | N/A |
 
 ---
 

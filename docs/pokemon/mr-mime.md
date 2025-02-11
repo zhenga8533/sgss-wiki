@@ -79,7 +79,7 @@ Mr Mime has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 161 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (5%) |
+| 2 Sp. Def | 45 | 50 | 161 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (5%) |
 
 ---
 

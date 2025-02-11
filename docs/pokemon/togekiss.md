@@ -79,7 +79,7 @@ Togekiss has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 30 | 50 | 273 | Fast | N/A |
+| 2 Sp. Atk<br>1 Sp. Def | 30 | 50 | 273 | Fast | N/A |
 
 ---
 

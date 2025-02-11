@@ -79,7 +79,7 @@ Monferno has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

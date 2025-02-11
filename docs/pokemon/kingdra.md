@@ -81,7 +81,7 @@ Kingdra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Special Defense | 45 | 50 | 270 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 1 Atk<br>1 Sp. Atk<br>1 Sp. Def | 45 | 50 | 270 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

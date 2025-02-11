@@ -79,7 +79,7 @@ Exploud has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 245 | Medium Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from sleep.">Chesto Berry</span> (5%) |
+| 3 None | 45 | 50 | 245 | Medium Slow | <span class="tooltip" title="It may be used or held by a Pokémon to recover from sleep.">Chesto Berry</span> (5%) |
 
 ---
 

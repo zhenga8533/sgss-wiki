@@ -83,7 +83,7 @@ Combee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 120 | 50 | 49 | Medium Slow | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (100%) |
+| 1 Spd | 120 | 50 | 49 | Medium Slow | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (100%) |
 
 ---
 

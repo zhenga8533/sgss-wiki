@@ -83,7 +83,7 @@ Poliwrath has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 45 | 50 | 255 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
+| 3 Def | 45 | 50 | 255 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

@@ -81,7 +81,7 @@ Machop has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 180 | 50 | 61 | Medium Slo |
+| 1 Atk | 180 | 50 | 61 | Medium Slo |
 
 ---
 

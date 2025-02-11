@@ -83,7 +83,7 @@ Bellossom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 192 | Medium Slo |
+| 3 Sp. Def | 45 | 50 | 192 | Medium Slo |
 
 ---
 

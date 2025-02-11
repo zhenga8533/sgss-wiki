@@ -79,7 +79,7 @@ Kingler has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 166 | Medium | N/A |
+| 2 Atk | 60 | 50 | 166 | Medium | N/A |
 
 ---
 

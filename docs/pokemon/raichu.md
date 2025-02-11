@@ -87,7 +87,7 @@ Raichu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 75 | 50 | 179 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (5%) |
+| 3 Spd | 75 | 50 | 179 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (5%) |
 
 ---
 

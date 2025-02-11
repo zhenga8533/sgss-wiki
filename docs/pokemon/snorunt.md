@@ -79,7 +79,7 @@ Snorunt has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 60 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Steel-type attack.">Babiri Berry</span> (5%) |
+| 1 None | 190 | 50 | 60 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Steel-type attack.">Babiri Berry</span> (5%) |
 
 ---
 

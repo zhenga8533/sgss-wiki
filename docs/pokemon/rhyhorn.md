@@ -87,7 +87,7 @@ Rhyhorn has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 120 | 50 | 69 | Slow | N/A |
+| 1 Def | 120 | 50 | 69 | Slow | N/A |
 
 ---
 

@@ -79,7 +79,7 @@ Snubbull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 60 | Fast | N/A |
+| 1 Atk | 190 | 70 | 60 | Fast | N/A |
 
 ---
 

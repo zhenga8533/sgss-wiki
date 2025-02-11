@@ -81,7 +81,7 @@ Crobat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 90 | 50 | 268 | Medium | N/A |
+| 3 Spd | 90 | 50 | 268 | Medium | N/A |
 
 ---
 

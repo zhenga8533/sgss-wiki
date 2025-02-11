@@ -77,7 +77,7 @@ Taillow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Rock-type attack.">Charti Berry</span> (5%) |
+| 1 Spd | 200 | 70 | 54 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Rock-type attack.">Charti Berry</span> (5%) |
 
 ---
 

@@ -79,7 +79,7 @@ Glalie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 168 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Steel-type attack.">Babiri Berry</span> (5%) |
+| 2 None | 75 | 50 | 168 | Medium | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Steel-type attack.">Babiri Berry</span> (5%) |
 
 ---
 

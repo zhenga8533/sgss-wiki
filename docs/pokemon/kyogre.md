@@ -75,7 +75,7 @@ Kyogre has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 335 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 335 | Slow | N/A |
 
 ---
 

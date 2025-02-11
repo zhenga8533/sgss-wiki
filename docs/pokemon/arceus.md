@@ -183,7 +183,7 @@ Arceus has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 0 | 324 | Slow | N/A |
+| 3 None | 3 | 0 | 324 | Slow | N/A |
 
 ---
 

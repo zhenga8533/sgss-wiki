@@ -77,7 +77,7 @@ Glameow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 62 | Fast | <span class="tooltip" title="It may be used or held by a Pokémon to recover from paralysis.">Cheri Berry</span> (5%) |
+| 1 Spd | 190 | 70 | 62 | Fast | <span class="tooltip" title="It may be used or held by a Pokémon to recover from paralysis.">Cheri Berry</span> (5%) |
 
 ---
 

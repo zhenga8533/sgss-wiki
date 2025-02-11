@@ -81,7 +81,7 @@ Chikorita has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 70 | 64 | Medium Slo |
+| 1 Sp. Def | 45 | 70 | 64 | Medium Slo |
 
 ---
 

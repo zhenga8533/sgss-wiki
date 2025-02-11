@@ -75,7 +75,7 @@ Volbeat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Slow Then Very Fas |
+| 1 Spd | 150 | 70 | 151 | Slow Then Very Fas |
 
 ---
 

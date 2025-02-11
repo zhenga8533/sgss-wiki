@@ -75,7 +75,7 @@ Regice has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

@@ -83,7 +83,7 @@ Camerupt has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 150 | 70 | 161 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
+| 1 Atk<br>1 Sp. Atk | 150 | 70 | 161 | Medium | <span class="tooltip" title="It may be used or held by a Pokémon to recover from a burn.">Rawst Berry</span> (100%) |
 
 ---
 

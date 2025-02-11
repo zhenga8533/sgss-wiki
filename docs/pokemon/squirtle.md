@@ -81,7 +81,7 @@ Squirtle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 50 | 63 | Medium Slow | N/A |
+| 1 Def | 45 | 50 | 63 | Medium Slow | N/A |
 
 ---
 

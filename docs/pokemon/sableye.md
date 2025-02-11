@@ -75,7 +75,7 @@ Sableye has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 35 | 118 | Medium Slo |
+| 1 Atk<br>1 Def | 45 | 35 | 118 | Medium Slo |
 
 ---
 

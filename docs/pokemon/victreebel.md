@@ -81,7 +81,7 @@ Victreebel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 70 | 199 | Medium Slow | N/A |
+| 3 Atk | 45 | 70 | 199 | Medium Slow | N/A |
 
 ---
 

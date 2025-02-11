@@ -79,7 +79,7 @@ Lombre has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 120 | 50 | 119 | Medium Slo |
+| 2 Sp. Def | 120 | 50 | 119 | Medium Slo |
 
 ---
 

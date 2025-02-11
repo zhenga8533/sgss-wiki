@@ -81,7 +81,7 @@ Wigglytuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 50 | 50 | 129 | Fas |
+| 3 None | 50 | 50 | 129 | Fas |
 
 ---
 

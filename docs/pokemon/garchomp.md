@@ -85,7 +85,7 @@ Garchomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 300 | Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Dragon-type attack.">Haban Berry</span> (5%) |
+| 3 Atk | 45 | 50 | 300 | Slow | <span class="tooltip" title="If held by a Pokémon, it weakens a foe’s supereffective Dragon-type attack.">Haban Berry</span> (5%) |
 
 ---
 

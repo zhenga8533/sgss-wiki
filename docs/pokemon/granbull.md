@@ -79,7 +79,7 @@ Granbull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 70 | 158 | Fast | N/A |
+| 2 Atk | 75 | 70 | 158 | Fast | N/A |
 
 ---
 

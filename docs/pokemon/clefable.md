@@ -81,7 +81,7 @@ Clefable has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 25 | 140 | 242 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (50%) |
+| 3 None | 25 | 140 | 242 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="It may be used or held by a Pokémon to restore a move’s PP by 10.">Leppa Berry</span> (50%) |
 
 ---
 

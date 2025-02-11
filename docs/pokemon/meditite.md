@@ -83,7 +83,7 @@ Meditite has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 180 | 70 | 56 | Medium | N/A |
+| 1 Spd | 180 | 70 | 56 | Medium | N/A |
 
 ---
 

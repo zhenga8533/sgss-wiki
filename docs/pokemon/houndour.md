@@ -79,7 +79,7 @@ Houndour has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 35 | 66 | Slow | N/A |
+| 1 Sp. Atk | 120 | 35 | 66 | Slow | N/A |
 
 ---
 

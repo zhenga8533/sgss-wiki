@@ -83,7 +83,7 @@ Swalot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 70 | 163 | Fast Then Very Slow | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
+| 2 None | 75 | 70 | 163 | Fast Then Very Slow | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
 
 ---
 

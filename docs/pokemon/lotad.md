@@ -79,7 +79,7 @@ Lotad has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 44 | Medium Slo |
+| 1 Sp. Def | 255 | 50 | 44 | Medium Slo |
 
 ---
 

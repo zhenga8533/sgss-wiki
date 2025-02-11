@@ -79,7 +79,7 @@ Clamperl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 69 | Slow Then Very Fast | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
+| 1 Def | 255 | 70 | 69 | Slow Then Very Fast | <span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
 
 ---
 

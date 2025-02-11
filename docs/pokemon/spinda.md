@@ -75,7 +75,7 @@ Spinda has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 70 | 129 | Fast | <span class="tooltip" title="It may be used or held by a Pokémon to recover from sleep.">Chesto Berry</span> (5%) |
+| 1 Sp. Atk | 255 | 70 | 129 | Fast | <span class="tooltip" title="It may be used or held by a Pokémon to recover from sleep.">Chesto Berry</span> (5%) |
 
 ---
 

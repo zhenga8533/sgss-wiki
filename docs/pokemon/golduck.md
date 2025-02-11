@@ -79,7 +79,7 @@ Golduck has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 175 | Medium | N/A |
+| 2 Sp. Atk | 75 | 50 | 175 | Medium | N/A |
 
 ---
 

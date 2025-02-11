@@ -81,7 +81,7 @@ Ampharos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 230 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 70 | 230 | Medium Slow | N/A |
 
 ---
 

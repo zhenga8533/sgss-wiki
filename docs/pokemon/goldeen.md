@@ -85,7 +85,7 @@ Goldeen has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 50 | 64 | Mediu |
+| 1 Atk | 225 | 50 | 64 | Mediu |
 
 ---
 

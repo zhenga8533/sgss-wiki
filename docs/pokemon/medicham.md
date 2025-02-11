@@ -83,7 +83,7 @@ Medicham has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 144 | Medium | N/A |
+| 2 Spd | 90 | 70 | 144 | Medium | N/A |
 
 ---
 

@@ -79,7 +79,7 @@ Electrode has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 70 | 172 | Medium | N/A |
+| 2 Spd | 60 | 70 | 172 | Medium | N/A |
 
 ---
 

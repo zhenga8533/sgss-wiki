@@ -81,7 +81,7 @@ Larvitar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 35 | 60 | Slow | N/A |
+| 1 Atk | 45 | 35 | 60 | Slow | N/A |
 
 ---
 

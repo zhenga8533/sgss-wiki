@@ -77,7 +77,7 @@ Cradily has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
+| 2 Sp. Def | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
 
 ---
 

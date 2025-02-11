@@ -77,7 +77,7 @@ Mantyke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 25 | 50 | 69 | Slow | N/A |
+| 1 Sp. Def | 25 | 50 | 69 | Slow | N/A |
 
 ---
 

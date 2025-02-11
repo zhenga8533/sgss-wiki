@@ -79,7 +79,7 @@ Dugtrio has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 50 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 2 Spd | 50 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 
