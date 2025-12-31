@@ -1,0 +1,1892 @@
+This document exists to give the encounter data for each and every area within Sacred Gold and Storm Silver, both as a reference guide and because it’s impossible to view the data within the game itself. Data is listed for all types of encounter (sans Headbutting trees). Areas are listed in order of accessibility, though there may be one or two exceptions where maps have been shifted around to save space. Times will be specified on the encounters where they actually change between morning, day and night.
+
+There are several types of encounters:
+- Grass
+- Grass Cave
+- Cave Building etc. refer to the generic walking around encounters.
+- Surf refers to encounters while Surfing atop any body of water in the area.
+- Old Rod refers to encounters when fishing in the area with the Old Rod.
+- Good Rod and Super Rod likewise refer to those respective rods.
+- Rock Smash refers to encounters from smashing rocks in that area.
+- Swarm refers to what will appear if a daily swarm hits that area. Only applies to certain places.
+- Meridian Sound refers to the replacement for the Hoenn Sound; this plays on Wednesdays as normal, and will attract some evolved forms of Pokémon ordinarily in the area. They may be underlevelled!
+- Pastoral Sound refers to the replacement of the Sinnoh Sound; this plays on Thursdays as normal, and will attract some rarer Pokémon in the area or some that aren’t normally found there at all.
+
+Wild level ranges are also given for the majority of areas; these will refer to the Pokémon found from generic walking (i.e. grass, caves) though in the event of a water route such as Route 40, it instead refers to encounters found while Surfing.
+
+New Bark Town
+Wild Levels: N/A
+
+Surf:
+Tentacool (90%), Tentacruel (10%)
+Old Rod:
+Magikarp (60%), Shellder (35%), Chinchou (5%)
+Good Rod:
+Shellder (60%), Chinchou (40%)
+Super Rod:
+Shellder (60%), Lanturn (30%), Gyarados (10%)
+
+Route 29
+Wild Levels: 3 – 5
+
+Grass, Morning / Day:
+Pidgey (20%), Sentret (20%), Starly (15%), Rattata (15%), Zigzagoon (10%), Bidoof
+(10%), Hoppip (5%), Wurmple (5%)
+Grass, Night:
+Hoothoot (20%), Rattata (20%), Poochyena (15%), Zigzagoon (15%), Bidoof (15%),
+Wurmple (15%)
+Meridian Sound:
+Furret, Raticate
+Pastoral Sound:
+Plusle, Minun
+
+Route 46
+Wild Levels: 4 – 6
+
+Grass, Morning / Day:
+Geodude (20%), Spearow (20%), Spoink (10%), Swablu (10%), Rattata (10%),
+Numel (10%), Jigglypuff (10%), Phanpy (10%)
+Grass, Night:
+Geodude (20%), Numel (20%), Spoink (10%), Rattata (10%), Clefairy (10%), Jigglypuff
+(10%), Houndour (10%), Shinx (10%)
+Meridian Sound:
+Graveler, Fearow
+Pastoral Sound:
+Igglybuff
+
+Cherrygrove City
+Wild Levels: N/A
+
+Surf:
+Marill (95%), Azumarill (5%)
+Old Rod:
+Magikarp (60%), Krabby (30%), Corphish (10%)
+Good Rod:
+Krabby (60%), Finneon (30%), Corphish (10%)
+Super Rod:
+Lumineon (60%), Kingler (30%), Crawdaunt (10%)
+
+Route 30
+Wild Levels: 4 – 6
+
+Grass, Morning:
+Ledyba (20%), Taillow (20%), Lotad (10%), Seedot (10%), Caterpie (10%), Weedle (10%),
+Kricketot (10%), Surskit (5%), Ralts (5%)
+Grass, Day:
+Caterpie (20%), Weedle (20%), Lotad (10%), Seedot (10%), Taillow (10%), Metapod (10%),
+Kakuna (10%), Surskit (5%), Ralts (5%)
+Grass, Night:
+Spinarak (20%), Hoothoot (20%), Lotad (10%), Seedot (10%), Caterpie (10%), Weedle
+(10%), Kricketot (10%), Surskit (5%), Ralts (5%)
+Meridian Sound:
+Lombre, Nuzleaf
+Pastoral Sound:
+Ralts
+Surf:
+Poliwag (60%), Lotad (30%), Poliwhirl (5%), Lombre (5%)
+Old Rod:
+Poliwag (60%), Goldeen (30%), Psyduck (10%)
+Good Rod:
+Psyduck (60%), Goldeen (30%), Poliwhirl (10%)
+Super Rod:
+Poliwhirl (60%), Seaking (30%), Golduck (10%)
+
+Route 31
+Wild Levels: 6 – 10
+
+Grass, Morning:
+Ledyba (20%), Bellsprout (20%), Buizel (10%), Shinx (10%), Abra (10%), Natu (10%),
+Exeggcute (5%), Psyduck (5%), Metapod (4%), Kakuna (4%), Butterfree (1%), Beedrill (1%)
+Grass, Day:
+Wurmple (20%), Bellsprout (20%), Buizel (10%), Shinx (10%), Abra (10%), Natu (10%), Budew
+(5%), Psyduck (5%), Silcoon (4%), Cascoon (4%), Exeggcute (2%)
+Grass, Night:
+Spinarak (20%), Bellsprout (20%), Psyduck (10%), Shinx (10%), Abra (10%), Natu (10%),
+Exeggcute (5%), Buizel (5%), Metapod (4%), Kakuna (4%), Beautifly (1%), Dustox (1%)
+Meridian Sound:
+Butterfree, Beedrill
+Pastoral Sound:
+Budew
+Surf:
+Marill (60%), Surskit (35%), Masquerain (5%)
+Old Rod:
+Tentacool (60%), Slowpoke (35%), Feebas (5%)
+Good Rod:
+Tentacool (60%), Slowpoke (30%), Feebas (10%)
+Super Rod:
+Tentacruel (60%), Feebas (30%), Slowbro (10%)
+
+Dark Cave
+---
+[ Violet Side ]
+Wild Levels: 8 – 10
+
+Cave, Morning / Day:
+Geodude (20%), Zubat (20%), Bronzor (10%), Makuhita (10%), Sandshrew (10%),
+Teddiursa (10%), Slugma (10%), Larvitar (4%), Dunsparce (4%), Chingling (2%)
+Cave, Night:
+Geodude (20%), Zubat (20%), Bronzor (10%), Makuhita (10%), Sandshrew (10%), Wynaut
+(10%), Slugma (10%), Larvitar (4%), Dunsparce (4%), Chingling (2%)
+Meridian Sound:
+Golbat
+Pastoral Sound:
+Chingling
+Swarm:
+Larvitar
+Surf:
+Shellos (60%), Wooper (30%), Gastrodon (10%)
+Old Rod:
+Goldeen (60%), Barboach (30%), Wooper (10%)
+Good Rod:
+Goldeen (60%), Barboach (30%), Quagsire (10%)
+Super Rod:
+Seaking (60%), Whiscash (30%), Quagsire (10%)
+Rock Smash:
+Dunsparce (90%), Nosepass (10%)
+
+[ Blackthorn Side ]
+Wild Levels: 26 – 30
+
+Cave:
+Graveler (20%), Golbat (20%), Teddiursa (20%), Slugma (20%), Wobbuffet (15%),
+Ursaring (5%)
+Surf:
+Shellos (60%), Wooper (30%), Gastrodon (10%)
+Old Rod:
+Goldeen (60%), Barboach (30%), Wooper (10%)
+Good Rod:
+Goldeen (60%), Barboach (30%), Quagsire (10%)
+Super Rod:
+Seaking (60%), Whiscash (30%), Quagsire (10%)
+Meridian Sound:
+Golem, Ursaring
+Pastoral Sound:
+Quagsire
+
+Violet City
+Wild Levels: N/A
+
+Surf:
+Poliwag (90%), Poliwhirl (10%)
+Old Rod:
+Magikarp (60%), Poliwag (30%), Staryu (10%)
+Good Rod:
+Poliwag (60%), Staryu (30%), Chinchou (10%)
+Super Rod:
+Poliwhirl (60%), Staryu (30%), Lanturn (10%)
+Swarm:
+Whiscash
+
+Route 32
+Wild Levels: 10 – 12
+
+Grass, Morning / Day:
+Mareep (20%), Bellsprout (20%), Nincada (15%), Hoppip (15%), Magnemite (15%),
+Ekans (10%), Pachirisu (5%)
+Grass, Night:
+Mareep (20%), Bellsprout (20%), Nincada (15%), Wooper (15%), Magnemite (15%), Ekans
+(10%), Drifloon (5%)
+Meridian Sound:
+Flaaffy, Magneton
+Pastoral Sound:
+Drifloon, Pachirisu
+Surf:
+Wooper (60%), Tentacool (30%), Quagsire (5%), Tentacruel (5%)
+Old Rod:
+Tentacool (60%), Psyduck (35%), Qwilfish (5%)
+Good Rod:
+Tentacool (60%), Psyduck (30%), Qwilfish (10%)
+Super Rod:
+Qwilfish (60%), Tentacruel (30%), Golduck (10%)
+
+Ruins of Alph
+Wild Levels: 26 – 30
+
+Grass:
+Natu (40%), Smeargle (40%), Girafarig (20%)
+Rock Smash:
+Geodude (90%), Nosepass (10%)
+Meridian Sound:
+Xatu
+Pastoral Sound:
+Togepi
+Surf:
+Wooper (90%), Quagsire (10%)
+Old Rod:
+Magikarp (60%), Remoraid (30%), Dratini (10%)
+Good Rod:
+Magikarp (60%), Remoraid (30%), Dratini (9%), Dragonair (1%)
+Super Rod:
+Gyarados (60%), Relicanth (30%), Dragonair (5%), Octillery (5%)
+
+Sprout Tower
+---
+[ 2F ]
+Wild Levels: 9 – 12
+Building, Morning / Day:
+Zigzagoon (20%), Rattata (20%), Pidgey (20%), Bidoof (10%), Starly (10%),
+Meditite (10%), Spinda (5%), Chatot (5%)
+Building, Night:
+Gastly (20%), Rattata (20%), Bellsprout (20%), Bidoof (10%), Glameow (10%), Stunky
+(10%), Spinda (5%), Drifloon (5%)
+Meridian
+Meridian Sound:
+Bibarel, Linoone
+Pastoral Sound:
+Spinda
+[ 3F ]
+Wild Levels: 10 – 13
+Building, Morning / Day:
+Zigzagoon (20%), Rattata (20%), Pidgey (20%), Bidoof (10%), Starly (10%),
+Meditite (10%), Spinda (5%), Chatot (5%)
+Building, Night:
+Gastly (20%), Rattata (20%), Bellsprout (20%), Bidoof (10%), Glameow (10%), Stunky
+(10%), Spinda (5%), Drifloon (5%)
+Meridian Sound:
+Bibarel, Linoone
+Pastoral Sound:
+Spinda
+
+Union Cave
+---
+[ 1F ]
+Wild Levels: 12 – 15
+Cave:
+Zubat (25%), Sandshrew (25%), Geodude (10%), Whismur (10%), Makuhita (10%),
+Machop (10%), Aron (5%), Cubone (5%)
+Surf:
+Wooper (60%), Shellos (30%), Quagsire (5%), Gastrodon (5%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Good Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Super Rod:
+Gyarados (60%), Seaking (30%), Whiscash (10%)
+Meridian Sound:
+Sandslash, Loudred
+Pastoral Sound:
+Gible
+[ B1F ]
+Wild Levels: 13 – 16
+Cave:
+Zubat (25%), Sandshrew (20%), Geodude (10%), Bronzor (10%), Aron (10%), Onix
+(15%), Bagon (5%), Gible (5%)
+Surf:
+Wooper (60%), Shellos (30%), Quagsire (5%), Gastrodon (5%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Good Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Super Rod:
+Gyarados (60%), Seaking (30%), Whiscash (10%)
+Meridian Sound:
+Golbat, Steelix
+Pastoral Sound:
+Cubone
+[ B2F ]
+Wild Levels: 28 – 30
+Cave:
+Golbat (20%), Sandslash (20%), Graveler (10%), Sableye (10%), Machoke (10%),
+Loudred (10%), Mawile (10%), Lickitung (5%), Kangaskhan (5%)
+Surf:
+Wooper (60%), Shellos (30%), Quagsire (5%), Gastrodon (5%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Good Rod:
+Magikarp (60%), Goldeen (30%), Barboach (10%)
+Super Rod:
+Gyarados (60%), Seaking (30%), Whiscash (10%)
+Meridian Sound:
+Lickilicky, Exploud
+Pastoral Sound:
+Kangaskhan
+
+Route 33
+Wild Levels: 14 – 16
+
+Grass, Morning / Day:
+Croagunk (20%), Ekans (20%), Skorupi (10%), Slakoth (10%), Swablu (10%),
+Aipom (10%), Hoppip (10%), Rhyhorn (10%)
+Grass, Night:
+Croagunk (20%), Ekans (20%), Skorupi (10%), Slakoth (10%), Swablu (10%), Aipom (10%),
+Meowth (10%), Rhyhorn (10%)
+Meridian Sound:
+Toxicroak, Drapion
+Pastoral Sound:
+Lombre
+
+Slowpoke Well
+---
+[ 1F ]
+Wild Levels: 15 – 16
+Cave:
+Zubat (20%), Slowpoke (20%), Gastly (10%), Shellos (10%), Shellder (10%), Swinub
+(10%), Snorunt (10%), Bronzor (10%)
+Surf:
+Slowpoke (90%), Slowbro (10%)
+Old Rod:
+Magikarp (60%), Slowpoke (30%), Barboach (10%)
+Good Rod:
+Magikarp (60%), Barboach (30%), Slowpoke (10%)
+Super Rod:
+Gyarados (60%), Whiscash (30%), Slowbro (10%)
+Meridian Sound:
+Slowbro
+Pastoral Sound:
+Wynaut
+[ B1F ]
+Wild Levels: 28 – 33
+Cave:
+Golbat (20%), Slowpoke (20%), Haunter (10%), Gastrodon (10%), Shellder (10%),
+Piloswine (10%), Snorunt (10%), Bronzong (10%)
+Surf:
+Slowpoke (60%), Slowbro (40%)
+Old Rod:
+Magikarp (60%), Slowpoke (30%), Barboach (10%)
+Good Rod:
+Magikarp (60%), Barboach (30%), Slowpoke (10%)
+Super Rod:
+Gyarados (60%), Whiscash (30%), Slowbro (10%)
+Meridian Sound:
+Slowbro, Glalie
+Pastoral Sound:
+Wobbuffet
+
+Ilex Forest
+Wild Levels: 15 – 18
+
+Grass, Morning:
+Shroomish (20%), Ledyba (20%), Pineco (10%), Exeggcute (10%), Buneary (10%),
+Budew (10%), Pikachu (5%), Butterfree (5%), Beedrill (5%), Roselia (5%)
+Grass, Day:
+Shroomish (20%), Wurmple (20%), Pineco (10%), Exeggcute (10%), Buneary (10%), Budew
+(10%), Pikachu (5%), Beautifly (5%), Dustox (5%), Roselia (5%)
+Grass, Night:
+Paras (20%), Spinarak (20%), Pineco (10%), Oddish (10%), Buneary (10%), Venonat (10%),
+Pikachu (5%), Murkrow (5%), Misdreavus (5%), Carnivine (5%)
+Surf:
+Psyduck (90%), Golduck (10%)
+Old Rod:
+Magikarp (60%), Poliwag (40%)
+Good Rod:
+Poliwhirl (90%), Gyarados (10%)
+Super Rod:
+Poliwhirl (60%), Gyarados (30%), Poliwrath (5%), Politoed (5%)
+Meridian Sound:
+Gloom, Venomoth
+Pastoral Sound:
+Pichu
+
+Route 34
+Wild Levels: 15 – 19
+
+Grass:
+Drowzee (20%), Gulpin (20%), Electrike (10%), Bonsly (10%), Mime Jr. (10%), Abra
+(10%), Ditto (9%), Snubbull (9%), Kadabra (2%)
+Surf:
+Tentacool (95%), Tentacruel (5%)
+Old Rod:
+Goldeen (60%), Chinchou (30%), Staryu (10%)
+Good Rod:
+Goldeen (60%), Chinchou (30%), Staryu (10%)
+Super Rod:
+Seaking (60%), Staryu (30%), Lanturn (5%), Starmie (5%)
+Meridian Sound:
+Manectric, Hypno
+Pastoral Sound:
+Ralts, Kirlia
+Swarm:
+Kadabra
+
+Route 35
+Wild Levels: 17 – 19
+
+Grass, Morning / Day:
+Nidoran M (20%), Nidoran F (20%), Pidgeotto (10%), Stunky (10%), Glameow
+(10%), Staravia (10%), Illumise (5%), Volbeat (5%), Ditto (5%), Yanma (5%)
+Grass, Night:
+Nidoran M (20%), Nidoran F (20%), Meowth (10%), Stunky (10%), Glameow (10%),
+Noctowl (10%), Illumise (5%), Volbeat (5%), Ditto (5%), Yanma (5%)
+Surf:
+Psyduck (90%), Golduck (10%)
+Old Rod:
+Magikarp (65%), Psyduck (35%)
+Good Rod:
+Magikarp (60%), Luvdisc (35%), Psyduck (5%)
+Super Rod:
+Luvdisc (60%), Psyduck (35%), Gyarados (5%)
+Meridian Sound:
+Skuntank, Purugly
+Pastoral Sound:
+Yanma
+Swarm:
+Illumise [SG], Volbeat [SS]
+
+National Park
+Wild Levels: 17 – 19
+
+Bug Catching Contest is unchanged.
+
+Grass, Morning:
+Metapod (20%), Kakuna (20%), Combee (10%), Taillow (10%), Nincada (10%), Burmy
+(10%), Scyther (5%), Pinsir (5%), Heracross (5%), Kricketune (5%)
+Grass, Day:
+Metapod (20%), Kakuna (20%), Combee (10%), Taillow (10%), Sunkern (10%), Burmy (10%),
+Scyther (5%), Pinsir (5%), Heracross (5%), Kricketune (5%)
+Grass, Night:
+Metapod (20%), Kakuna (20%), Combee (10%), Poochyena (10%), Nincada (10%), Burmy
+(10%), Scyther (5%), Pinsir (5%), Heracross (5%), Kricketune (5%)
+Meridian Sound:
+Butterfree, Beedrill
+Pastoral Sound:
+Scyther (SG), Pinsir (SS), Heracross (SG/SS)
+
+Route 36
+Wild Levels: 17 – 19
+
+Grass, Morning / Day:
+Growlithe (20%), Vulpix (20%), Combee (10%), Plusle (10%), Minun (10%),
+Nidorino (10%), Nidorina (10%), Staravia (5%), Stantler (5%)
+Grass, Night:
+Growlithe (20%), Vulpix (20%), Combee (10%), Plusle (10%), Minun (10%), Nidorino (10%),
+Nidorina (10%), Noctowl (5%), Stantler (5%)
+Meridian Sound:
+Vespiquen
+Pastoral Sound:
+Bonsly, Mime Jr.
+
+Route 37
+Wild Levels: 21 – 24
+
+Grass, Morning / Day:
+Growlithe (20%), Vulpix (20%), Stantler (10%), Ledian (10%), Pidgeotto (10%),
+Nidorino (10%), Nidorina (10%), Zangoose (5%), Seviper (5%)
+Grass, Night:
+Growlithe (20%), Vulpix (20%), Stantler (10%), Ariados (10%), Noctowl (10%), Mightyena
+(10%), Linoone (10%), Zangoose (5%), Seviper (5%)
+Meridian Sound:
+Arcanine, Ninetales
+Pastoral Sound:
+Zangoose, Seviper
+
+Ecruteak City
+Wild Levels: N/A
+
+Surf:
+Poliwag (90%), Poliwhirl (10%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Magikarp (60%), Poliwag (40%)
+Super Rod:
+Poliwhirl (60%), Gyarados (40%)
+
+Burned Tower
+---
+[ 1F ]
+Wild Levels: 22 – 23
+Cave:
+Rattata (20%), Koffing (20%), Zigzagoon (10%), Cubone (10%), Magby (10%), Grimer
+(10%), Duskull (10%), Shuppet (10%)
+Meridian Sound:
+Raticate, Marowak
+Pastoral Sound:
+Chimecho
+[ B1F ]
+Wild Levels: 23 – 24
+Cave:
+Raticate (20%), Koffing (20%), Linoone (10%), Cubone (10%), Magby (10%), Grimer
+(10%), Duskull (10%), Shuppet (10%)
+Meridian Sound:
+Weezing, Magmar
+Pastoral Sound:
+Chimecho
+
+Route 38
+Wild Levels: 26 – 27
+
+Grass, Morning / Day:
+Doduo (20%), Luxio (20%), Magnemite (10%), Mankey (10%), Voltorb (10%),
+Elekid (10%), Farfetch’d (5%), Miltank (5%), Tauros (5%), Cherubi (5%)
+Grass, Night:
+Meowth (20%), Luxio (20%), Magnemite (10%), Mankey (10%), Voltorb (10%), Elekid (10%),
+Farfetch’d (5%), Miltank (5%), Tauros (5%), Skitty (5%)
+Meridian Sound:
+Dodrio, Electabuzz
+Pastoral Sound:
+Skitty, Cherubi
+Swarm:
+Farfetch’d
+
+Route 39
+Wild Levels: 27 – 28
+
+Grass, Morning / Day:
+Raticate (20%), Ponyta (20%), Elekid (10%), Mankey (10%), Voltorb (10%),
+Cherubi (10%), Farfetch’d (5%), Miltank (5%), Tauros (5%), Pidgeotto (5%)
+Grass, Night:
+Raticate (20%), Ponyta (20%), Elekid (10%), Mankey (10%), Voltorb (10%), Meowth (10%),
+Farfetch’d (5%), Miltank (5%), Tauros (5%), Skitty (5%)
+Meridian Sound:
+Rapidash, Primeape
+Pastoral Sound:
+Skitty, Cherubi
+
+Olivine City
+Wild Levels: N/A
+
+Surf:
+Tentacool (65%), Wingull (30%), Tentacruel (5%)
+Old Rod:
+Magikarp (95%), Staryu (5%)
+Good Rod:
+Magikarp (60%), Staryu (30%), Chinchou (10%)
+Super Rod:
+Staryu (60%), Chinchou (30%), Lanturn (5%), Gyarados (5%)
+
+Route 40
+Wild Levels: 25 – 35
+
+Surf:
+Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (3%), Phione (2%)
+Old Rod:
+Magikarp (60%), Tentacool (40%)
+Good Rod:
+Staryu (60%), Finneon (35%), Corsola (5%)
+Super Rod:
+Finneon (60%), Corsola (30%), Lumineon (10%)
+
+Route 41
+Wild Levels: 25 – 35
+
+Surf:
+Wingull (60%), Mantyke (30%), Mantine (5%), Tentacruel (3%), Phione (2%)
+Old Rod:
+Magikarp (60%), Tentacool (30%), Horsea (10%)
+Good Rod:
+Wailmer (60%), Horsea (30%), Chinchou (5%), Corsola (5%)
+Super Rod:
+Seadra (60%), Corsola (30%), Lanturn (7%), Wailord (3%)
+
+Cianwood City
+Wild Levels: N/A
+
+Rock Smash:
+Shuckle (90%), Kingler (10%)
+Surf:
+Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Old Rod:
+Magikarp (60%), Carvanha (40%)
+Good Rod:
+Carvanha (60%), Clamperl (40%)
+Super Rod:
+Carvanha (60%), Clamperl (30%), Sharpedo (10%)
+
+Route 47
+Wild Levels: 41 – 45
+* Not accessible without Waterfall.
+
+Grass, Morning / Day*:
+Day*:
+Farfetch’d (20%), Ditto (20%), Miltank (10%), Gloom (10%), Weepinbell (10%),
+Fearow (10%), Raticate (10%), Swellow (10%)
+Grass, Night*:
+Venomoth (20%), Ditto (20%), Miltank (10%), Gloom (10%), Weepinbell (10%), Fearow
+(10%), Raticate (10%), Noctowl (10%)
+Meridian Sound:
+Bellossom, Victreebel
+Pastoral Sound:
+Yanma
+Swarm:
+Altaria
+Surf:
+Wingull (60%), Seel (30%), Spheal (10%)
+Old Rod:
+Magikarp (90%), Tentacool (10%)
+Good Rod:
+Tentacool (60%), Shellder (30%), Chinchou (10%)
+Super Rod:
+Shellder (60%), Tentacool (30%), Tentacruel (7%), Lanturn (3%)
+
+Cliff Cave
+Wild Levels: 30 – 33
+
+Cave:
+Graveler (20%), Golbat (20%), Baltoy (10%), Machoke (10%), Trapinch (10%), Kingler (10%),
+Quagsire (10%), Hippopotas (8%), Steelix (2%)
+Rock Smash:
+Krabby (90%), Graveler (10%)
+Meridian Sound:
+Claydol, Hippowdon
+Pastoral Sound:
+Onix, Misdreavus
+
+Route 48
+Wild Levels: 30 – 33
+
+Grass, Morning
+Morning / Day:
+Farfetch’d (20%), Tangela (20%), Diglett (10%), Gloom (10%), Weepinbell (10%),
+Girafarig (10%), Kecleon (5%), Chansey (5%), Absol (5%), Tropius (5%)
+Grass, Night:
+Houndour (20%), Tangela (20%), Diglett (10%), Gloom (10%), Weepinbell (10%), Girafarig
+(10%), Kecleon (5%), Chansey (5%), Absol (5%), Tropius (5%)
+Meridian Sound:
+Tangrowth, Dugtrio
+Pastoral Sound:
+Happiny
+
+Route 42
+Wild Levels: 30 – 32
+
+Grass, Morning / Day:
+Flaaffy (20%), Fearow (20%), Hippopotas (10%), Cacnea (10%), Arbok (10%),
+Sandslash (10%), Munchlax (10%), Trapinch (10%)
+Grass, Night:
+Flaaffy (20%), Golbat (20%), Hippopotas (10%), Cacnea (10%), Arbok (10%), Sandslash
+(10%), Munchlax (10%), Trapinch (10%)
+Meridian Sound:
+Cacturne, Vibrava
+Pastoral Sound:
+Tyrogue
+Surf:
+Goldeen (95%), Seaking (5%)
+Old Rod:
+Goldeen (100%)
+Good Rod:
+Goldeen (65%), Carvanha (35%)
+Super Rod:
+Goldeen (60%), Carvanha (30%), Seaking (7%), Sharpedo (3%)
+
+Mt. Mortar
+---
+[ 1F ]
+Wild Levels: 31 – 34
+Cave:
+Graveler (30%), Golbat (30%), Rhyhorn (10%), Lairon (10%), Meditite (10%), Marill (10%)
+Surf:
+Marill (95%), Azumarill (5%)
+Meridian Sound:
+Rhydon, Medicham
+Pastoral Sound:
+Azurill
+Swarm:
+Solrock [SG], Lunatone [SS]
+Old Rod:
+Goldeen (100%)
+Good Rod:
+Goldeen (65%), Barboach (35%)
+Super Rod:
+Goldeen (60%), Barboach (30%), Seaking (5%), Whiscash (5%)
+[ 1F-2 ]
+Wild Levels: 33 – 37
+Cave:
+Graveler (20%), Golbat (20%), Rhyhorn (10%), Lairon (10%), Marill (10%), Hariyama
+(10%), Clefairy (5%), Medicham (5%), Solrock (5%), Lunatone (5%)
+Meridian Sound:
+Rhydon, Azumarill
+Pastoral Sound:
+Cleffa, Clefairy
+[ 1F-3 ]
+Wild Levels: 41 – 45
+Cave:
+Graveler (20%), Golbat (20%), Rhydon (10%), Lairon (10%), Azumarill (10%), Hariyama
+(10%), Clefairy (5%), Medicham (5%), Solrock (5%), Lunatone (5%)
+Surf:
+Marill (95%), Azumarill (5%)
+Meridian Sound:
+Golem, Clefable
+Pastoral Sound:
+Cleffa, Azurill
+Old Rod:
+Goldeen (100%)
+Good Rod:
+Goldeen (65%), Barboach (35%)
+Super Rod:
+Goldeen (60%), Barboach (30%), Seaking (5%), Whiscash (5%)
+[ B1F ]
+Wild Levels: 33 – 35
+Cave:
+Graveler (20%), Golbat (20%), Rhyhorn (10%), Lairon (10%), Machoke (10%), Hariyama
+(10%), Clefairy (5%), Marill (5%), Metang (5%), Pupitar (5%)
+Surf:
+Marill (95%), Azumarill (5%)
+Meridian Sound:
+Clefable, Azumarill
+Pastoral Sound:
+Riolu
+Old Rod:
+Goldeen (100%)
+Good Rod:
+Goldeen (65%), Barboach (35%)
+Super Rod:
+Goldeen (60%), Barboach (30%), Seaking (5%), Whiscash (5%)
+
+Route 43
+Wild Levels: 34 – 36
+
+Grass, Morning / Day:
+Pidgeotto (20%), Girafarig (20%), Exeggcute (10%), Kirlia (10%), Swablu (10%),
+Bibarel (10%), Linoone (10%), Manectric (10%)
+Grass, Night:
+Venomoth (20%), Girafarig (20%), Exeggcute (10%), Kirlia (10%), Swablu (10%), Bibarel
+(10%), Linoone (10%), Manectric (10%)
+Meridian Sound:
+Altaria
+Pastoral Sound:
+Happiny, Chansey
+Surf:
+Slowpoke (100%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Magikarp (100%)
+Super Rod:
+Gyarados (100%)
+
+Lake of Rage
+Wild Levels: 10 – 50
+
+Surf:
+Magikarp (100%)
+Old Rod:
+Magikarp (95%), Feebas (5%)
+Good Rod:
+Magikarp (60%), Gyarados (30%), Feebas (10%)
+Super Rod:
+Magikarp (60%), Feebas (30%), Gyarados (7%), Milotic (3%)
+
+Whirl Islands
+---
+[ 1F ]
+Wild Levels: 34 – 36
+Cave:
+Krabby (20%), Seel (20%), Psyduck (20%), Spheal (20%), Golbat (10%), Shellder (10%)
+Meridian Sound:
+Kingler, Dewgong
+Pastoral Sound:
+Staryu
+Surf:
+Horsea (90%), Seadra (10%)
+Old Rod:
+Horsea (100%)
+Good Rod:
+Horsea (100%)
+Super Rod:
+Horsea (60%), Seadra (40%)
+[ B1F ]
+Wild Levels: 35 – 38
+Cave:
+Krabby (20%), Seel (20%), Shellder (20%), Spheal (20%), Golbat (10%), Golduck (10%)
+Meridian Sound:
+Kingler, Dewgong
+Pastoral Sound:
+Staryu
+[ B2F ]
+Wild Levels: 37 – 39
+Cave:
+Krabby (20%), Seel (20%), Shellder (20%), Spheal (20%), Golbat (10%), Golduck (10%)
+Meridian Sound:
+Sealeo, Dewgong
+Pastoral Sound:
+Staryu
+Surf:
+Horsea (90%), Seadra (10%)
+Old Rod:
+Horsea (100%)
+Good Rod:
+Horsea (100%)
+Super Rod:
+Horsea (60%), Seadra (38%), Kingdra (2%)
+[ B3F ]
+---
+Sacred Gold Wild Levels: 47 – 49
+Storm Silver Wild Levels: 42 – 44
+Cave:
+Kingler (20%), Dewgong (20%), Shellder (20%), Sealeo (20%), Golbat (10%), Golduck (10%)
+Meridian Sound:
+Cloyster, Crobat
+Pastoral Sound:
+Staryu, Starmie
+(See near bottom for Bell Tower).
+
+Route 44
+Wild Levels: 38 – 39
+
+Grass, Morning / Day:
+Tangela (20%), Lickitung (20%), Butterfree (10%), Beedrill (10%), Beautifly (10%),
+Skiploom (10%), Nuzleaf (10%), Cherrim (5%), Altaria (4%), Vespiquen (1%)
+Grass, Night:
+Tangela (20%), Lickitung (20%), Butterfree (10%), Beedrill (10%), Dustox (10%), Venomoth
+(10%), Nuzleaf (10%), Snover (5%), Altaria (4%), Vespiquen (1%)
+Swarm:
+Remoraid
+Meridian Sound:
+Tangrowth, Lickilicky
+Pastoral Sound:
+Combee, Lombre
+Surf:
+Lotad (60%), Poliwag (30%), Poliwhirl (5%), Lombre (5%)
+Old Rod:
+Magikarp (90%), Remoraid (10%)
+Good Rod:
+Magikarp (60%), Remoraid (40%)
+Super Rod:
+Magikarp (60%), Remoraid (30%), Gyarados (7%), Octillery (3%)
+
+Ice Path
+---
+[ 1F ]
+Wild Levels: 37 – 40
+Cave:
+Golbat (30%), Swinub (30%), Snover (15%), Spheal (10%), Seel (10%), Smoochum (5%)
+Meridian Sound:
+Piloswine
+Pastoral Sound:
+Smoochum
+[ B1F ]
+Wild Levels: 38 – 41
+Cave:
+Golbat (30%), Swinub (30%), Shellder (10%), Spheal (10%), Seel (10%), Smoochum (5%),
+Delibird (5%)
+Meridian Sound:
+Piloswine, Sealeo
+Pastoral Sound:
+Delibird
+[ B2F ]
+Wild Levels: 40 – 43
+Cave:
+Golbat (30%), Piloswine (30%), Sealeo (10%), Dewgong (10%), Snorunt (10%), Jynx (5%),
+Delibird (5%)
+Meridian Sound:
+Glalie, Froslass
+Pastoral Sound:
+Delibird, Jynx
+[ B3F ]
+Wild Levels: 42 – 44
+Cave:
+Golbat (30%), Piloswine (30%), Sealeo (10%), Dewgong (10%), Glalie (10%), Jynx (5%), Sneasel
+(5%)
+Meridian Sound:
+Mamoswine, Walrein
+Pastoral Sound:
+Jynx, Sneasel
+
+Blackthorn City
+Wild Levels: N/A
+
+Surf:
+Magikarp (100%)
+Old Rod:
+Magikarp (97%), Dratini (3%)
+Good Rod:
+Magikarp (97%), Dratini (3%)
+Super
+Super Rod:
+Magikarp (97%), Dratini (3%)
+
+Route 45
+Wild Levels: 42 – 45
+
+Grass:
+Graveler (30%), Grumpig (20%), Donphan (10%), Camerupt (10%), Torkoal (10%),
+Gligar (10%), Vibrava (5%), Skarmory (5%)
+Meridian Sound:
+Gliscor, Golem
+Pastoral Sound:
+Rhyhorn, Vibrava
+Swarm:
+Rhydon
+Surf:
+Magikarp (100%)
+Old Rod:
+Magikarp (97%), Dratini (3%)
+Good Rod:
+Magikarp (97%), Dratini (3%)
+Super Rod:
+Magikarp (97%), Dratini (3%)
+
+Dragon’s Den
+Wild Levels: 10 – 40
+
+Surf:
+Magikarp (60%), Dratini (30%), Gyarados (10%)
+Old Rod:
+Magikarp (93%), Dratini (7%)
+Good Rod:
+Magikarp (90%), Dratini (7%), Gyarados (3%)
+Super Rod:
+Magikarp (60%), Dratini (30%), Gyarados (7%), Dragonair (3%)
+
+Tohjo Falls
+Wild Levels: 43 – 45
+
+Cave:
+Raticate (20%), Azumarill (20%), Slowbro (20%), Dewgong (10%), Golbat (10%), Bronzong (10%),
+Quagsire (10%)
+Meridian Sound:
+Crobat
+Pastoral Sound:
+Azurill, Chingling
+Surf:
+Goldeen (60%), Slowpoke (30%), Seaking (10%)
+Old Rod:
+Magikarp (95%), Goldeen (5%)
+Good Rod:
+Magikarp (60%), Goldeen (40%)
+Super Rod:
+Goldeen (90%), Gyarados (7%), Seaking (3%)
+
+Route 27
+Wild Levels: 42 – 45
+
+Grass, Morning / Day:
+Doduo (20%), Skiploom (20%), Ponyta (20%), Dodrio (10%), Rapidash (10%),
+Sandslash (10%), Arbok (10%)
+Grass, Night:
+Wooper (20%), Houndour (20%), Ponyta (20%), Quagsire (10%), Rapidash (10%),
+Sandslash (10%), Arbok (10%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Grumpig
+Swarm:
+Feebas
+Surf:
+Buizel (93%), Floatzel (7%)
+Old Rod:
+Luvdisc (100%)
+Good Rod:
+Luvdisc (100%)
+Super Rod:
+Luvdisc (100%)
+
+Route 26
+Wild Levels: 44 – 46
+
+Grass, Morning / Day:
+Dodrio (20%), Skiploom (20%), Rapidash (20%), Magneton (10%), Kangaskhan
+(10%), Sandslash (10%), Arbok (10%)
+Grass, Night:
+Quagsire (20%), Houndoom (20%), Rapidash (20%), Magneton (10%), Kangaskhan (10%),
+Sandslash (10%), Arbok (10%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Granbull
+Surf:
+Buizel (93%), Floatzel (7%)
+Old Rod:
+Luvdisc (100%)
+Good Rod:
+Luvdisc (100%)
+Super Rod:
+Luvdisc (60%), Lanturn (35%), Tentacruel (5%)
+
+Victory Road
+---
+[ 1F ]
+Wild Levels: 44 – 46
+Cave:
+Golbat (20%), Graveler (20%), Rhydon (10%), Ursaring (10%), Donphan (10%), Marowak (10%),
+Steelix (10%), Bronzong (10%)
+Meridian Sound:
+Crobat, Golem
+Pastoral Sound:
+Chimecho, Marowak
+[ 2F ]
+Wild Levels: 44 – 46
+Cave:
+Machoke (20%), Hariyama (20%), Golbat (10%), Lairon (10%), Loudred (10%), Graveler (10%),
+Medicham (5%), Magneton (5%), Venomoth (5%), Kadabra (5%)
+Meridian Sound:
+Exploud, Aggron
+Pastoral Sound:
+Chimecho, Marowak
+[ 3F ]
+Wild Levels: 45 – 46
+Cave:
+Donphan (20%), Ursaring (20%), Golbat (10%), Lairon (10%), Mawile (10%), Sableye (10%), Gabite
+(5%), Magneton (5%), Metang (5%), Kadabra (5%)
+Rock Smash:
+Graveler (90%), Nosepass (10%)
+Meridian Sound:
+Alakazam, Aggron
+Pastoral Sound:
+Chimecho, Marowak
+
+Vermilion City
+Wild Levels: 27 – 53
+
+Surf:
+Wingull (95%), Pelipper (5%)
+Swarm:
+Lanturn
+Old Rod:
+Tentacool (100%)
+Good Rod:
+Tentacool (67%), Chinchou (30%), Shellder (3%)
+Super Rod:
+Tentacruel (60%), Shellder (33%), Lanturn (7%)
+Rock Smash:
+Krabby (90%), Shuckle (10%)
+
+Diglett’s Cave
+Wild Levels: 15 – 63
+
+Cave:
+Diglett (80%), Hippopotas (10%), Dugtrio (10%)
+Meridian Sound:
+Hippowdon
+Pastoral Sound:
+Dunsparce
+
+Route 6
+Wild Levels: 45 – 48
+
+Grass, Morning / Day:
+Pidgeotto (25%), Kadabra (25%), Raticate (20%), Weepinbell (20%), Cherrim
+(10%)
+Grass, Night:
+Persian (25%), Kadabra (25%), Raticate (20%), Weepinbell (20%), Gloom (10%)
+Meridian Sound:
+Hippowdon
+Pastoral Sound:
+Dunsparce
+Surf:
+Psyduck (95%), Golduck (5%)
+Old Rod:
+Magikarp (95%), Poliwag (5%)
+Good Rod:
+Magikarp (60%), Poliwag (40%)
+Super Rod:
+Poliwag (90%), Magikarp (7%), Poliwhirl (3%)
+
+Route 2
+---
+[ North ]
+Wild Levels: 45 – 49
+
+Grass, Morning / Day:
+Beautifly (25%), Dustox (25%), Ledian (20%), Staravia (10%), Pachirisu (10%),
+Cherrim (10%)
+Grass, Night:
+Beautifly (25%), Dustox (25%), Ariados (20%), Bibarel (10%), Pachirisu (10%), Yanma (10%)
+Meridian Sound:
+Pidgeot
+Pastoral Sound:
+Pikachu, Burmy
+
+[ South ]
+Wild Levels: 45 – 49
+
+Grass, Morning / Day:
+Butterfree (25%), Beedrill (25%), Ledian (20%), Pidgeotto (10%), Pachirisu (10%),
+Cherrim (10%)
+Grass, Night:
+Butterfree (25%), Beedrill (25%), Ariados (20%), Noctowl (10%), Pachirisu (10%), Yanma
+(10%)
+Meridian Sound:
+Pidgeot
+Pastoral Sound:
+Sunkern, Budew
+
+Route 3
+Wild Levels: 46 – 49
+
+Grass, Morning / Day:
+Fearow (20%), Staravia (20%), Pidgeotto (15%), Primeape (15%), Nidorino (15%),
+Nidorina (15%)
+Grass, Night:
+Fearow (20%), Jigglypuff (20%), Noctowl (15%), Primeape (15%), Nidorino (15%),
+Nidorina (15%)
+Swarm:
+Spinda
+Meridian Sound:
+Wigglytuff, Staraptor
+Pastoral Sound:
+Growlithe, Vulpix
+
+Route 4
+Wild Levels: 46 – 50
+
+Grass:
+Fearow (25%), Raticate (25%), Arbok (20%), Purugly (10%), Skuntank (10%),
+Jigglypuff (9%), Wigglytuff (1%)
+Meridian Sound:
+Wigglytuff
+Pastoral Sound:
+Sandslash
+Surf:
+Goldeen (93%), Seaking (7%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Good Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Super Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+
+Mt. Moon
+---
+[ 1F ]
+Wild Levels: 47 – 51
+Cave:
+Golbat (30%), Clefairy (20%), Graveler (20%), Sandslash (15%), Parasect (15%)
+Meridian Sound:
+Crobat, Golem
+Pastoral Sound:
+Chimecho
+[ 2F ]
+Wild Levels: 48 – 50
+Cave:
+Golbat (24%), Clefairy (20%), Graveler (14%), Sandslash (10%), Parasect (10%), Chimecho (10%),
+Solrock (5%), Lunatone (5%), Clefable (1%)
+Meridian Sound:
+Clefable
+Pastoral Sound:
+Chimecho
+[ Outside ]
+Wild Levels: 40 – 50
+Surf:
+Wooper (63%), Poliwhirl (32%), Quagsire (5%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Magikarp (90%), Poliwag (10%)
+Super Rod:
+Poliwhirl (100%)
+
+Cerulean City
+Wild Levels: 20 – 50
+
+Surf:
+Hoppip (60%), Goldeen (30%), Skiploom (7%), Masquerain (3%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Good Rod:
+Goldeen (90%), Seaking (10%)
+Super Rod:
+Staryu (60%), Seaking (30%), Dratini (7%), Dragonair (3%)
+
+Route 5
+Wild Levels: 47 – 50
+
+Grass, Morning / Day:
+Pidgeotto (20%), Raticate (20%), Kadabra (10%), Jigglypuff (10%),
+Machop (10%), Weepinbell (10%), Meditite (10%), Chatot (10%)
+Grass, Night:
+Mightyena (20%), Raticate (20%), Kadabra (10%), Jigglypuff (10%),
+Machop (10%), Weepinbell (10%), Meditite (10%), Persian (10%)
+Meridian Sound:
+Medicham
+Pastoral Sound:
+Staravia, Swellow
+
+Route 24
+Wild Levels: 47 – 51
+
+Grass, Morning / Day:
+Weepinbell (20%), Kirlia (20%), Skiploom (15%), Staravia (15%), Pidgeotto (15%),
+Roselia (10%), Surskit (5%)
+Grass, Night:
+Weepinbell (20%), Kirlia (20%), Gloom (15%), Noctowl (15%), Mightyena (15%), Roselia
+(10%), Surskit (5%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Surskit
+Surf:
+Hoppip (60%), Goldeen (30%), Skiploom (7%), Masquerain (3%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Good Rod:
+Goldeen (90%), Seaking (10%)
+Super Rod:
+Staryu (60%), Seaking (30%), Dratini (7%), Dragonair (3%)
+
+Route 25
+Wild Levels: 47 – 52
+
+Grass, Morning / Day:
+Sunkern (20%), Buneary (20%), Vigoroth (15%), Combee (15%), Weepinbell (15%),
+Exeggcute (15%)
+Grass, Night:
+Venomoth (20%), Buneary (20%), Vigoroth (15%), Combee (15%), Weepinbell (15%),
+Exeggcute (15%)
+Meridian Sound:
+Sunflora, Lopunny
+Pastoral Sound:
+Venonat, Slakoth
+Swarm:
+Lairon
+Surf:
+Hoppip (60%), Goldeen (30%), Skiploom (7%), Masquerain (3%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Good Rod:
+Goldeen (90%), Seaking (10%)
+Super Rod:
+Staryu (60%), Seaking (30%), Dratini (7%), Dragonair (3%)
+
+Route 9
+Wild Levels: 49 – 51
+
+Grass:
+Primeape (25%), Fearow (20%), Arbok (20%), Nidorina (15%), Nidorino (15%), Marowak (5%)
+Meridian Sound:
+Nidoqueen, Nidoking
+Pastoral Sound:
+Marowak, Kangaskhan
+Swarm:
+Flaaffy
+Surf:
+Goldeen (60%), Seaking (40%)
+Old Rod:
+Magikarp (60%), Goldeen (30%), Seaking (10%)
+Good Rod:
+Goldeen (90%), Seaking (10%)
+Super Rod:
+Seaking (100%)
+
+Route 10
+Wild Levels: 47 – 52
+
+Grass:
+Fearow (20%), Luxio (20%), Electrode (15%), Flaaffy (10%), Raticate (10%),
+Manectric (10%), Electabuzz (10%), Pikachu (5%)
+Meridian Sound:
+Luxray, Ampharos
+Pastoral Sound:
+Pichu, Elekid
+Surf:
+Fearow (60%), Chinchou (40%)
+Old Rod:
+Chinchou (100%)
+Good Rod:
+Chinchou (93%), Lanturn (7%)
+Super Rod:
+Lanturn (100%)
+
+Rock Tunnel
+---
+[ 1F ]
+Wild Levels: 52 – 55
+Cave:
+Graveler (20%), Golbat (20%), Lairon (10%), Makuhita (10%), Cubone (10%), Ditto (10%), Mankey
+(10%), Magnemite (10%)
+Meridian Sound:
+Hariyama, Magneton
+Pastoral Sound:
+Absol, Kangaskhan
+[ B1F ]
+Wild Levels: 53 – 56
+Cave:
+Graveler (20%), Golbat (20%), Lairon (10%), Hariyama (10%), Marowak (10%), Primeape (10%),
+Magneton (10%), Kangaskhan (5%), Onix (5%)
+Rock Smash:
+Nosepass (100%)
+Meridian Sound:
+Aggron, Steelix
+Pastoral Sound:
+Onix, Kangaskhan
+
+Route 8
+Wild Levels: 50 – 54
+
+Grass, Morning / Day:
+Growlithe (25%), Vulpix (25%), Kadabra (20%), Xatu (20%), Staravia (10%)
+Grass, Night:
+Growlithe (25%), Vulpix (25%), Kadabra (10%), Haunter (10%), Xatu (20%), Banette (10%)
+Meridian Sound:
+Arcanine, Alakazam (SG) / Gengar, Ninetales (SS)
+Pastoral Sound:
+Duskull, Shuppet
+
+Route 12
+Wild Levels: 20 – 55
+
+Surf:
+Slowpoke (90%), Slowbro (10%)
+Swarm:
+Relicanth (Fish)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Poliwag (60%), Goldeen (30%), Horsea (10%)
+Super Rod:
+Seadra (60%), Poliwhirl (30%), Qwilfish (10%)
+
+Route 13
+Wild Levels: 50 – 54
+
+Grass, Morning / Day:
+Nidorina (25%), Nidorino (25%), Swellow (20%), Skiploom (20%), Farfetch’d (10%)
+Grass, Night:
+Nidorina (25%), Nidorino (25%), Swellow (20%), Quagsire (20%), Noctowl (10%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Bonsly, Mime Jr.
+Swarm:
+Chansey
+Surf:
+Slowpoke (90%), Slowbro (10%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Poliwag (60%), Goldeen (30%), Horsea (10%)
+Super Rod:
+Seadra (60%), Poliwhirl (30%), Qwilfish (10%)
+
+Route 14
+Wild Levels: 51 – 55
+
+Grass, Morning / Day:
+Nidorina (25%), Nidorino (25%), Swellow (24%), Skiploom (20%), Chansey (6%)
+Grass, Night:
+Nidorina (25%), Nidorino (25%), Swellow (24%), Venomoth (20%), Chansey (6%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Bonsly, Mime Jr.
+
+Route 15
+Wild Levels: 51 – 55
+
+Grass, Morning / Day:
+Nidorina (25%), Nidorino (25%), Swellow (20%), Skiploom (20%), Ditto (10%)
+Grass, Night:
+Nidorina (25%), Nidorino (25%), Swellow (20%), Venomoth (20%), Ditto (10%)
+Meridian Sound:
+Jumpluff
+Pastoral Sound:
+Ditto
+
+Route 11
+Wild Levels: 50 – 55
+
+Grass:
+Hypno (30%), Raticate (20%), Plusle (15%), Minun (15%), Linoone (10%), Luxio (10%)
+Meridian Sound:
+Luxray
+Pastoral Sound:
+Tangela, Munchlax
+
+Fuchsia City
+Wild Levels: 10 – 20
+
+Surf:
+Magikarp (100%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Magikarp (97%), Gyarados (3%)
+Super Rod:
+Magikarp (70%), Gyarados (30%)
+
+Route 18
+Wild Levels: 50 – 56
+
+Grass, Morning / Day:
+Grimer (35%), Gulpin (20%), Fearow (20%), Muk (10%), Magcargo (10%),
+Dodrio (5%)
+Grass, Night:
+Grimer (35%), Gulpin (20%), Fearow (20%), Muk (10%), Magcargo (10%),
+Murkrow (5%)
+Meridian Sound:
+Swalot, Honchkrow
+Pastoral Sound:
+Ninjask
+
+Route 17
+Wild Levels: 52 – 55
+
+Grass, Morning / Day:
+Grimer (35%), Gulpin (20%), Fearow (20%), Muk (10%), Magcargo (10%),
+Dodrio (5%)
+Grass, Night:
+Grimer (35%), Gulpin (20%), Fearow (20%), Muk (10%), Magcargo (10%),
+Misdreavus (5%)
+Meridian Sound:
+Swalot, Mismagius
+Pastoral Sound:
+Dusclops, Drifblim
+
+Route 16
+Wild Levels: 52 – 55
+
+Grass:
+Grimer (35%), Gulpin (20%), Skorupi (20%), Muk (10%), Magcargo (10%),
+Drapion (5%)
+Meridian Sound:
+Drapion, Swalot
+Pastoral Sound:
+Ninjask
+
+Route 7
+Wild Levels: 50 – 54
+
+Grass, Morning / Day:
+Weepinbell (20%), Pidgeotto (20%), Staravia (15%), Growlithe (10%), Vulpix (10%),
+Jigglypuff (10%), Raticate (10%), Kadabra (5%)
+Grass, Night:
+Weepinbell (20%), Gloom (20%), Houndour (15%), Growlithe (10%), Vulpix (10%),
+Jigglypuff (10%), Persian (10%), Houndoom (5%)
+Meridian Sound:
+Bellossom
+Pastoral Sound:
+Linoone, Bibarel
+
+Celadon City
+Wild Levels: 15 – 20
+
+Surf:
+Grimer (90%), Muk (10%)
+
+Viridian City
+Wild Levels: 1 – 70
+
+Surf:
+Poliwag (100%)
+Old Rod:
+Poliwag (100%)
+Good Rod:
+Psyduck (100%)
+Super Rod:
+Goldeen (100%)
+
+Route 1
+Wild Levels: 48 – 60
+
+Grass, Morning / Day:
+Pidgey (20%), Rattata (20%), Sentret (10%), Zigzagoon (10%), Bidoof (10%),
+Starly (10%), Pidgeotto (5%), Raticate (5%), Furret (5%), Staravia (5%)
+Grass, Night:
+Hoothoot (20%), Rattata (20%), Ponyta (10%), Zigzagoon (10%), Bidoof (10%),
+Shinx (10%), Noctowl (5%), Raticate (5%), Rapidash (5%), Luxio (5%)
+Meridian Sound:
+Staraptor, Bibarel
+Pastoral Sound:
+Furret, Skiploom
+Swarm:
+Linoone
+
+Pallet Town
+Wild Levels: 1 – 70
+
+Surf:
+Marill (100%)
+Old Rod:
+Finneon (100%)
+Good Rod:
+Tentacool (100%)
+Super Rod:
+Staryu (100%)
+
+Route 21
+Wild Levels: 54 – 59
+
+Grass:
+Tangela (32%), Mr. Mime (28%), Raticate (15%), Pelipper (15%), Gastrodon (10%)
+Surf:
+Wingull (63%), Wailmer (32%), Pelipper (5%)
+Meridian Sound:
+Tangrowth
+Pastoral Sound:
+Floatzel, Lickitung
+Old Rod:
+Tentacool (100%)
+Good Rod:
+Tentacool (67%), Chinchou (30%), Shellder (3%)
+Super Rod:
+Tentacruel (60%), Shellder (33%), Lanturn (7%)
+
+Route 22
+Wild Levels: 54 – 59
+
+Grass:
+Fearow (30%), Dodrio (30%), Raticate (15%), Primeape (15%), Rapidash (10%)
+Surf:
+Poliwag (63%), Buizel (37%)
+Meridian Sound:
+Poliwhirl
+Pastoral Sound:
+Lombre, Nuzleaf
+Old Rod:
+Poliwag (100%)
+Good Rod:
+Poliwag (100%)
+Super Rod:
+Poliwhirl (98%), Politoed (2%)
+
+Cinnabar Island
+Wild Levels: 40 – 55
+
+Surf:
+Tentacool (90%), Tentacruel (7%), Relicanth (3%)
+Old Rod:
+Tentacool (100%)
+Good Rod:
+Tentacool (67%), Chinchou (30%), Shellder (3%)
+Super Rod:
+Tentacruel (60%), Shellder (33%), Lanturn (7%)
+
+Route 20
+Wild Levels: 5 – 60
+
+Surf:
+Tentacool (60%), Wingull (30%), Pelipper (5%), Tentacruel (3%), Wailord (2%)
+Old Rod:
+Magikarp (90%), Goldeen (10%)
+Good Rod:
+Goldeen (60%), Finneon (30%), Clamperl (10%)
+Super Rod:
+Lumineon (60%), Seaking (30%), Huntail (5%), Gorebyss (5%)
+
+Route 19
+Wild Levels: 5 – 60
+
+Surf:
+Tentacool (60%), Wingull (30%), Pelipper (5%), Mantine (5%)
+Swarm:
+Mantine (Surf)
+Old Rod:
+Magikarp (90%), Goldeen (10%)
+Good Rod:
+Goldeen (60%), Finneon (30%), Clamperl (10%)
+Super Rod:
+Lumineon (60%), Seaking (30%), Huntail (5%), Gorebyss (5%)
+Rock Smash:
+Krabby (90%), Kingler (10%)
+
+Seafoam Islands
+---
+[ 1F ]
+Wild Levels: 48 – 58
+Cave:
+Zubat (30%), Psyduck (30%), Slowpoke (30%), Golbat (10%)
+Meridian Sound:
+Golduck, Slowbro
+Pastoral Sound:
+Staryu
+[ B1F ]
+Wild Levels: 49 – 59
+Cave:
+Seel (25%), Golbat (20%), Slowbro (20%), Piloswine (20%), Snorunt (15%)
+Meridian Sound:
+Glalie, Froslass
+Pastoral Sound:
+Kingler, Golduck
+[ B2F ]
+Wild Levels: 56 – 60
+Cave:
+Golbat (35%), Dewgong (20%), Kingler (10%), Piloswine (10%), Slowbro (10%),
+Sealeo (10%), Glalie (5%)
+Meridian Sound:
+Walrein, Mamoswine
+Pastoral Sound:
+Froslass, Slowking
+[ B3F ]
+Wild Levels: 56 – 60
+Cave:
+Golbat (25%), Dewgong (20%), Kingler (10%), Sealeo (10%), Piloswine (10%),
+Glalie (10%), Delibird (5%), Sneasel (5%), Jynx (5%)
+Meridian Sound:
+Weavile, Mamoswine
+Pastoral Sound:
+Delibird, Jynx
+[ B4F ]
+Wild Levels: 57 – 60
+Cave:
+Golbat (25%), Dewgong (20%), Kingler (10%), Sealeo (10%), Piloswine (10%),
+Glalie (10%), Delibird (5%), Sneasel (5%), Jynx (5%)
+Meridian Sound:
+Crobat, Walrein
+Pastoral Sound:
+Lapras
+Surf:
+Spheal (60%), Tentacool (30%), Staryu (8%), Lapras (2%)
+Old Rod:
+Magikarp (90%), Horsea (5%), Krabby (5%)
+Good Rod:
+Magikarp (60%), Krabby (30%), Horsea (5%), Shellder (5%)
+Super Rod:
+Gyarados (60%), Seadra (30%), Shellder (5%), Kingler (5%)
+
+Viridian Forest
+Wild Levels: 60 – 68
+
+Grass, Morning:
+Weepinbell (25%), Gloom (25%), Ledian (10%), Nuzleaf (10%), Scyther (10%),
+Pinsir (10%), Wormadam (5%), Mothim (5%)
+Grass, Day:
+Weepinbell (25%), Gloom (25%), Tropius (10%), Nuzleaf (10%), Scyther (10%), Pinsir (10%),
+Wormadam (5%), Mothim (5%)
+Grass, Night:
+Parasect (25%), Gloom (25%), Ariados (10%), Carnivine (10%), Murkrow (10%),
+Misdreavus (10%), Wormadam (5%), Mothim (5%)
+Meridian Sound:
+Shiftry, Vileplume
+Pastoral Sound:
+Ambipom, Raichu
+Swarm:
+Heracross
+
+Bell Tower / Tin Tower
+---
+[ 2F, 3F ]
+---
+Sacred Gold Wild Levels: 40 – 43
+Storm Silver Wild Levels: 45 – 48
+Building:
+Rattata (35%), Zigzagoon (20%), Golbat (20%), Gastly (15%), Shuppet (5%), Duskull (5%)
+Meridian Sound:
+Haunter, Linoone
+Pastoral Sound:
+Shuppet, Duskull
+[ 4F, 5F, 6F ]
+---
+Sacred Gold Wild Levels: 41 – 44
+Storm Silver Wild Levels: 46 – 49
+Building:
+Raticate (30%), Linoone (20%), Golbat (20%), Haunter (15%), Shuppet (5%), Duskull (5%),
+Ditto (5%)
+Meridian Sound:
+Dusclops, Banette
+Pastoral Sound:
+Ditto
+[ 7F, 8F, 9F ]
+---
+Sacred Gold Wild Levels: 41 – 45
+Storm Silver Wild Levels: 46 – 50
+Building:
+Raticate (20%), Haunter (20%), Golbat (15%), Dusclops (10%), Banette (10%), Swablu (10%),
+Natu (5%), Bronzor (5%), Ditto (5%)
+Meridian Sound:
+Altaria, Xatu
+Pastoral Sound:
+Bronzor, Ditto
+[ 10F ]
+---
+Sacred Gold Wild Levels: 43 – 45
+Storm Silver Wild Levels: 48 – 50
+Building:
+Raticate (20%), Ditto (20%), Golbat (10%), Altaria (10%), Xatu (10%), Haunter (10%),
+Claydol (5%), Solrock (5%), Bronzong (5%), Lunatone (5%)
+Meridian Sound:
+Gengar
+Pastoral Sound:
+Claydol, Bronzong
+
+Cerulean Cave
+---
+[ 1F ]
+Wild Levels: 60 – 64
+Cave, Morning:
+Golbat (40%), Graveler (15%), Sandslash (10%), Gloom (10%), Weepinbell (10%),
+Venomoth (5%), Parasect (5%), Ditto (5%)
+Cave, Day:
+Golbat (40%), Haunter (10%), Kadabra (10%), Graveler (10%), Machoke (10%),
+Electrode (5%), Wobbuffet (5%), Bronzong (5%), Magneton (5%)
+Cave, Night:
+Golbat (20%), Magneton (20%), Hypno (15%), Arbok (10%), Venomoth (10%),
+Rapidash (10%), Parasect (5%), Kadabra (5%), Raichu (4%), Ditto (1%)
+Rock Smash:
+Nosepass (100%)
+Meridian Sound:
+Exploud, Alakazam
+Pastoral Sound:
+Porygon, Ditto
+Surf:
+Golduck (60%), Slowbro (40%)
+Old Rod:
+Magikarp (100%)
+Good Rod:
+Poliwag (60%), Goldeen (40%)
+Super Rod:
+Krabby (60%), Slowbro (30%), Seadra (5%), Seaking (5%)
+[ 2F ]
+Wild Levels: 64 – 68
+Cave, Morning:
+Golbat (40%), Graveler (15%), Ditto (10%), Sandslash (10%), Rhyhorn (10%),
+Rhydon (5%), Gloom (5%), Weepinbell (5%)
+Cave, Day:
+Golbat (20%), Graveler (20%), Wobbuffet (10%), Solrock (10%), Lunatone (10%),
+Electrode (10%), Arbok (5%), Sandslash (5%), Bronzong (5%), Magneton (5%)
+Cave, Night:
+Dodrio (20%), Venomoth (20%), Kadabra (15%), Electrode (10%), Marowak (10%),
+Rhydon (10%), Wigglytuff (5%), Chansey (5%), Ditto (5%)
+Meridian Sound:
+Alakazam, Rhyperior
+Pastoral Sound:
+Porygon, Chansey
+[ B2F ]
+Wild Levels: 68 – 72
+Cave, Morning:
+Golbat (40%), Ditto (15%), Graveler (15%), Rhydon (10%), Rhyhorn (10%),
+Chansey (5%), Lickitung (5%)
+Cave, Day:
+Golbat (20%), Bronzong (20%), Dusclops (10%), Chimecho (10%), Banette (10%),
+Rhydon (10%), Magcargo (5%), Haunter (5%), Magmar (4%), Electabuzz (4%), Steelix (2%)
+Cave, Night:
+Rhydon (20%), Electrode (20%), Marowak (15%), Raichu (10%), Parasect (10%),
+Chansey (10%), Ditto (10%), Sandslash (5%)
+Rock Smash:
+Nosepass (100%)
+Meridian Sound:
+Dusknoir, Lickilicky
+Pastoral Sound:
+Clefairy, Arbok
+Surf:
+Gyarados (60%), Tentacruel (30%), Lanturn (5%), Quagsire (5%)
+Old Rod:
+Barboach (60%), Finneon (40%)
+Good Rod:
+Whiscash (60%), Lumineon (30%), Seadra (5%), Seaking (5%)
+Super Rod:
+Seadra (60%), Lumineon (30%), Whiscash (5%), Seaking (5%)
+
+Route 28
+Wild Levels: 58 - 64
+
+Grass, Morning / Day:
+Tangela (25%), Ponyta (25%), Rapidash (10%), Ursaring (10%), Donphan (10%),
+Dodrio (10%), Manectric (10%)
+Grass, Night:
+Tangela (25%), Ponyta (20%), Rapidash (10%), Ursaring (10%), Donphan (10%),
+Quagsire (10%), Manectric (10%), Sneasel (5%)
+Meridian Sound:
+Tangrowth
+Pastoral Sound:
+Arbok
+Surf:
+Poliwag (90%), Poliwhirl (10%)
+Old Rod:
+Luvdisc (90%), Poliwag (10%)
+Good Rod:
+Luvdisc (60%), Poliwag (30%), Poliwhirl (10%)
+Super Rod:
+Poliwhirl (60%), Luvdisc (30%), Gyarados (10%)
+
+Mt. Silver
+---
+[ Outside ]
+Wild Levels: 59 - 65
+
+Grass, Morning / Day:
+Tangela (35%), Manectric (25%), Rapidash (10%), Ursaring (10%), Donphan (10%),
+Dodrio (10%)
+Grass, Night:
+Tangela (25%), Manectric (20%), Rapidash (10%), Ursaring (10%), Donphan (10%),
+Quagsire (10%), Dusclops (10%), Sneasel (5%)
+Meridian Sound:
+Tangrowth
+Pastoral Sound:
+Arbok
+Surf:
+Poliwag (90%), Poliwhirl (10%)
+Old Rod:
+Luvdisc (90%), Poliwag (10%)
+Good Rod:
+Luvdisc (60%), Poliwag (30%), Poliwhirl (10%)
+Super Rod:
+Poliwhirl (60%), Luvdisc (30%), Gyarados (10%)
+
+[ 1F – Entrance Room ]
+Wild Levels: 50 – 64
+
+Cave, Morning / Day:
+Phanpy (20%), Teddiursa (20%), Donphan (15%), Ursaring (15%), Quagsire (10%),
+Magmar (10%), Larvitar (5%), Graveler (5%)
+Cave, Night:
+Quagsire (20%), Golbat (20%), Golduck (20%), Graveler (20%), Donphan (5%),
+Ursaring (5%), Larvitar (5%), Misdreavus (5%)
+Meridian Sound:
+Pupitar
+Pastoral Sound:
+Larvitar
+Surf:
+Golbat (60%), Seadra (30%), Horsea (10%)
+Old Rod:
+Goldeen (60%), Krabby (30%), Corphish (10%)
+Good Rod:
+Goldeen (60%), Krabby (30%), Corphish (10%)
+Super Rod:
+Seaking (60%), Kingler (30%), Crawdaunt (10%)
+[ 1F – Side Room ]
+Wild Levels: 50 – 64
+
+Cave, Morning / Day:
+Parasect (45%), Golduck (20%), Quagsire (15%), Shelgon (15%), Bagon (5%)
+Cave, Night:
+Parasect (35%), Golduck (20%), Quagsire (15%), Shelgon (15%), Misdreavus (10%),
+Bagon (5%)
+Meridian Sound:
+Shelgon
+Pastoral Sound:
+Paras, Bagon
+[ 1F – Back Room ]
+Wild Levels: 64 – 68
+
+Cave, Morning / Day:
+Golbat (20%), Graveler (20%), Steelix (20%), Rhydon (20%), Quagsire (10%),
+Pupitar (10%)
+Cave, Night:
+Golbat (20%), Graveler (20%), Steelix (20%), Rhydon (20%), Misdreavus (10%),
+Quagsire (5%), Pupitar (5%)
+Meridian Sound:
+Rhyperior
+Pastoral Sound:
+Pupitar
+[ 2F – Spiral Cave ]
+Wild Levels: 62 – 66
+
+Cave, Morning / Day:
+Golbat (25%), Graveler (25%), Magneton (20%), Mawile (10%), Sableye (10%),
+Solrock (10%)
+Cave, Night:
+Golbat (25%), Graveler (20%), Dusclops (10%), Magneton (10%), Mawile (10%),
+Sableye (10%), Lunatone (10%), Misdreavus (5%)
+Meridian Sound:
+Magnezone
+Pastoral Sound:
+Solrock, Lunatone
+[ Outside – Snowy Area ]
+Wild Levels: 54 - 65
+
+Grass, Morning / Day:
+Abomasnow (30%), Medicham (20%), Loudred (20%), Sneasel (10%),
+Piloswine (10%), Snover (5%), Absol (5%)
+Grass, Night:
+Abomasnow (20%), Loudred (20%), Medicham (10%), Noctowl (10%), Golbat (10%),
+Sneasel (10%), Piloswine (10%), Snover (5%), Absol (5%)
+Meridian Sound:
+Mamoswine, Weavile
+Pastoral Sound:
+Absol
+[ Outside – Mountainous Area ]
+Wild Levels: 60 – 64
+
+Grass, Morning / Day:
+Onix (30%), Gligar (20%), Graveler (20%), Lairon (10%), Machoke (10%),
+Skarmory (5%)
+Grass, Night:
+Golbat (40%), Gligar (10%), Onix (10%), Graveler (10%), Lairon (10%), Machoke (5%),
+Vibrava (5%), Skarmory (5%)
+Meridian Sound:
+Gliscor, Flygon
+Pastoral Sound:
+Skarmory
+[ 3F – Final Cave ]
+Wild Levels: 64 – 68
+
+Cave, Morning / Day:
+Golbat (25%), Gabite (20%), Bronzong (15%), Mawile (10%), Sableye (10%),
+Magneton (10%), Machoke (10%)
+Cave, Night:
+Golbat (25%), Gabite (20%), Bronzong (15%), Mawile (10%), Sableye (10%),
+Machoke (10%), Magneton (5%), Dusclops (5%)
+Meridian Sound:
+Machamp
+Pastoral Sound:
+Mawile, Sableye

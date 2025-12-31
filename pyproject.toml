@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sgss-wiki"
+version = "0.1.0"
+description = "Documentation generator for Pokémon Sacred Gold and Storm Silver"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rom-wiki-core @ git+https://github.com/zhenga8533/rom-wiki-core.git",
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocs-git-authors-plugin",
+    "mkdocs-git-committers-plugin",
+]
+
+[project.scripts]
+sgss-wiki = "sgss_wiki.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
