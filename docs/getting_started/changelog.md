@@ -43,14 +43,15 @@
 
 Further fixes due to a flag error within the Safari Zone. Also adds Bulk Up Kingler.
 
-## Version 1.02
+## Version 1.0.2
 
 **Released: 26th May, 2012**
 
 Problem with some flags fixed that meant events weren't disabled/enabled correctly for certain players. This changes the flag setting to ALWAYS occur, but for people who are ahead, do not wish to restart their save files and are finding themselves unable to get Surf due to a dance theater blockade, download this version and head to Olivine Pokemon Center and talk to a woman with blue hair to sort your problems out.
 
-If you are starting a New Game, then I would update to this version. If you are on 1.0.1 and you aren't finding your way into the dance theater blocked, then there's no immediate need to update to the next version.
-Additionally some small documentation changes have been added since I forgot to list a couple items.
+If you are starting a New Game, then update to this version. If you are on 1.0.1 and you aren't finding your way into the dance theater blocked, then there's no immediate need to update to the next version.
+
+Additionally some small documentation changes have been added since a couple items were missed.
 
 ## Version 1.0.1
 

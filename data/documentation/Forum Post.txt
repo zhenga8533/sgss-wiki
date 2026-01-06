@@ -18,22 +18,6 @@ Some small aesthetical edits have been made, e.g. Karen has a new background for
 Some extra bits of 'story' have been added, though it's admittedly very little and was also a late addition so it's not entirely fleshed out yet, but it focuses on the idea of a 'Legendary Trainer' who can meet the 'creator' and the hunting down of the Plate items. Might be something to focus on in a later release.
 The game has had a variety of blockades added to it to increase the linearity of the story. While this may sound odd/bad, it serves as a way to increase the level curve of Johto, which in the original games was quite poor. Basically this means you're forced to go to Cianwood first instead of Mahogany, and the Kanto region also forces you to take a certain route to give it more of an 'objective'.
 
-Credits
-
-:: afcmark15, bossdresser, Joodicator and other friends: For contributing ideas to the hack, as well as in some cases helping to playtest the thing (albeit, not much, but it's something!)
-:: Project Pokémon Forums: Again for any help they gave in relation to HG/SS problems, either to myself directly or to other people.
-:: Alpha and SCV: Though it hasn't been updated in a while, PPRE is the single most important thing needed to create this hack. Very much appreciated.
-:: KazoWAR: His tutorial on inserting sprites in HG/SS was important in order to get that Steven sprite in.
-:: Dewgong/Frostbite: For the Steven trainer sprite added to the game.
-:: Various GBAtemp / YouTube Members: For your continued support and ideas during the production of SG/SS.
-:: Jhon 591 of Romulation: For his significantly improved HG/SS anti piracy patch which means you guys can play this game on no$gba WITHOUT it crashing every five seconds!
-:: Jensei: For speeding quite fast through the game and informing me of bugs on the initial releases. Can't say it looks good on me, but it helped!
-:: Early Players: I can't thank you enough for helping out with all the bugs, and apologies for making you download things so many times!
-
-Tools Used
-
-The main tool used in order to produce this hack was PPRE, with its Pokémon editing, script editing, overworld editing and Trainer editing features. Other tools included the ever trusty crystaltile2, some moments from Cygnus Hex Editor, and the use of programs such as Tile Molester for the one bit of sprite work I did.
-
 Bugs, Errors & Possible Changes
 
 A strikeout (example) represents that the bug has been fixed and will be eliminated in the next version release.

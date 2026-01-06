@@ -2,7 +2,7 @@
 
 There are two options for players of Sacred Gold & Storm Silver; the Complete version or the Classic version.
 
-The Complete version includes every single change I have made to the game. It's the same idea as BB/VW's Full version.
+The Complete version includes every single change Drayano have made to the game. It's the same idea as BB/VW's Full version.
 
 The Classic version includes most changes but excludes any changes made directly to Pokémon (stats, types, TM compatibility, level up move changes etc). It's the same idea as BB/VW's Clean version.
 
@@ -27,7 +27,12 @@ Classic Version - ALL changes that have been made to the game excluding edits to
 
 The anti-piracy fix is included with the patch so you will need the clean ROM. The CRCs should be as follows (viewable when opened in a RAR):
 
-Heart Gold: FFD28F00
-Soul Silver: EBB387E7
+=== "Heart Gold"
+
+    `FFD28F00`
+
+=== "Soul Silver"
+
+    `EBB387E7`
 
 Play the game with no$gba 2.6a (preferably with no$zoomer), DeSmuME or a DS flashcard of your choice. Enjoy!
