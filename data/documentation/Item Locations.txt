@@ -1,6 +1,10 @@
-This document is a reference guide to the new and/or swapped locations of important items within Sacred Gold & Storm Silver. Some key items are also listed.
+General Notes
+---
+
+This is a reference guide to the new and/or swapped locations of important items within Sacred Gold & Storm Silver. Some key items are also listed.
 
 This particular document explores two main types of items:
+
 - TMs, of which there have been many swaps
 - Evolution items, which have all been shifted to be available prior to the initial Elite Four.
 
@@ -27,7 +31,7 @@ TM18 Rain Dance: Also buyable from the shop in Mahogany Town.
 TM19 Giga Drain: Also found in an item ball on Route 39.
 TM20 Safeguard: No change.
 TM21 Frustration: No change.
-TM22 SolarBeam: No change.
+TM22 Solar Beam: No change.
 TM23 Iron Tail: Also purchasable in Pewter City.
 TM24 Thunderbolt: Also found on small shore right of Olivine Lighthouse. Reduced to 4,000 Coins in Goldenrod Game Corner.
 TM25 Thunder: No change.
@@ -104,8 +108,8 @@ Evolutionary Item Locations
 Aubade Orb: Received from Sprout Tower's head sage; found in an item ball on Route 42.
 Chilled Ore: Received from Sprout Tower's head sage; found in an item ball in Ice Path.
 Covenant Orb: One is automatically received after finishing any in-game trade.
-DeepSeaScale: Also hidden on the beach on Route 47, closer to the Embedded Tower entrance.
-DeepSeaTooth: Also hidden on the beach on Route 47, closer to the Cliff Cave exit.
+Deep Sea Scale: Also hidden on the beach on Route 47, closer to the Embedded Tower entrance.
+Deep Sea Tooth: Also hidden on the beach on Route 47, closer to the Cliff Cave exit.
 Dragon Scale: Also obtainable in Blackthorn City's Pokémon Center as a gift.
 Dubious Disc: Moved to Team Rocket's Hideout.
 Electirizer: Found on Route 44.
@@ -128,7 +132,7 @@ Leaf Stone: Also purchasable in Goldenrod.
 Moon Stone: Obtainable once a day from a man in Olivine during night hours.
 Shiny Stone: Battle Frontier entrance*; buyable in Blackthorn.
 Sun Stone: Obtainable once a day from a man in Olivine during daylight hours.
-Thunderstone: Received from Sprout Tower’s head sage; also purchasable in Goldenrod.
+Thunder Stone: Received from Sprout Tower’s head sage; also purchasable in Goldenrod.
 Water Stone: Received from Sprout Tower’s head sage; also purchasable in Goldenrod.
 * You can now access the Battle Frontier after earning the Mineral Badge from Jasmine.
 
