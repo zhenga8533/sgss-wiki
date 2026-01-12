@@ -3,20 +3,14 @@ Parser for Special Events documentation file.
 
 This parser:
 1. Reads data/documentation/Special Events.txt
-2. Updates pokemon evolution data in data/pokedb/parsed/
-3. Generates a markdown file to docs/evolution_changes.md
+2. Generates a markdown file to docs/special_events.md
 """
 
 import re
 from typing import Any, cast
 
 from rom_wiki_core.parsers.base_parser import BaseParser
-from rom_wiki_core.utils.core.loader import PokeDBLoader
-from rom_wiki_core.utils.formatters.markdown_formatter import (
-    format_pokemon,
-    format_pokemon_card_grid,
-    format_type_badge,
-)
+from rom_wiki_core.utils.formatters.markdown_formatter import format_pokemon_card_grid
 
 
 class SpecialEventsParser(BaseParser):

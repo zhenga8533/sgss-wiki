@@ -11,15 +11,8 @@ import re
 from typing import Any, cast
 
 from rom_wiki_core.parsers.base_parser import BaseParser
-from rom_wiki_core.utils.core.loader import PokeDBLoader
-from rom_wiki_core.utils.data.models import EvolutionChain, EvolutionDetails, Gender
-from rom_wiki_core.utils.formatters.markdown_formatter import (
-    format_item,
-    format_pokemon,
-    format_pokemon_card_grid,
-)
+from rom_wiki_core.utils.formatters.markdown_formatter import format_pokemon_card_grid
 from rom_wiki_core.utils.services.evolution_service import EvolutionService
-from rom_wiki_core.utils.text.text_util import name_to_id, parse_pokemon_forme
 
 
 class EvolutionChangesParser(BaseParser):

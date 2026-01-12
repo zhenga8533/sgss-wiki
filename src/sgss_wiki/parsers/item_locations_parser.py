@@ -3,22 +3,14 @@ Parser for Item Locations documentation file.
 
 This parser:
 1. Reads data/documentation/Item Locations.txt
-2. Updates pokemon evolution data in data/pokedb/parsed/
-3. Generates a markdown file to docs/evolution_changes.md
+2. Generates a markdown file to docs/item_locations.md
 """
 
-import re
-from typing import Optional
-
 from rom_wiki_core.parsers.base_parser import BaseParser
-from rom_wiki_core.utils.core.loader import PokeDBLoader
-from rom_wiki_core.utils.data.models import EvolutionChain, EvolutionDetails, Gender
 from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_item,
     format_move,
 )
-from rom_wiki_core.utils.services.evolution_service import EvolutionService
-from rom_wiki_core.utils.text.text_util import name_to_id, parse_pokemon_forme
 
 
 class ItemLocationsParser(BaseParser):

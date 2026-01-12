@@ -4,7 +4,7 @@ Parser for Pokemon Locations documentation file.
 This parser:
 1. Reads data/documentation/Pokemon Locations.txt
 2. Updates pokemon evolution data in data/pokedb/parsed/
-3. Generates a markdown file to docs/evolution_changes.md
+3. Generates a markdown file to docs/pokemon_locations.md
 """
 
 import re
