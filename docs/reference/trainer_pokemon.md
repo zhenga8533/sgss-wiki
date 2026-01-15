@@ -214,7 +214,7 @@
 |:-------:|:------|:-------|
 | ![girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){ .sprite }<br>[Girafarig](../pokedex/pokemon/girafarig.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 
-### Violet City Gym
+### Violet City ~ Violet City Gym
 
 
 
@@ -567,7 +567,7 @@
 | ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../pokedex/pokemon/zubat.md) | **Level:** Lv. 17<br>**Item:** None<br>**Ability:** [Inner Focus](../pokedex/abilities/inner-focus.md)| [Wing Attack](../pokedex/moves/wing-attack.md)<br>[Giga Drain](../pokedex/moves/giga-drain.md)<br>[Supersonic](../pokedex/moves/supersonic.md)<br>[Toxic](../pokedex/moves/toxic.md) |
 | ![koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){ .sprite }<br>[Koffing](../pokedex/pokemon/koffing.md) | **Level:** Lv. 18<br>**Item:** None<br>**Ability:** [Levitate](../pokedex/abilities/levitate.md)| [Sludge Bomb](../pokedex/moves/sludge-bomb.md)<br>[Self Destruct](../pokedex/moves/self-destruct.md)<br>[Flamethrower](../pokedex/moves/flamethrower.md)<br>[Toxic](../pokedex/moves/toxic.md) |
 
-### Azalea Town Gym
+### Azalea Town ~ Azalea Town Gym
 
 
 
@@ -875,7 +875,7 @@
 | ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | **Level:** Lv. 21<br>**Item:** None<br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Sleep Powder](../pokedex/moves/sleep-powder.md)<br>[Growth](../pokedex/moves/growth.md)<br>[Grass Knot](../pokedex/moves/grass-knot.md)<br>[Solar Beam](../pokedex/moves/solar-beam.md) |
 | ![arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){ .sprite }<br>[Arcanine](../pokedex/pokemon/arcanine.md) | **Level:** Lv. 23<br>**Item:** <span style="white-space: nowrap;">![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)</span><br>**Ability:** [Intimidate](../pokedex/abilities/intimidate.md)| [Heat Wave](../pokedex/moves/heat-wave.md)<br>[Rock Smash](../pokedex/moves/rock-smash.md)<br>[Roar](../pokedex/moves/roar.md)<br>[Iron Head](../pokedex/moves/iron-head.md) |
 
-### Goldenrod City Gym
+### Goldenrod City ~ Goldenrod City Gym
 
 
 
@@ -1426,7 +1426,7 @@
 | ![jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){ .sprite }<br>[Jolteon](../pokedex/pokemon/jolteon.md) | **Level:** Lv. 50<br>**Item:** None<br>**Ability:** [Volt Absorb](../pokedex/abilities/volt-absorb.md)| [Shadow Ball](../pokedex/moves/shadow-ball.md)<br>[Thunder](../pokedex/moves/thunder.md)<br>[Thunder Wave](../pokedex/moves/thunder-wave.md)<br>[Double Team](../pokedex/moves/double-team.md) |
 | ![vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){ .sprite }<br>[Vaporeon](../pokedex/pokemon/vaporeon.md) | **Level:** Lv. 50<br>**Item:** None<br>**Ability:** [Water Absorb](../pokedex/abilities/water-absorb.md)| [Hydro Pump](../pokedex/moves/hydro-pump.md)<br>[Ice Beam](../pokedex/moves/ice-beam.md)<br>[Quick Attack](../pokedex/moves/quick-attack.md)<br>[Acid Armor](../pokedex/moves/acid-armor.md) |
 
-### Ecruteak City Gym
+### Ecruteak City ~ Ecruteak Gym
 
 
 
@@ -1884,7 +1884,7 @@
 | ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../pokedex/pokemon/electrode.md) | **Level:** Lv. 34<br>**Item:** None<br>**Ability:** [Aftermath](../pokedex/abilities/aftermath.md)| [Screech](../pokedex/moves/screech.md)<br>[Sonic Boom](../pokedex/moves/sonic-boom.md)<br>[Thunder](../pokedex/moves/thunder.md)<br>[Explosion](../pokedex/moves/explosion.md) |
 | ![jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){ .sprite }<br>[Jumpluff](../pokedex/pokemon/jumpluff.md) | **Level:** Lv. 34<br>**Item:** None<br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Leech Seed](../pokedex/moves/leech-seed.md)<br>[Cotton Spore](../pokedex/moves/cotton-spore.md)<br>[Reflect](../pokedex/moves/reflect.md)<br>[Aerial Ace](../pokedex/moves/aerial-ace.md) |
 
-### Cianwood City Gym
+### Cianwood City ~ Cianwood City Gym
 
 
 
@@ -2158,7 +2158,7 @@
 | ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | **Level:** Lv. 36<br>**Item:** None<br>**Ability:** [Inner Focus](../pokedex/abilities/inner-focus.md)| [Wing Attack](../pokedex/moves/wing-attack.md)<br>[Poison Fang](../pokedex/moves/poison-fang.md)<br>[Super Fang](../pokedex/moves/super-fang.md)<br>[Hypnosis](../pokedex/moves/hypnosis.md) |
 | ![weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){ .sprite }<br>[Weezing](../pokedex/pokemon/weezing.md) | **Level:** Lv. 37<br>**Item:** None<br>**Ability:** [Levitate](../pokedex/abilities/levitate.md)| [Sludge Bomb](../pokedex/moves/sludge-bomb.md)<br>[Pain Split](../pokedex/moves/pain-split.md)<br>[Fire Blast](../pokedex/moves/fire-blast.md)<br>[Thunder](../pokedex/moves/thunder.md) |
 
-### Safari Zone Gate
+### Fuchsia City ~ Safari Zone Gate
 
 
 
@@ -2199,7 +2199,7 @@
 | ![gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){ .sprite }<br>[Gyarados](../pokedex/pokemon/gyarados.md) | **Level:** Lv. 38<br>**Item:** None<br>**Ability:** [Intimidate](../pokedex/abilities/intimidate.md)| [Waterfall](../pokedex/moves/waterfall.md)<br>[Bounce](../pokedex/moves/bounce.md)<br>[Ice Fang](../pokedex/moves/ice-fang.md)<br>[Dragon Dance](../pokedex/moves/dragon-dance.md) |
 | ![houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){ .sprite }<br>[Houndoom](../pokedex/pokemon/houndoom.md) | **Level:** Lv. 39<br>**Item:** None<br>**Ability:** [Intimidate](../pokedex/abilities/intimidate.md)| [Fire Blast](../pokedex/moves/fire-blast.md)<br>[Feint Attack](../pokedex/moves/feint-attack.md)<br>[Will O Wisp](../pokedex/moves/will-o-wisp.md)<br>[Thunder Fang](../pokedex/moves/thunder-fang.md) |
 
-### Olivine City Gym
+### Olivine City ~ Olivine City Gym
 
 
 
@@ -2576,7 +2576,7 @@
 | ![vileplume](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/45.png){ .sprite }<br>[Vileplume](../pokedex/pokemon/vileplume.md) | **Level:** Lv. 42<br>**Item:** None<br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Giga Drain](../pokedex/moves/giga-drain.md)<br>[Growth](../pokedex/moves/growth.md)<br>[Sleep Powder](../pokedex/moves/sleep-powder.md)<br>[Sludge Bomb](../pokedex/moves/sludge-bomb.md) |
 | ![honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){ .sprite }<br>[Honchkrow](../pokedex/pokemon/honchkrow.md) | **Level:** Lv. 43<br>**Item:** None<br>**Ability:** [Insomnia](../pokedex/abilities/insomnia.md)| [Brave Bird](../pokedex/moves/brave-bird.md)<br>[Thunder Wave](../pokedex/moves/thunder-wave.md)<br>[Dark Pulse](../pokedex/moves/dark-pulse.md)<br>[Night Shade](../pokedex/moves/night-shade.md) |
 
-### Mahogany Town Gym
+### Mahogany Town ~ Mahogany Town Gym
 
 
 
@@ -3202,7 +3202,7 @@
 	| ![steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){ .sprite }<br>[Steelix](../pokedex/pokemon/steelix.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 	| ![golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){ .sprite }<br>[Golem](../pokedex/pokemon/golem.md) | Lv. 68 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-### Blackthorn City Gym
+### Blackthorn City ~ Blackthorn City Gym
 
 
 
@@ -4282,7 +4282,7 @@
 | ![weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){ .sprite }<br>[Weezing](../pokedex/pokemon/weezing.md) | Lv. 57 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 | ![magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){ .sprite }<br>[Magcargo](../pokedex/pokemon/magcargo.md) | Lv. 57 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
 
-### Pewter City Gym
+### Pewter City ~ Pewter City Gym
 
 
 
@@ -4565,7 +4565,7 @@
 | ![ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){ .sprite }<br>[Ampharos](../pokedex/pokemon/ampharos.md) | Lv. 60 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
 | ![arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){ .sprite }<br>[Arcanine](../pokedex/pokemon/arcanine.md) | Lv. 60 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-### Cerulean City Gym
+### Cerulean City ~ Cerulean City Gym
 
 
 
@@ -4640,7 +4640,7 @@
 | ![golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){ .sprite }<br>[Golduck](../pokedex/pokemon/golduck.md) | **Level:** Lv. 60<br>**Item:** None<br>**Ability:** [Damp](../pokedex/abilities/damp.md)| [Water Pulse](../pokedex/moves/water-pulse.md)<br>[Psychic](../pokedex/moves/psychic.md)<br>[Toxic](../pokedex/moves/toxic.md)<br>[Ice Beam](../pokedex/moves/ice-beam.md) |
 | ![starmie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/121.png){ .sprite }<br>[Starmie](../pokedex/pokemon/starmie.md) | **Level:** Lv. 62<br>**Item:** <span style="white-space: nowrap;">![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)</span><br>**Ability:** [Natural Cure](../pokedex/abilities/natural-cure.md)| [Hydro Pump](../pokedex/moves/hydro-pump.md)<br>[Thunderbolt](../pokedex/moves/thunderbolt.md)<br>[Ice Beam](../pokedex/moves/ice-beam.md)<br>[Psychic](../pokedex/moves/psychic.md) |
 
-### Vermilion City Gym
+### Vermilion City ~ Vermilion City Gym
 
 
 
@@ -5362,7 +5362,7 @@
 	| ![ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){ .sprite }<br>[Ambipom](../pokedex/pokemon/ambipom.md) | Lv. 68 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 	| ![ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){ .sprite }<br>[Ledian](../pokedex/pokemon/ledian.md) | Lv. 68 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-### Fuchsia City Gym
+### Fuchsia City ~ Fuchsia City Gym
 
 
 
@@ -5604,7 +5604,7 @@
 	| ![arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){ .sprite }<br>[Arbok](../pokedex/pokemon/arbok.md) | Lv. 69 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){ .sprite }<br>[Weezing](../pokedex/pokemon/weezing.md) | Lv. 69 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-### Celadon City Gym
+### Celadon City ~ Celadon City Gym
 
 
 
@@ -5664,7 +5664,7 @@
 | ![bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){ .sprite }<br>[Bellossom](../pokedex/pokemon/bellossom.md) | **Level:** Lv. 63<br>**Item:** <span style="white-space: nowrap;">![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)</span><br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Petal Dance](../pokedex/moves/petal-dance.md)<br>[Synthesis](../pokedex/moves/synthesis.md)<br>[Teeter Dance](../pokedex/moves/teeter-dance.md)<br>[Flash](../pokedex/moves/flash.md) |
 | ![tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){ .sprite }<br>[Tangrowth](../pokedex/pokemon/tangrowth.md) | **Level:** Lv. 65<br>**Item:** None<br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Power Whip](../pokedex/moves/power-whip.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Focus Blast](../pokedex/moves/focus-blast.md)<br>[Sleep Powder](../pokedex/moves/sleep-powder.md) |
 
-### Saffron City Gym
+### Saffron City ~ Saffron City Gym
 
 
 
@@ -5880,7 +5880,7 @@
 |:-------:|:------|:-------|
 | ![blastoise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/9.png){ .sprite }<br>[Blastoise](../pokedex/pokemon/blastoise.md) | Lv. 64 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
 
-### Seafoam Islands Gym
+### Seafoam Islands ~ Seafoam Islands Gym
 
 
 
@@ -6139,7 +6139,7 @@
 	| ![forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){ .sprite }<br>[Forretress](../pokedex/pokemon/forretress.md) | Lv. 69 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
 	| ![forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){ .sprite }<br>[Forretress](../pokedex/pokemon/forretress.md) | Lv. 69 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
 
-### Viridian City Gym
+### Viridian City ~ Viridian City Gym
 
 
 
@@ -6254,7 +6254,7 @@
 | ![gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){ .sprite }<br>[Gastrodon](../pokedex/pokemon/gastrodon.md) | Lv. 75 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 | ![exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){ .sprite }<br>[Exeggutor](../pokedex/pokemon/exeggutor.md) | Lv. 75 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 
-### Saffron City Dojo
+### Saffron City ~ Saffron City Dojo
 
 
 
@@ -6493,7 +6493,7 @@
 | ![nidoking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/34.png){ .sprite }<br>[Nidoking](../pokedex/pokemon/nidoking.md) | Lv. 80 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 | ![nidoqueen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/31.png){ .sprite }<br>[Nidoqueen](../pokedex/pokemon/nidoqueen.md) | Lv. 80 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-### Mt. Silver Cave
+### Mt. Silver
 
 
 
