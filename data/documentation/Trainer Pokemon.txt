@@ -62,7 +62,7 @@ Ruins of Alph
 ---
 Psychic Nathan               Girafarig Lv. 30
 
-Violet City Gym
+Violet City ~ Violet City Gym
 ---
 Bird Keeper Abe              Spearow Lv. 11, Pidgey Lv. 11, Doduo Lv. 11
 Bird Keeper Rod              Taillow Lv. 11, Wingull Lv. 11, Natu Lv. 11, Zubat Lv. 11
@@ -133,7 +133,7 @@ Zubat (Lv. 17) @ None               /   Inner Focus     /   Wing Attack, Giga Dr
 Koffing (Lv. 18) @ None             /   Levitate        /   Sludge Bomb, Self-Destruct, Flamethrower, Toxic
 
 
-Azalea Town Gym
+Azalea Town ~ Azalea Town Gym
 ---
 Bug Catcher Al               Combee Lv. 17, Pineco Lv. 17, Kricketune Lv. 17
 Bug Catcher Benny            Paras Lv. 18, Nincada Lv. 18, Ledian Lv. 18, Skorupi Lv. 18
@@ -196,7 +196,7 @@ Marill (Lv. 21) @ None              /   Thick Fat       /   Bubble Beam, Double 
 Tangela (Lv. 21) @ None             /   Chlorophyll     /   Sleep Powder, Growth, Grass Knot, Solar Beam
 Arcanine (Lv. 23) @ Sitrus Berry    /   Intimidate      /   Heat Wave, Rock Smash, Roar, Iron Head
 
-Goldenrod City Gym
+Goldenrod City ~ Goldenrod City Gym
 ---
 Beauty Victoria              Whismur Lv. 20, Teddiursa Lv. 20, Snubbull Lv. 20, Loudred Lv. 20
 Beauty Samantha              Meowth Lv. 20, Munchlax Lv. 20, Kecleon Lv. 20
@@ -303,7 +303,7 @@ Flareon (Lv. 50) @ None             /   Flash Fire      /   Sunny Day, Fire Blas
 Jolteon (Lv. 50) @ None             /   Volt Absorb     /   Shadow Ball, Thunder, Thunder Wave, Double Team
 Vaporeon (Lv. 50) @ None            /   Water Absorb    /   Hydro Pump, Ice Beam, Quick Attack, Acid Armor
 
-Ecruteak City Gym
+Ecruteak City ~ Ecruteak Gym
 ---
 Medium Georgina              Gastly Lv. 26, Duskull Lv. 26, Shuppet Lv. 26
 Medium Grace                 Haunter Lv. 27, Sableye Lv. 27
@@ -396,7 +396,7 @@ Rotom (Lv. 34) @ None               /   Levitate        /   Thunderbolt, Shadow 
 Electrode (Lv. 34) @ None           /   Aftermath       /   Screech, Sonic Boom, Thunder, Explosion
 Jumpluff (Lv. 34) @ None            /   Chlorophyll     /   Leech Seed, Cotton Spore, Reflect, Aerial Ace
 
-Cianwood City Gym
+Cianwood City ~ Cianwood City Gym
 ---
 Black Belt Yoshi             Mankey Lv. 32, Meditite Lv. 32, Riolu Lv. 32
 Black Belt Nob               Machoke Lv. 31, Monferno Lv. 31, Heracross Lv. 31, Combusken Lv. 31
@@ -455,7 +455,7 @@ Skuntank (Lv. 36) @ None            /   Stench          /   Poison Jab, Flamethr
 Golbat (Lv. 36) @ None              /   Inner Focus     /   Wing Attack, Poison Fang, Super Fang, Hypnosis
 Weezing (Lv. 37) @ None             /   Levitate        /   Sludge Bomb, Pain Split, Fire Blast, Thunder
 
-Safari Zone Gate
+Fuchsia City ~ Safari Zone Gate
 ---
 Team Rocket Grunt            Scyther Lv. 37, Mawile Lv. 37, Granbull Lv. 37
 Executive Archer             Zangoose Lv. 38, Gyarados Lv. 38, Houndoom Lv. 39
@@ -467,7 +467,7 @@ Zangoose (Lv. 38) @ None            /   Immunity        /   Crush Claw, Close Co
 Gyarados (Lv. 38) @ None            /   Intimidate      /   Waterfall, Bounce, Ice Fang, Dragon Dance
 Houndoom (Lv. 39) @ None            /   Intimidate      /   Fire Blast, Feint Attack, Will-O-Wisp, Thunder Fang
 
-Olivine City Gym
+Olivine City ~ Olivine City Gym
 ---
 Leader Jasmine               Metang Lv. 37, Forretress Lv. 38, Bronzong Lv. 38, Magneton Lv. 39, Skarmory Lv. 39, Steelix Lv. 40
 
@@ -545,7 +545,7 @@ Arbok (Lv. 42) @ None               /   Intimidate      /   Earthquake, Fire Fan
 Vileplume (Lv. 42) @ None           /   Chlorophyll     /   Giga Drain, Growth, Sleep Powder, Sludge Bomb
 Honchkrow (Lv. 43) @ None           /   Insomnia        /   Brave Bird, Thunder Wave, Dark Pulse, Night Shade
 
-Mahogany Town Gym
+Mahogany Town ~ Mahogany Town Gym
 ---
 Boarder Patton               Swinub Lv. 41, Snorunt Lv. 41, Smoochum Lv. 41
 Skier Diana                  Seel Lv. 42, Delibird Lv. 42
@@ -694,7 +694,7 @@ Hiker Parry (F10a-8p)        Steelix Lv. 50, Golem Lv. 50
 Hiker Parry (F10a-8p)        Steelix Lv. 55, Golem Lv. 55
 Hiker Parry (F10a-8p)        Steelix Lv. 72, Golem Lv. 68
 
-Blackthorn City Gym
+Blackthorn City ~ Blackthorn City Gym
 ---
 Ace Trainer Paulo            Dratini Lv. 46, Bagon Lv. 46, Seadra Lv. 46
 Ace Trainer Lola             Dragonair Lv. 47, Gabite Lv. 47
@@ -958,7 +958,7 @@ Black Belt Ander             Primeape Lv. 57, Vigoroth Lv. 57, Breloom Lv. 57
 Hiker Dwight                 Magnezone Lv. 56, Steelix Lv. 56
 Firebreather Burt            Weezing Lv. 57, Magcargo Lv. 57
 
-Pewter City Gym
+Pewter City ~ Pewter City Gym
 ---
 Camper Jerry                 Marowak Lv. 54, Shuckle Lv. 54, Rampardos Lv. 54, Aggron Lv. 54, Bastiodon Lv. 54
 Hiker Edwin                  Sudowoodo Lv. 54, Armaldo Lv. 54, Cradily Lv. 54, Rhydon Lv. 54, Probopass Lv. 54
@@ -1032,7 +1032,7 @@ Lass Shannon                 Parasect Lv. 60
 Super Nerd Pat               Porygon2 Lv. 60
 Ace Trainer Kevin            Walrein Lv. 60, Roserade Lv. 60, Ampharos Lv. 60, Arcanine Lv. 60
 
-Cerulean City Gym
+Cerulean City ~ Cerulean City Gym
 ---
 Sailor Parker                Whiscash Lv. 58, Corsola Lv. 58, Kingdra Lv. 58, Ludicolo Lv. 58
 Swimmer Diana                Kingler Lv. 58, Gyarados Lv. 58, Dewgong Lv. 58, Slowking Lv. 58
@@ -1049,7 +1049,7 @@ Vaporeon (Lv. 59) @ None            /   Water Absorb    /   Acid Armor, Baton Pa
 Golduck (Lv. 60) @ None             /   Damp            /   Water Pulse, Psychic, Toxic, Ice Beam
 Starmie (Lv. 62) @ Sitrus Berry     /   Natural Cure    /   Hydro Pump, Thunderbolt, Ice Beam, Psychic
 
-Vermilion City Gym
+Vermilion City ~ Vermilion City Gym
 ---
 Juggler Horton               Rotom-Heat Lv. 57, Rotom-Wash Lv. 57, Rotom-Frost Lv. 57, Rotom-Fan Lv. 57, Rotom-Mow Lv. 57
 Guitarist Vincent            Electabuzz Lv. 59, Electrode Lv. 59, Magneton Lv. 59
@@ -1171,7 +1171,7 @@ Teacher Hillary (Th8p-5a)    Ambipom Lv. 63, Ledian Lv. 63
 Teacher Hillary (Th8p-5a)    Ambipom Lv. 66, Ledian Lv. 66
 Teacher Hillary (Th8p-5a)    Ambipom Lv. 68, Ledian Lv. 68
 
-Fuchsia City Gym
+Fuchsia City ~ Fuchsia City Gym
 ---
 Picnicker Cindy              Nidoqueen Lv. 62
 Camper Barry                 Nidoking Lv. 63
@@ -1218,7 +1218,7 @@ Biker Reese (Su8p-5a)        Arbok Lv. 62, Weezing Lv. 62
 Biker Reese (Su8p-5a)        Arbok Lv. 66, Weezing Lv. 66
 Biker Reese (Su8p-5a)        Arbok Lv. 69, Weezing Lv. 69
 
-Celadon City Gym
+Celadon City ~ Celadon City Gym
 ---
 Twins Jo & Zoe               Vileplume Lv. 62, Victreebel Lv. 62
 Lass Mchelle                 Venusaur Lv. 61, Sunflora Lv. 61, Breloom Lv. 61
@@ -1234,7 +1234,7 @@ Victreebel (Lv. 63) @ None          /   Chlorophyll     /   Leaf Blade, Synthesi
 Bellossom (Lv. 63) @ Sitrus Berry   /   Chlorophyll     /   Petal Dance, Synthesis, Teeter Dance, Flash
 Tangrowth (Lv. 65) @ None           /   Chlorophyll     /   Power Whip, Earthquake, Focus Blast, Sleep Powder
 
-Saffron City Gym
+Saffron City ~ Saffron City Gym
 ---
 Medium Rebecca               Bronzong Lv. 62, Claydol Lv. 62, Gardevoir Lv. 62
 Psychic Jared                Hypno Lv. 63, Girafarig Lv. 63, Medicham Lv. 63
@@ -1281,7 +1281,7 @@ Swimmer Mina                 Luvdisc Lv. 63, Lumineon Lv. 63, Octillery Lv. 63
 Bird Keeper Bert             Xatu Lv. 62, Dodrio Lv. 62
 Swimmer Frankie              Blastoise Lv. 64
 
-Seafoam Islands Gym
+Seafoam Islands ~ Seafoam Islands Gym
 ---
 Scientist Lowell             Arcanine Lv. 65, Rapidash Lv. 65
 Super Nerd Cary              Torkoal Lv. 65, Typhlosion Lv. 65
@@ -1332,7 +1332,7 @@ Bug Catcher Doug (W4a-10a)   Forretress Lv. 65, Forretress Lv. 65
 Bug Catcher Doug (W4a-10a)   Forretress Lv. 67, Forretress Lv. 67
 Bug Catcher Doug (W4a-10a)   Forretress Lv. 69, Forretress Lv. 69
 
-Viridian City Gym
+Viridian City ~ Viridian City Gym
 ---
 Ace Trainer Arabella         Dugtrio Lv. 66, Nidoqueen Lv. 66, Quagsire Lv. 66
 Ace Trainer Salma            Sandslash Lv. 66, Steelix Lv. 66, Mamoswine Lv. 66
@@ -1356,7 +1356,7 @@ Ace Trainer Richard          Roserade Lv. 75, Magnezone Lv. 75, Gardevoir Lv. 75
 Ace Trainer Eliza            Sharpedo Lv. 75, Sudowoodo Lv. 75, Blissey Lv. 75, Dusknoir Lv. 75, Scizor Lv. 75
 Ace Trainer Abner            Miltank Lv. 75, Aerodactyl Lv. 75, Drifblim Lv. 75, Gastrodon Lv. 75, Exeggutor Lv. 75
 
-Saffron City Dojo
+Saffron City ~ Saffron City Dojo
 ---
 Leader Falkner (Sa4-9:59a)   Fearow Lv. 68, Pelipper Lv. 64, Noctowl Lv. 66, Swellow Lv. 68, Staraptor Lv. 70, Pidgeot Lv. 72
 Leader Bugsy (Th10a–7:59p)   Yanmega Lv. 70, Heracross Lv. 68, Vespiquen Lv. 68, Pinsir Lv. 69, Masquerain Lv. 70, Scizor Lv. 72
@@ -1382,7 +1382,7 @@ Executive Ariana             Jynx Lv. 72, Milotic Lv. 70, Purugly Lv. 72, Arbok 
 Executive Archer             Zangoose Lv. 77, Drapion Lv. 73, Gyarados Lv. 73, Scizor Lv. 75, Machamp Lv. 75, Houndoom Lv. 78
 Rocket Boss Giovanni         Persian Lv. 82, Kangaskhan Lv. 76, Rhyperior Lv. 76, Tyranitar Lv. 80, Nidoking Lv. 80, Nidoqueen Lv. 80
 
-Mt. Silver Cave
+Mt. Silver
 ---
 PKMN Trainer Red             Pikachu Lv. 94, Espeon Lv. 88, Snorlax Lv. 88, Venusaur Lv. 90, Charizard Lv. 90, Blastoise Lv. 90
 
