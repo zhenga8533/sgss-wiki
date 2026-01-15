@@ -4613,10 +4613,7 @@ Also an important note: the move relearner, together with the move deleter has b
 		- **New Type**: Bug / Water
 
 
-		**Ability**:
-
-		- [Levitate](../pokedex/abilities/levitate.md) {1}
-		- [Levitate](../pokedex/abilities/levitate.md)
+		**Ability**: [Levitate](../pokedex/abilities/levitate.md) {1}
 
 		**Stat Change**:
 

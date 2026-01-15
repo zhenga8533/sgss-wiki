@@ -736,7 +736,7 @@ Changes
 + TM: Compatibility with HM03 (Surf).
 #284 Masquerain
 + Type Change: Bug / Flying >> Bug / Water
-+ Ability: Levitate {1}, Levitate
++ Ability: Levitate {1}
 + Stat Change: Special Attack (100), Special Defense (102), Speed (90), Total (484)
 + Base Experience: 128 >> 158
 + Level Up Moves: Air Cutter {22}, Hydro Pump (67)
