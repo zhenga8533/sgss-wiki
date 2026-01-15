@@ -1,6 +1,10 @@
+General Notes
+---
+
 This document exists as a reference guide to the changes made to Pokémon within Sacred Gold and Storm Silver. All changes (bar Evolutions, which have their own document) are listed in here, including changes to abilities, level-up moves, stats, types and others.
 
-Notation is the following…
+Notation is the following:
+
 - () = New
 - {} = Replaces Original
 - [] = Shifts from Original Position
@@ -10,10 +14,14 @@ In an ability context, if {} is used then it refers to which ability has been re
 Remember: Use Ctrl+F to find a Pokémon easily! If a Pokémon is missing from the document, then no changes have been applied to it.
 
 Also an important note: the move relearner, together with the move deleter has been moved to the top left house in Cianwood City. There are also some changes to moves:
+
 - Cut is a 60-power Grass move.
 - Strength is a 60-power Rock move with a 10% chance of reducing the foe's Attack.
 - Rock Smash is a 60-power Fighting move with a 30% chance of reducing Defense.
 - All Black and White upgrades to moves have been added where possible, too.
+
+Changes
+---
 
 #001 Bulbasaur
 + Ability: Chlorophyll
@@ -45,11 +53,9 @@ Also an important note: the move relearner, together with the move deleter has b
 #010 Caterpie
 + Ability: Run Away
 + Level Up Moves: Bug Bite (1), Snore (1)
-
 #012 Butterfree
 + Ability: Tinted Lens
-+ Level Up Moves: Gust (10), Air Cutter (16), Giga Drain (20), Air Slash (26), Baton Pass
- (32), Psychic (38)
++ Level Up Moves: Gust (10), Air Cutter (16), Giga Drain (20), Air Slash (26), Baton Pass (32), Psychic (38)
 + Stat Change: Special Attack (100), Special Defense (100), Speed (80), Total (435)
 + Base Experience: 160 >> 180
 #013 Weedle
@@ -57,8 +63,7 @@ Also an important note: the move relearner, together with the move deleter has b
 + Level Up Moves: Bug Bite (1)
 #015 Beedrill
 + Ability: Sniper
-+ Level Up Moves: Twineedle (10), Aerial Ace (16), Cross Poison (16), Night Slash (22),
-X-Scissor (31), Drill Peck (37), Megahorn (43)
++ Level Up Moves: Twineedle (10), Aerial Ace (16), Cross Poison (16), Night Slash (22), X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Stat Change: Attack (100), Special Defense (90), Speed (95), Total (435)
 + Base Experience: 159 >> 179
 #016 Pidgey
@@ -79,7 +84,6 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 #021 Spearow
 + Ability: Sniper
 + Level Up Moves: Pursuit [1], Sonic Boom (13), Tailwind (41)
-
 #022 Fearow
 + Stat Change: Attack (95), Speed (105), Total (452)
 + Ability: Sniper
@@ -113,7 +117,6 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Stat Change: HP (100), Total (505)
 #032 Nidoran M
 + Level Up Moves: Super Fang (47)
-
 #033 Nidorino
 + Level Up Moves: Super Fang (65)
 #034 Nidoking
@@ -135,8 +138,7 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Ability: Soundproof
 + Level Up Moves: Pound [1], Defense Curl [7], Perish Song (53), Wish (57)
 #040 Wigglytuff
-+ Stat Change: HP (148), Defense (55), Special Attack (85), Special Defense (65), Total
- (450)
++ Stat Change: HP (148), Defense (55), Special Attack (85), Special Defense (65), Total (450)
 + Ability: Soundproof
 + Level Up Moves: Wish (46)
 + Base Experience: 109 >> 129
@@ -146,14 +148,12 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 #042 Golbat
 + Ability: Anticipation
 + Level Up Moves: Wing Attack [1], Hypnosis {17}, Nasty Plot (57), Brave Bird (63)
-
 #043 Oddish
 + Ability: Run Away
 + Level Up Moves: Razor Leaf (11), Nature Power (19), Teeter Dance (45)
 #044 Gloom
 + Ability: Stench
-+ Level Up Moves: Razor Leaf (11), Nature Power (19), Drain Punch (21), Teeter Dance
- (59)
++ Level Up Moves: Razor Leaf (11), Nature Power (19), Drain Punch (21), Teeter Dance (59)
 #045 Vileplume
 + Stat Change: Special Attack (110), Special Defense (100), Total (500)
 + Ability: Effect Spore
@@ -171,8 +171,7 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Ability: Poison Heal {1}
 + TM: Compatibility with TM04 (Calm Mind).
 + Stat Change: Special Attack (115), Total (475)
-+ Level Up Moves: Signal Beam (19), Ominous Wind {31}, Baton Pass {37}, Giga Drain
- {41}, Sludge Bomb {47}
++ Level Up Moves: Signal Beam (19), Ominous Wind {31}, Baton Pass {37}, Giga Drain {41}, Sludge Bomb {47}
 #051 Dugtrio
 + Stat Change: Attack (100), Total (425)
 #053 Persian
@@ -180,7 +179,6 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 + Level Up Moves: Hypnosis (1)
 #054 Psyduck
 + Level Up Moves: Hypnosis (52), Psychic (57), Petal Dance (61)
-
 #055 Golduck
 + Level Up Moves: Cross Chop (33), Hypnosis (62), Psychic (68), Petal Dance (73)
 #057 Primeape
@@ -211,9 +209,7 @@ X-Scissor (31), Drill Peck (37), Megahorn (43)
 #067 Machoke
 + Level Up Moves: Rock Throw (16), Rock Slide (28), Stone Edge (44), Scary Face [48]
 #068 Machamp
-+ Level Up Moves: Bullet Punch (1), Rock Throw (16), Rock Slide (28), Stone Edge (44),
-Scary Face [48]
-
++ Level Up Moves: Bullet Punch (1), Rock Throw (16), Rock Slide (28), Stone Edge (44), Scary Face [48]
 #069 Bellsprout
 + Ability: Gluttony
 + Level Up Moves: Razor Leaf [9], Power Whip (39)
@@ -245,16 +241,13 @@ Scary Face [48]
 + Level Up Moves: Signal Beam (57)
 #082 Magneton
 + Level Up Moves: Signal Beam (64)
-
 #083 Farfetch’d
 + Type Change: Normal / Flying >> Fighting / Flying
 + Ability: Super Luck {1}
 + TM: Compatibility with TM31 (Brick Break).
 + Base Experience: 94 >> 144
 + Level Up Moves: Peck (1), Sand-Attack (1), Leer (1), Fury Cutter (4), Fury Attack (7), Knock Off (10), Aerial Ace (13), Slash (16), Revenge (19), Swords Dance (22), Agility (25), Close Combat (28), Night Slash (31), False Swipe (34), Poison Jab (37), Psycho Cut (40), Leaf Blade (43), Brave Bird (46)
-
 + Stat Change: HP (55), Attack (110), Defense (55), Special Attack (60), Special Defense (65), Speed (105), Total (450)
-
 #084 Doduo
 + Ability: Tangled Feet {1}
 + Level Up Moves: Jump Kick (51), Brave Bird (56)
@@ -265,7 +258,6 @@ Scary Face [48]
 + Stat Change: Special Attack (80), Total (485)
 #088 Grimer
 + Level Up Moves: Curse (54)
-
 #089 Muk
 + Level Up Moves: Shadow Punch (38), Curse (75)
 #090 Shellder
@@ -275,8 +267,7 @@ Scary Face [48]
 #093 Haunter
 + Level Up Moves: Night Shade [1], Ominous Wind (15), Icy Wind (55), Nightmare [60]
 #094 Gengar
-+ Level Up Moves: Night Shade [1], Ominous Wind (15), Icy Wind (55), Nightmare [60],
-Aura Sphere (65)
++ Level Up Moves: Night Shade [1], Ominous Wind (15), Icy Wind (55), Nightmare [60], Aura Sphere (65)
 #095 Onix
 + Stat Change: Attack (80), Total (420)
 + Base Experience: 108 >> 128
@@ -291,12 +282,10 @@ Aura Sphere (65)
 #099 Kingler
 + Ability: Shed Skin {2}
 + TM: Compatibility with TM08 (Bulk Up), TM65 (Shadow Claw), and HM07 (Waterfall).
-+ Level Up Moves: Superpower (1), Bubble Beam [1], Hammer Arm (28), Crush Claw {56},
-Cross Chop (69)
++ Level Up Moves: Superpower (1), Bubble Beam [1], Hammer Arm (28), Crush Claw {56}, Cross Chop (69)
 #100 Voltorb
 + Ability: Aftermath {1}
 + Level Up Moves: Signal Beam (50)
-
 #101 Electrode
 + Ability: Aftermath {1}
 + TM: Compatibility with TM53 (Energy Ball) and HM05 (Whirlpool).
@@ -311,8 +300,7 @@ Cross Chop (69)
 #105 Marowak
 + Ability: Battle Armor {2}
 + Stat Change: Speed (70), Total (450)
-+ Level Up Moves: Fire Punch (1), Ice Punch (1), Thunder Punch (1), Sing (57), Perish Song
- (57)
++ Level Up Moves: Fire Punch (1), Ice Punch (1), Thunder Punch (1), Sing (57), Perish Song (57)
 + Base Experience: 124 >> 140
 #106 Hitmonlee
 + Level Up Moves: Bounce (61)
@@ -328,7 +316,6 @@ Cross Chop (69)
 #111 Rhyhorn
 + Ability: Reckless {1}
 + Level Up Moves: Crunch (53)
-
 #112 Rhydon
 + Ability: Reckless {1}
 + Level Up Moves: Crunch (53)
@@ -343,8 +330,7 @@ Cross Chop (69)
 + Stat Change: Attack (102), Speed (88), Total (480)
 + Level Up Moves: Aqua Tail (33)
 #120 Staryu
-+ Level Up Moves: Water Gun [1], Rapid Spin [6], Recover [10], Camouflage [15],
-Psybeam (19)
++ Level Up Moves: Water Gun [1], Rapid Spin [6], Recover [10], Camouflage [15], Psybeam (19)
 #121 Starmie
 + Level Up Moves: Aura Sphere (52)
 #123 Scyther
@@ -361,7 +347,6 @@ Psybeam (19)
 + Level Up Moves: Magma Storm (62)
 #127 Pinsir
 + Level Up Moves: Megahorn (57), Close Combat (62)
-
 #128 Tauros
 + Level Up Moves: Megahorn (62), Double-Edge (69)
 #129 Magikarp
@@ -373,7 +358,6 @@ Psybeam (19)
 #133 Eevee
 + TM: Compatibility with TM86 (Grass Knot).
 + Level Up Moves: Tail Whip (1), Tackle (1), Helping Hand (1), Sand-Attack (3), Bite (8), Growl (13), Quick Attack (18), Yawn (23), Baton Pass (28), Take Down (33), Wish (38), Last Resort (43), Trump Card (48)
-
 #134 Vaporeon
 + Ability: Hydration
 + TM: Compatibility with TM86 (Grass Knot).
@@ -382,7 +366,6 @@ Psybeam (19)
 + Ability: Quick Feet
 + TM: Compatibility with TM86 (Grass Knot).
 + Level Up Moves: Tail Whip (1), Tackle (1), Helping Hand (1), Sand-Attack (3), Double Kick (8), Thunder Shock (13), Quick Attack (18), Shock Wave (23), Pin Missile (28), Thunder Fang (33), Detect (38), Last Resort (43), Thunder Wave (48), Agility (53), Thunder (58), Discharge (63), Volt Tackle (68)
-
 #136 Flareon
 + Ability: Guts
 + TM: Compatibility with TM80 (Rock Slide), TM71 (Stone Edge), and TM86 (Grass Knot).
@@ -410,7 +393,6 @@ Psybeam (19)
 + Ability: Marvel Scale
 #150 Mewtwo
 + Ability: Magic Guard
-
 #151 Mew
 + Ability: Magic Guard
 #152 Chikorita
@@ -421,8 +403,7 @@ Psybeam (19)
 + Level Up Moves: Grass Whistle (15), Nature Power (16), Leaf Storm (58)
 #154 Meganium
 + Ability: Natural Cure
-+ Level Up Moves: Grass Whistle (15), Nature Power (16), Earth Power (32), Leaf Storm
- (72)
++ Level Up Moves: Grass Whistle (15), Nature Power (16), Earth Power (32), Leaf Storm (72)
 #155 Cyndaquil
 + Ability: Flash Fire
 #156 Quilava
@@ -442,7 +423,6 @@ Psybeam (19)
 #161 Sentret
 + Ability: Pickup {1}
 + Level Up Moves: Dizzy Punch (1), Super Fang (50)
-
 #162 Furret
 + Ability: Scrappy {1}
 + Stat Change: Attack (86), Speed (108), Total (443)
@@ -478,7 +458,6 @@ Psybeam (19)
 + Level Up Moves: Wing Attack [1], Hypnosis {17}, Nasty Plot (57), Brave Bird (63)
 #170 Chinchou
 + Ability: Water Absorb {2}
-
 #171 Lanturn
 + Ability: Water Absorb {2}
 + Stat Change: Special Attack (86), Special Defense (86), Total (480)
@@ -507,7 +486,6 @@ Psybeam (19)
 #181 Ampharos
 + TM: Compatibility with TM59 (Dragon Pulse) and TM91 (Flash Cannon).
 + Level Up Moves: Tail Glow (1), Charge (1)
-
 #182 Bellossom
 + Stat Change: Special Attack (100), Special Defense (110), Total (500)
 + Ability: Own Tempo
@@ -540,7 +518,6 @@ Psybeam (19)
 + Base Experience: 146 >> 196
 #193 Yanma
 + Level Up Moves: Air Cutter {11}, Signal Beam (20), Supersonic [23]
-
 #194 Wooper
 + Ability: Unaware {1}
 + Level Up Moves: Aqua Tail (26), Recover (51)
@@ -567,7 +544,6 @@ Psybeam (19)
 + Base Experience: 61 >> 100
 #202 Wobbuffet
 + Level Up Moves: Mimic (15)
-
 #203 Girafarig
 + Stat Change: Special Attack (110), Speed (105), Total (495)
 + Level Up Moves: Nasty Plot (50)
@@ -597,11 +573,9 @@ Psybeam (19)
 + Ability: Solid Rock {1}
 #214 Heracross
 + Level Up Moves: Bug Bite (3), Horn Drill (61)
-
 #215 Sneasel
 + Ability: Technician {2}
-+ Level Up Moves: Feint Attack [13], Ice Fang (17), Ice Punch (32), Slash [36], Crunch (46),
-Ice Shard [50]
++ Level Up Moves: Feint Attack [13], Ice Fang (17), Ice Punch (32), Slash [36], Crunch (46), Ice Shard [50]
 #216 Teddiursa
 + Ability: Honey Gather {2}
 #217 Ursaring
@@ -628,11 +602,8 @@ Ice Shard [50]
 #225 Delibird
 + Ability: Technician {2}
 + TM: Compatibility with TM89 (U-turn).
-+ Stat Change: HP (50), Attack (95), Defense (55), Special Attack (105), Special Defense
- (55), Speed (115), Total (475)
-+ Level Up Moves: Pay Day (1), Pluck (8), Mist (15), Quick Attack (22), Baton Pass (29),
-Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), Tailwind (71)
-
++ Stat Change: HP (50), Attack (95), Defense (55), Special Attack (105), Special Defense (55), Speed (115), Total (475)
++ Level Up Moves: Pay Day (1), Pluck (8), Mist (15), Quick Attack (22), Baton Pass (29), Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), Tailwind (71)
 #226 Mantine
 + TM: Compatibility with HM02 (Fly).
 + Level Up Moves: Mirror Coat (53)
@@ -663,7 +634,6 @@ Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), T
 + Ability: Vital Spirit
 #240 Magby
 + Ability: Vital Spirit
-
 #241 Miltank
 + Level Up Moves: Hammer Arm (62), Double-Edge (69)
 #242 Blissey
@@ -696,7 +666,6 @@ Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), T
 + Level Up Moves: Thunder Punch (1), Low Kick (1), Dragon Breath (36)
 #255 Torchic
 + Ability: Speed Boost
-
 #256 Combusken
 + Ability: Speed Boost
 #257 Blaziken
@@ -725,14 +694,11 @@ Air Slash (36), Seed Bomb (43), Fake Out (50), Blizzard (57), Nasty Plot (64), T
 #267 Beautifly
 + Stat Change: Special Attack (105), Special Defense (65), Speed (85), Total (435)
 + Ability: Shield Dust
-+ Level Up Moves: Stun Spore [15], Air Cutter (17), Signal Beam (22), Sleep Powder (29),
-Air Slash (44)
-
++ Level Up Moves: Stun Spore [15], Air Cutter (17), Signal Beam (22), Sleep Powder (29), Air Slash (44)
 #269 Dustox
 + Stat Change: Special Attack (65), Special Defense (105), Speed (85), Total (435)
 + Ability: Compound Eyes
-+ Level Up Moves: Protect [15], Confuse Ray (17), Signal Beam (22), Reflect (31),
-Tailwind (44)
++ Level Up Moves: Protect [15], Confuse Ray (17), Signal Beam (22), Reflect (31), Tailwind (44)
 #270 Lotad
 + Level Up Moves: Water Gun (1), Leech Seed (9), Razor Leaf (22)
 #271 Lombre
@@ -742,8 +708,7 @@ Tailwind (44)
 #273 Seedot
 + Level Up Moves: Bullet Seed (1), Quick Attack (1), Seed Bomb (17)
 #274 Nuzleaf
-+ Level Up Moves: Quick Attack (1), Razor Leaf [14], Feint Attack [19], Low Kick (22),
-Fake Out [31], Dark Pulse (34)
++ Level Up Moves: Quick Attack (1), Razor Leaf [14], Feint Attack [19], Low Kick (22), Fake Out [31], Dark Pulse (34)
 #275 Shiftry
 + Level Up Moves: Heat Wave (1), Ominous Wind (1), Icy Wind (1), Leaf Blade (49)
 #276 Taillow
@@ -761,7 +726,6 @@ Fake Out [31], Dark Pulse (34)
 #280 Ralts
 + Stat Change: Special Attack (65), Total (218)
 + Level Up Moves: Extrasensory (19)
-
 #281 Kirlia
 + Stat Change: Special Attack (95), Total (308)
 + Level Up Moves: Extrasensory (19)
@@ -794,7 +758,6 @@ Fake Out [31], Dark Pulse (34)
 + Level Up Moves: Night Slash (59), Extreme Speed (66)
 #293 Whismur
 + Level Up Moves: Fake Tears (1)
-
 #294 Loudred
 + Ability: Scrappy
 #295 Exploud
@@ -827,20 +790,16 @@ Fake Out [31], Dark Pulse (34)
 + Level Up Moves: Psycho Cut {22}, Zen Headbutt (50)
 #308 Medicham
 + Level Up Moves: Bullet Punch (1), Psycho Cut {22}, Zen Headbutt (63)
-
 #311 Plusle
 + Ability: Static
-+ Stat Change: Defense (50), Special Attack (90), Special Defense (85), Speed (115),
-Total (450)
++ Stat Change: Defense (50), Special Attack (90), Special Defense (85), Speed (115), Total (450)
 #312 Minun
 + Ability: Static
-+ Stat Change: Attack (50), Special Attack (85), Special Defense (90), Speed (115), Total
- (450)
++ Stat Change: Attack (50), Special Attack (85), Special Defense (90), Speed (115), Total (450)
 #313 Volbeat
 + Type Change: Bug >> Bug / Electric
 + Stat Change: HP (80), Attack (30), Defense (60), Special Attack (100), Special Defense (90), Speed (90), Total (450)
-+ Level Up Moves: Double Team (1), Thunder Shock (5), Helping Hand [{29}],
-Thunderbolt (33), Baton Pass (49)
++ Level Up Moves: Double Team (1), Thunder Shock (5), Helping Hand [{29}], Thunderbolt (33), Baton Pass (49)
 #314 Illumise
 + Type Change: Bug >> Bug / Electric
 + Stat Change: HP (80), Attack (30), Defense (60), Special Attack (90), Special Defense (100), Speed (90), Total (450)
@@ -858,7 +817,6 @@ Thunderbolt (33), Baton Pass (49)
 #319 Sharpedo
 + Ability: Speed Boost
 + Level Up Moves: Dark Pulse (55), Hydro Pump (60)
-
 #320 Wailmer
 + Ability: Pressure {1}
 + Level Up Moves: Fissure (51)
@@ -867,7 +825,6 @@ Thunderbolt (33), Baton Pass (49)
 + Level Up Moves: Fissure (70)
 #322 Numel
 + Ability: Own Tempo {1}
-
 #323 Camerupt
 + Ability: Anger Point {1}
 #324 Torkoal
@@ -891,7 +848,6 @@ Thunderbolt (33), Baton Pass (49)
 #331 Cacnea
 + Ability: Water Absorb
 + Level Up Moves: Needle Arm [25], Ingrain [45], Teeter Dance (61)
-
 #332 Cacturne
 + Ability: Water Absorb
 + Level Up Moves: Thunder Punch (1), Needle Arm [25], Ingrain [53], Teeter Dance (77)
@@ -924,7 +880,6 @@ Thunderbolt (33), Baton Pass (49)
 + Level Up Moves: Crabhammer [20], Dragon Dance {44}, Superpower (73)
 #343 Baltoy
 + Level Up Moves: Gravity (81)
-
 #344 Claydol
 + TM: Compatibility with HM02 (Fly).
 + Level Up Moves: Gravity (97)
@@ -956,10 +911,8 @@ Thunderbolt (33), Baton Pass (49)
 #354 Banette
 + Stat Change: Special Attack (103), Total (475)
 + Level Up Moves: Pain Split (74), Gunk Shot (82)
-
 #357 Tropius
-+ Stat Change: HP (110), Attack (90), Defense (90), Special Attack (90), Special Defense
- (90), Speed (65), Total (535)
++ Stat Change: HP (110), Attack (90), Defense (90), Special Attack (90), Special Defense (90), Speed (65), Total (535)
 + Base Experience: 169 >> 200
 + Level Up Moves: Leaf Blade {31}, Outrage (65), Dragon Dance (69)
 #358 Chimecho
@@ -971,8 +924,7 @@ Thunderbolt (33), Baton Pass (49)
 + Ability: Levitate
 + TM: Compatibility with TM71 (Stone Edge), TM80 (Rock Slide), HM04 (Strength), and HM06 (Rock Smash).
 + Type Change: Ice >> Ice / Rock
-+ Stat Change: Attack (100), Defense (120), Special Defense (60), Speed (60),
-Total (500)
++ Stat Change: Attack (100), Defense (120), Special Defense (60), Speed (60), Total (500)
 + Level Up Moves: Head Smash (42), Rock Wrecker (67)
 #365 Walrein
 + Level Up Moves: Curse {7}, Super Fang (44)
@@ -982,15 +934,13 @@ Total (500)
 + Level Up Moves: Water Gun [1], Rock Tomb [7], Yawn [14], Take Down [21], Zen Headbutt (29)
 #370 Luvdisc
 + Ability: Hydration
-+ Stat Change: HP (55), Defense (60), Special Attack (100), Special Defense (80), Speed
- (125), Total (450)
-+ Item Rate: Heart Scale (50% >> 100%)
++ Stat Change: HP (55), Defense (60), Special Attack (100), Special Defense (80), Speed (125), Total (450)
++ Item Change: Heart Scale (50% >> 100%)
 + Base Experience: 110 >> 141
 #371 Bagon
 + Level Up Moves: Dragon Dance (60), Outrage (65)
 #372 Shelgon
 + Level Up Moves: Dragon Dance (66), Outrage (71)
-
 #373 Salamence
 + Level Up Moves: Hydro Pump (1), Dragon Dance (79), Outrage (87)
 #374 Beldum
@@ -1022,7 +972,6 @@ Total (500)
 + Ability: Iron Fist
 #391 Monferno
 + Ability: Iron Fist
-
 #392 Infernape
 + Ability: Iron Fist
 + Level Up Moves: Fire Punch (1), Thunder Punch (1)
@@ -1055,7 +1004,6 @@ Total (500)
 #403 Shinx
 + Ability: Guts {1}
 + Level Up Moves: Bite [1], Thunder Wave (17), Volt Tackle (45)
-
 #404 Luxio
 + Type Change: Electric >> Electric / Dark
 + Ability: Guts {1}
@@ -1092,7 +1040,6 @@ Total (500)
 #413 Wormadam Trash
 + Stat Change: Defense (115), Special Defense (115), Total (464)
 + Ability: Sturdy
-
 #414 Mothim
 + Ability: Tinted Lens
 + Stat Change: Special Attack (109), Speed (91), Total (464)
@@ -1107,8 +1054,7 @@ Total (500)
 #417 Pachirisu
 + Ability: Volt Absorb {1}
 + Stat Change: Special Attack (100), Total (460)
-+ Level Up Moves: Discharge [21], Swift [25], Sweet Kiss [29], Fake Tears (41), Uproar
- (45)
++ Level Up Moves: Discharge [21], Swift [25], Sweet Kiss [29], Fake Tears (41), Uproar (45)
 #418 Buizel
 + Ability: Technician
 + Level Up Moves: Aqua Tail (28), Agility [54]
@@ -1125,8 +1071,7 @@ Total (500)
 #424 Ambipom
 + Level Up Moves: Fire Punch (1), Thunder Punch (1), Ice Punch (1), Fake Out (46)
 #425 Drifloon
-Level Up Moves: Hypnosis (48), Destiny Bond (53), Tailwind (58)
-
++ Level Up Moves: Hypnosis (48), Destiny Bond (53), Tailwind (58)
 #426 Drifblim
 + Level Up Moves: Air Cutter (28), Hypnosis (58), Destiny Bond (65), Tailwind (72)
 #427 Buneary
@@ -1159,7 +1104,6 @@ Level Up Moves: Hypnosis (48), Destiny Bond (53), Tailwind (58)
 #437 Bronzong
 + TM: Compatibility with HM02 (Fly).
 + Level Up Moves: Night Shade (16), Rollout (21), Curse (24)
-
 #440 Happiny
 + Level Up Moves: Wish (15), Seismic Toss (18), Last Resort (21)
 #441 Chatot
@@ -1191,20 +1135,17 @@ Level Up Moves: Hypnosis (48), Destiny Bond (53), Tailwind (58)
 + Level Up Moves: Slack Off (70), Superpower (80)
 #452 Drapion
 + Level Up Moves: Night Slash (40)
-
 #453 Croagunk
 + TM: Compatibility with TM60 (Drain Punch).
 + Level Up Moves: Cross Chop (33), Gunk Shot (49)
 #454 Toxicroak
 + TM: Compatibility with TM60 (Drain Punch).
 + Level Up Moves: Thunder Punch (1), Ice Punch (1), Cross Chop (33), Gunk Shot (59)
-
 #455 Carnivine
 + Type Change: Grass >> Grass / Dark
 + Stat Change: Attack (120), Speed (86), Total (480)
 + TM: Compatibility with TM12 (Taunt), TM41 (Torment), and TM79 (Dark Pulse).
-+ Level Up Moves: Poison Fang (7), Bullet Seed (14), Sleep Powder (19), Stun Spore (24),
-Seed Bomb (34), Bug Bite (44)
++ Level Up Moves: Poison Fang (7), Bullet Seed (14), Sleep Powder (19), Stun Spore (24), Seed Bomb (34), Bug Bite (44)
 #457 Lumineon
 + Stat Change: Special Attack (89), Speed (101), Total (490)
 + Level Up Moves: Psybeam (1), Ominous Wind (1)
@@ -1225,7 +1166,6 @@ Seed Bomb (34), Bug Bite (44)
 #463 Lickilicky
 + Ability: Cloud Nine {2}
 + Level Up Moves: Belly Drum (61), Hammer Arm (65)
-
 #464 Rhyperior
 + Ability: Reckless {1}
 + Level Up Moves: Crunch (53)
@@ -1237,8 +1177,7 @@ Seed Bomb (34), Bug Bite (44)
 + Level Up Moves: Cross Chop {43}, Close Combat {58}, Volt Tackle (67), Giga Impact [76]
 #467 Magmortar
 + Ability: Vital Spirit
-+ Level Up Moves: Cross Chop {43}, Aura Sphere {58}, Magma Storm (67), Hyper Beam
- [76]
++ Level Up Moves: Cross Chop {43}, Aura Sphere {58}, Magma Storm (67), Hyper Beam [76]
 #468 Togekiss
 + Level Up Moves: Heat Wave (1)
 #469 Yanmega
@@ -1259,7 +1198,6 @@ Seed Bomb (34), Bug Bite (44)
 + Level Up Moves: Gravity (73)
 #475 Gallade
 + Level Up Moves: Fire Punch (1), Thunder Punch (1), Ice Punch (1)
-
 #476 Probopass
 + Stat Change: Special Attack (85), Total (535)
 + Level Up Moves: Block [17], Ancient Power (21), Earth Power [37], Sandstorm [79]
@@ -1268,11 +1206,19 @@ Seed Bomb (34), Bug Bite (44)
 + Stat Change: Special Attack (100), Total (500)
 + Level Up Moves: Head Smash (42), Aura Sphere (67)
 #479 Rotom
-+ Type Change: Rotom forms changed to their 5th gen type combos.
 + Stat Change: Special Attack (105), Speed (101), Total (460)
 #479 Rotom Fan
++ Type Change: Electric / Ghost >> Electric / Flying
 + Stat Change: Defense (92), Special Defense (92), Speed (116)
 + Ability: Motor Drive
+#479 Rotom Frost
++ Type Change: Electric / Ghost >> Electric / Ice
+#479 Rotom Heat
++ Type Change: Electric / Ghost >> Electric / Fire
+#479 Rotom Mow
++ Type Change: Electric / Ghost >> Electric / Grass
+#479 Rotom Wash
++ Type Change: Electric / Ghost >> Electric / Water
 #485 Heatran
 + Ability: Flame Body
 #486 Regigigas
@@ -1281,4 +1227,5 @@ Seed Bomb (34), Bug Bite (44)
 + Stat Change: HP (85), Attack (85), Defense (85), Special Attack (85), Special Defense (85), Speed (85), Total (510)
 #493 Arceus
 + Item Change: It’s a secret!
-+ Moves: It’s a secret!
++ Level Up Moves: It’s a secret!
+
