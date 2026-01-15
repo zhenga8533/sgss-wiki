@@ -3,13 +3,13 @@ Parser for Pokemon Locations documentation file.
 
 This parser:
 1. Reads data/documentation/Pokemon Locations.txt
-2. Updates pokemon evolution data in data/pokedb/parsed/
-3. Generates a markdown file to docs/pokemon_locations.md
+2. Generates a markdown file to docs/pokemon_locations.md
+3. Generates JSON data files to data/locations/ for each location with wild encounter information
 """
 
 import re
 
-from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.parsers.location_parser import LocationParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_pokemon,
@@ -17,11 +17,11 @@ from rom_wiki_core.utils.formatters.markdown_formatter import (
 )
 
 
-class PokemonLocationsParser(BaseParser):
+class PokemonLocationsParser(LocationParser):
     """Parser for Pokemon Locations documentation.
 
     Args:
-        BaseParser (_type_): Abstract base parser class
+        LocationParser (_type_): Location parser base class.
     """
 
     def __init__(self, input_file: str, output_dir: str = "docs"):
@@ -31,16 +31,21 @@ class PokemonLocationsParser(BaseParser):
             input_file (str): Path to the input file.
             output_dir (str, optional): Path to the output directory. Defaults to "docs".
         """
-        super().__init__(input_file=input_file, output_dir=output_dir)
+        super().__init__(
+            input_file=input_file,
+            output_dir=output_dir,
+            location_separators=[" [ ", " - "],
+        )
         self._sections = ["General Notes", "Encounters"]
+
+        # Register tracking key for wild encounters
+        self._register_tracking_key("wild_encounters")
 
         # Encounters states
         self._levels = {
             "Sacred Gold": "",
             "Storm Silver": "",
         }
-        self._current_location = None
-        self._current_sublocation = None
         self._current_method = None
         self._encounters = {}
 
@@ -73,16 +78,27 @@ class PokemonLocationsParser(BaseParser):
         elif "Wild Levels:" in next_line:
             if match := re.match(r"^(.+?) \[ (.+?) \]$", line):
                 location = match.group(1)
-                self._current_sublocation = match.group(2)
+                sublocation = match.group(2)
 
                 if self._current_location != location:
                     self._current_location = location
+                    self._current_sublocation = ""
+                    self._initialize_location_data(location)
                     self._markdown += f"### {self._current_location}\n\n"
 
+                self._current_sublocation = sublocation
+                self._ensure_sublocation_exists(self._current_location, sublocation)
+                self._clear_location_data_on_first_encounter(
+                    "wild_encounters", "wild_encounters"
+                )
                 self._markdown += f"#### {self._current_sublocation}\n\n"
             else:
                 self._current_location = line
-                self._current_sublocation = None
+                self._current_sublocation = ""
+                self._initialize_location_data(line)
+                self._clear_location_data_on_first_encounter(
+                    "wild_encounters", "wild_encounters"
+                )
                 self._markdown += f"### {line}\n\n"
         # Encounter method
         elif line.endswith(":"):
@@ -91,6 +107,7 @@ class PokemonLocationsParser(BaseParser):
         # End of location block
         elif line == "" and self._current_method is not None:
             self._markdown += self._format_encounters()
+            self._save_encounters_to_location()
             self.parse_default(line)
 
             self._current_method = None
@@ -145,3 +162,43 @@ class PokemonLocationsParser(BaseParser):
             md += "\n"
 
         return md
+
+    def _save_encounters_to_location(self) -> None:
+        """Save the current encounters to location JSON data."""
+        if not self._current_location or self._current_location not in self._locations_data:
+            return
+
+        # Format levels for JSON
+        if self._levels["Sacred Gold"] == self._levels["Storm Silver"]:
+            level_str = self._levels["Sacred Gold"]
+        else:
+            level_str = f"SG: {self._levels['Sacred Gold']} / SS: {self._levels['Storm Silver']}"
+
+        # Get target location/sublocation
+        if self._current_sublocation:
+            target = self._get_or_create_sublocation(
+                self._locations_data[self._current_location], self._current_sublocation
+            )
+        else:
+            target = self._locations_data[self._current_location]
+
+        # Ensure wild_encounters exists
+        if "wild_encounters" not in target:
+            target["wild_encounters"] = {}
+
+        # Add encounters for each method
+        for method, pokemon_dict in self._encounters.items():
+            if method not in target["wild_encounters"]:
+                target["wild_encounters"][method] = []
+
+            for pokemon_name, chance in pokemon_dict.items():
+                pokemon_data = PokeDBLoader.load_pokemon(pokemon_name)
+                types = pokemon_data.types if pokemon_data else []
+
+                encounter_entry = {
+                    "pokemon": pokemon_name,
+                    "types": types,
+                    "level": level_str,
+                    "chance": int(chance),
+                }
+                target["wild_encounters"][method].append(encounter_entry)
