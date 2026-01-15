@@ -9,6 +9,8 @@ This parser:
 
 import re
 
+import orjson
+
 from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.data.models import PokemonAbility
@@ -20,6 +22,7 @@ from rom_wiki_core.utils.formatters.markdown_formatter import (
 )
 from rom_wiki_core.utils.services.attribute_service import AttributeService
 from rom_wiki_core.utils.services.evolution_service import EvolutionService
+from rom_wiki_core.utils.services.move_service import MoveService
 from rom_wiki_core.utils.services.pokemon_item_service import PokemonItemService
 from rom_wiki_core.utils.services.pokemon_move_service import PokemonMoveService
 from rom_wiki_core.utils.text.text_util import format_display_name, name_to_id
@@ -61,7 +64,77 @@ class PokemonChangesParser(BaseParser):
         Args:
             line (str): A line from the General Notes section.
         """
+        # Pattern: "- MoveName is a X-power TypeName move..."
+        if match := re.match(r"^- (.+?) is a (\d+)-power (.+?) move", line):
+            move_name, power, move_type = match.groups()
+            MoveService.update_move_attribute(move_name, "power", power)
+            MoveService.update_move_attribute(move_name, "type", move_type)
+            self.logger.info(f"Updated {move_name}: {power} power, {move_type} type")
+        # Pattern: "All Black and White upgrades..."
+        elif "black and white upgrades" in line.lower():
+            self._apply_gen5_move_upgrades()
+
         self.parse_default(line)
+
+    def _apply_gen5_move_upgrades(self) -> None:
+        """Apply Gen 5 (Black/White) move upgrades to all applicable moves.
+
+        Compares move data between gen4 and gen5 directories and applies
+        power/accuracy/pp changes where gen5 values differ.
+        """
+        data_dir = PokeDBLoader.get_data_dir()
+        gen4_move_dir = data_dir.parent / "gen4" / "move"
+        gen5_move_dir = data_dir.parent / "gen5" / "move"
+
+        if not gen4_move_dir.exists() or not gen5_move_dir.exists():
+            self.logger.warning("Gen4 or Gen5 move directories not found")
+            return
+
+        # Version group keys for comparison
+        gen4_key = "heartgold_soulsilver"
+        gen5_key = "black_white"
+
+        updated_count = 0
+
+        # Iterate through all gen4 moves and compare with gen5
+        for gen4_file in gen4_move_dir.glob("*.json"):
+            move_id = gen4_file.stem
+            gen5_file = gen5_move_dir / f"{move_id}.json"
+
+            if not gen5_file.exists():
+                continue
+
+            try:
+                with open(gen4_file, "rb") as f:
+                    gen4_data = orjson.loads(f.read())
+                with open(gen5_file, "rb") as f:
+                    gen5_data = orjson.loads(f.read())
+            except (OSError, IOError, ValueError) as e:
+                self.logger.debug(f"Error loading move {move_id}: {e}")
+                continue
+
+            # Compare and update power, accuracy, pp
+            move_updated = False
+            for attr in ["power", "accuracy", "pp"]:
+                gen4_value = gen4_data.get(attr, {}).get(gen4_key)
+                gen5_value = gen5_data.get(attr, {}).get(gen5_key)
+
+                # Skip if either value is None or they're the same
+                if gen5_value is None or gen4_value == gen5_value:
+                    continue
+
+                # Apply the Gen 5 upgrade
+                new_val = str(gen5_value) if gen5_value is not None else "Never"
+                if MoveService.update_move_attribute(move_id, attr, new_val):
+                    self.logger.debug(
+                        f"Updated {move_id} {attr}: {gen4_value} -> {gen5_value}"
+                    )
+                    move_updated = True
+
+            if move_updated:
+                updated_count += 1
+
+        self.logger.info(f"Applied Gen 5 upgrades to {updated_count} moves")
 
     def parse_changes(self, line: str) -> None:
         """Parse a line from the Changes section.
