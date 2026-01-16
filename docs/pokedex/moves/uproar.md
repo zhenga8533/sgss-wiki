@@ -72,6 +72,78 @@
 
 <div class="grid cards" markdown>
 
+-	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokemon/doduo.md)
+
+	***
+
+	**#084 [Doduo](../pokemon/doduo.md)**
+
+	Level 23
+
+-	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
+
+	***
+
+	**#085 [Dodrio](../pokemon/dodrio.md)**
+
+	Level 23
+
+-	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
+
+	***
+
+	**#102 [Exeggcute](../pokemon/exeggcute.md)**
+
+	Level 1
+
+-	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
+
+	***
+
+	**#163 [Hoothoot](../pokemon/hoothoot.md)**
+
+	Level 13
+
+-	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
+
+	***
+
+	**#164 [Noctowl](../pokemon/noctowl.md)**
+
+	Level 13
+
+-	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
+
+	***
+
+	**#193 [Yanma](../pokemon/yanma.md)**
+
+	Level 27
+
+-	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokemon/lombre.md)
+
+	***
+
+	**#271 [Lombre](../pokemon/lombre.md)**
+
+	Level 37
+
+-	[![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/288.png){: .pokemon-sprite-img }](../pokemon/vigoroth.md)
+
+	***
+
+	**#288 [Vigoroth](../pokemon/vigoroth.md)**
+
+	Level 13
+
+-	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
+
+	***
+
+	**#293 [Whismur](../pokemon/whismur.md)**
+
+	Level 5
+
 -	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
 
 	***
@@ -88,6 +160,30 @@
 
 	Level 5
 
+-	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
+
+	***
+
+	**#295 [Exploud](../pokemon/exploud.md)**
+
+	Level 5
+
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+
+	***
+
+	**#327 [Spinda](../pokemon/spinda.md)**
+
+	Level 5
+
+-	[![Chimecho](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/358.png){: .pokemon-sprite-img }](../pokemon/chimecho.md)
+
+	***
+
+	**#358 [Chimecho](../pokemon/chimecho.md)**
+
+	Level 17
+
 -	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
 
 	***
@@ -95,6 +191,30 @@
 	**#417 [Pachirisu](../pokemon/pachirisu.md)**
 
 	Level 45
+
+-	[![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/433.png){: .pokemon-sprite-img }](../pokemon/chingling.md)
+
+	***
+
+	**#433 [Chingling](../pokemon/chingling.md)**
+
+	Level 17
+
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+
+	***
+
+	**#441 [Chatot](../pokemon/chatot.md)**
+
+	Level 37
+
+-	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
+
+	***
+
+	**#469 [Yanmega](../pokemon/yanmega.md)**
+
+	Level 27
 
 -	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
 

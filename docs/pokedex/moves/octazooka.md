@@ -60,6 +60,20 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 25
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

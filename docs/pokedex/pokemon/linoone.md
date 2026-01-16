@@ -17,7 +17,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `16 moves` → `1 move`
+	- `16 moves` → `14 moves`
 
 
 ## :material-information: Basic Information
@@ -157,7 +157,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Level 20*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -199,7 +199,20 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Growl](../../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 40 |
+	| 1 | [Switcheroo](../../pokedex/moves/switcheroo.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 10 |
+	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 50 | 100 | 35 |
+	| 5 | [Tail Whip](../../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 30 |
+	| 9 | [Headbutt](../../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 15 |
+	| 13 | [Sand Attack](../../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 15 |
+	| 17 | [Odor Sleuth](../../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 40 |
 	| 23 | [Extreme Speed](../../pokedex/moves/extreme-speed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 5 |
+	| 29 | [Fury Swipes](../../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 18 | 80 | 15 |
+	| 35 | [Covet](../../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 40 |
+	| 41 | [Slash](../../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 20 |
+	| 47 | [Rest](../../pokedex/moves/rest.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |
+	| 53 | [Belly Drum](../../pokedex/moves/belly-drum.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
+	| 59 | [Fling](../../pokedex/moves/fling.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 10 |
 
 === ":material-disc: TM/HM"
 

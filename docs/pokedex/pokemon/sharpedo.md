@@ -12,14 +12,6 @@
 	</div>
 </div>
 
-
-??? note "Sharpedo ROM Changes"
-
-	**Level-up Moves Changes:**
-
-	- `19 moves` → `2 moves`
-
-
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>
@@ -165,7 +157,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Level 30*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -211,7 +203,24 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Bite](../../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 25 |
+	| 1 | [Feint](../../pokedex/moves/feint.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 30 | 100 | 10 |
+	| 1 | [Leer](../../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 30 |
+	| 6 | [Rage](../../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 20 | 100 | 20 |
+	| 8 | [Focus Energy](../../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
+	| 11 | [Scary Face](../../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 10 |
+	| 16 | [Ice Fang](../../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 65 | 95 | 15 |
+	| 18 | [Screech](../../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 85 | 40 |
+	| 21 | [Swagger](../../pokedex/moves/swagger.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 90 | 15 |
+	| 26 | [Assurance](../../pokedex/moves/assurance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 50 | 100 | 10 |
+	| 28 | [Crunch](../../pokedex/moves/crunch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 15 |
+	| 30 | [Slash](../../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 20 |
+	| 34 | [Aqua Jet](../../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 20 |
+	| 40 | [Taunt](../../pokedex/moves/taunt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 20 |
+	| 45 | [Agility](../../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
+	| 50 | [Skull Bash](../../pokedex/moves/skull-bash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 100 | 100 | 15 |
 	| 55 | [Dark Pulse](../../pokedex/moves/dark-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 80 | 100 | 15 |
+	| 56 | [Night Slash](../../pokedex/moves/night-slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 15 |
 	| 60 | [Hydro Pump](../../pokedex/moves/hydro-pump.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 80 | 5 |
 
 === ":material-disc: TM/HM"

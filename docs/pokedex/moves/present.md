@@ -60,6 +60,20 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokemon/delibird.md)
+
+	***
+
+	**#225 [Delibird](../pokemon/delibird.md)**
+
+	Level 1
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

@@ -96,6 +96,22 @@
 
 	Level 15
 
+-	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
+
+	***
+
+	**#177 [Natu](../pokemon/natu.md)**
+
+	Level 39
+
+-	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
+
+	***
+
+	**#178 [Xatu](../pokemon/xatu.md)**
+
+	Level 47
+
 -	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
 
 	***
@@ -104,6 +120,38 @@
 
 	Level 1
 
+-	[![Masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){: .pokemon-sprite-img }](../pokemon/masquerain.md)
+
+	***
+
+	**#284 [Masquerain](../pokemon/masquerain.md)**
+
+	Level 1
+
+-	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokemon/drifloon.md)
+
+	***
+
+	**#425 [Drifloon](../pokemon/drifloon.md)**
+
+	Level 30
+
+-	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
+
+	***
+
+	**#426 [Drifblim](../pokemon/drifblim.md)**
+
+	Level 32
+
+-	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokemon/spiritomb.md)
+
+	***
+
+	**#442 [Spiritomb](../pokemon/spiritomb.md)**
+
+	Level 25
+
 -	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
 
 	***
@@ -111,6 +159,14 @@
 	**#457 [Lumineon](../pokemon/lumineon.md)**
 
 	Level 1
+
+-	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
+
+	***
+
+	**#478 [Froslass](../pokemon/froslass.md)**
+
+	Level 22
 
 -	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
 

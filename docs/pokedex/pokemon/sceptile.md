@@ -17,7 +17,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `16 moves` → `3 moves`
+	- `16 moves` → `17 moves`
 
 
 ## :material-information: Basic Information
@@ -162,7 +162,7 @@
 
 	*Level 36*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -208,9 +208,23 @@
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 1 | [Thunder Punch](../../pokedex/moves/thunder-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 75 | 100 | 15 |
+	| 1 | [Leer](../../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 30 |
 	| 1 | [Low Kick](../../pokedex/moves/low-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 20 |
+	| 1 | [Night Slash](../../pokedex/moves/night-slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 15 |
+	| 1 | [Pound](../../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 35 |
+	| 1 | [Thunder Punch](../../pokedex/moves/thunder-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 75 | 100 | 15 |
+	| 6 | [Absorb](../../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 15 |
+	| 11 | [Quick Attack](../../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 30 |
+	| 16 | [X Scissor](../../pokedex/moves/x-scissor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 15 |
+	| 17 | [Pursuit](../../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 20 |
+	| 23 | [Screech](../../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 85 | 40 |
+	| 29 | [Leaf Blade](../../pokedex/moves/leaf-blade.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 90 | 100 | 15 |
+	| 35 | [Agility](../../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
 	| 36 | [Dragon Breath](../../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | 100 | 20 |
+	| 43 | [Slam](../../pokedex/moves/slam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 75 | 20 |
+	| 51 | [Detect](../../pokedex/moves/detect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |
+	| 59 | [False Swipe](../../pokedex/moves/false-swipe.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 40 |
+	| 67 | [Leaf Storm](../../pokedex/moves/leaf-storm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 140 | 90 | 5 |
 
 === ":material-disc: TM/HM"
 

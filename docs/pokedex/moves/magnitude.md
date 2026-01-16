@@ -80,6 +80,38 @@
 
 	Level 12
 
+-	[![Geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){: .pokemon-sprite-img }](../pokemon/geodude.md)
+
+	***
+
+	**#074 [Geodude](../pokemon/geodude.md)**
+
+	Level 15
+
+-	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokemon/graveler.md)
+
+	***
+
+	**#075 [Graveler](../pokemon/graveler.md)**
+
+	Level 15
+
+-	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokemon/golem.md)
+
+	***
+
+	**#076 [Golem](../pokemon/golem.md)**
+
+	Level 15
+
+-	[![Donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){: .pokemon-sprite-img }](../pokemon/donphan.md)
+
+	***
+
+	**#232 [Donphan](../pokemon/donphan.md)**
+
+	Level 19
+
 -	[![Numel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/322.png){: .pokemon-sprite-img }](../pokemon/numel.md)
 
 	***
@@ -103,6 +135,22 @@
 	**#323 [Camerupt](../pokemon/camerupt.md)**
 
 	Level 11
+
+-	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokemon/barboach.md)
+
+	***
+
+	**#339 [Barboach](../pokemon/barboach.md)**
+
+	Level 26
+
+-	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
+
+	***
+
+	**#340 [Whiscash](../pokemon/whiscash.md)**
+
+	Level 26
 
 </div>
 

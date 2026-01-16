@@ -104,6 +104,30 @@
 
 	Level 67
 
+-	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
+
+	***
+
+	**#328 [Trapinch](../pokemon/trapinch.md)**
+
+	Level 89
+
+-	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokemon/barboach.md)
+
+	***
+
+	**#339 [Barboach](../pokemon/barboach.md)**
+
+	Level 47
+
+-	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
+
+	***
+
+	**#340 [Whiscash](../pokemon/whiscash.md)**
+
+	Level 57
+
 -	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
 
 	***
@@ -119,6 +143,22 @@
 	**#383 [Groudon](../pokemon/groudon.md)**
 
 	Level 75
+
+-	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokemon/hippopotas.md)
+
+	***
+
+	**#449 [Hippopotas](../pokemon/hippopotas.md)**
+
+	Level 50
+
+-	[![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){: .pokemon-sprite-img }](../pokemon/hippowdon.md)
+
+	***
+
+	**#450 [Hippowdon](../pokemon/hippowdon.md)**
+
+	Level 60
 
 </div>
 

@@ -96,6 +96,14 @@
 
 	Level 1
 
+-	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
+
+	***
+
+	**#362 [Glalie](../pokemon/glalie.md)**
+
+	Level 59
+
 -	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
 
 	***
@@ -112,6 +120,14 @@
 
 	Level 55
 
+-	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
+
+	***
+
+	**#365 [Walrein](../pokemon/walrein.md)**
+
+	Level 65
+
 -	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokemon/kyogre.md)
 
 	***
@@ -127,6 +143,22 @@
 	**#382 [Kyogre](../pokemon/kyogre.md)**
 
 	Level 75
+
+-	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
+
+	***
+
+	**#459 [Snover](../pokemon/snover.md)**
+
+	Level 46
+
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+
+	***
+
+	**#460 [Abomasnow](../pokemon/abomasnow.md)**
+
+	Level 58
 
 -	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
 

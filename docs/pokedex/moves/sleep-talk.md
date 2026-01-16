@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
+
+	***
+
+	**#143 [Snorlax](../pokemon/snorlax.md)**
+
+	Level 28
+
+-	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
+
+	***
+
+	**#293 [Whismur](../pokemon/whismur.md)**
+
+	Level 41
+
 -	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
 
 	***
@@ -71,6 +87,14 @@
 	**#294 [Loudred](../pokemon/loudred.md)**
 
 	Level 51
+
+-	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
+
+	***
+
+	**#295 [Exploud](../pokemon/exploud.md)**
+
+	Level 55
 
 </div>
 

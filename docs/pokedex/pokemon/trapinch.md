@@ -17,7 +17,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `12 moves` → `1 move`
+	- `12 moves` → `13 moves`
 
 
 ## :material-information: Basic Information
@@ -153,7 +153,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -223,7 +223,19 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Bite](../../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 25 |
 	| 1 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
+	| 9 | [Sand Attack](../../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 15 |
+	| 17 | [Feint Attack](../../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | — | 20 |
+	| 25 | [Sand Tomb](../../pokedex/moves/sand-tomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 35 | 85 | 15 |
+	| 33 | [Crunch](../../pokedex/moves/crunch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 15 |
+	| 41 | [Dig](../../pokedex/moves/dig.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 10 |
+	| 49 | [Sandstorm](../../pokedex/moves/sandstorm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
+	| 57 | [Hyper Beam](../../pokedex/moves/hyper-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 150 | 90 | 5 |
+	| 65 | [Earth Power](../../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 90 | 100 | 10 |
+	| 73 | [Earthquake](../../pokedex/moves/earthquake.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 100 | 100 | 10 |
+	| 81 | [Feint](../../pokedex/moves/feint.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 30 | 100 | 10 |
+	| 89 | [Fissure](../../pokedex/moves/fissure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 30 | 5 |
 
 === ":material-disc: TM/HM"
 

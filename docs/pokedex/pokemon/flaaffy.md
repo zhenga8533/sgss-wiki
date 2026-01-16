@@ -17,7 +17,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `13 moves` → `1 move`
+	- `13 moves` → `11 moves`
 
 
 ## :material-information: Basic Information
@@ -147,7 +147,7 @@
 
 	*Level 15*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -204,6 +204,16 @@
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
 	| 1 | [Charge](../../pokedex/moves/charge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 20 |
+	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 50 | 100 | 35 |
+	| 5 | [Growl](../../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 40 |
+	| 10 | [Thunder Shock](../../pokedex/moves/thunder-shock.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 30 |
+	| 14 | [Thunder Wave](../../pokedex/moves/thunder-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 20 |
+	| 20 | [Cotton Spore](../../pokedex/moves/cotton-spore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 40 |
+	| 31 | [Discharge](../../pokedex/moves/discharge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 80 | 100 | 15 |
+	| 36 | [Signal Beam](../../pokedex/moves/signal-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 75 | 100 | 15 |
+	| 42 | [Light Screen](../../pokedex/moves/light-screen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
+	| 47 | [Power Gem](../../pokedex/moves/power-gem.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 70 | 100 | 20 |
+	| 53 | [Thunder](../../pokedex/moves/thunder.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 70 | 10 |
 
 === ":material-disc: TM/HM"
 

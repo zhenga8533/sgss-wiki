@@ -13,14 +13,6 @@
 	</div>
 </div>
 
-
-??? note "Azumarill ROM Changes"
-
-	**Level-up Moves Changes:**
-
-	- `14 moves` → `3 moves`
-
-
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>
@@ -163,7 +155,7 @@
 
 	*Level 18*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -205,9 +197,20 @@
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 1 | [Superpower](../../pokedex/moves/superpower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 120 | 100 | 5 |
 	| 1 | [Ice Punch](../../pokedex/moves/ice-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 75 | 100 | 15 |
+	| 1 | [Superpower](../../pokedex/moves/superpower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 120 | 100 | 5 |
+	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 50 | 100 | 35 |
+	| 2 | [Defense Curl](../../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 40 |
+	| 7 | [Tail Whip](../../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 30 |
+	| 10 | [Water Gun](../../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 25 |
+	| 15 | [Rollout](../../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 30 | 90 | 20 |
 	| 18 | [Aqua Jet](../../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 20 |
+	| 20 | [Bubble Beam](../../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 65 | 100 | 20 |
+	| 27 | [Aqua Ring](../../pokedex/moves/aqua-ring.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 20 |
+	| 33 | [Double Edge](../../pokedex/moves/double-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 120 | 100 | 15 |
+	| 40 | [Rain Dance](../../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |
+	| 47 | [Aqua Tail](../../pokedex/moves/aqua-tail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 90 | 90 | 10 |
+	| 54 | [Hydro Pump](../../pokedex/moves/hydro-pump.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 80 | 5 |
 
 === ":material-disc: TM/HM"
 

@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
+
+	***
+
+	**#228 [Houndour](../pokemon/houndour.md)**
+
+	Level 4
+
+-	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
+
+	***
+
+	**#229 [Houndoom](../pokemon/houndoom.md)**
+
+	Level 4
+
 -	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
 
 	***
@@ -72,6 +88,30 @@
 
 	Level 1
 
+-	[![Poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){: .pokemon-sprite-img }](../pokemon/poochyena.md)
+
+	***
+
+	**#261 [Poochyena](../pokemon/poochyena.md)**
+
+	Level 5
+
+-	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
+
+	***
+
+	**#262 [Mightyena](../pokemon/mightyena.md)**
+
+	Level 5
+
+-	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
+
+	***
+
+	**#293 [Whismur](../pokemon/whismur.md)**
+
+	Level 15
+
 -	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
 
 	***
@@ -85,6 +125,14 @@
 	***
 
 	**#294 [Loudred](../pokemon/loudred.md)**
+
+	Level 15
+
+-	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
+
+	***
+
+	**#295 [Exploud](../pokemon/exploud.md)**
 
 	Level 15
 

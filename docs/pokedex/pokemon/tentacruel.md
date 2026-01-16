@@ -18,7 +18,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `15 moves` → `1 move`
+	- `15 moves` → `14 moves`
 
 
 ## :material-information: Basic Information
@@ -157,7 +157,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Level 30*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -199,6 +199,19 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Poison Sting](../../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 15 | 100 | 35 |
+	| 5 | [Supersonic](../../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 55 | 20 |
+	| 8 | [Constrict](../../pokedex/moves/constrict.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 10 | 100 | 35 |
+	| 12 | [Acid](../../pokedex/moves/acid.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 30 |
+	| 15 | [Toxic Spikes](../../pokedex/moves/toxic-spikes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 20 |
+	| 19 | [Bubble Beam](../../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 65 | 100 | 20 |
+	| 22 | [Wrap](../../pokedex/moves/wrap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 15 | 90 | 20 |
+	| 26 | [Barrier](../../pokedex/moves/barrier.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
+	| 29 | [Water Pulse](../../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | 100 | 20 |
+	| 36 | [Poison Jab](../../pokedex/moves/poison-jab.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 20 |
+	| 42 | [Screech](../../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 85 | 40 |
+	| 49 | [Hydro Pump](../../pokedex/moves/hydro-pump.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 80 | 5 |
+	| 55 | [Wring Out](../../pokedex/moves/wring-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | 100 | 5 |
 	| 62 | [Acupressure](../../pokedex/moves/acupressure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 30 |
 
 === ":material-disc: TM/HM"

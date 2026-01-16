@@ -17,7 +17,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `4 moves` → `1 move`
+	- `4 moves` → `5 moves`
 
 
 ## :material-information: Basic Information
@@ -156,7 +156,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Use Moon Stone*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -198,6 +198,10 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Attract](../../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 15 |
+	| 1 | [Double Slap](../../pokedex/moves/double-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 15 | 85 | 10 |
+	| 1 | [Fake Out](../../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 10 |
+	| 1 | [Sing](../../pokedex/moves/sing.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 55 | 15 |
 	| 43 | [Wish](../../pokedex/moves/wish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
 
 === ":material-disc: TM/HM"

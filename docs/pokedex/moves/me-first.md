@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
+
+	***
+
+	**#108 [Lickitung](../pokemon/lickitung.md)**
+
+	Level 37
+
 -	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
 
 	***
@@ -80,6 +88,22 @@
 
 	Level 70
 
+-	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
+
+	***
+
+	**#161 [Sentret](../pokemon/sentret.md)**
+
+	Level 42
+
+-	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
+
+	***
+
+	**#162 [Furret](../pokemon/furret.md)**
+
+	Level 50
+
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
 	***
@@ -95,6 +119,38 @@
 	**#178 [Xatu](../pokemon/xatu.md)**
 
 	Level 21
+
+-	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
+
+	***
+
+	**#234 [Stantler](../pokemon/stantler.md)**
+
+	Level 53
+
+-	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
+
+	***
+
+	**#359 [Absol](../pokemon/absol.md)**
+
+	Level 57
+
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+
+	***
+
+	**#448 [Lucario](../pokemon/lucario.md)**
+
+	Level 29
+
+-	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
+
+	***
+
+	**#463 [Lickilicky](../pokemon/lickilicky.md)**
+
+	Level 37
 
 </div>
 

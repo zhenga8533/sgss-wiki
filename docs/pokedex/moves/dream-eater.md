@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){: .pokemon-sprite-img }](../pokemon/gastly.md)
+
+	***
+
+	**#092 [Gastly](../pokemon/gastly.md)**
+
+	Level 33
+
+-	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
+
+	***
+
+	**#093 [Haunter](../pokemon/haunter.md)**
+
+	Level 39
+
+-	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
+
+	***
+
+	**#094 [Gengar](../pokemon/gengar.md)**
+
+	Level 39
+
 -	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
 
 	***
@@ -79,6 +103,54 @@
 	**#097 [Hypno](../pokemon/hypno.md)**
 
 	Level 12
+
+-	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
+
+	***
+
+	**#163 [Hoothoot](../pokemon/hoothoot.md)**
+
+	Level 49
+
+-	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
+
+	***
+
+	**#164 [Noctowl](../pokemon/noctowl.md)**
+
+	Level 57
+
+-	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
+
+	***
+
+	**#280 [Ralts](../pokemon/ralts.md)**
+
+	Level 45
+
+-	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
+
+	***
+
+	**#281 [Kirlia](../pokemon/kirlia.md)**
+
+	Level 53
+
+-	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
+
+	***
+
+	**#282 [Gardevoir](../pokemon/gardevoir.md)**
+
+	Level 65
+
+-	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokemon/spiritomb.md)
+
+	***
+
+	**#442 [Spiritomb](../pokemon/spiritomb.md)**
+
+	Level 19
 
 -	[![Darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/491.png){: .pokemon-sprite-img }](../pokemon/darkrai.md)
 

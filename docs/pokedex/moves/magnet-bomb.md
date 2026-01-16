@@ -60,5 +60,41 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){: .pokemon-sprite-img }](../pokemon/magnemite.md)
+
+	***
+
+	**#081 [Magnemite](../pokemon/magnemite.md)**
+
+	Level 30
+
+-	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
+
+	***
+
+	**#082 [Magneton](../pokemon/magneton.md)**
+
+	Level 30
+
+-	[![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){: .pokemon-sprite-img }](../pokemon/magnezone.md)
+
+	***
+
+	**#462 [Magnezone](../pokemon/magnezone.md)**
+
+	Level 30
+
+-	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
+
+	***
+
+	**#476 [Probopass](../pokemon/probopass.md)**
+
+	Level 13
+
+</div>
 

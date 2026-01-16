@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 36
+
 -	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokemon/combusken.md)
 
 	***
@@ -71,6 +79,22 @@
 	**#256 [Combusken](../pokemon/combusken.md)**
 
 	Level 50
+
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
+
+	Level 59
+
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 33
 
 -	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
 

@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokemon/voltorb.md)
+
+	***
+
+	**#100 [Voltorb](../pokemon/voltorb.md)**
+
+	Level 26
+
+-	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
+
+	***
+
+	**#101 [Electrode](../pokemon/electrode.md)**
+
+	Level 26
+
 -	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
 
 	***

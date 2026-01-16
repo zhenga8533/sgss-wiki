@@ -64,11 +64,75 @@
 
 <div class="grid cards" markdown>
 
+-	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokemon/bulbasaur.md)
+
+	***
+
+	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
+
+	Level 9
+
+-	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokemon/ivysaur.md)
+
+	***
+
+	**#002 [Ivysaur](../pokemon/ivysaur.md)**
+
+	Level 9
+
+-	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
+
+	***
+
+	**#003 [Venusaur](../pokemon/venusaur.md)**
+
+	Level 9
+
+-	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
+
+	***
+
+	**#069 [Bellsprout](../pokemon/bellsprout.md)**
+
+	Level 1
+
+-	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
+
+	***
+
+	**#070 [Weepinbell](../pokemon/weepinbell.md)**
+
+	Level 1
+
+-	[![Victreebel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/71.png){: .pokemon-sprite-img }](../pokemon/victreebel.md)
+
+	***
+
+	**#071 [Victreebel](../pokemon/victreebel.md)**
+
+	Level 1
+
 -	[![Tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){: .pokemon-sprite-img }](../pokemon/tangela.md)
 
 	***
 
 	**#114 [Tangela](../pokemon/tangela.md)**
+
+	Level 19
+
+-	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
+
+	***
+
+	**#455 [Carnivine](../pokemon/carnivine.md)**
+
+	Level 11
+
+-	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
+
+	***
+
+	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
 	Level 19
 

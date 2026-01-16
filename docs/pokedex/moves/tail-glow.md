@@ -72,6 +72,14 @@
 
 	Level 1
 
+-	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokemon/volbeat.md)
+
+	***
+
+	**#313 [Volbeat](../pokemon/volbeat.md)**
+
+	Level 21
+
 -	[![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/490.png){: .pokemon-sprite-img }](../pokemon/manaphy.md)
 
 	***

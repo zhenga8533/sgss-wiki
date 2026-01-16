@@ -72,6 +72,14 @@
 
 	Level 49
 
+-	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
+
+	***
+
+	**#212 [Scizor](../pokemon/scizor.md)**
+
+	Level 53
+
 -	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
 
 	***
@@ -79,6 +87,30 @@
 	**#303 [Mawile](../pokemon/mawile.md)**
 
 	Level 31
+
+-	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokemon/aron.md)
+
+	***
+
+	**#304 [Aron](../pokemon/aron.md)**
+
+	Level 29
+
+-	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokemon/lairon.md)
+
+	***
+
+	**#305 [Lairon](../pokemon/lairon.md)**
+
+	Level 29
+
+-	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
+
+	***
+
+	**#306 [Aggron](../pokemon/aggron.md)**
+
+	Level 29
 
 -	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
 
@@ -111,6 +143,14 @@
 	**#410 [Shieldon](../pokemon/shieldon.md)**
 
 	Level 43
+
+-	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
+
+	***
+
+	**#411 [Bastiodon](../pokemon/bastiodon.md)**
+
+	Level 52
 
 -	[![Heatran](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/485.png){: .pokemon-sprite-img }](../pokemon/heatran.md)
 

@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
+
+	***
+
+	**#046 [Paras](../pokemon/paras.md)**
+
+	Level 17
+
+-	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
+
+	***
+
+	**#047 [Parasect](../pokemon/parasect.md)**
+
+	Level 17
+
+-	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokemon/shroomish.md)
+
+	***
+
+	**#285 [Shroomish](../pokemon/shroomish.md)**
+
+	Level 45
+
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 
 	***

@@ -21,7 +21,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `6 moves` → `1 move`
+	- `6 moves` → `7 moves`
 
 
 ## :material-information: Basic Information
@@ -173,7 +173,7 @@
 
 	*Use Leaf Stone*
 
-		***You are here***
+	***You are here***
 
 -	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](./bellossom.md)
 
@@ -223,7 +223,13 @@
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Aromatherapy](../../pokedex/moves/aromatherapy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |
+	| 1 | [Mega Drain](../../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 75 | 100 | 10 |
+	| 1 | [Poison Powder](../../pokedex/moves/poison-powder.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 75 | 35 |
+	| 1 | [Stun Spore](../../pokedex/moves/stun-spore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 75 | 30 |
 	| 41 | [Earth Power](../../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 90 | 100 | 10 |
+	| 53 | [Petal Dance](../../pokedex/moves/petal-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 100 | 10 |
+	| 65 | [Solar Beam](../../pokedex/moves/solar-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 200 | 100 | 10 |
 
 === ":material-disc: TM/HM"
 

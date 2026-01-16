@@ -104,6 +104,30 @@
 
 	Level 42
 
+-	[![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){: .pokemon-sprite-img }](../pokemon/relicanth.md)
+
+	***
+
+	**#369 [Relicanth](../pokemon/relicanth.md)**
+
+	Level 78
+
+-	[![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/408.png){: .pokemon-sprite-img }](../pokemon/cranidos.md)
+
+	***
+
+	**#408 [Cranidos](../pokemon/cranidos.md)**
+
+	Level 43
+
+-	[![Rampardos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/409.png){: .pokemon-sprite-img }](../pokemon/rampardos.md)
+
+	***
+
+	**#409 [Rampardos](../pokemon/rampardos.md)**
+
+	Level 52
+
 -	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
 
 	***

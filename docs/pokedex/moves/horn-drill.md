@@ -64,6 +64,38 @@
 
 <div class="grid cards" markdown>
 
+-	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
+
+	***
+
+	**#032 [Nidoran♂](../pokemon/nidoran-m.md)**
+
+	Level 45
+
+-	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokemon/nidorino.md)
+
+	***
+
+	**#033 [Nidorino](../pokemon/nidorino.md)**
+
+	Level 58
+
+-	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
+
+	***
+
+	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
+
+	Level 37
+
+-	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
+
+	***
+
+	**#112 [Rhydon](../pokemon/rhydon.md)**
+
+	Level 37
+
 -	[![Goldeen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/118.png){: .pokemon-sprite-img }](../pokemon/goldeen.md)
 
 	***
@@ -71,6 +103,14 @@
 	**#118 [Goldeen](../pokemon/goldeen.md)**
 
 	Level 41
+
+-	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
+
+	***
+
+	**#119 [Seaking](../pokemon/seaking.md)**
+
+	Level 47
 
 -	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
 
@@ -87,6 +127,14 @@
 	**#214 [Heracross](../pokemon/heracross.md)**
 
 	Level 61
+
+-	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
+
+	***
+
+	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+
+	Level 37
 
 </div>
 

@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+
+	***
+
+	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+
+	Level 25
+
 -	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
 
 	***
@@ -87,6 +95,30 @@
 	**#166 [Ledian](../pokemon/ledian.md)**
 
 	Level 18
+
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+
+	***
+
+	**#327 [Spinda](../pokemon/spinda.md)**
+
+	Level 28
+
+-	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
+
+	***
+
+	**#427 [Buneary](../pokemon/buneary.md)**
+
+	Level 36
+
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+
+	***
+
+	**#428 [Lopunny](../pokemon/lopunny.md)**
+
+	Level 36
 
 -	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
 

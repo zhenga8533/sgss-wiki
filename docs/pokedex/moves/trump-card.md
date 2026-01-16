@@ -72,6 +72,14 @@
 
 	Level 48
 
+-	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
+
+	***
+
+	**#199 [Slowking](../pokemon/slowking.md)**
+
+	Level 53
+
 -	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokemon/minun.md)
 
 	***

@@ -88,6 +88,30 @@
 
 	Level 58
 
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 1
+
+-	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
+
+	***
+
+	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
+
+	Level 57
+
+-	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
+
+	***
+
+	**#112 [Rhydon](../pokemon/rhydon.md)**
+
+	Level 57
+
 -	[![Goldeen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/118.png){: .pokemon-sprite-img }](../pokemon/goldeen.md)
 
 	***
@@ -95,6 +119,14 @@
 	**#118 [Goldeen](../pokemon/goldeen.md)**
 
 	Level 51
+
+-	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
+
+	***
+
+	**#119 [Seaking](../pokemon/seaking.md)**
+
+	Level 63
 
 -	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
 
@@ -112,6 +144,14 @@
 
 	Level 62
 
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+
+	***
+
+	**#214 [Heracross](../pokemon/heracross.md)**
+
+	Level 55
+
 -	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
 
 	***
@@ -127,6 +167,14 @@
 	**#359 [Absol](../pokemon/absol.md)**
 
 	Level 71
+
+-	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
+
+	***
+
+	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+
+	Level 57
 
 </div>
 

@@ -64,6 +64,38 @@
 
 <div class="grid cards" markdown>
 
+-	[![Ekans](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/23.png){: .pokemon-sprite-img }](../pokemon/ekans.md)
+
+	***
+
+	**#023 [Ekans](../pokemon/ekans.md)**
+
+	Level 41
+
+-	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
+
+	***
+
+	**#024 [Arbok](../pokemon/arbok.md)**
+
+	Level 56
+
+-	[![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){: .pokemon-sprite-img }](../pokemon/grimer.md)
+
+	***
+
+	**#088 [Grimer](../pokemon/grimer.md)**
+
+	Level 44
+
+-	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
+
+	***
+
+	**#089 [Muk](../pokemon/muk.md)**
+
+	Level 54
+
 -	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
 
 	***
@@ -79,6 +111,30 @@
 	**#110 [Weezing](../pokemon/weezing.md)**
 
 	Level 85
+
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 1
+
+-	[![Gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){: .pokemon-sprite-img }](../pokemon/gulpin.md)
+
+	***
+
+	**#316 [Gulpin](../pokemon/gulpin.md)**
+
+	Level 54
+
+-	[![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){: .pokemon-sprite-img }](../pokemon/swalot.md)
+
+	***
+
+	**#317 [Swalot](../pokemon/swalot.md)**
+
+	Level 66
 
 -	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
 

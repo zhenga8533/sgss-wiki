@@ -80,6 +80,38 @@
 
 	Level 37
 
+-	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
+
+	***
+
+	**#057 [Primeape](../pokemon/primeape.md)**
+
+	Level 41
+
+-	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
+
+	***
+
+	**#066 [Machop](../pokemon/machop.md)**
+
+	Level 37
+
+-	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
+
+	***
+
+	**#067 [Machoke](../pokemon/machoke.md)**
+
+	Level 40
+
+-	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
+
+	***
+
+	**#068 [Machamp](../pokemon/machamp.md)**
+
+	Level 40
+
 -	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokemon/krabby.md)
 
 	***

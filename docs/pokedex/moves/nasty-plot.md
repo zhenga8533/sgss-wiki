@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Ninetales](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/38.png){: .pokemon-sprite-img }](../pokemon/ninetales.md)
+
+	***
+
+	**#038 [Ninetales](../pokemon/ninetales.md)**
+
+	Level 1
+
 -	[![Zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){: .pokemon-sprite-img }](../pokemon/zubat.md)
 
 	***
@@ -87,6 +95,30 @@
 	**#052 [Meowth](../pokemon/meowth.md)**
 
 	Level 38
+
+-	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
+
+	***
+
+	**#053 [Persian](../pokemon/persian.md)**
+
+	Level 44
+
+-	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
+
+	***
+
+	**#096 [Drowzee](../pokemon/drowzee.md)**
+
+	Level 43
+
+-	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
+
+	***
+
+	**#097 [Hypno](../pokemon/hypno.md)**
+
+	Level 55
 
 -	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokemon/mew.md)
 
@@ -120,6 +152,30 @@
 
 	Level 57
 
+-	[![Pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){: .pokemon-sprite-img }](../pokemon/pichu.md)
+
+	***
+
+	**#172 [Pichu](../pokemon/pichu.md)**
+
+	Level 18
+
+-	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
+
+	***
+
+	**#190 [Aipom](../pokemon/aipom.md)**
+
+	Level 39
+
+-	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
+
+	***
+
+	**#199 [Slowking](../pokemon/slowking.md)**
+
+	Level 39
+
 -	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
 
 	***
@@ -144,6 +200,22 @@
 
 	Level 64
 
+-	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
+
+	***
+
+	**#228 [Houndour](../pokemon/houndour.md)**
+
+	Level 53
+
+-	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
+
+	***
+
+	**#229 [Houndoom](../pokemon/houndoom.md)**
+
+	Level 60
+
 -	[![Celebi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/251.png){: .pokemon-sprite-img }](../pokemon/celebi.md)
 
 	***
@@ -151,6 +223,14 @@
 	**#251 [Celebi](../pokemon/celebi.md)**
 
 	Level 100
+
+-	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
+
+	***
+
+	**#275 [Shiftry](../pokemon/shiftry.md)**
+
+	Level 1
 
 -	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
 
@@ -176,6 +256,22 @@
 
 	Level 23
 
+-	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokemon/ambipom.md)
+
+	***
+
+	**#424 [Ambipom](../pokemon/ambipom.md)**
+
+	Level 39
+
+-	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokemon/honchkrow.md)
+
+	***
+
+	**#430 [Honchkrow](../pokemon/honchkrow.md)**
+
+	Level 35
+
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 
 	***
@@ -183,6 +279,46 @@
 	**#441 [Chatot](../pokemon/chatot.md)**
 
 	Level 49
+
+-	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokemon/spiritomb.md)
+
+	***
+
+	**#442 [Spiritomb](../pokemon/spiritomb.md)**
+
+	Level 37
+
+-	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
+
+	***
+
+	**#453 [Croagunk](../pokemon/croagunk.md)**
+
+	Level 36
+
+-	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
+
+	***
+
+	**#454 [Toxicroak](../pokemon/toxicroak.md)**
+
+	Level 36
+
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
+
+	***
+
+	**#461 [Weavile](../pokemon/weavile.md)**
+
+	Level 24
+
+-	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
+
+	***
+
+	**#474 [Porygon Z](../pokemon/porygon-z.md)**
+
+	Level 1
 
 -	[![Azelf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/482.png){: .pokemon-sprite-img }](../pokemon/azelf.md)
 

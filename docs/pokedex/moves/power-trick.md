@@ -80,6 +80,38 @@
 
 	Level 48
 
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 39
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 42
+
+-	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
+
+	***
+
+	**#343 [Baltoy](../pokemon/baltoy.md)**
+
+	Level 31
+
+-	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
+
+	***
+
+	**#344 [Claydol](../pokemon/claydol.md)**
+
+	Level 31
+
 </div>
 
 ### :material-egg-outline: Egg Moves

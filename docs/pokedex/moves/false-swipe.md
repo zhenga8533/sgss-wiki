@@ -72,6 +72,38 @@
 
 	Level 34
 
+-	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
+
+	***
+
+	**#104 [Cubone](../pokemon/cubone.md)**
+
+	Level 27
+
+-	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
+
+	***
+
+	**#105 [Marowak](../pokemon/marowak.md)**
+
+	Level 27
+
+-	[![Scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/123.png){: .pokemon-sprite-img }](../pokemon/scyther.md)
+
+	***
+
+	**#123 [Scyther](../pokemon/scyther.md)**
+
+	Level 13
+
+-	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
+
+	***
+
+	**#212 [Scizor](../pokemon/scizor.md)**
+
+	Level 13
+
 -	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokemon/grovyle.md)
 
 	***
@@ -79,6 +111,38 @@
 	**#253 [Grovyle](../pokemon/grovyle.md)**
 
 	Level 53
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
+
+	Level 59
+
+-	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
+
+	***
+
+	**#290 [Nincada](../pokemon/nincada.md)**
+
+	Level 25
+
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 44
+
+-	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
+
+	***
+
+	**#475 [Gallade](../pokemon/gallade.md)**
+
+	Level 45
 
 </div>
 

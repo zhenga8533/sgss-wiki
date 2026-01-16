@@ -92,6 +92,78 @@
 
 	Level 41
 
+-	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
+
+	***
+
+	**#057 [Primeape](../pokemon/primeape.md)**
+
+	Level 47
+
+-	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
+
+	***
+
+	**#104 [Cubone](../pokemon/cubone.md)**
+
+	Level 31
+
+-	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
+
+	***
+
+	**#105 [Marowak](../pokemon/marowak.md)**
+
+	Level 33
+
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+
+	***
+
+	**#127 [Pinsir](../pokemon/pinsir.md)**
+
+	Level 35
+
+-	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
+
+	***
+
+	**#128 [Tauros](../pokemon/tauros.md)**
+
+	Level 48
+
+-	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
+
+	***
+
+	**#130 [Gyarados](../pokemon/gyarados.md)**
+
+	Level 1
+
+-	[![Totodile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/158.png){: .pokemon-sprite-img }](../pokemon/totodile.md)
+
+	***
+
+	**#158 [Totodile](../pokemon/totodile.md)**
+
+	Level 36
+
+-	[![Croconaw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/159.png){: .pokemon-sprite-img }](../pokemon/croconaw.md)
+
+	***
+
+	**#159 [Croconaw](../pokemon/croconaw.md)**
+
+	Level 42
+
+-	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokemon/feraligatr.md)
+
+	***
+
+	**#160 [Feraligatr](../pokemon/feraligatr.md)**
+
+	Level 50
+
 -	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokemon/teddiursa.md)
 
 	***
@@ -99,6 +171,14 @@
 	**#216 [Teddiursa](../pokemon/teddiursa.md)**
 
 	Level 50
+
+-	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokemon/ursaring.md)
+
+	***
+
+	**#217 [Ursaring](../pokemon/ursaring.md)**
+
+	Level 58
 
 -	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokemon/larvitar.md)
 
@@ -115,6 +195,22 @@
 	**#247 [Pupitar](../pokemon/pupitar.md)**
 
 	Level 23
+
+-	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
+
+	***
+
+	**#248 [Tyranitar](../pokemon/tyranitar.md)**
+
+	Level 23
+
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+
+	***
+
+	**#327 [Spinda](../pokemon/spinda.md)**
+
+	Level 55
 
 </div>
 

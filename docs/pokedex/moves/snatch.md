@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
+
+	***
+
+	**#353 [Shuppet](../pokemon/shuppet.md)**
+
+	Level 43
+
+-	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
+
+	***
+
+	**#354 [Banette](../pokemon/banette.md)**
+
+	Level 51
+
 -	[![Deoxys Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/386.png){: .pokemon-sprite-img }](../pokemon/deoxys-normal.md)
 
 	***

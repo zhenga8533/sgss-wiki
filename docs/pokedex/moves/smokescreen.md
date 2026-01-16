@@ -64,6 +64,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/4.png){: .pokemon-sprite-img }](../pokemon/charmander.md)
+
+	***
+
+	**#004 [Charmander](../pokemon/charmander.md)**
+
+	Level 10
+
+-	[![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/5.png){: .pokemon-sprite-img }](../pokemon/charmeleon.md)
+
+	***
+
+	**#005 [Charmeleon](../pokemon/charmeleon.md)**
+
+	Level 10
+
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+
+	***
+
+	**#006 [Charizard](../pokemon/charizard.md)**
+
+	Level 10
+
+-	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
+
+	***
+
+	**#109 [Koffing](../pokemon/koffing.md)**
+
+	Level 10
+
+-	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokemon/weezing.md)
+
+	***
+
+	**#110 [Weezing](../pokemon/weezing.md)**
+
+	Level 10
+
 -	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
 
 	***
@@ -71,6 +111,22 @@
 	**#116 [Horsea](../pokemon/horsea.md)**
 
 	Level 4
+
+-	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokemon/seadra.md)
+
+	***
+
+	**#117 [Seadra](../pokemon/seadra.md)**
+
+	Level 4
+
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+
+	***
+
+	**#126 [Magmar](../pokemon/magmar.md)**
+
+	Level 10
 
 -	[![Cyndaquil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/155.png){: .pokemon-sprite-img }](../pokemon/cyndaquil.md)
 
@@ -112,11 +168,59 @@
 
 	Level 6
 
+-	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokemon/typhlosion.md)
+
+	***
+
+	**#157 [Typhlosion](../pokemon/typhlosion.md)**
+
+	Level 6
+
+-	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
+
+	***
+
+	**#230 [Kingdra](../pokemon/kingdra.md)**
+
+	Level 4
+
 -	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
 
 	***
 
 	**#240 [Magby](../pokemon/magby.md)**
+
+	Level 10
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+	Level 20
+
+-	[![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){: .pokemon-sprite-img }](../pokemon/stunky.md)
+
+	***
+
+	**#434 [Stunky](../pokemon/stunky.md)**
+
+	Level 14
+
+-	[![Skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/435.png){: .pokemon-sprite-img }](../pokemon/skuntank.md)
+
+	***
+
+	**#435 [Skuntank](../pokemon/skuntank.md)**
+
+	Level 14
+
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+
+	***
+
+	**#467 [Magmortar](../pokemon/magmortar.md)**
 
 	Level 10
 

@@ -60,5 +60,17 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/137.png){: .pokemon-sprite-img }](../pokemon/porygon.md)
+
+	***
+
+	**#137 [Porygon](../pokemon/porygon.md)**
+
+	Level 1
+
+</div>
 

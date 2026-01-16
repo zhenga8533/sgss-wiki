@@ -80,6 +80,22 @@
 
 	Level 64
 
+-	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
+
+	***
+
+	**#177 [Natu](../pokemon/natu.md)**
+
+	Level 44
+
+-	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
+
+	***
+
+	**#178 [Xatu](../pokemon/xatu.md)**
+
+	Level 54
+
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
 	***
@@ -87,6 +103,14 @@
 	**#196 [Espeon](../pokemon/espeon.md)**
 
 	Level 63
+
+-	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokemon/girafarig.md)
+
+	***
+
+	**#203 [Girafarig](../pokemon/girafarig.md)**
+
+	Level 1
 
 </div>
 

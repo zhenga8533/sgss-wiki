@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 46
+
 -	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
 
 	***
@@ -79,6 +87,14 @@
 	**#145 [Zapdos](../pokemon/zapdos.md)**
 
 	Level 15
+
+-	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
+
+	***
+
+	**#193 [Yanma](../pokemon/yanma.md)**
+
+	Level 17
 
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
@@ -103,6 +119,70 @@
 	**#253 [Grovyle](../pokemon/grovyle.md)**
 
 	Level 47
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
+
+	Level 51
+
+-	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
+
+	***
+
+	**#302 [Sableye](../pokemon/sableye.md)**
+
+	Level 22
+
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 11
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 11
+
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 40
+
+-	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
+
+	***
+
+	**#359 [Absol](../pokemon/absol.md)**
+
+	Level 49
+
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+
+	***
+
+	**#448 [Lucario](../pokemon/lucario.md)**
+
+	Level 1
+
+-	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
+
+	***
+
+	**#469 [Yanmega](../pokemon/yanmega.md)**
+
+	Level 17
 
 -	[![Azelf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/482.png){: .pokemon-sprite-img }](../pokemon/azelf.md)
 

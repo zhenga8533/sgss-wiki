@@ -72,6 +72,30 @@
 
 	Level 1
 
+-	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+
+	***
+
+	**#191 [Sunkern](../pokemon/sunkern.md)**
+
+	Level 9
+
+-	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
+
+	***
+
+	**#192 [Sunflora](../pokemon/sunflora.md)**
+
+	Level 9
+
+-	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
+
+	***
+
+	**#315 [Roselia](../pokemon/roselia.md)**
+
+	Level 34
+
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
 	***
@@ -87,6 +111,54 @@
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
 	Level 53
+
+-	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokemon/lileep.md)
+
+	***
+
+	**#345 [Lileep](../pokemon/lileep.md)**
+
+	Level 15
+
+-	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
+
+	***
+
+	**#346 [Cradily](../pokemon/cradily.md)**
+
+	Level 15
+
+-	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
+
+	***
+
+	**#455 [Carnivine](../pokemon/carnivine.md)**
+
+	Level 21
+
+-	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
+
+	***
+
+	**#459 [Snover](../pokemon/snover.md)**
+
+	Level 31
+
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+
+	***
+
+	**#460 [Abomasnow](../pokemon/abomasnow.md)**
+
+	Level 31
+
+-	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
+
+	***
+
+	**#465 [Tangrowth](../pokemon/tangrowth.md)**
+
+	Level 1
 
 </div>
 

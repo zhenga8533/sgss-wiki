@@ -88,6 +88,14 @@
 
 	Level 1
 
+-	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokemon/ursaring.md)
+
+	***
+
+	**#217 [Ursaring](../pokemon/ursaring.md)**
+
+	Level 1
+
 -	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokemon/zigzagoon.md)
 
 	***
@@ -96,11 +104,27 @@
 
 	Level 29
 
+-	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokemon/linoone.md)
+
+	***
+
+	**#264 [Linoone](../pokemon/linoone.md)**
+
+	Level 35
+
 -	[![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/287.png){: .pokemon-sprite-img }](../pokemon/slakoth.md)
 
 	***
 
 	**#287 [Slakoth](../pokemon/slakoth.md)**
+
+	Level 31
+
+-	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
+
+	***
+
+	**#289 [Slaking](../pokemon/slaking.md)**
 
 	Level 31
 
@@ -119,6 +143,14 @@
 	**#300 [Skitty](../pokemon/skitty.md)**
 
 	Level 36
+
+-	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
+
+	***
+
+	**#314 [Illumise](../pokemon/illumise.md)**
+
+	Level 45
 
 </div>
 

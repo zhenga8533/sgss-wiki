@@ -112,6 +112,30 @@
 
 	Level 55
 
+-	[![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){: .pokemon-sprite-img }](../pokemon/sneasel.md)
+
+	***
+
+	**#215 [Sneasel](../pokemon/sneasel.md)**
+
+	Level 28
+
+-	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
+
+	***
+
+	**#220 [Swinub](../pokemon/swinub.md)**
+
+	Level 25
+
+-	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
+
+	***
+
+	**#221 [Piloswine](../pokemon/piloswine.md)**
+
+	Level 25
+
 -	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
 
 	***
@@ -125,6 +149,14 @@
 	***
 
 	**#361 [Snorunt](../pokemon/snorunt.md)**
+
+	Level 13
+
+-	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
+
+	***
+
+	**#362 [Glalie](../pokemon/glalie.md)**
 
 	Level 13
 
@@ -144,11 +176,43 @@
 
 	Level 25
 
+-	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
+
+	***
+
+	**#459 [Snover](../pokemon/snover.md)**
+
+	Level 9
+
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+
+	***
+
+	**#460 [Abomasnow](../pokemon/abomasnow.md)**
+
+	Level 9
+
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
+
+	***
+
+	**#461 [Weavile](../pokemon/weavile.md)**
+
+	Level 28
+
 -	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
 
 	***
 
 	**#471 [Glaceon](../pokemon/glaceon.md)**
+
+	Level 13
+
+-	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
+
+	***
+
+	**#478 [Froslass](../pokemon/froslass.md)**
 
 	Level 13
 

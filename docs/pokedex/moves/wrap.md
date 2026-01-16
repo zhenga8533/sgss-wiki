@@ -72,6 +72,62 @@
 
 <div class="grid cards" markdown>
 
+-	[![Ekans](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/23.png){: .pokemon-sprite-img }](../pokemon/ekans.md)
+
+	***
+
+	**#023 [Ekans](../pokemon/ekans.md)**
+
+	Level 1
+
+-	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
+
+	***
+
+	**#024 [Arbok](../pokemon/arbok.md)**
+
+	Level 1
+
+-	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
+
+	***
+
+	**#069 [Bellsprout](../pokemon/bellsprout.md)**
+
+	Level 11
+
+-	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
+
+	***
+
+	**#070 [Weepinbell](../pokemon/weepinbell.md)**
+
+	Level 11
+
+-	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
+
+	***
+
+	**#072 [Tentacool](../pokemon/tentacool.md)**
+
+	Level 22
+
+-	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
+
+	***
+
+	**#073 [Tentacruel](../pokemon/tentacruel.md)**
+
+	Level 22
+
+-	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
+
+	***
+
+	**#108 [Lickitung](../pokemon/lickitung.md)**
+
+	Level 17
+
 -	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
 
 	***
@@ -112,6 +168,30 @@
 
 	Level 22
 
+-	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
+
+	***
+
+	**#336 [Seviper](../pokemon/seviper.md)**
+
+	Level 1
+
+-	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokemon/milotic.md)
+
+	***
+
+	**#350 [Milotic](../pokemon/milotic.md)**
+
+	Level 1
+
+-	[![Chimecho](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/358.png){: .pokemon-sprite-img }](../pokemon/chimecho.md)
+
+	***
+
+	**#358 [Chimecho](../pokemon/chimecho.md)**
+
+	Level 1
+
 -	[![Deoxys Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/386.png){: .pokemon-sprite-img }](../pokemon/deoxys-normal.md)
 
 	***
@@ -119,6 +199,22 @@
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
 	Level 1
+
+-	[![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/433.png){: .pokemon-sprite-img }](../pokemon/chingling.md)
+
+	***
+
+	**#433 [Chingling](../pokemon/chingling.md)**
+
+	Level 1
+
+-	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
+
+	***
+
+	**#463 [Lickilicky](../pokemon/lickilicky.md)**
+
+	Level 17
 
 </div>
 

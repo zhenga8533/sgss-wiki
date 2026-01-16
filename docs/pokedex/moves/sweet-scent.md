@@ -64,11 +64,115 @@
 
 <div class="grid cards" markdown>
 
+-	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokemon/bulbasaur.md)
+
+	***
+
+	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
+
+	Level 21
+
+-	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokemon/ivysaur.md)
+
+	***
+
+	**#002 [Ivysaur](../pokemon/ivysaur.md)**
+
+	Level 23
+
+-	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
+
+	***
+
+	**#003 [Venusaur](../pokemon/venusaur.md)**
+
+	Level 23
+
+-	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokemon/oddish.md)
+
+	***
+
+	**#043 [Oddish](../pokemon/oddish.md)**
+
+	Level 5
+
+-	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
+
+	***
+
+	**#044 [Gloom](../pokemon/gloom.md)**
+
+	Level 5
+
+-	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
+
+	***
+
+	**#069 [Bellsprout](../pokemon/bellsprout.md)**
+
+	Level 29
+
+-	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
+
+	***
+
+	**#070 [Weepinbell](../pokemon/weepinbell.md)**
+
+	Level 29
+
+-	[![Victreebel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/71.png){: .pokemon-sprite-img }](../pokemon/victreebel.md)
+
+	***
+
+	**#071 [Victreebel](../pokemon/victreebel.md)**
+
+	Level 1
+
+-	[![Chikorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/152.png){: .pokemon-sprite-img }](../pokemon/chikorita.md)
+
+	***
+
+	**#152 [Chikorita](../pokemon/chikorita.md)**
+
+	Level 28
+
+-	[![Bayleef](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/153.png){: .pokemon-sprite-img }](../pokemon/bayleef.md)
+
+	***
+
+	**#153 [Bayleef](../pokemon/bayleef.md)**
+
+	Level 32
+
+-	[![Meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){: .pokemon-sprite-img }](../pokemon/meganium.md)
+
+	***
+
+	**#154 [Meganium](../pokemon/meganium.md)**
+
+	Level 34
+
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+
+	***
+
+	**#182 [Bellossom](../pokemon/bellossom.md)**
+
+	Level 1
+
 -	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokemon/teddiursa.md)
 
 	***
 
 	**#216 [Teddiursa](../pokemon/teddiursa.md)**
+
+	Level 22
+
+-	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokemon/ursaring.md)
+
+	***
+
+	**#217 [Ursaring](../pokemon/ursaring.md)**
 
 	Level 22
 
@@ -80,6 +184,22 @@
 
 	Level 13
 
+-	[![Masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){: .pokemon-sprite-img }](../pokemon/masquerain.md)
+
+	***
+
+	**#284 [Masquerain](../pokemon/masquerain.md)**
+
+	Level 13
+
+-	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
+
+	***
+
+	**#303 [Mawile](../pokemon/mawile.md)**
+
+	Level 16
+
 -	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
 
 	***
@@ -87,6 +207,54 @@
 	**#314 [Illumise](../pokemon/illumise.md)**
 
 	Level 1
+
+-	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
+
+	***
+
+	**#315 [Roselia](../pokemon/roselia.md)**
+
+	Level 31
+
+-	[![Tropius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/357.png){: .pokemon-sprite-img }](../pokemon/tropius.md)
+
+	***
+
+	**#357 [Tropius](../pokemon/tropius.md)**
+
+	Level 21
+
+-	[![Roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){: .pokemon-sprite-img }](../pokemon/roserade.md)
+
+	***
+
+	**#407 [Roserade](../pokemon/roserade.md)**
+
+	Level 1
+
+-	[![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/415.png){: .pokemon-sprite-img }](../pokemon/combee.md)
+
+	***
+
+	**#415 [Combee](../pokemon/combee.md)**
+
+	Level 1
+
+-	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokemon/vespiquen.md)
+
+	***
+
+	**#416 [Vespiquen](../pokemon/vespiquen.md)**
+
+	Level 1
+
+-	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
+
+	***
+
+	**#455 [Carnivine](../pokemon/carnivine.md)**
+
+	Level 17
 
 -	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
 

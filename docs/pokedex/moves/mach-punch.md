@@ -64,11 +64,51 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 16
+
+-	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
+
+	***
+
+	**#165 [Ledyba](../pokemon/ledyba.md)**
+
+	Level 17
+
+-	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
+
+	***
+
+	**#166 [Ledian](../pokemon/ledian.md)**
+
+	Level 17
+
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 23
+
 -	[![Monferno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/391.png){: .pokemon-sprite-img }](../pokemon/monferno.md)
 
 	***
 
 	**#391 [Monferno](../pokemon/monferno.md)**
+
+	Level 14
+
+-	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+
+	***
+
+	**#392 [Infernape](../pokemon/infernape.md)**
 
 	Level 14
 

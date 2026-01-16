@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 9
+
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
 	***

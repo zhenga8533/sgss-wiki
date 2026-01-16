@@ -64,6 +64,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){: .pokemon-sprite-img }](../pokemon/pichu.md)
+
+	***
+
+	**#172 [Pichu](../pokemon/pichu.md)**
+
+	Level 13
+
+-	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
+
+	***
+
+	**#173 [Cleffa](../pokemon/cleffa.md)**
+
+	Level 10
+
+-	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokemon/igglybuff.md)
+
+	***
+
+	**#174 [Igglybuff](../pokemon/igglybuff.md)**
+
+	Level 13
+
+-	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
+
+	***
+
+	**#175 [Togepi](../pokemon/togepi.md)**
+
+	Level 10
+
+-	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
+
+	***
+
+	**#176 [Togetic](../pokemon/togetic.md)**
+
+	Level 10
+
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
 	***
@@ -87,6 +127,14 @@
 	**#417 [Pachirisu](../pokemon/pachirisu.md)**
 
 	Level 29
+
+-	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
+
+	***
+
+	**#440 [Happiny](../pokemon/happiny.md)**
+
+	Level 12
 
 -	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
 

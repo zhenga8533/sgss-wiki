@@ -72,6 +72,78 @@
 
 <div class="grid cards" markdown>
 
+-	[![Geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){: .pokemon-sprite-img }](../pokemon/geodude.md)
+
+	***
+
+	**#074 [Geodude](../pokemon/geodude.md)**
+
+	Level 25
+
+-	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokemon/graveler.md)
+
+	***
+
+	**#075 [Graveler](../pokemon/graveler.md)**
+
+	Level 27
+
+-	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokemon/golem.md)
+
+	***
+
+	**#076 [Golem](../pokemon/golem.md)**
+
+	Level 27
+
+-	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
+
+	***
+
+	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
+
+	Level 25
+
+-	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
+
+	***
+
+	**#112 [Rhydon](../pokemon/rhydon.md)**
+
+	Level 25
+
+-	[![Omanyte](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/138.png){: .pokemon-sprite-img }](../pokemon/omanyte.md)
+
+	***
+
+	**#138 [Omanyte](../pokemon/omanyte.md)**
+
+	Level 46
+
+-	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
+
+	***
+
+	**#139 [Omastar](../pokemon/omastar.md)**
+
+	Level 56
+
+-	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
+
+	***
+
+	**#222 [Corsola](../pokemon/corsola.md)**
+
+	Level 20
+
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 1
+
 -	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
 
 	***
@@ -79,6 +151,22 @@
 	**#347 [Anorith](../pokemon/anorith.md)**
 
 	Level 49
+
+-	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
+
+	***
+
+	**#348 [Armaldo](../pokemon/armaldo.md)**
+
+	Level 55
+
+-	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
+
+	***
+
+	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+
+	Level 25
 
 </div>
 

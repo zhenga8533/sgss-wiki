@@ -64,6 +64,94 @@
 
 <div class="grid cards" markdown>
 
+-	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
+
+	***
+
+	**#228 [Houndour](../pokemon/houndour.md)**
+
+	Level 40
+
+-	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
+
+	***
+
+	**#229 [Houndoom](../pokemon/houndoom.md)**
+
+	Level 44
+
+-	[![Poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){: .pokemon-sprite-img }](../pokemon/poochyena.md)
+
+	***
+
+	**#261 [Poochyena](../pokemon/poochyena.md)**
+
+	Level 41
+
+-	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
+
+	***
+
+	**#262 [Mightyena](../pokemon/mightyena.md)**
+
+	Level 47
+
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 27
+
+-	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
+
+	***
+
+	**#337 [Lunatone](../pokemon/lunatone.md)**
+
+	Level 31
+
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
+
+	Level 31
+
+-	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
+
+	***
+
+	**#353 [Shuppet](../pokemon/shuppet.md)**
+
+	Level 38
+
+-	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
+
+	***
+
+	**#354 [Banette](../pokemon/banette.md)**
+
+	Level 42
+
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
+
+	***
+
+	**#461 [Weavile](../pokemon/weavile.md)**
+
+	Level 1
+
+-	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
+
+	***
+
+	**#474 [Porygon Z](../pokemon/porygon-z.md)**
+
+	Level 34
+
 -	[![Darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/491.png){: .pokemon-sprite-img }](../pokemon/darkrai.md)
 
 	***

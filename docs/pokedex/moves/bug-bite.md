@@ -136,6 +136,22 @@
 
 	Level 1
 
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+
+	***
+
+	**#204 [Pineco](../pokemon/pineco.md)**
+
+	Level 9
+
+-	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
+
+	***
+
+	**#205 [Forretress](../pokemon/forretress.md)**
+
+	Level 9
+
 -	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
 
 	***
@@ -176,6 +192,14 @@
 
 	Level 1
 
+-	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokemon/ninjask.md)
+
+	***
+
+	**#291 [Ninjask](../pokemon/ninjask.md)**
+
+	Level 1
+
 -	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
 
 	***
@@ -208,11 +232,35 @@
 
 	Level 15
 
+-	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
+
+	***
+
+	**#414 [Mothim](../pokemon/mothim.md)**
+
+	Level 15
+
+-	[![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/415.png){: .pokemon-sprite-img }](../pokemon/combee.md)
+
+	***
+
+	**#415 [Combee](../pokemon/combee.md)**
+
+	Level 13
+
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
 	***
 
 	**#451 [Skorupi](../pokemon/skorupi.md)**
+
+	Level 34
+
+-	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
+
+	***
+
+	**#452 [Drapion](../pokemon/drapion.md)**
 
 	Level 34
 
@@ -223,6 +271,14 @@
 	**#455 [Carnivine](../pokemon/carnivine.md)**
 
 	Level 44
+
+-	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
+
+	***
+
+	**#469 [Yanmega](../pokemon/yanmega.md)**
+
+	Level 1
 
 </div>
 

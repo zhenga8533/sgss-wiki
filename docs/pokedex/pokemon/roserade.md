@@ -18,7 +18,7 @@
 
 	**Level-up Moves Changes:**
 
-	- `5 moves` → `1 move`
+	- `5 moves` → `6 moves`
 
 
 ## :material-information: Basic Information
@@ -177,7 +177,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Use Shiny Stone*
 
-		***You are here***
+	***You are here***
 
 </div>
 
@@ -219,6 +219,11 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Magical Leaf](../../pokedex/moves/magical-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | — | 20 |
+	| 1 | [Mega Drain](../../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 75 | 100 | 10 |
+	| 1 | [Poison Sting](../../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 15 | 100 | 35 |
+	| 1 | [Sweet Scent](../../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 20 |
+	| 1 | [Weather Ball](../../pokedex/moves/weather-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 50 | 100 | 10 |
 	| 39 | [Petal Dance](../../pokedex/moves/petal-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 120 | 100 | 10 |
 
 === ":material-disc: TM/HM"

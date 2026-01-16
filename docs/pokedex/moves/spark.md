@@ -64,6 +64,38 @@
 
 <div class="grid cards" markdown>
 
+-	[![Magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){: .pokemon-sprite-img }](../pokemon/magnemite.md)
+
+	***
+
+	**#081 [Magnemite](../pokemon/magnemite.md)**
+
+	Level 22
+
+-	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
+
+	***
+
+	**#082 [Magneton](../pokemon/magneton.md)**
+
+	Level 22
+
+-	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokemon/voltorb.md)
+
+	***
+
+	**#100 [Voltorb](../pokemon/voltorb.md)**
+
+	Level 12
+
+-	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
+
+	***
+
+	**#101 [Electrode](../pokemon/electrode.md)**
+
+	Level 12
+
 -	[![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/170.png){: .pokemon-sprite-img }](../pokemon/chinchou.md)
 
 	***
@@ -79,6 +111,14 @@
 	**#171 [Lanturn](../pokemon/lanturn.md)**
 
 	Level 20
+
+-	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokemon/raikou.md)
+
+	***
+
+	**#243 [Raikou](../pokemon/raikou.md)**
+
+	Level 29
 
 -	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokemon/electrike.md)
 
@@ -111,6 +151,46 @@
 	**#312 [Minun](../pokemon/minun.md)**
 
 	Level 15
+
+-	[![Shinx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/403.png){: .pokemon-sprite-img }](../pokemon/shinx.md)
+
+	***
+
+	**#403 [Shinx](../pokemon/shinx.md)**
+
+	Level 13
+
+-	[![Luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){: .pokemon-sprite-img }](../pokemon/luxio.md)
+
+	***
+
+	**#404 [Luxio](../pokemon/luxio.md)**
+
+	Level 13
+
+-	[![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/405.png){: .pokemon-sprite-img }](../pokemon/luxray.md)
+
+	***
+
+	**#405 [Luxray](../pokemon/luxray.md)**
+
+	Level 13
+
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+
+	***
+
+	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+
+	Level 13
+
+-	[![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){: .pokemon-sprite-img }](../pokemon/magnezone.md)
+
+	***
+
+	**#462 [Magnezone](../pokemon/magnezone.md)**
+
+	Level 22
 
 </div>
 

@@ -72,6 +72,14 @@
 
 	Level 1
 
+-	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
+
+	***
+
+	**#113 [Chansey](../pokemon/chansey.md)**
+
+	Level 12
+
 -	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
 
 	***
@@ -87,6 +95,14 @@
 	**#176 [Togetic](../pokemon/togetic.md)**
 
 	Level 6
+
+-	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
+
+	***
+
+	**#242 [Blissey](../pokemon/blissey.md)**
+
+	Level 12
 
 </div>
 

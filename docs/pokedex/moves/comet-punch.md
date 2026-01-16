@@ -60,5 +60,41 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 1
+
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+
+	***
+
+	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+
+	Level 1
+
+-	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
+
+	***
+
+	**#165 [Ledyba](../pokemon/ledyba.md)**
+
+	Level 9
+
+-	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
+
+	***
+
+	**#166 [Ledian](../pokemon/ledian.md)**
+
+	Level 9
+
+</div>
 

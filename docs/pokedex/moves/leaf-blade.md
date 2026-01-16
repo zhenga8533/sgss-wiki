@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Victreebel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/71.png){: .pokemon-sprite-img }](../pokemon/victreebel.md)
+
+	***
+
+	**#071 [Victreebel](../pokemon/victreebel.md)**
+
+	Level 47
+
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
 	***
@@ -72,11 +80,27 @@
 
 	Level 43
 
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+
+	***
+
+	**#182 [Bellossom](../pokemon/bellossom.md)**
+
+	Level 1
+
 -	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokemon/grovyle.md)
 
 	***
 
 	**#253 [Grovyle](../pokemon/grovyle.md)**
+
+	Level 29
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
 
 	Level 29
 
@@ -103,6 +127,14 @@
 	**#470 [Leafeon](../pokemon/leafeon.md)**
 
 	Level 58
+
+-	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
+
+	***
+
+	**#475 [Gallade](../pokemon/gallade.md)**
+
+	Level 1
 
 </div>
 

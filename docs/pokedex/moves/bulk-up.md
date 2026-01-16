@@ -72,6 +72,14 @@
 
 	Level 28
 
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
+
+	Level 28
+
 -	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
 
 	***

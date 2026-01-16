@@ -64,6 +64,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pidgey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/16.png){: .pokemon-sprite-img }](../pokemon/pidgey.md)
+
+	***
+
+	**#016 [Pidgey](../pokemon/pidgey.md)**
+
+	Level 45
+
+-	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
+
+	***
+
+	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
+
+	Level 52
+
+-	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
+
+	***
+
+	**#018 [Pidgeot](../pokemon/pidgeot.md)**
+
+	Level 56
+
+-	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokemon/spearow.md)
+
+	***
+
+	**#021 [Spearow](../pokemon/spearow.md)**
+
+	Level 21
+
+-	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
+
+	***
+
+	**#022 [Fearow](../pokemon/fearow.md)**
+
+	Level 23
+
 -	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
 
 	***
@@ -79,6 +119,22 @@
 	**#256 [Combusken](../pokemon/combusken.md)**
 
 	Level 43
+
+-	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokemon/swablu.md)
+
+	***
+
+	**#333 [Swablu](../pokemon/swablu.md)**
+
+	Level 36
+
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+
+	***
+
+	**#441 [Chatot](../pokemon/chatot.md)**
+
+	Level 9
 
 </div>
 

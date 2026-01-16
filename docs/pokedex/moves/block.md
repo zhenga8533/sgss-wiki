@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
+
+	***
+
+	**#143 [Snorlax](../pokemon/snorlax.md)**
+
+	Level 36
+
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 22
+
 -	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
 
 	***
@@ -72,6 +88,22 @@
 
 	Level 17
 
+-	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
+
+	***
+
+	**#411 [Bastiodon](../pokemon/bastiodon.md)**
+
+	Level 30
+
+-	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
+
+	***
+
+	**#437 [Bronzong](../pokemon/bronzong.md)**
+
+	Level 33
+
 -	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
 
 	***
@@ -79,6 +111,14 @@
 	**#438 [Bonsly](../pokemon/bonsly.md)**
 
 	Level 22
+
+-	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
+
+	***
+
+	**#465 [Tangrowth](../pokemon/tangrowth.md)**
+
+	Level 57
 
 -	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
 

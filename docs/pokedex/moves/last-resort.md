@@ -104,6 +104,30 @@
 
 	Level 43
 
+-	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
+
+	***
+
+	**#175 [Togepi](../pokemon/togepi.md)**
+
+	Level 51
+
+-	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
+
+	***
+
+	**#176 [Togetic](../pokemon/togetic.md)**
+
+	Level 51
+
+-	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
+
+	***
+
+	**#190 [Aipom](../pokemon/aipom.md)**
+
+	Level 43
+
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
 	***
@@ -119,6 +143,14 @@
 	**#197 [Umbreon](../pokemon/umbreon.md)**
 
 	Level 43
+
+-	[![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){: .pokemon-sprite-img }](../pokemon/phanpy.md)
+
+	***
+
+	**#231 [Phanpy](../pokemon/phanpy.md)**
+
+	Level 37
 
 -	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
 
@@ -136,6 +168,30 @@
 
 	Level 65
 
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+
+	***
+
+	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+
+	Level 37
+
+-	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokemon/ambipom.md)
+
+	***
+
+	**#424 [Ambipom](../pokemon/ambipom.md)**
+
+	Level 43
+
+-	[![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/433.png){: .pokemon-sprite-img }](../pokemon/chingling.md)
+
+	***
+
+	**#433 [Chingling](../pokemon/chingling.md)**
+
+	Level 22
+
 -	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
 
 	***
@@ -143,6 +199,14 @@
 	**#440 [Happiny](../pokemon/happiny.md)**
 
 	Level 21
+
+-	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
+
+	***
+
+	**#446 [Munchlax](../pokemon/munchlax.md)**
+
+	Level 49
 
 -	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
 

@@ -68,5 +68,33 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
+
+	***
+
+	**#104 [Cubone](../pokemon/cubone.md)**
+
+	Level 37
+
+-	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
+
+	***
+
+	**#105 [Marowak](../pokemon/marowak.md)**
+
+	Level 43
+
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+
+	***
+
+	**#448 [Lucario](../pokemon/lucario.md)**
+
+	Level 19
+
+</div>
 

@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
+
+	***
+
+	**#109 [Koffing](../pokemon/koffing.md)**
+
+	Level 6
+
+-	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokemon/weezing.md)
+
+	***
+
+	**#110 [Weezing](../pokemon/weezing.md)**
+
+	Level 6
+
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+
+	***
+
+	**#126 [Magmar](../pokemon/magmar.md)**
+
+	Level 1
+
 -	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
 
 	***
@@ -71,6 +95,22 @@
 	**#136 [Flareon](../pokemon/flareon.md)**
 
 	Level 48
+
+-	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokemon/slugma.md)
+
+	***
+
+	**#218 [Slugma](../pokemon/slugma.md)**
+
+	Level 1
+
+-	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokemon/magcargo.md)
+
+	***
+
+	**#219 [Magcargo](../pokemon/magcargo.md)**
+
+	Level 1
 
 -	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
 
@@ -93,6 +133,22 @@
 	***
 
 	**#240 [Magby](../pokemon/magby.md)**
+
+	Level 1
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+	Level 4
+
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+
+	***
+
+	**#467 [Magmortar](../pokemon/magmortar.md)**
 
 	Level 1
 

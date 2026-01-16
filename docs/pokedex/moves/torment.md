@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
+
+	***
+
+	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
+
+	Level 25
+
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
 	***

@@ -96,6 +96,30 @@
 
 	Level 41
 
+-	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokemon/aron.md)
+
+	***
+
+	**#304 [Aron](../pokemon/aron.md)**
+
+	Level 39
+
+-	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokemon/lairon.md)
+
+	***
+
+	**#305 [Lairon](../pokemon/lairon.md)**
+
+	Level 45
+
+-	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
+
+	***
+
+	**#306 [Aggron](../pokemon/aggron.md)**
+
+	Level 48
+
 </div>
 
 ### :material-disc: TM/HM

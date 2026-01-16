@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
+
+	***
+
+	**#077 [Ponyta](../pokemon/ponyta.md)**
+
+	Level 42
+
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 47
+
 -	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
 
 	***
@@ -96,6 +112,86 @@
 
 	Level 37
 
+-	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
+
+	***
+
+	**#187 [Hoppip](../pokemon/hoppip.md)**
+
+	Level 40
+
+-	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
+
+	***
+
+	**#188 [Skiploom](../pokemon/skiploom.md)**
+
+	Level 48
+
+-	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
+
+	***
+
+	**#189 [Jumpluff](../pokemon/jumpluff.md)**
+
+	Level 48
+
+-	[![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){: .pokemon-sprite-img }](../pokemon/mantine.md)
+
+	***
+
+	**#226 [Mantine](../pokemon/mantine.md)**
+
+	Level 40
+
+-	[![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/320.png){: .pokemon-sprite-img }](../pokemon/wailmer.md)
+
+	***
+
+	**#320 [Wailmer](../pokemon/wailmer.md)**
+
+	Level 44
+
+-	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokemon/wailord.md)
+
+	***
+
+	**#321 [Wailord](../pokemon/wailord.md)**
+
+	Level 54
+
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+
+	***
+
+	**#325 [Spoink](../pokemon/spoink.md)**
+
+	Level 48
+
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+
+	***
+
+	**#326 [Grumpig](../pokemon/grumpig.md)**
+
+	Level 60
+
+-	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
+
+	***
+
+	**#427 [Buneary](../pokemon/buneary.md)**
+
+	Level 46
+
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+
+	***
+
+	**#428 [Lopunny](../pokemon/lopunny.md)**
+
+	Level 46
+
 -	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokemon/finneon.md)
 
 	***
@@ -103,6 +199,22 @@
 	**#456 [Finneon](../pokemon/finneon.md)**
 
 	Level 45
+
+-	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
+
+	***
+
+	**#457 [Lumineon](../pokemon/lumineon.md)**
+
+	Level 53
+
+-	[![Mantyke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/458.png){: .pokemon-sprite-img }](../pokemon/mantyke.md)
+
+	***
+
+	**#458 [Mantyke](../pokemon/mantyke.md)**
+
+	Level 40
 
 </div>
 

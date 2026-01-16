@@ -157,7 +157,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Use Deep Sea Tooth*
 
-		***You are here***
+	***You are here***
 
 -	[![Gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){: .pokemon-sprite-img }](./gorebyss.md)
 

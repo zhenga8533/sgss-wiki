@@ -60,6 +60,92 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Ekans](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/23.png){: .pokemon-sprite-img }](../pokemon/ekans.md)
+
+	***
+
+	**#023 [Ekans](../pokemon/ekans.md)**
+
+	Level 20
+
+-	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
+
+	***
+
+	**#024 [Arbok](../pokemon/arbok.md)**
+
+	Level 20
+
+-	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokemon/oddish.md)
+
+	***
+
+	**#043 [Oddish](../pokemon/oddish.md)**
+
+	Level 9
+
+-	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
+
+	***
+
+	**#044 [Gloom](../pokemon/gloom.md)**
+
+	Level 9
+
+-	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
+
+	***
+
+	**#069 [Bellsprout](../pokemon/bellsprout.md)**
+
+	Level 23
+
+-	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
+
+	***
+
+	**#070 [Weepinbell](../pokemon/weepinbell.md)**
+
+	Level 23
+
+-	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
+
+	***
+
+	**#072 [Tentacool](../pokemon/tentacool.md)**
+
+	Level 12
+
+-	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
+
+	***
+
+	**#073 [Tentacruel](../pokemon/tentacruel.md)**
+
+	Level 12
+
+-	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokemon/lileep.md)
+
+	***
+
+	**#345 [Lileep](../pokemon/lileep.md)**
+
+	Level 8
+
+-	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
+
+	***
+
+	**#346 [Cradily](../pokemon/cradily.md)**
+
+	Level 8
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

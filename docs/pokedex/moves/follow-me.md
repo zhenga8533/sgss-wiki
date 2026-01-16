@@ -60,6 +60,52 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 16
+
+-	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
+
+	***
+
+	**#161 [Sentret](../pokemon/sentret.md)**
+
+	Level 19
+
+-	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
+
+	***
+
+	**#162 [Furret](../pokemon/furret.md)**
+
+	Level 21
+
+-	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
+
+	***
+
+	**#175 [Togepi](../pokemon/togepi.md)**
+
+	Level 24
+
+-	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
+
+	***
+
+	**#176 [Togetic](../pokemon/togetic.md)**
+
+	Level 24
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

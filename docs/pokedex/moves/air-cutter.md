@@ -72,6 +72,30 @@
 
 	Level 16
 
+-	[![Zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){: .pokemon-sprite-img }](../pokemon/zubat.md)
+
+	***
+
+	**#041 [Zubat](../pokemon/zubat.md)**
+
+	Level 25
+
+-	[![Golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){: .pokemon-sprite-img }](../pokemon/golbat.md)
+
+	***
+
+	**#042 [Golbat](../pokemon/golbat.md)**
+
+	Level 27
+
+-	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
+
+	***
+
+	**#083 [Farfetchˈd](../pokemon/farfetchd.md)**
+
+	Level 21
+
 -	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
 
 	***
@@ -87,6 +111,14 @@
 	**#164 [Noctowl](../pokemon/noctowl.md)**
 
 	Level 9
+
+-	[![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){: .pokemon-sprite-img }](../pokemon/crobat.md)
+
+	***
+
+	**#169 [Crobat](../pokemon/crobat.md)**
+
+	Level 27
 
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
@@ -111,6 +143,14 @@
 	**#193 [Yanma](../pokemon/yanma.md)**
 
 	Level 11
+
+-	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
+
+	***
+
+	**#227 [Skarmory](../pokemon/skarmory.md)**
+
+	Level 23
 
 -	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokemon/beautifly.md)
 

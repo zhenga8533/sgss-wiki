@@ -88,6 +88,14 @@
 
 	Level 58
 
+-	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokemon/beautifly.md)
+
+	***
+
+	**#267 [Beautifly](../pokemon/beautifly.md)**
+
+	Level 20
+
 -	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
 
 	***

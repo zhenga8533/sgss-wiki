@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+
+	***
+
+	**#006 [Charizard](../pokemon/charizard.md)**
+
+	Level 59
+
+-	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokemon/growlithe.md)
+
+	***
+
+	**#058 [Growlithe](../pokemon/growlithe.md)**
+
+	Level 45
+
 -	[![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/146.png){: .pokemon-sprite-img }](../pokemon/moltres.md)
 
 	***
@@ -87,6 +103,14 @@
 	**#275 [Shiftry](../pokemon/shiftry.md)**
 
 	Level 1
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+	Level 55
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 

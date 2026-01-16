@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){: .pokemon-sprite-img }](../pokemon/rattata.md)
+
+	***
+
+	**#019 [Rattata](../pokemon/rattata.md)**
+
+	Level 28
+
+-	[![Raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){: .pokemon-sprite-img }](../pokemon/raticate.md)
+
+	***
+
+	**#020 [Raticate](../pokemon/raticate.md)**
+
+	Level 34
+
 -	[![Sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/27.png){: .pokemon-sprite-img }](../pokemon/sandshrew.md)
 
 	***
@@ -151,6 +167,30 @@
 	**#365 [Walrein](../pokemon/walrein.md)**
 
 	Level 44
+
+-	[![Bidoof](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/399.png){: .pokemon-sprite-img }](../pokemon/bidoof.md)
+
+	***
+
+	**#399 [Bidoof](../pokemon/bidoof.md)**
+
+	Level 37
+
+-	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokemon/bibarel.md)
+
+	***
+
+	**#400 [Bibarel](../pokemon/bibarel.md)**
+
+	Level 43
+
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+
+	***
+
+	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+
+	Level 33
 
 -	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
 

@@ -80,6 +80,14 @@
 
 	Level 73
 
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+
+	***
+
+	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+
+	Level 37
+
 -	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
 
 	***

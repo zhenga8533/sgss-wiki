@@ -64,6 +64,62 @@
 
 <div class="grid cards" markdown>
 
+-	[![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/37.png){: .pokemon-sprite-img }](../pokemon/vulpix.md)
+
+	***
+
+	**#037 [Vulpix](../pokemon/vulpix.md)**
+
+	Level 21
+
+-	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
+
+	***
+
+	**#234 [Stantler](../pokemon/stantler.md)**
+
+	Level 43
+
+-	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
+
+	***
+
+	**#280 [Ralts](../pokemon/ralts.md)**
+
+	Level 32
+
+-	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
+
+	***
+
+	**#281 [Kirlia](../pokemon/kirlia.md)**
+
+	Level 36
+
+-	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
+
+	***
+
+	**#282 [Gardevoir](../pokemon/gardevoir.md)**
+
+	Level 40
+
+-	[![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){: .pokemon-sprite-img }](../pokemon/bronzor.md)
+
+	***
+
+	**#436 [Bronzor](../pokemon/bronzor.md)**
+
+	Level 12
+
+-	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
+
+	***
+
+	**#437 [Bronzong](../pokemon/bronzong.md)**
+
+	Level 12
+
 -	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
 
 	***

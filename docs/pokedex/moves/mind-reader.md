@@ -72,6 +72,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
+
+	***
+
+	**#062 [Poliwrath](../pokemon/poliwrath.md)**
+
+	Level 53
+
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 33
+
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
 	***
@@ -80,6 +96,30 @@
 
 	Level 22
 
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 37
+
+-	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
+
+	***
+
+	**#290 [Nincada](../pokemon/nincada.md)**
+
+	Level 19
+
+-	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokemon/ninjask.md)
+
+	***
+
+	**#291 [Ninjask](../pokemon/ninjask.md)**
+
+	Level 19
+
 -	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokemon/shedinja.md)
 
 	***
@@ -87,6 +127,22 @@
 	**#292 [Shedinja](../pokemon/shedinja.md)**
 
 	Level 19
+
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 18
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 18
 
 </div>
 

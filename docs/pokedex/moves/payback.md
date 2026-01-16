@@ -64,6 +64,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/37.png){: .pokemon-sprite-img }](../pokemon/vulpix.md)
+
+	***
+
+	**#037 [Vulpix](../pokemon/vulpix.md)**
+
+	Level 31
+
+-	[![Gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){: .pokemon-sprite-img }](../pokemon/gastly.md)
+
+	***
+
+	**#092 [Gastly](../pokemon/gastly.md)**
+
+	Level 26
+
+-	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
+
+	***
+
+	**#093 [Haunter](../pokemon/haunter.md)**
+
+	Level 28
+
+-	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
+
+	***
+
+	**#094 [Gengar](../pokemon/gengar.md)**
+
+	Level 28
+
+-	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
+
+	***
+
+	**#128 [Tauros](../pokemon/tauros.md)**
+
+	Level 24
+
 -	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokemon/umbreon.md)
 
 	***
@@ -71,6 +111,46 @@
 	**#197 [Umbreon](../pokemon/umbreon.md)**
 
 	Level 38
+
+-	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
+
+	***
+
+	**#200 [Misdreavus](../pokemon/misdreavus.md)**
+
+	Level 32
+
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+
+	***
+
+	**#204 [Pineco](../pokemon/pineco.md)**
+
+	Level 31
+
+-	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
+
+	***
+
+	**#205 [Forretress](../pokemon/forretress.md)**
+
+	Level 33
+
+-	[![Snubbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/209.png){: .pokemon-sprite-img }](../pokemon/snubbull.md)
+
+	***
+
+	**#209 [Snubbull](../pokemon/snubbull.md)**
+
+	Level 43
+
+-	[![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/210.png){: .pokemon-sprite-img }](../pokemon/granbull.md)
+
+	***
+
+	**#210 [Granbull](../pokemon/granbull.md)**
+
+	Level 51
 
 -	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokemon/larvitar.md)
 
@@ -88,6 +168,54 @@
 
 	Level 34
 
+-	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
+
+	***
+
+	**#248 [Tyranitar](../pokemon/tyranitar.md)**
+
+	Level 34
+
+-	[![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){: .pokemon-sprite-img }](../pokemon/pelipper.md)
+
+	***
+
+	**#279 [Pelipper](../pokemon/pelipper.md)**
+
+	Level 24
+
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+
+	***
+
+	**#325 [Spoink](../pokemon/spoink.md)**
+
+	Level 34
+
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+
+	***
+
+	**#326 [Grumpig](../pokemon/grumpig.md)**
+
+	Level 37
+
+-	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
+
+	***
+
+	**#331 [Cacnea](../pokemon/cacnea.md)**
+
+	Level 41
+
+-	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
+
+	***
+
+	**#332 [Cacturne](../pokemon/cacturne.md)**
+
+	Level 47
+
 -	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokemon/duskull.md)
 
 	***
@@ -103,6 +231,38 @@
 	**#356 [Dusclops](../pokemon/dusclops.md)**
 
 	Level 51
+
+-	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokemon/drifloon.md)
+
+	***
+
+	**#425 [Drifloon](../pokemon/drifloon.md)**
+
+	Level 17
+
+-	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
+
+	***
+
+	**#426 [Drifblim](../pokemon/drifblim.md)**
+
+	Level 17
+
+-	[![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){: .pokemon-sprite-img }](../pokemon/bronzor.md)
+
+	***
+
+	**#436 [Bronzor](../pokemon/bronzor.md)**
+
+	Level 49
+
+-	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
+
+	***
+
+	**#437 [Bronzong](../pokemon/bronzong.md)**
+
+	Level 61
 
 -	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
 

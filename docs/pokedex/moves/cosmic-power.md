@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 25
+
+-	[![Staryu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/120.png){: .pokemon-sprite-img }](../pokemon/staryu.md)
+
+	***
+
+	**#120 [Staryu](../pokemon/staryu.md)**
+
+	Level 51
+
 -	[![Unown](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/201.png){: .pokemon-sprite-img }](../pokemon/unown.md)
 
 	***
@@ -71,6 +87,38 @@
 	**#201 [Unown](../pokemon/unown.md)**
 
 	Level 41
+
+-	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
+
+	***
+
+	**#337 [Lunatone](../pokemon/lunatone.md)**
+
+	Level 34
+
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
+
+	Level 34
+
+-	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
+
+	***
+
+	**#343 [Baltoy](../pokemon/baltoy.md)**
+
+	Level 45
+
+-	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
+
+	***
+
+	**#344 [Claydol](../pokemon/claydol.md)**
+
+	Level 51
 
 -	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
 

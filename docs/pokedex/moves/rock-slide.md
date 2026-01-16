@@ -96,6 +96,30 @@
 
 	Level 65
 
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 33
+
+-	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokemon/slugma.md)
+
+	***
+
+	**#218 [Slugma](../pokemon/slugma.md)**
+
+	Level 41
+
+-	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokemon/magcargo.md)
+
+	***
+
+	**#219 [Magcargo](../pokemon/magcargo.md)**
+
+	Level 45
+
 -	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokemon/larvitar.md)
 
 	***
@@ -112,6 +136,22 @@
 
 	Level 14
 
+-	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
+
+	***
+
+	**#248 [Tyranitar](../pokemon/tyranitar.md)**
+
+	Level 14
+
+-	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
+
+	***
+
+	**#299 [Nosepass](../pokemon/nosepass.md)**
+
+	Level 31
+
 -	[![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){: .pokemon-sprite-img }](../pokemon/camerupt.md)
 
 	***
@@ -120,6 +160,14 @@
 
 	Level 33
 
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
+
+	Level 45
+
 -	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
 
 	***
@@ -127,6 +175,14 @@
 	**#438 [Bonsly](../pokemon/bonsly.md)**
 
 	Level 33
+
+-	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
+
+	***
+
+	**#476 [Probopass](../pokemon/probopass.md)**
+
+	Level 31
 
 </div>
 

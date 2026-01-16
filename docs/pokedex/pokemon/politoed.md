@@ -180,7 +180,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Use King's Rock*
 
-		***You are here***
+	***You are here***
 
 </div>
 

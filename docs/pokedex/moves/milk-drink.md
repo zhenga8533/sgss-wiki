@@ -60,5 +60,17 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Miltank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/241.png){: .pokemon-sprite-img }](../pokemon/miltank.md)
+
+	***
+
+	**#241 [Miltank](../pokemon/miltank.md)**
+
+	Level 11
+
+</div>
 

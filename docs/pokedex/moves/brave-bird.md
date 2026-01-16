@@ -160,6 +160,14 @@
 
 	Level 15
 
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
+
+	Level 49
+
 -	[![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){: .pokemon-sprite-img }](../pokemon/taillow.md)
 
 	***
@@ -175,6 +183,30 @@
 	**#277 [Swellow](../pokemon/swellow.md)**
 
 	Level 73
+
+-	[![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/396.png){: .pokemon-sprite-img }](../pokemon/starly.md)
+
+	***
+
+	**#396 [Starly](../pokemon/starly.md)**
+
+	Level 37
+
+-	[![Staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){: .pokemon-sprite-img }](../pokemon/staravia.md)
+
+	***
+
+	**#397 [Staravia](../pokemon/staravia.md)**
+
+	Level 43
+
+-	[![Staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){: .pokemon-sprite-img }](../pokemon/staraptor.md)
+
+	***
+
+	**#398 [Staraptor](../pokemon/staraptor.md)**
+
+	Level 49
 
 -	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokemon/honchkrow.md)
 

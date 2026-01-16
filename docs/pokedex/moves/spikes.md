@@ -72,6 +72,30 @@
 
 	Level 28
 
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+
+	***
+
+	**#204 [Pineco](../pokemon/pineco.md)**
+
+	Level 28
+
+-	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
+
+	***
+
+	**#205 [Forretress](../pokemon/forretress.md)**
+
+	Level 28
+
+-	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
+
+	***
+
+	**#211 [Qwilfish](../pokemon/qwilfish.md)**
+
+	Level 1
+
 -	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
 
 	***
@@ -79,6 +103,30 @@
 	**#222 [Corsola](../pokemon/corsola.md)**
 
 	Level 1
+
+-	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
+
+	***
+
+	**#227 [Skarmory](../pokemon/skarmory.md)**
+
+	Level 28
+
+-	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
+
+	***
+
+	**#331 [Cacnea](../pokemon/cacnea.md)**
+
+	Level 33
+
+-	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
+
+	***
+
+	**#332 [Cacturne](../pokemon/cacturne.md)**
+
+	Level 35
 
 </div>
 

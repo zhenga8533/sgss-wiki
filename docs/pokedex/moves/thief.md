@@ -60,6 +60,28 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
+
+	***
+
+	**#262 [Mightyena](../pokemon/mightyena.md)**
+
+	Level 57
+
+-	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokemon/kecleon.md)
+
+	***
+
+	**#352 [Kecleon](../pokemon/kecleon.md)**
+
+	Level 1
+
+</div>
+
 ### :material-disc: TM/HM
 
 <div class="grid cards" markdown>

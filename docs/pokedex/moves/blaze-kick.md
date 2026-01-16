@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 41
+
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
+
+	Level 36
+
 -	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
 
 	***

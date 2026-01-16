@@ -72,6 +72,14 @@
 
 	Level 29
 
+-	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokemon/kecleon.md)
+
+	***
+
+	**#352 [Kecleon](../pokemon/kecleon.md)**
+
+	Level 37
+
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 
 	***

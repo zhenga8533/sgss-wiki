@@ -88,6 +88,30 @@
 
 	Level 16
 
+-	[![Geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){: .pokemon-sprite-img }](../pokemon/geodude.md)
+
+	***
+
+	**#074 [Geodude](../pokemon/geodude.md)**
+
+	Level 11
+
+-	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokemon/graveler.md)
+
+	***
+
+	**#075 [Graveler](../pokemon/graveler.md)**
+
+	Level 11
+
+-	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokemon/golem.md)
+
+	***
+
+	**#076 [Golem](../pokemon/golem.md)**
+
+	Level 11
+
 -	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
 
 	***
@@ -96,11 +120,59 @@
 
 	Level 9
 
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 14
+
 -	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
 
 	***
 
 	**#208 [Steelix](../pokemon/steelix.md)**
+
+	Level 9
+
+-	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokemon/slugma.md)
+
+	***
+
+	**#218 [Slugma](../pokemon/slugma.md)**
+
+	Level 11
+
+-	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokemon/magcargo.md)
+
+	***
+
+	**#219 [Magcargo](../pokemon/magcargo.md)**
+
+	Level 11
+
+-	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
+
+	***
+
+	**#299 [Nosepass](../pokemon/nosepass.md)**
+
+	Level 13
+
+-	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
+
+	***
+
+	**#337 [Lunatone](../pokemon/lunatone.md)**
+
+	Level 9
+
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
 
 	Level 9
 

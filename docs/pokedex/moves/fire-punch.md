@@ -88,6 +88,14 @@
 
 	Level 1
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 31
+
 -	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
 
 	***
@@ -95,6 +103,14 @@
 	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
 
 	Level 1
+
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+
+	***
+
+	**#126 [Magmar](../pokemon/magmar.md)**
+
+	Level 28
 
 -	[![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/149.png){: .pokemon-sprite-img }](../pokemon/dragonite.md)
 
@@ -112,6 +128,14 @@
 
 	Level 14
 
+-	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
+
+	***
+
+	**#181 [Ampharos](../pokemon/ampharos.md)**
+
+	Level 1
+
 -	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
 
 	***
@@ -119,6 +143,14 @@
 	**#240 [Magby](../pokemon/magby.md)**
 
 	Level 28
+
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
+
+	Level 1
 
 -	[![Ludicolo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/272.png){: .pokemon-sprite-img }](../pokemon/ludicolo.md)
 
@@ -133,6 +165,14 @@
 	***
 
 	**#289 [Slaking](../pokemon/slaking.md)**
+
+	Level 1
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
 
 	Level 1
 
@@ -167,6 +207,22 @@
 	**#424 [Ambipom](../pokemon/ambipom.md)**
 
 	Level 1
+
+-	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokemon/electivire.md)
+
+	***
+
+	**#466 [Electivire](../pokemon/electivire.md)**
+
+	Level 1
+
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+
+	***
+
+	**#467 [Magmortar](../pokemon/magmortar.md)**
+
+	Level 28
 
 -	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
 

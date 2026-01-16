@@ -64,6 +64,94 @@
 
 <div class="grid cards" markdown>
 
+-	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokemon/bulbasaur.md)
+
+	***
+
+	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
+
+	Level 31
+
+-	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokemon/ivysaur.md)
+
+	***
+
+	**#002 [Ivysaur](../pokemon/ivysaur.md)**
+
+	Level 36
+
+-	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
+
+	***
+
+	**#003 [Venusaur](../pokemon/venusaur.md)**
+
+	Level 39
+
+-	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
+
+	***
+
+	**#102 [Exeggcute](../pokemon/exeggcute.md)**
+
+	Level 33
+
+-	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
+
+	***
+
+	**#187 [Hoppip](../pokemon/hoppip.md)**
+
+	Level 34
+
+-	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
+
+	***
+
+	**#188 [Skiploom](../pokemon/skiploom.md)**
+
+	Level 40
+
+-	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
+
+	***
+
+	**#189 [Jumpluff](../pokemon/jumpluff.md)**
+
+	Level 40
+
+-	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+
+	***
+
+	**#191 [Sunkern](../pokemon/sunkern.md)**
+
+	Level 25
+
+-	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
+
+	***
+
+	**#192 [Sunflora](../pokemon/sunflora.md)**
+
+	Level 25
+
+-	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokemon/shroomish.md)
+
+	***
+
+	**#285 [Shroomish](../pokemon/shroomish.md)**
+
+	Level 29
+
+-	[![Budew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/406.png){: .pokemon-sprite-img }](../pokemon/budew.md)
+
+	***
+
+	**#406 [Budew](../pokemon/budew.md)**
+
+	Level 16
+
 -	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokemon/cherubi.md)
 
 	***
@@ -71,6 +159,14 @@
 	**#420 [Cherubi](../pokemon/cherubi.md)**
 
 	Level 28
+
+-	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
+
+	***
+
+	**#421 [Cherrim](../pokemon/cherrim.md)**
+
+	Level 30
 
 -	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
 

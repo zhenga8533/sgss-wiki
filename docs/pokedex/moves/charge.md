@@ -72,6 +72,22 @@
 
 	Level 1
 
+-	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokemon/voltorb.md)
+
+	***
+
+	**#100 [Voltorb](../pokemon/voltorb.md)**
+
+	Level 1
+
+-	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
+
+	***
+
+	**#101 [Electrode](../pokemon/electrode.md)**
+
+	Level 1
+
 -	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokemon/zapdos.md)
 
 	***
@@ -151,6 +167,30 @@
 	**#312 [Minun](../pokemon/minun.md)**
 
 	Level 35
+
+-	[![Shinx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/403.png){: .pokemon-sprite-img }](../pokemon/shinx.md)
+
+	***
+
+	**#403 [Shinx](../pokemon/shinx.md)**
+
+	Level 9
+
+-	[![Luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){: .pokemon-sprite-img }](../pokemon/luxio.md)
+
+	***
+
+	**#404 [Luxio](../pokemon/luxio.md)**
+
+	Level 9
+
+-	[![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/405.png){: .pokemon-sprite-img }](../pokemon/luxray.md)
+
+	***
+
+	**#405 [Luxray](../pokemon/luxray.md)**
+
+	Level 9
 
 -	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
 

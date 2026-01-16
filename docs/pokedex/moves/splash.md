@@ -64,11 +64,107 @@
 
 <div class="grid cards" markdown>
 
+-	[![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){: .pokemon-sprite-img }](../pokemon/magikarp.md)
+
+	***
+
+	**#129 [Magikarp](../pokemon/magikarp.md)**
+
+	Level 1
+
+-	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
+
+	***
+
+	**#187 [Hoppip](../pokemon/hoppip.md)**
+
+	Level 1
+
+-	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
+
+	***
+
+	**#188 [Skiploom](../pokemon/skiploom.md)**
+
+	Level 1
+
+-	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
+
+	***
+
+	**#189 [Jumpluff](../pokemon/jumpluff.md)**
+
+	Level 1
+
+-	[![Azurill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/298.png){: .pokemon-sprite-img }](../pokemon/azurill.md)
+
+	***
+
+	**#298 [Azurill](../pokemon/azurill.md)**
+
+	Level 1
+
+-	[![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/320.png){: .pokemon-sprite-img }](../pokemon/wailmer.md)
+
+	***
+
+	**#320 [Wailmer](../pokemon/wailmer.md)**
+
+	Level 1
+
+-	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokemon/wailord.md)
+
+	***
+
+	**#321 [Wailord](../pokemon/wailord.md)**
+
+	Level 1
+
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+
+	***
+
+	**#325 [Spoink](../pokemon/spoink.md)**
+
+	Level 1
+
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+
+	***
+
+	**#326 [Grumpig](../pokemon/grumpig.md)**
+
+	Level 1
+
+-	[![Feebas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/349.png){: .pokemon-sprite-img }](../pokemon/feebas.md)
+
+	***
+
+	**#349 [Feebas](../pokemon/feebas.md)**
+
+	Level 1
+
 -	[![Wynaut](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/360.png){: .pokemon-sprite-img }](../pokemon/wynaut.md)
 
 	***
 
 	**#360 [Wynaut](../pokemon/wynaut.md)**
+
+	Level 1
+
+-	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
+
+	***
+
+	**#427 [Buneary](../pokemon/buneary.md)**
+
+	Level 1
+
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+
+	***
+
+	**#428 [Lopunny](../pokemon/lopunny.md)**
 
 	Level 1
 

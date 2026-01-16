@@ -96,6 +96,14 @@
 
 	Level 1
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 31
+
 -	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
 
 	***
@@ -103,6 +111,14 @@
 	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
 
 	Level 1
+
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+
+	***
+
+	**#124 [Jynx](../pokemon/jynx.md)**
+
+	Level 18
 
 -	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokemon/feraligatr.md)
 
@@ -168,6 +184,14 @@
 
 	Level 1
 
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 1
+
 -	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
 
 	***
@@ -205,6 +229,14 @@
 	***
 
 	**#454 [Toxicroak](../pokemon/toxicroak.md)**
+
+	Level 1
+
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+
+	***
+
+	**#460 [Abomasnow](../pokemon/abomasnow.md)**
 
 	Level 1
 

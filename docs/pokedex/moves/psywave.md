@@ -64,6 +64,54 @@
 
 <div class="grid cards" markdown>
 
+-	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
+
+	***
+
+	**#200 [Misdreavus](../pokemon/misdreavus.md)**
+
+	Level 1
+
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+
+	***
+
+	**#325 [Spoink](../pokemon/spoink.md)**
+
+	Level 7
+
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+
+	***
+
+	**#326 [Grumpig](../pokemon/grumpig.md)**
+
+	Level 7
+
+-	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
+
+	***
+
+	**#337 [Lunatone](../pokemon/lunatone.md)**
+
+	Level 23
+
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
+
+	Level 23
+
+-	[![Chimecho](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/358.png){: .pokemon-sprite-img }](../pokemon/chimecho.md)
+
+	***
+
+	**#358 [Chimecho](../pokemon/chimecho.md)**
+
+	Level 30
+
 -	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
 	***
@@ -77,6 +125,14 @@
 	***
 
 	**#381 [Latios](../pokemon/latios.md)**
+
+	Level 1
+
+-	[![Mismagius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/429.png){: .pokemon-sprite-img }](../pokemon/mismagius.md)
+
+	***
+
+	**#429 [Mismagius](../pokemon/mismagius.md)**
 
 	Level 1
 

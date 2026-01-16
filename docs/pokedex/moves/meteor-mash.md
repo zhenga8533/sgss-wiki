@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 43
+
 -	[![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/375.png){: .pokemon-sprite-img }](../pokemon/metang.md)
 
 	***
@@ -71,6 +79,14 @@
 	**#375 [Metang](../pokemon/metang.md)**
 
 	Level 48
+
+-	[![Metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){: .pokemon-sprite-img }](../pokemon/metagross.md)
+
+	***
+
+	**#376 [Metagross](../pokemon/metagross.md)**
+
+	Level 53
 
 </div>
 

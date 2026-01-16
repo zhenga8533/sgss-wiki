@@ -80,11 +80,35 @@
 
 	Level 62
 
+-	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokemon/doduo.md)
+
+	***
+
+	**#084 [Doduo](../pokemon/doduo.md)**
+
+	Level 28
+
+-	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
+
+	***
+
+	**#085 [Dodrio](../pokemon/dodrio.md)**
+
+	Level 28
+
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
 	***
 
 	**#451 [Skorupi](../pokemon/skorupi.md)**
+
+	Level 17
+
+-	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
+
+	***
+
+	**#452 [Drapion](../pokemon/drapion.md)**
 
 	Level 17
 

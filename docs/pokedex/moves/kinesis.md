@@ -60,5 +60,25 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/64.png){: .pokemon-sprite-img }](../pokemon/kadabra.md)
+
+	***
+
+	**#064 [Kadabra](../pokemon/kadabra.md)**
+
+	Level 1
+
+-	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
+
+	***
+
+	**#065 [Alakazam](../pokemon/alakazam.md)**
+
+	Level 1
+
+</div>
 

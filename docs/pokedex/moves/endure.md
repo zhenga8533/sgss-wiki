@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 45
+
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+
+	***
+
+	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+
+	Level 34
+
 -	[![Kabuto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/140.png){: .pokemon-sprite-img }](../pokemon/kabuto.md)
 
 	***
@@ -88,6 +104,46 @@
 
 	Level 22
 
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+
+	***
+
+	**#214 [Heracross](../pokemon/heracross.md)**
+
+	Level 1
+
+-	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
+
+	***
+
+	**#220 [Swinub](../pokemon/swinub.md)**
+
+	Level 16
+
+-	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
+
+	***
+
+	**#221 [Piloswine](../pokemon/piloswine.md)**
+
+	Level 16
+
+-	[![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){: .pokemon-sprite-img }](../pokemon/phanpy.md)
+
+	***
+
+	**#231 [Phanpy](../pokemon/phanpy.md)**
+
+	Level 28
+
+-	[![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/288.png){: .pokemon-sprite-img }](../pokemon/vigoroth.md)
+
+	***
+
+	**#288 [Vigoroth](../pokemon/vigoroth.md)**
+
+	Level 25
+
 -	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
 
 	***
@@ -111,6 +167,54 @@
 	**#410 [Shieldon](../pokemon/shieldon.md)**
 
 	Level 33
+
+-	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
+
+	***
+
+	**#411 [Bastiodon](../pokemon/bastiodon.md)**
+
+	Level 36
+
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+
+	***
+
+	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+
+	Level 17
+
+-	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
+
+	***
+
+	**#427 [Buneary](../pokemon/buneary.md)**
+
+	Level 6
+
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+
+	***
+
+	**#428 [Lopunny](../pokemon/lopunny.md)**
+
+	Level 6
+
+-	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
+
+	***
+
+	**#447 [Riolu](../pokemon/riolu.md)**
+
+	Level 1
+
+-	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
+
+	***
+
+	**#473 [Mamoswine](../pokemon/mamoswine.md)**
+
+	Level 16
 
 -	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
 

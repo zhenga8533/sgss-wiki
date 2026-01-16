@@ -64,6 +64,54 @@
 
 <div class="grid cards" markdown>
 
+-	[![Beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){: .pokemon-sprite-img }](../pokemon/beedrill.md)
+
+	***
+
+	**#015 [Beedrill](../pokemon/beedrill.md)**
+
+	Level 37
+
+-	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
+
+	***
+
+	**#032 [Nidoran♂](../pokemon/nidoran-m.md)**
+
+	Level 37
+
+-	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokemon/nidorino.md)
+
+	***
+
+	**#033 [Nidorino](../pokemon/nidorino.md)**
+
+	Level 43
+
+-	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
+
+	***
+
+	**#072 [Tentacool](../pokemon/tentacool.md)**
+
+	Level 33
+
+-	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
+
+	***
+
+	**#073 [Tentacruel](../pokemon/tentacruel.md)**
+
+	Level 36
+
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 1
+
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
 	***
@@ -72,6 +120,22 @@
 
 	Level 37
 
+-	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
+
+	***
+
+	**#119 [Seaking](../pokemon/seaking.md)**
+
+	Level 1
+
+-	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
+
+	***
+
+	**#167 [Spinarak](../pokemon/spinarak.md)**
+
+	Level 43
+
 -	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
 
 	***
@@ -79,6 +143,46 @@
 	**#168 [Ariados](../pokemon/ariados.md)**
 
 	Level 50
+
+-	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
+
+	***
+
+	**#211 [Qwilfish](../pokemon/qwilfish.md)**
+
+	Level 49
+
+-	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
+
+	***
+
+	**#336 [Seviper](../pokemon/seviper.md)**
+
+	Level 52
+
+-	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
+
+	***
+
+	**#453 [Croagunk](../pokemon/croagunk.md)**
+
+	Level 38
+
+-	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
+
+	***
+
+	**#454 [Toxicroak](../pokemon/toxicroak.md)**
+
+	Level 41
+
+-	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
+
+	***
+
+	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+
+	Level 1
 
 -	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
 

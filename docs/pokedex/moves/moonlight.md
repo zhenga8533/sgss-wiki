@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 37
+
+-	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokemon/oddish.md)
+
+	***
+
+	**#043 [Oddish](../pokemon/oddish.md)**
+
+	Level 33
+
+-	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
+
+	***
+
+	**#044 [Gloom](../pokemon/gloom.md)**
+
+	Level 41
+
 -	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokemon/umbreon.md)
 
 	***
@@ -71,6 +95,30 @@
 	**#197 [Umbreon](../pokemon/umbreon.md)**
 
 	Level 58
+
+-	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokemon/dustox.md)
+
+	***
+
+	**#269 [Dustox](../pokemon/dustox.md)**
+
+	Level 20
+
+-	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokemon/volbeat.md)
+
+	***
+
+	**#313 [Volbeat](../pokemon/volbeat.md)**
+
+	Level 13
+
+-	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
+
+	***
+
+	**#314 [Illumise](../pokemon/illumise.md)**
+
+	Level 13
 
 -	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
 

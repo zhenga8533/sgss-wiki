@@ -136,6 +136,46 @@
 
 	Level 21
 
+-	[![Lotad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/270.png){: .pokemon-sprite-img }](../pokemon/lotad.md)
+
+	***
+
+	**#270 [Lotad](../pokemon/lotad.md)**
+
+	Level 7
+
+-	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokemon/lombre.md)
+
+	***
+
+	**#271 [Lombre](../pokemon/lombre.md)**
+
+	Level 7
+
+-	[![Ludicolo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/272.png){: .pokemon-sprite-img }](../pokemon/ludicolo.md)
+
+	***
+
+	**#272 [Ludicolo](../pokemon/ludicolo.md)**
+
+	Level 1
+
+-	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokemon/seedot.md)
+
+	***
+
+	**#273 [Seedot](../pokemon/seedot.md)**
+
+	Level 13
+
+-	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
+
+	***
+
+	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
+
+	Level 13
+
 </div>
 
 ### :material-egg-outline: Egg Moves

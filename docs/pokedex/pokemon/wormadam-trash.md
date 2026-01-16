@@ -161,7 +161,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Level 20<br>Gender: ♀*
 
-		***You are here***
+	***You are here***
 
 -	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](./mothim.md)
 

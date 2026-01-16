@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){: .pokemon-sprite-img }](../pokemon/grimer.md)
+
+	***
+
+	**#088 [Grimer](../pokemon/grimer.md)**
+
+	Level 39
+
+-	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
+
+	***
+
+	**#089 [Muk](../pokemon/muk.md)**
+
+	Level 44
+
 -	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
 
 	***

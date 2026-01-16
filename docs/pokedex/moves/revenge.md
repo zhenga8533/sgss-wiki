@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
+
+	***
+
+	**#066 [Machop](../pokemon/machop.md)**
+
+	Level 22
+
+-	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
+
+	***
+
+	**#067 [Machoke](../pokemon/machoke.md)**
+
+	Level 22
+
+-	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
+
+	***
+
+	**#068 [Machamp](../pokemon/machamp.md)**
+
+	Level 22
+
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
 	***
@@ -72,11 +96,75 @@
 
 	Level 19
 
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 1
+
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 1
+
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+
+	***
+
+	**#127 [Pinsir](../pokemon/pinsir.md)**
+
+	Level 18
+
+-	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
+
+	***
+
+	**#211 [Qwilfish](../pokemon/qwilfish.md)**
+
+	Level 29
+
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
 	***
 
 	**#237 [Hitmontop](../pokemon/hitmontop.md)**
+
+	Level 1
+
+-	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
+
+	***
+
+	**#332 [Cacturne](../pokemon/cacturne.md)**
+
+	Level 1
+
+-	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
+
+	***
+
+	**#453 [Croagunk](../pokemon/croagunk.md)**
+
+	Level 22
+
+-	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
+
+	***
+
+	**#454 [Toxicroak](../pokemon/toxicroak.md)**
+
+	Level 22
+
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
+
+	***
+
+	**#461 [Weavile](../pokemon/weavile.md)**
 
 	Level 1
 

@@ -72,6 +72,14 @@
 
 	Level 78
 
+-	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
+
+	***
+
+	**#164 [Noctowl](../pokemon/noctowl.md)**
+
+	Level 1
+
 -	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
 
 	***
@@ -87,6 +95,22 @@
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
 	Level 99
+
+-	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
+
+	***
+
+	**#334 [Altaria](../pokemon/altaria.md)**
+
+	Level 70
+
+-	[![Togekiss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/468.png){: .pokemon-sprite-img }](../pokemon/togekiss.md)
+
+	***
+
+	**#468 [Togekiss](../pokemon/togekiss.md)**
+
+	Level 1
 
 </div>
 

@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 31
+
+-	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
+
+	***
+
+	**#036 [Clefable](../pokemon/clefable.md)**
+
+	Level 1
+
 -	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokemon/poliwhirl.md)
 
 	***
@@ -109,6 +125,14 @@
 	***
 
 	**#176 [Togetic](../pokemon/togetic.md)**
+
+	Level 1
+
+-	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
+
+	***
+
+	**#446 [Munchlax](../pokemon/munchlax.md)**
 
 	Level 1
 

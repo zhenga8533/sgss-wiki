@@ -76,6 +76,62 @@
 
 <div class="grid cards" markdown>
 
+-	[![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/4.png){: .pokemon-sprite-img }](../pokemon/charmander.md)
+
+	***
+
+	**#004 [Charmander](../pokemon/charmander.md)**
+
+	Level 37
+
+-	[![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/5.png){: .pokemon-sprite-img }](../pokemon/charmeleon.md)
+
+	***
+
+	**#005 [Charmeleon](../pokemon/charmeleon.md)**
+
+	Level 43
+
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+
+	***
+
+	**#006 [Charizard](../pokemon/charizard.md)**
+
+	Level 49
+
+-	[![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/37.png){: .pokemon-sprite-img }](../pokemon/vulpix.md)
+
+	***
+
+	**#037 [Vulpix](../pokemon/vulpix.md)**
+
+	Level 34
+
+-	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
+
+	***
+
+	**#077 [Ponyta](../pokemon/ponyta.md)**
+
+	Level 24
+
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 24
+
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+
+	***
+
+	**#126 [Magmar](../pokemon/magmar.md)**
+
+	Level 19
+
 -	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
 
 	***
@@ -100,6 +156,14 @@
 
 	Level 19
 
+-	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
+
+	***
+
+	**#244 [Entei](../pokemon/entei.md)**
+
+	Level 22
+
 -	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
 
 	***
@@ -107,6 +171,22 @@
 	**#255 [Torchic](../pokemon/torchic.md)**
 
 	Level 25
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+	Level 17
+
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+
+	***
+
+	**#338 [Solrock](../pokemon/solrock.md)**
+
+	Level 12
 
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
@@ -123,6 +203,22 @@
 	**#391 [Monferno](../pokemon/monferno.md)**
 
 	Level 39
+
+-	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+
+	***
+
+	**#392 [Infernape](../pokemon/infernape.md)**
+
+	Level 45
+
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+
+	***
+
+	**#467 [Magmortar](../pokemon/magmortar.md)**
+
+	Level 19
 
 -	[![Heatran](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/485.png){: .pokemon-sprite-img }](../pokemon/heatran.md)
 

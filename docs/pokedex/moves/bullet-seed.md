@@ -72,6 +72,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
+
+	***
+
+	**#102 [Exeggcute](../pokemon/exeggcute.md)**
+
+	Level 17
+
+-	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
+
+	***
+
+	**#187 [Hoppip](../pokemon/hoppip.md)**
+
+	Level 19
+
+-	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
+
+	***
+
+	**#188 [Skiploom](../pokemon/skiploom.md)**
+
+	Level 20
+
+-	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
+
+	***
+
+	**#189 [Jumpluff](../pokemon/jumpluff.md)**
+
+	Level 20
+
+-	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
+
+	***
+
+	**#192 [Sunflora](../pokemon/sunflora.md)**
+
+	Level 21
+
 -	[![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/223.png){: .pokemon-sprite-img }](../pokemon/remoraid.md)
 
 	***
@@ -79,6 +119,22 @@
 	**#223 [Remoraid](../pokemon/remoraid.md)**
 
 	Level 27
+
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 29
+
+-	[![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){: .pokemon-sprite-img }](../pokemon/mantine.md)
+
+	***
+
+	**#226 [Mantine](../pokemon/mantine.md)**
+
+	Level 1
 
 -	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokemon/seedot.md)
 

@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/64.png){: .pokemon-sprite-img }](../pokemon/kadabra.md)
+
+	***
+
+	**#064 [Kadabra](../pokemon/kadabra.md)**
+
+	Level 46
+
+-	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
+
+	***
+
+	**#065 [Alakazam](../pokemon/alakazam.md)**
+
+	Level 46
+
 -	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
 
 	***
@@ -71,6 +87,22 @@
 	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
 
 	Level 36
+
+-	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
+
+	***
+
+	**#353 [Shuppet](../pokemon/shuppet.md)**
+
+	Level 50
+
+-	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
+
+	***
+
+	**#354 [Banette](../pokemon/banette.md)**
+
+	Level 66
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 

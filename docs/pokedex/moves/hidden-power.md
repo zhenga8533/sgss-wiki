@@ -64,6 +64,38 @@
 
 <div class="grid cards" markdown>
 
+-	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
+
+	***
+
+	**#199 [Slowking](../pokemon/slowking.md)**
+
+	Level 1
+
+-	[![Unown](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/201.png){: .pokemon-sprite-img }](../pokemon/unown.md)
+
+	***
+
+	**#201 [Unown](../pokemon/unown.md)**
+
+	Level 1
+
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 15
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 15
+
 -	[![Burmy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/412.png){: .pokemon-sprite-img }](../pokemon/burmy.md)
 
 	***
@@ -79,6 +111,22 @@
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
 	Level 20
+
+-	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
+
+	***
+
+	**#422 [Shellos](../pokemon/shellos.md)**
+
+	Level 16
+
+-	[![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){: .pokemon-sprite-img }](../pokemon/gastrodon.md)
+
+	***
+
+	**#423 [Gastrodon](../pokemon/gastrodon.md)**
+
+	Level 16
 
 </div>
 

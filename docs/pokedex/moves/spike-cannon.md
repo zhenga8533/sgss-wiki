@@ -72,5 +72,21 @@
 
 	Level 40
 
+-	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
+
+	***
+
+	**#139 [Omastar](../pokemon/omastar.md)**
+
+	Level 40
+
+-	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
+
+	***
+
+	**#222 [Corsola](../pokemon/corsola.md)**
+
+	Level 40
+
 </div>
 

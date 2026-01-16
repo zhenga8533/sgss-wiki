@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){: .pokemon-sprite-img }](../pokemon/pikachu.md)
+
+	***
+
+	**#025 [Pikachu](../pokemon/pikachu.md)**
+
+	Level 26
+
+-	[![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/26.png){: .pokemon-sprite-img }](../pokemon/raichu.md)
+
+	***
+
+	**#026 [Raichu](../pokemon/raichu.md)**
+
+	Level 1
+
+-	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokemon/electabuzz.md)
+
+	***
+
+	**#125 [Electabuzz](../pokemon/electabuzz.md)**
+
+	Level 43
+
 -	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokemon/elekid.md)
 
 	***

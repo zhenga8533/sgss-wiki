@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){: .pokemon-sprite-img }](../pokemon/beedrill.md)
+
+	***
+
+	**#015 [Beedrill](../pokemon/beedrill.md)**
+
+	Level 28
+
 -	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
 
 	***
@@ -71,6 +79,14 @@
 	**#135 [Jolteon](../pokemon/jolteon.md)**
 
 	Level 28
+
+-	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
+
+	***
+
+	**#167 [Spinarak](../pokemon/spinarak.md)**
+
+	Level 36
 
 -	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
 
@@ -80,6 +96,14 @@
 
 	Level 41
 
+-	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
+
+	***
+
+	**#211 [Qwilfish](../pokemon/qwilfish.md)**
+
+	Level 37
+
 -	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokemon/zigzagoon.md)
 
 	***
@@ -88,11 +112,35 @@
 
 	Level 25
 
+-	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
+
+	***
+
+	**#331 [Cacnea](../pokemon/cacnea.md)**
+
+	Level 21
+
+-	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
+
+	***
+
+	**#332 [Cacturne](../pokemon/cacturne.md)**
+
+	Level 21
+
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
 	***
 
 	**#451 [Skorupi](../pokemon/skorupi.md)**
+
+	Level 12
+
+-	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
+
+	***
+
+	**#452 [Drapion](../pokemon/drapion.md)**
 
 	Level 12
 

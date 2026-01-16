@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+
+	***
+
+	**#126 [Magmar](../pokemon/magmar.md)**
+
+	Level 49
+
 -	[![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/146.png){: .pokemon-sprite-img }](../pokemon/moltres.md)
 
 	***
@@ -71,6 +79,30 @@
 	**#146 [Moltres](../pokemon/moltres.md)**
 
 	Level 85
+
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+
+	***
+
+	**#182 [Bellossom](../pokemon/bellossom.md)**
+
+	Level 1
+
+-	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+
+	***
+
+	**#191 [Sunkern](../pokemon/sunkern.md)**
+
+	Level 37
+
+-	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
+
+	***
+
+	**#192 [Sunflora](../pokemon/sunflora.md)**
+
+	Level 37
 
 -	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
 
@@ -96,6 +128,14 @@
 
 	Level 29
 
+-	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokemon/seedot.md)
+
+	***
+
+	**#273 [Seedot](../pokemon/seedot.md)**
+
+	Level 31
+
 -	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
 
 	***
@@ -111,6 +151,30 @@
 	**#420 [Cherubi](../pokemon/cherubi.md)**
 
 	Level 22
+
+-	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
+
+	***
+
+	**#421 [Cherrim](../pokemon/cherrim.md)**
+
+	Level 22
+
+-	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
+
+	***
+
+	**#437 [Bronzong](../pokemon/bronzong.md)**
+
+	Level 1
+
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+
+	***
+
+	**#467 [Magmortar](../pokemon/magmortar.md)**
+
+	Level 52
 
 -	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
 

@@ -72,6 +72,30 @@
 
 	Level 25
 
+-	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokemon/growlithe.md)
+
+	***
+
+	**#058 [Growlithe](../pokemon/growlithe.md)**
+
+	Level 20
+
+-	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
+
+	***
+
+	**#077 [Ponyta](../pokemon/ponyta.md)**
+
+	Level 15
+
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 15
+
 -	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
 
 	***
@@ -96,6 +120,14 @@
 
 	Level 20
 
+-	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokemon/typhlosion.md)
+
+	***
+
+	**#157 [Typhlosion](../pokemon/typhlosion.md)**
+
+	Level 20
+
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
 	***
@@ -111,6 +143,14 @@
 	**#391 [Monferno](../pokemon/monferno.md)**
 
 	Level 19
+
+-	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+
+	***
+
+	**#392 [Infernape](../pokemon/infernape.md)**
+
+	Level 21
 
 </div>
 

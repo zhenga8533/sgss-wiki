@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+
+	***
+
+	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+
+	Level 51
+
 -	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
 
 	***
@@ -71,6 +79,14 @@
 	**#113 [Chansey](../pokemon/chansey.md)**
 
 	Level 27
+
+-	[![Wobbuffet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/202.png){: .pokemon-sprite-img }](../pokemon/wobbuffet.md)
+
+	***
+
+	**#202 [Wobbuffet](../pokemon/wobbuffet.md)**
+
+	Level 1
 
 -	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
 
@@ -87,6 +103,14 @@
 	**#205 [Forretress](../pokemon/forretress.md)**
 
 	Level 73
+
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+
+	***
+
+	**#214 [Heracross](../pokemon/heracross.md)**
+
+	Level 25
 
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
@@ -112,11 +136,35 @@
 
 	Level 1
 
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 25
+
 -	[![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/287.png){: .pokemon-sprite-img }](../pokemon/slakoth.md)
 
 	***
 
 	**#287 [Slakoth](../pokemon/slakoth.md)**
+
+	Level 37
+
+-	[![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/288.png){: .pokemon-sprite-img }](../pokemon/vigoroth.md)
+
+	***
+
+	**#288 [Vigoroth](../pokemon/vigoroth.md)**
+
+	Level 37
+
+-	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
+
+	***
+
+	**#289 [Slaking](../pokemon/slaking.md)**
 
 	Level 37
 
@@ -127,6 +175,22 @@
 	**#360 [Wynaut](../pokemon/wynaut.md)**
 
 	Level 15
+
+-	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
+
+	***
+
+	**#447 [Riolu](../pokemon/riolu.md)**
+
+	Level 6
+
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+
+	***
+
+	**#448 [Lucario](../pokemon/lucario.md)**
+
+	Level 6
 
 </div>
 

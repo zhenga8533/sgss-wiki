@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
+
+	***
+
+	**#167 [Spinarak](../pokemon/spinarak.md)**
+
+	Level 29
+
 -	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
 
 	***

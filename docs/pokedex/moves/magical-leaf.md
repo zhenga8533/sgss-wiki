@@ -72,11 +72,115 @@
 
 	Level 1
 
+-	[![Chikorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/152.png){: .pokemon-sprite-img }](../pokemon/chikorita.md)
+
+	***
+
+	**#152 [Chikorita](../pokemon/chikorita.md)**
+
+	Level 20
+
+-	[![Bayleef](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/153.png){: .pokemon-sprite-img }](../pokemon/bayleef.md)
+
+	***
+
+	**#153 [Bayleef](../pokemon/bayleef.md)**
+
+	Level 22
+
+-	[![Meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){: .pokemon-sprite-img }](../pokemon/meganium.md)
+
+	***
+
+	**#154 [Meganium](../pokemon/meganium.md)**
+
+	Level 22
+
+-	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
+
+	***
+
+	**#173 [Cleffa](../pokemon/cleffa.md)**
+
+	Level 16
+
+-	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
+
+	***
+
+	**#176 [Togetic](../pokemon/togetic.md)**
+
+	Level 1
+
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+
+	***
+
+	**#182 [Bellossom](../pokemon/bellossom.md)**
+
+	Level 23
+
+-	[![Celebi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/251.png){: .pokemon-sprite-img }](../pokemon/celebi.md)
+
+	***
+
+	**#251 [Celebi](../pokemon/celebi.md)**
+
+	Level 19
+
+-	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
+
+	***
+
+	**#280 [Ralts](../pokemon/ralts.md)**
+
+	Level 21
+
+-	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
+
+	***
+
+	**#281 [Kirlia](../pokemon/kirlia.md)**
+
+	Level 22
+
+-	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
+
+	***
+
+	**#282 [Gardevoir](../pokemon/gardevoir.md)**
+
+	Level 22
+
+-	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
+
+	***
+
+	**#315 [Roselia](../pokemon/roselia.md)**
+
+	Level 19
+
+-	[![Roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){: .pokemon-sprite-img }](../pokemon/roserade.md)
+
+	***
+
+	**#407 [Roserade](../pokemon/roserade.md)**
+
+	Level 1
+
 -	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokemon/cherubi.md)
 
 	***
 
 	**#420 [Cherubi](../pokemon/cherubi.md)**
+
+	Level 19
+
+-	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
+
+	***
+
+	**#421 [Cherrim](../pokemon/cherrim.md)**
 
 	Level 19
 

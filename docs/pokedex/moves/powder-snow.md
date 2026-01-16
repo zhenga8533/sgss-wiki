@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+
+	***
+
+	**#124 [Jynx](../pokemon/jynx.md)**
+
+	Level 11
+
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
 	***
@@ -71,6 +79,22 @@
 	**#144 [Articuno](../pokemon/articuno.md)**
 
 	Level 1
+
+-	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
+
+	***
+
+	**#220 [Swinub](../pokemon/swinub.md)**
+
+	Level 8
+
+-	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
+
+	***
+
+	**#221 [Piloswine](../pokemon/piloswine.md)**
+
+	Level 8
 
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
@@ -96,6 +120,14 @@
 
 	Level 1
 
+-	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
+
+	***
+
+	**#362 [Glalie](../pokemon/glalie.md)**
+
+	Level 1
+
 -	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
 
 	***
@@ -109,6 +141,46 @@
 	***
 
 	**#364 [Sealeo](../pokemon/sealeo.md)**
+
+	Level 1
+
+-	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
+
+	***
+
+	**#365 [Walrein](../pokemon/walrein.md)**
+
+	Level 1
+
+-	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
+
+	***
+
+	**#459 [Snover](../pokemon/snover.md)**
+
+	Level 1
+
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+
+	***
+
+	**#460 [Abomasnow](../pokemon/abomasnow.md)**
+
+	Level 1
+
+-	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
+
+	***
+
+	**#473 [Mamoswine](../pokemon/mamoswine.md)**
+
+	Level 8
+
+-	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
+
+	***
+
+	**#478 [Froslass](../pokemon/froslass.md)**
 
 	Level 1
 

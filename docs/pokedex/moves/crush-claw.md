@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
+
+	***
+
+	**#028 [Sandslash](../pokemon/sandslash.md)**
+
+	Level 22
+
 -	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokemon/krabby.md)
 
 	***
@@ -88,6 +96,14 @@
 
 	Level 1
 
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 31
+
 -	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
 
 	***
@@ -95,6 +111,14 @@
 	**#347 [Anorith](../pokemon/anorith.md)**
 
 	Level 55
+
+-	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
+
+	***
+
+	**#348 [Armaldo](../pokemon/armaldo.md)**
+
+	Level 67
 
 </div>
 

@@ -72,6 +72,38 @@
 
 	Level 1
 
+-	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
+
+	***
+
+	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
+
+	Level 37
+
+-	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
+
+	***
+
+	**#359 [Absol](../pokemon/absol.md)**
+
+	Level 17
+
+-	[![Buizel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/418.png){: .pokemon-sprite-img }](../pokemon/buizel.md)
+
+	***
+
+	**#418 [Buizel](../pokemon/buizel.md)**
+
+	Level 45
+
+-	[![Floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){: .pokemon-sprite-img }](../pokemon/floatzel.md)
+
+	***
+
+	**#419 [Floatzel](../pokemon/floatzel.md)**
+
+	Level 50
+
 </div>
 
 ### :material-egg-outline: Egg Moves

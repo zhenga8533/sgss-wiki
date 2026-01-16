@@ -72,6 +72,54 @@
 
 	Level 1
 
+-	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
+
+	***
+
+	**#057 [Primeape](../pokemon/primeape.md)**
+
+	Level 1
+
+-	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
+
+	***
+
+	**#066 [Machop](../pokemon/machop.md)**
+
+	Level 1
+
+-	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
+
+	***
+
+	**#067 [Machoke](../pokemon/machoke.md)**
+
+	Level 1
+
+-	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
+
+	***
+
+	**#068 [Machamp](../pokemon/machamp.md)**
+
+	Level 1
+
+-	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokemon/electabuzz.md)
+
+	***
+
+	**#125 [Electabuzz](../pokemon/electabuzz.md)**
+
+	Level 10
+
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 9
+
 -	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokemon/elekid.md)
 
 	***
@@ -111,6 +159,14 @@
 	**#438 [Bonsly](../pokemon/bonsly.md)**
 
 	Level 9
+
+-	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokemon/electivire.md)
+
+	***
+
+	**#466 [Electivire](../pokemon/electivire.md)**
+
+	Level 10
 
 </div>
 

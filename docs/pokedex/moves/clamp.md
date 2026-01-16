@@ -72,5 +72,25 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokemon/shellder.md)
+
+	***
+
+	**#090 [Shellder](../pokemon/shellder.md)**
+
+	Level 25
+
+-	[![Clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){: .pokemon-sprite-img }](../pokemon/clamperl.md)
+
+	***
+
+	**#366 [Clamperl](../pokemon/clamperl.md)**
+
+	Level 1
+
+</div>
 

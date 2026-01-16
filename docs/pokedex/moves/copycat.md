@@ -72,6 +72,30 @@
 
 	Level 4
 
+-	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
+
+	***
+
+	**#173 [Cleffa](../pokemon/cleffa.md)**
+
+	Level 13
+
+-	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokemon/igglybuff.md)
+
+	***
+
+	**#174 [Igglybuff](../pokemon/igglybuff.md)**
+
+	Level 17
+
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 1
+
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
 	***
@@ -112,6 +136,14 @@
 
 	Level 24
 
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+
+	***
+
+	**#327 [Spinda](../pokemon/spinda.md)**
+
+	Level 10
+
 -	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
 
 	***
@@ -127,6 +159,22 @@
 	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
 
 	Level 4
+
+-	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
+
+	***
+
+	**#440 [Happiny](../pokemon/happiny.md)**
+
+	Level 5
+
+-	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
+
+	***
+
+	**#447 [Riolu](../pokemon/riolu.md)**
+
+	Level 29
 
 -	[![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/481.png){: .pokemon-sprite-img }](../pokemon/mesprit.md)
 

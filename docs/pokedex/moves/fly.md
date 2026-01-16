@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokemon/salamence.md)
+
+	***
+
+	**#373 [Salamence](../pokemon/salamence.md)**
+
+	Level 50
+
 -	[![Rayquaza](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/384.png){: .pokemon-sprite-img }](../pokemon/rayquaza.md)
 
 	***

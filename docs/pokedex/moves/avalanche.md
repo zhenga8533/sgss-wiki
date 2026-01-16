@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+
+	***
+
+	**#124 [Jynx](../pokemon/jynx.md)**
+
+	Level 33
+
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
 	***

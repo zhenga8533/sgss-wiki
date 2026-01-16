@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokemon/krabby.md)
+
+	***
+
+	**#098 [Krabby](../pokemon/krabby.md)**
+
+	Level 31
+
+-	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
+
+	***
+
+	**#099 [Kingler](../pokemon/kingler.md)**
+
+	Level 37
+
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+
+	***
+
+	**#127 [Pinsir](../pokemon/pinsir.md)**
+
+	Level 47
+
 -	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
 
 	***
@@ -71,6 +95,22 @@
 	**#207 [Gligar](../pokemon/gligar.md)**
 
 	Level 45
+
+-	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokemon/corphish.md)
+
+	***
+
+	**#341 [Corphish](../pokemon/corphish.md)**
+
+	Level 53
+
+-	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokemon/crawdaunt.md)
+
+	***
+
+	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
+
+	Level 65
 
 -	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
 

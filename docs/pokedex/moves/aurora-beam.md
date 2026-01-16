@@ -80,6 +80,14 @@
 
 	Level 27
 
+-	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokemon/shellder.md)
+
+	***
+
+	**#090 [Shellder](../pokemon/shellder.md)**
+
+	Level 32
+
 -	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
 
 	***
@@ -104,6 +112,22 @@
 
 	Level 14
 
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 14
+
+-	[![Suicune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/245.png){: .pokemon-sprite-img }](../pokemon/suicune.md)
+
+	***
+
+	**#245 [Suicune](../pokemon/suicune.md)**
+
+	Level 29
+
 -	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
 
 	***
@@ -117,6 +141,14 @@
 	***
 
 	**#364 [Sealeo](../pokemon/sealeo.md)**
+
+	Level 25
+
+-	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
+
+	***
+
+	**#365 [Walrein](../pokemon/walrein.md)**
 
 	Level 25
 

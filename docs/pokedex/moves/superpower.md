@@ -80,6 +80,14 @@
 
 	Level 1
 
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+
+	***
+
+	**#127 [Pinsir](../pokemon/pinsir.md)**
+
+	Level 52
+
 -	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
 
 	***
@@ -87,6 +95,30 @@
 	**#136 [Flareon](../pokemon/flareon.md)**
 
 	Level 38
+
+-	[![Totodile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/158.png){: .pokemon-sprite-img }](../pokemon/totodile.md)
+
+	***
+
+	**#158 [Totodile](../pokemon/totodile.md)**
+
+	Level 43
+
+-	[![Croconaw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/159.png){: .pokemon-sprite-img }](../pokemon/croconaw.md)
+
+	***
+
+	**#159 [Croconaw](../pokemon/croconaw.md)**
+
+	Level 51
+
+-	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokemon/feraligatr.md)
+
+	***
+
+	**#160 [Feraligatr](../pokemon/feraligatr.md)**
+
+	Level 63
 
 -	[![Azumarill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/184.png){: .pokemon-sprite-img }](../pokemon/azumarill.md)
 
@@ -151,6 +183,22 @@
 	**#379 [Registeel](../pokemon/registeel.md)**
 
 	Level 25
+
+-	[![Bidoof](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/399.png){: .pokemon-sprite-img }](../pokemon/bidoof.md)
+
+	***
+
+	**#399 [Bidoof](../pokemon/bidoof.md)**
+
+	Level 41
+
+-	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokemon/bibarel.md)
+
+	***
+
+	**#400 [Bibarel](../pokemon/bibarel.md)**
+
+	Level 48
 
 -	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokemon/hippopotas.md)
 

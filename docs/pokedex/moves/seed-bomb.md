@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokemon/bulbasaur.md)
+
+	***
+
+	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
+
+	Level 37
+
+-	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
+
+	***
+
+	**#103 [Exeggutor](../pokemon/exeggutor.md)**
+
+	Level 1
+
+-	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+
+	***
+
+	**#191 [Sunkern](../pokemon/sunkern.md)**
+
+	Level 45
+
 -	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
 
 	***
@@ -95,6 +119,22 @@
 	**#273 [Seedot](../pokemon/seedot.md)**
 
 	Level 17
+
+-	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokemon/shroomish.md)
+
+	***
+
+	**#285 [Shroomish](../pokemon/shroomish.md)**
+
+	Level 41
+
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 41
 
 -	[![Turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){: .pokemon-sprite-img }](../pokemon/turtwig.md)
 

@@ -88,6 +88,22 @@
 
 	Level 9
 
+-	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
+
+	***
+
+	**#022 [Fearow](../pokemon/fearow.md)**
+
+	Level 1
+
+-	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
+
+	***
+
+	**#085 [Dodrio](../pokemon/dodrio.md)**
+
+	Level 1
+
 -	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokemon/zapdos.md)
 
 	***
@@ -104,11 +120,27 @@
 
 	Level 8
 
+-	[![Swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){: .pokemon-sprite-img }](../pokemon/swellow.md)
+
+	***
+
+	**#277 [Swellow](../pokemon/swellow.md)**
+
+	Level 1
+
 -	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokemon/swablu.md)
 
 	***
 
 	**#333 [Swablu](../pokemon/swablu.md)**
+
+	Level 1
+
+-	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
+
+	***
+
+	**#334 [Altaria](../pokemon/altaria.md)**
 
 	Level 1
 

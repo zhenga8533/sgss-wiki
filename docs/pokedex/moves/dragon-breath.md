@@ -104,6 +104,54 @@
 
 	Level 36
 
+-	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
+
+	***
+
+	**#329 [Vibrava](../pokemon/vibrava.md)**
+
+	Level 35
+
+-	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokemon/flygon.md)
+
+	***
+
+	**#330 [Flygon](../pokemon/flygon.md)**
+
+	Level 35
+
+-	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
+
+	***
+
+	**#334 [Altaria](../pokemon/altaria.md)**
+
+	Level 35
+
+-	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokemon/bagon.md)
+
+	***
+
+	**#371 [Bagon](../pokemon/bagon.md)**
+
+	Level 31
+
+-	[![Shelgon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/372.png){: .pokemon-sprite-img }](../pokemon/shelgon.md)
+
+	***
+
+	**#372 [Shelgon](../pokemon/shelgon.md)**
+
+	Level 32
+
+-	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokemon/salamence.md)
+
+	***
+
+	**#373 [Salamence](../pokemon/salamence.md)**
+
+	Level 32
+
 -	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
 	***

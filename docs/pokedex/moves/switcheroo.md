@@ -60,6 +60,36 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
+
+	***
+
+	**#053 [Persian](../pokemon/persian.md)**
+
+	Level 1
+
+-	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
+
+	***
+
+	**#097 [Hypno](../pokemon/hypno.md)**
+
+	Level 1
+
+-	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokemon/linoone.md)
+
+	***
+
+	**#264 [Linoone](../pokemon/linoone.md)**
+
+	Level 1
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

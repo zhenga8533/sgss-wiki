@@ -64,6 +64,46 @@
 
 <div class="grid cards" markdown>
 
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+
+	***
+
+	**#006 [Charizard](../pokemon/charizard.md)**
+
+	Level 1
+
+-	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokemon/flygon.md)
+
+	***
+
+	**#330 [Flygon](../pokemon/flygon.md)**
+
+	Level 45
+
+-	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokemon/bagon.md)
+
+	***
+
+	**#371 [Bagon](../pokemon/bagon.md)**
+
+	Level 50
+
+-	[![Shelgon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/372.png){: .pokemon-sprite-img }](../pokemon/shelgon.md)
+
+	***
+
+	**#372 [Shelgon](../pokemon/shelgon.md)**
+
+	Level 55
+
+-	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokemon/salamence.md)
+
+	***
+
+	**#373 [Salamence](../pokemon/salamence.md)**
+
+	Level 61
+
 -	[![Rayquaza](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/384.png){: .pokemon-sprite-img }](../pokemon/rayquaza.md)
 
 	***
@@ -71,6 +111,30 @@
 	**#384 [Rayquaza](../pokemon/rayquaza.md)**
 
 	Level 20
+
+-	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
+
+	***
+
+	**#443 [Gible](../pokemon/gible.md)**
+
+	Level 27
+
+-	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
+
+	***
+
+	**#444 [Gabite](../pokemon/gabite.md)**
+
+	Level 33
+
+-	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
+
+	***
+
+	**#445 [Garchomp](../pokemon/garchomp.md)**
+
+	Level 33
 
 -	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokemon/dialga.md)
 

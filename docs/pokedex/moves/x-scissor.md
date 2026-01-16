@@ -72,6 +72,38 @@
 
 	Level 31
 
+-	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
+
+	***
+
+	**#046 [Paras](../pokemon/paras.md)**
+
+	Level 43
+
+-	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
+
+	***
+
+	**#047 [Parasect](../pokemon/parasect.md)**
+
+	Level 55
+
+-	[![Scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/123.png){: .pokemon-sprite-img }](../pokemon/scyther.md)
+
+	***
+
+	**#123 [Scyther](../pokemon/scyther.md)**
+
+	Level 41
+
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+
+	***
+
+	**#127 [Pinsir](../pokemon/pinsir.md)**
+
+	Level 30
+
 -	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
 
 	***
@@ -80,6 +112,38 @@
 
 	Level 42
 
+-	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
+
+	***
+
+	**#212 [Scizor](../pokemon/scizor.md)**
+
+	Level 41
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
+
+	Level 16
+
+-	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokemon/ninjask.md)
+
+	***
+
+	**#291 [Ninjask](../pokemon/ninjask.md)**
+
+	Level 52
+
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 48
+
 -	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
 
 	***
@@ -87,6 +151,14 @@
 	**#347 [Anorith](../pokemon/anorith.md)**
 
 	Level 61
+
+-	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
+
+	***
+
+	**#348 [Armaldo](../pokemon/armaldo.md)**
+
+	Level 73
 
 -	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
 

@@ -64,6 +64,30 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pidgey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/16.png){: .pokemon-sprite-img }](../pokemon/pidgey.md)
+
+	***
+
+	**#016 [Pidgey](../pokemon/pidgey.md)**
+
+	Level 21
+
+-	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
+
+	***
+
+	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
+
+	Level 22
+
+-	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
+
+	***
+
+	**#018 [Pidgeot](../pokemon/pidgeot.md)**
+
+	Level 22
+
 -	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
 
 	***
@@ -71,6 +95,22 @@
 	**#116 [Horsea](../pokemon/horsea.md)**
 
 	Level 26
+
+-	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokemon/seadra.md)
+
+	***
+
+	**#117 [Seadra](../pokemon/seadra.md)**
+
+	Level 26
+
+-	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
+
+	***
+
+	**#130 [Gyarados](../pokemon/gyarados.md)**
+
+	Level 29
 
 -	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
 
@@ -111,6 +151,22 @@
 	**#149 [Dragonite](../pokemon/dragonite.md)**
 
 	Level 11
+
+-	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
+
+	***
+
+	**#230 [Kingdra](../pokemon/kingdra.md)**
+
+	Level 26
+
+-	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokemon/milotic.md)
+
+	***
+
+	**#350 [Milotic](../pokemon/milotic.md)**
+
+	Level 17
 
 -	[![Rayquaza](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/384.png){: .pokemon-sprite-img }](../pokemon/rayquaza.md)
 

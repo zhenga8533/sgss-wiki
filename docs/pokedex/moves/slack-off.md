@@ -96,6 +96,14 @@
 
 	Level 13
 
+-	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
+
+	***
+
+	**#289 [Slaking](../pokemon/slaking.md)**
+
+	Level 13
+
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
 	***

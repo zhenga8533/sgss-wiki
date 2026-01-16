@@ -96,6 +96,30 @@
 
 	Level 15
 
+-	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
+
+	***
+
+	**#443 [Gible](../pokemon/gible.md)**
+
+	Level 37
+
+-	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
+
+	***
+
+	**#444 [Gabite](../pokemon/gabite.md)**
+
+	Level 49
+
+-	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
+
+	***
+
+	**#445 [Garchomp](../pokemon/garchomp.md)**
+
+	Level 55
+
 </div>
 
 ### :material-egg-outline: Egg Moves

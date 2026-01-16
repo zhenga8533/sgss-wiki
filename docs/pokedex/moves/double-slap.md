@@ -64,11 +64,83 @@
 
 <div class="grid cards" markdown>
 
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+
+	***
+
+	**#035 [Clefairy](../pokemon/clefairy.md)**
+
+	Level 10
+
+-	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
+
+	***
+
+	**#036 [Clefable](../pokemon/clefable.md)**
+
+	Level 1
+
+-	[![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/39.png){: .pokemon-sprite-img }](../pokemon/jigglypuff.md)
+
+	***
+
+	**#039 [Jigglypuff](../pokemon/jigglypuff.md)**
+
+	Level 21
+
+-	[![Wigglytuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/40.png){: .pokemon-sprite-img }](../pokemon/wigglytuff.md)
+
+	***
+
+	**#040 [Wigglytuff](../pokemon/wigglytuff.md)**
+
+	Level 1
+
+-	[![Poliwag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/60.png){: .pokemon-sprite-img }](../pokemon/poliwag.md)
+
+	***
+
+	**#060 [Poliwag](../pokemon/poliwag.md)**
+
+	Level 15
+
+-	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokemon/poliwhirl.md)
+
+	***
+
+	**#061 [Poliwhirl](../pokemon/poliwhirl.md)**
+
+	Level 15
+
+-	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
+
+	***
+
+	**#062 [Poliwrath](../pokemon/poliwrath.md)**
+
+	Level 1
+
+-	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
+
+	***
+
+	**#113 [Chansey](../pokemon/chansey.md)**
+
+	Level 16
+
 -	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
 
 	***
 
 	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
+
+	Level 15
+
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+
+	***
+
+	**#124 [Jynx](../pokemon/jynx.md)**
 
 	Level 15
 
@@ -80,6 +152,14 @@
 
 	Level 1
 
+-	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
+
+	***
+
+	**#242 [Blissey](../pokemon/blissey.md)**
+
+	Level 16
+
 -	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
 
 	***
@@ -87,6 +167,14 @@
 	**#300 [Skitty](../pokemon/skitty.md)**
 
 	Level 15
+
+-	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokemon/delcatty.md)
+
+	***
+
+	**#301 [Delcatty](../pokemon/delcatty.md)**
+
+	Level 1
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 

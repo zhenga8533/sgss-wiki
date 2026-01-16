@@ -60,6 +60,44 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Pidgey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/16.png){: .pokemon-sprite-img }](../pokemon/pidgey.md)
+
+	***
+
+	**#016 [Pidgey](../pokemon/pidgey.md)**
+
+	Level 25
+
+-	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
+
+	***
+
+	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
+
+	Level 27
+
+-	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
+
+	***
+
+	**#018 [Pidgeot](../pokemon/pidgeot.md)**
+
+	Level 27
+
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+
+	***
+
+	**#441 [Chatot](../pokemon/chatot.md)**
+
+	Level 41
+
+</div>
+
 ### :material-egg-outline: Egg Moves
 
 <div class="grid cards" markdown>

@@ -149,7 +149,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Level 10*
 
-		***You are here***
+	***You are here***
 
 </div>
 

@@ -80,6 +80,70 @@
 
 	Level 18
 
+-	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
+
+	***
+
+	**#206 [Dunsparce](../pokemon/dunsparce.md)**
+
+	Level 45
+
+-	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
+
+	***
+
+	**#290 [Nincada](../pokemon/nincada.md)**
+
+	Level 45
+
+-	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
+
+	***
+
+	**#328 [Trapinch](../pokemon/trapinch.md)**
+
+	Level 41
+
+-	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
+
+	***
+
+	**#443 [Gible](../pokemon/gible.md)**
+
+	Level 31
+
+-	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
+
+	***
+
+	**#444 [Gabite](../pokemon/gabite.md)**
+
+	Level 40
+
+-	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
+
+	***
+
+	**#445 [Garchomp](../pokemon/garchomp.md)**
+
+	Level 40
+
+-	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokemon/hippopotas.md)
+
+	***
+
+	**#449 [Hippopotas](../pokemon/hippopotas.md)**
+
+	Level 19
+
+-	[![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){: .pokemon-sprite-img }](../pokemon/hippowdon.md)
+
+	***
+
+	**#450 [Hippowdon](../pokemon/hippowdon.md)**
+
+	Level 19
+
 </div>
 
 ### :material-disc: TM/HM

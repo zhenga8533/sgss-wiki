@@ -72,6 +72,22 @@
 
 	Level 9
 
+-	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
+
+	***
+
+	**#053 [Persian](../pokemon/persian.md)**
+
+	Level 9
+
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+
+	***
+
+	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+
+	Level 7
+
 -	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
 
 	***
@@ -95,6 +111,14 @@
 	**#236 [Tyrogue](../pokemon/tyrogue.md)**
 
 	Level 1
+
+-	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokemon/lombre.md)
+
+	***
+
+	**#271 [Lombre](../pokemon/lombre.md)**
+
+	Level 11
 
 -	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
 
@@ -127,6 +151,22 @@
 	**#300 [Skitty](../pokemon/skitty.md)**
 
 	Level 1
+
+-	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokemon/delcatty.md)
+
+	***
+
+	**#301 [Delcatty](../pokemon/delcatty.md)**
+
+	Level 1
+
+-	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
+
+	***
+
+	**#302 [Sableye](../pokemon/sableye.md)**
+
+	Level 18
 
 -	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
 
@@ -167,6 +207,22 @@
 	**#428 [Lopunny](../pokemon/lopunny.md)**
 
 	Level 19
+
+-	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
+
+	***
+
+	**#431 [Glameow](../pokemon/glameow.md)**
+
+	Level 1
+
+-	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
+
+	***
+
+	**#432 [Purugly](../pokemon/purugly.md)**
+
+	Level 1
 
 </div>
 

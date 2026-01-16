@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+
+	***
+
+	**#124 [Jynx](../pokemon/jynx.md)**
+
+	Level 25
+
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
 	***
@@ -77,6 +85,14 @@
 	***
 
 	**#216 [Teddiursa](../pokemon/teddiursa.md)**
+
+	Level 1
+
+-	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokemon/ursaring.md)
+
+	***
+
+	**#217 [Ursaring](../pokemon/ursaring.md)**
 
 	Level 1
 
@@ -95,6 +111,14 @@
 	**#293 [Whismur](../pokemon/whismur.md)**
 
 	Level 1
+
+-	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
+
+	***
+
+	**#303 [Mawile](../pokemon/mawile.md)**
+
+	Level 6
 
 -	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
 

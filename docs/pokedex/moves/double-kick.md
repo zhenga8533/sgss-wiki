@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
+
+	***
+
+	**#029 [Nidoran♀](../pokemon/nidoran-f.md)**
+
+	Level 9
+
+-	[![Nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){: .pokemon-sprite-img }](../pokemon/nidorina.md)
+
+	***
+
+	**#030 [Nidorina](../pokemon/nidorina.md)**
+
+	Level 9
+
 -	[![Nidoqueen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/31.png){: .pokemon-sprite-img }](../pokemon/nidoqueen.md)
 
 	***
@@ -71,6 +87,22 @@
 	**#031 [Nidoqueen](../pokemon/nidoqueen.md)**
 
 	Level 1
+
+-	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
+
+	***
+
+	**#032 [Nidoran♂](../pokemon/nidoran-m.md)**
+
+	Level 9
+
+-	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokemon/nidorino.md)
+
+	***
+
+	**#033 [Nidorino](../pokemon/nidorino.md)**
+
+	Level 9
 
 -	[![Nidoking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/34.png){: .pokemon-sprite-img }](../pokemon/nidoking.md)
 
@@ -104,6 +136,14 @@
 
 	Level 1
 
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+
+	***
+
+	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+
+	Level 1
+
 -	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
 
 	***
@@ -117,6 +157,14 @@
 	***
 
 	**#256 [Combusken](../pokemon/combusken.md)**
+
+	Level 16
+
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+
+	***
+
+	**#257 [Blaziken](../pokemon/blaziken.md)**
 
 	Level 16
 

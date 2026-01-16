@@ -163,7 +163,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Know Mimic*
 
-		***You are here***
+	***You are here***
 
 </div>
 

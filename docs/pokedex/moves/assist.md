@@ -80,6 +80,22 @@
 
 	Level 22
 
+-	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
+
+	***
+
+	**#431 [Glameow](../pokemon/glameow.md)**
+
+	Level 29
+
+-	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
+
+	***
+
+	**#432 [Purugly](../pokemon/purugly.md)**
+
+	Level 29
+
 </div>
 
 ### :material-egg-outline: Egg Moves

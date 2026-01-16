@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){: .pokemon-sprite-img }](../pokemon/pikachu.md)
+
+	***
+
+	**#025 [Pikachu](../pokemon/pikachu.md)**
+
+	Level 45
+
+-	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokemon/electabuzz.md)
+
+	***
+
+	**#125 [Electabuzz](../pokemon/electabuzz.md)**
+
+	Level 58
+
 -	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
 
 	***
@@ -80,6 +96,30 @@
 
 	Level 78
 
+-	[![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/179.png){: .pokemon-sprite-img }](../pokemon/mareep.md)
+
+	***
+
+	**#179 [Mareep](../pokemon/mareep.md)**
+
+	Level 46
+
+-	[![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){: .pokemon-sprite-img }](../pokemon/flaaffy.md)
+
+	***
+
+	**#180 [Flaaffy](../pokemon/flaaffy.md)**
+
+	Level 53
+
+-	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
+
+	***
+
+	**#181 [Ampharos](../pokemon/ampharos.md)**
+
+	Level 68
+
 -	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokemon/elekid.md)
 
 	***
@@ -87,6 +127,14 @@
 	**#239 [Elekid](../pokemon/elekid.md)**
 
 	Level 46
+
+-	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokemon/raikou.md)
+
+	***
+
+	**#243 [Raikou](../pokemon/raikou.md)**
+
+	Level 85
 
 -	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokemon/electrike.md)
 

@@ -154,7 +154,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	*Use Water Stone*
 
-		***You are here***
+	***You are here***
 
 </div>
 

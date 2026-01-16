@@ -144,6 +144,14 @@
 
 	Level 73
 
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+
+	***
+
+	**#448 [Lucario](../pokemon/lucario.md)**
+
+	Level 37
+
 -	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
 
 	***
@@ -151,6 +159,14 @@
 	**#467 [Magmortar](../pokemon/magmortar.md)**
 
 	Level 58
+
+-	[![Togekiss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/468.png){: .pokemon-sprite-img }](../pokemon/togekiss.md)
+
+	***
+
+	**#468 [Togekiss](../pokemon/togekiss.md)**
+
+	Level 1
 
 -	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
 

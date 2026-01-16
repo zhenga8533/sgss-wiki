@@ -55,7 +55,9 @@ class PokemonChangesParser(BaseParser):
         self._change_markdown = ""
 
         # Data update states (for batched updates)
-        self._pending_levelup_moves: list[tuple[int, str]] = []
+        # Level-up moves: (level, move_name, notation_type)
+        # notation_type: "new" for (), "replace" for {}, "shift" for [], "shift_replace" for [{}]
+        self._pending_levelup_moves: list[tuple[int, str, str]] = []
         self._pending_machine_moves: list[tuple[str, str, str]] = []
 
     def parse_general_notes(self, line: str) -> None:
@@ -206,11 +208,9 @@ class PokemonChangesParser(BaseParser):
         if not self._current_pokemon:
             return
 
-        # Flush pending level-up moves
+        # Flush pending level-up moves by merging with existing moves
         if self._pending_levelup_moves:
-            PokemonMoveService.update_levelup_moves(
-                self._current_pokemon, self._pending_levelup_moves
-            )
+            self._merge_and_update_levelup_moves()
             self._pending_levelup_moves = []
 
         # Flush pending machine moves (TM/HM)
@@ -219,6 +219,74 @@ class PokemonChangesParser(BaseParser):
                 self._current_pokemon, self._pending_machine_moves
             )
             self._pending_machine_moves = []
+
+    def _merge_and_update_levelup_moves(self) -> None:
+        """Merge pending level-up move changes with existing moves and update.
+
+        Instead of replacing all moves, this method:
+        1. Loads the Pokemon's existing level-up moves
+        2. Applies changes based on notation type:
+           - "new" (): Add new move at specified level
+           - "replace" {}: Remove move at that level, add new move
+           - "shift" []: Move already exists, change its level
+           - "shift_replace" [{}]: Change existing move's level, remove move at target level
+        3. Saves the merged result
+        """
+        pokemon_id = name_to_id(self._current_pokemon)
+        pokemon_data = PokeDBLoader.load_pokemon(pokemon_id)
+        if pokemon_data is None:
+            self.logger.warning(
+                f"Could not load Pokemon '{self._current_pokemon}' for move update"
+            )
+            return
+
+        # Build a dict of existing moves: move_id -> level
+        existing_moves = {
+            move.name: move.level_learned_at for move in pokemon_data.moves.level_up
+        }
+
+        # Apply pending changes based on notation type
+        for level, move_name, notation_type in self._pending_levelup_moves:
+            move_id = name_to_id(move_name)
+
+            if notation_type == "new":
+                # () = New move: simply add it at the specified level
+                existing_moves[move_id] = level
+
+            elif notation_type == "replace":
+                # {} = Replace: remove whatever move was at this level, add new move
+                # Find and remove the move that was at this level
+                to_remove = [m for m, lvl in existing_moves.items() if lvl == level]
+                for m in to_remove:
+                    del existing_moves[m]
+                existing_moves[move_id] = level
+
+            elif notation_type == "shift":
+                # [] = Shift: move already exists, just update its level
+                # The move should already be in the list, update its level
+                if move_id in existing_moves:
+                    existing_moves[move_id] = level
+                else:
+                    # Move not found, add it anyway (defensive)
+                    existing_moves[move_id] = level
+
+            elif notation_type == "shift_replace":
+                # [{}] = Shift and replace: move exists, change its level,
+                # and remove whatever was at the target level
+                # First remove any move at the target level
+                to_remove = [m for m, lvl in existing_moves.items() if lvl == level]
+                for m in to_remove:
+                    del existing_moves[m]
+                # Then set the move to the new level
+                existing_moves[move_id] = level
+
+        # Convert back to list of tuples for the service
+        merged_moves = [(level, move_id) for move_id, level in existing_moves.items()]
+        # Sort by level for consistent ordering
+        merged_moves.sort(key=lambda x: (x[0], x[1]))
+
+        # Update with the merged move list
+        PokemonMoveService.update_levelup_moves(self._current_pokemon, merged_moves)
 
     def _update_ability_slot(self, ability_name: str, slot: int | None) -> None:
         """Update a specific ability slot for the current Pokemon.
@@ -412,9 +480,19 @@ class PokemonChangesParser(BaseParser):
                         level_notation = ""
                         level_num = 0
 
+                # Determine notation type
+                if "[{" in level_notation:
+                    notation_type = "shift_replace"
+                elif "{" in level_notation:
+                    notation_type = "replace"
+                elif "[" in level_notation:
+                    notation_type = "shift"
+                else:
+                    notation_type = "new"
+
                 markdown += f"{format_move(move)} {level_notation}"
-                # Collect for batched update
-                self._pending_levelup_moves.append((level_num, move))
+                # Collect for batched update with notation type
+                self._pending_levelup_moves.append((level_num, move, notation_type))
             elif attribute == "Stat Change":
                 # Parse stat change notation: "StatName (Value)", e.g., "Special Attack (100)"
                 # Value is the NEW absolute stat value

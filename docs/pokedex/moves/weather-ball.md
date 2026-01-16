@@ -104,6 +104,14 @@
 
 	Level 30
 
+-	[![Roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){: .pokemon-sprite-img }](../pokemon/roserade.md)
+
+	***
+
+	**#407 [Roserade](../pokemon/roserade.md)**
+
+	Level 1
+
 -	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
 
 	***

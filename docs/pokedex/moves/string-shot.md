@@ -64,11 +64,43 @@
 
 <div class="grid cards" markdown>
 
+-	[![Caterpie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/10.png){: .pokemon-sprite-img }](../pokemon/caterpie.md)
+
+	***
+
+	**#010 [Caterpie](../pokemon/caterpie.md)**
+
+	Level 1
+
+-	[![Weedle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/13.png){: .pokemon-sprite-img }](../pokemon/weedle.md)
+
+	***
+
+	**#013 [Weedle](../pokemon/weedle.md)**
+
+	Level 1
+
+-	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
+
+	***
+
+	**#167 [Spinarak](../pokemon/spinarak.md)**
+
+	Level 1
+
 -	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
 
 	***
 
 	**#168 [Ariados](../pokemon/ariados.md)**
+
+	Level 1
+
+-	[![Wurmple](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/265.png){: .pokemon-sprite-img }](../pokemon/wurmple.md)
+
+	***
+
+	**#265 [Wurmple](../pokemon/wurmple.md)**
 
 	Level 1
 

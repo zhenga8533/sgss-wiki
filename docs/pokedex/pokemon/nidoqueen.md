@@ -168,7 +168,7 @@
 
 	*Use Moon Stone*
 
-		***You are here***
+	***You are here***
 
 </div>
 
