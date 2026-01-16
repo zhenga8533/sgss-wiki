@@ -16,6 +16,10 @@
 
 ??? note "Rampardos ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `reckless`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `14 moves`

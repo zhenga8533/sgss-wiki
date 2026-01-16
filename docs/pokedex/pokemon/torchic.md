@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Torchic ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `speed-boost`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

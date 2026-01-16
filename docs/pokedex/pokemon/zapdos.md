@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Zapdos ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `lightning-rod`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

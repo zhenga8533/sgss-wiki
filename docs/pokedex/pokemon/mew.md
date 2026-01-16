@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Mew ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `magic-guard`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -15,6 +15,10 @@
 
 ??? note "Shuppet ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `63` → `73`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

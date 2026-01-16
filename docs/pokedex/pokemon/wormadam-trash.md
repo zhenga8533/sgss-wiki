@@ -13,6 +13,22 @@
 	</div>
 </div>
 
+
+??? note "Wormadam Trash ROM Changes"
+
+	**Stat: defense Changes:**
+
+	- `95` → `115`
+
+	**Stat: special_defense Changes:**
+
+	- `95` → `115`
+
+	**Ability Changes:**
+
+	- `(none)` → `sturdy`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

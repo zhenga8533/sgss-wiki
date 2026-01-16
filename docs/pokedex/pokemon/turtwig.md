@@ -16,6 +16,10 @@
 
 ??? note "Turtwig ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `shell-armor`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `13 moves`

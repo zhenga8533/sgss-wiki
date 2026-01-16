@@ -16,6 +16,18 @@
 
 ??? note "Mismagius ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `105` → `110`
+
+	**Stat: special_defense Changes:**
+
+	- `105` → `110`
+
+	**Stat: speed Changes:**
+
+	- `105` → `110`
+
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `9 moves`

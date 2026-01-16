@@ -20,6 +20,10 @@
 
 	- `electric` → `electric / dark`
 
+	**Stat: speed Changes:**
+
+	- `70` → `82`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `12 moves`

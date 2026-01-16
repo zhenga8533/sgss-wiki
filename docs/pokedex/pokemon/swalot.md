@@ -15,6 +15,14 @@
 
 ??? note "Swalot ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `73` → `83`
+
+	**Stat: special_attack Changes:**
+
+	- `73` → `83`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `16 moves`

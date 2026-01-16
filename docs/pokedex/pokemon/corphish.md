@@ -15,6 +15,10 @@
 
 ??? note "Corphish ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `hyper-cutter` → `adaptability`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

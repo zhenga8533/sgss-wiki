@@ -16,6 +16,10 @@
 
 ??? note "Torterra ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `shell-armor`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `15 moves`

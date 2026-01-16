@@ -15,6 +15,10 @@
 
 ??? note "Meganium ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `natural-cure`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `19 moves`

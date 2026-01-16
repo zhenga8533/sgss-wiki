@@ -16,6 +16,10 @@
 
 ??? note "Hoothoot ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `keen-eye` → `tinted-lens`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

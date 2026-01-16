@@ -15,6 +15,18 @@
 
 ??? note "Sunflora ROM Changes"
 
+	**Stat: defense Changes:**
+
+	- `55` → `90`
+
+	**Stat: special_attack Changes:**
+
+	- `105` → `125`
+
+	**Stat: special_defense Changes:**
+
+	- `85` → `95`
+
 	**Base Experience Changes:**
 
 	- `146` → `196`

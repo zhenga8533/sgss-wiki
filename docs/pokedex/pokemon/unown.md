@@ -16,6 +16,30 @@
 
 ??? note "Unown ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `48` → `68`
+
+	**Stat: attack Changes:**
+
+	- `72` → `92`
+
+	**Stat: defense Changes:**
+
+	- `48` → `68`
+
+	**Stat: special_attack Changes:**
+
+	- `72` → `92`
+
+	**Stat: special_defense Changes:**
+
+	- `48` → `68`
+
+	**Stat: speed Changes:**
+
+	- `48` → `68`
+
 	**Base Experience Changes:**
 
 	- `61` → `100`

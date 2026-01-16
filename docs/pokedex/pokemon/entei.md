@@ -16,6 +16,10 @@
 
 ??? note "Entei ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `flash-fire`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `18 moves`

@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Pupitar ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `battle-armor`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

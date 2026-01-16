@@ -16,6 +16,10 @@
 
 ??? note "Zubat ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `anticipation`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `14 moves`

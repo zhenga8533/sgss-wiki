@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Regice ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `ice-body`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

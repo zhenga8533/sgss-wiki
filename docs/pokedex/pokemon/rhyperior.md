@@ -19,6 +19,10 @@
 
 	- `rhydon > rhyperior: trade (held: protector)` → `rhydon > rhyperior: use-item (protector)`
 
+	**Ability (slot 1) Changes:**
+
+	- `lightning-rod` → `reckless`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `15 moves`

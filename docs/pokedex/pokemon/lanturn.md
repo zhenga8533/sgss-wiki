@@ -12,6 +12,22 @@
 	</div>
 </div>
 
+
+??? note "Lanturn ROM Changes"
+
+	**Ability (slot 2) Changes:**
+
+	- `illuminate` → `water-absorb`
+
+	**Stat: special_attack Changes:**
+
+	- `76` → `86`
+
+	**Stat: special_defense Changes:**
+
+	- `76` → `86`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

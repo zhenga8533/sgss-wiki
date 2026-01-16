@@ -15,6 +15,30 @@
 
 ??? note "Tropius ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `99` → `110`
+
+	**Stat: attack Changes:**
+
+	- `68` → `90`
+
+	**Stat: defense Changes:**
+
+	- `83` → `90`
+
+	**Stat: special_attack Changes:**
+
+	- `72` → `90`
+
+	**Stat: special_defense Changes:**
+
+	- `87` → `90`
+
+	**Stat: speed Changes:**
+
+	- `51` → `65`
+
 	**Base Experience Changes:**
 
 	- `169` → `200`

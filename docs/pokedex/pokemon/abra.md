@@ -20,6 +20,10 @@
 
 	- `kadabra > alakazam: trade` → `kadabra > alakazam: use-item (covenant-orb)`
 
+	**Ability (slot 2) Changes:**
+
+	- `inner-focus` → `magic-guard`
+
 
 ## :material-information: Basic Information
 

@@ -15,6 +15,10 @@
 
 ??? note "Spinarak ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `swarm` → `sniper`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

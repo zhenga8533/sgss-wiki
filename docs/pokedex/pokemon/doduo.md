@@ -15,6 +15,10 @@
 
 ??? note "Doduo ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `tangled-feet`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `14 moves`

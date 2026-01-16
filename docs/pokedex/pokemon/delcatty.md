@@ -15,6 +15,14 @@
 
 ??? note "Delcatty ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `55` → `95`
+
+	**Stat: speed Changes:**
+
+	- `70` → `90`
+
 	**Level-up Moves Changes:**
 
 	- `4 moves` → `5 moves`

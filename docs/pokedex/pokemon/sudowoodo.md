@@ -16,6 +16,22 @@
 
 ??? note "Sudowoodo ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `70` → `75`
+
+	**Stat: attack Changes:**
+
+	- `100` → `115`
+
+	**Stat: defense Changes:**
+
+	- `115` → `130`
+
+	**Stat: special_defense Changes:**
+
+	- `65` → `80`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `15 moves`

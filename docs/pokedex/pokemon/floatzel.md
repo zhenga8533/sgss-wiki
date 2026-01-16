@@ -16,6 +16,10 @@
 
 ??? note "Floatzel ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `technician`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

@@ -15,6 +15,14 @@
 
 ??? note "Parasect ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `95` → `115`
+
+	**Stat: defense Changes:**
+
+	- `80` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `11 moves`

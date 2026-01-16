@@ -16,6 +16,10 @@
 
 ??? note "Vespiquen ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `intimidate`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `17 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Wartortle ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rain-dish`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

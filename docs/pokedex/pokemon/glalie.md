@@ -15,9 +15,29 @@
 
 ??? note "Glalie ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `levitate`
+
 	**Type Changes:**
 
 	- `ice` → `ice / rock`
+
+	**Stat: attack Changes:**
+
+	- `80` → `100`
+
+	**Stat: defense Changes:**
+
+	- `80` → `120`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `60`
+
+	**Stat: speed Changes:**
+
+	- `80` → `60`
 
 	**TM/HM Compatibility Changes:**
 

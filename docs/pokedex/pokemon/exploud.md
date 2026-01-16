@@ -15,6 +15,10 @@
 
 ??? note "Exploud ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `scrappy`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `18 moves`

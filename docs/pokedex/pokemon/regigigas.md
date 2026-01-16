@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Regigigas ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `pressure`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

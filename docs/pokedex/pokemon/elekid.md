@@ -20,6 +20,10 @@
 
 	- `electabuzz > electivire: trade (held: electirizer)` → `electabuzz > electivire: use-item (electirizer)`
 
+	**Ability Changes:**
+
+	- `(none)` → `vital-spirit`
+
 
 ## :material-information: Basic Information
 

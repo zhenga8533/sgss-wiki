@@ -12,6 +12,22 @@
 	</div>
 </div>
 
+
+??? note "Castform ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `70` → `110`
+
+	**Stat: special_defense Changes:**
+
+	- `70` → `80`
+
+	**Stat: speed Changes:**
+
+	- `70` → `80`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

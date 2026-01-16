@@ -15,6 +15,14 @@
 
 ??? note "Dunsparce ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `100` → `105`
+
+	**Stat: attack Changes:**
+
+	- `70` → `80`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

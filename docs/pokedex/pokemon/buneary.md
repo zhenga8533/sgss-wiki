@@ -16,6 +16,10 @@
 
 ??? note "Buneary ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `limber`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `17 moves`

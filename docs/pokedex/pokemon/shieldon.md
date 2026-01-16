@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Shieldon ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

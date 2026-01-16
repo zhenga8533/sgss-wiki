@@ -16,6 +16,18 @@
 
 ??? note "Chimecho ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `95` → `110`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `100`
+
+	**Stat: speed Changes:**
+
+	- `65` → `90`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `16 moves`

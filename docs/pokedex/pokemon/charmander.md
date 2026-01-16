@@ -15,6 +15,10 @@
 
 ??? note "Charmander ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `solar-power`
+
 	**Level-up Moves Changes:**
 
 	- `10 moves` → `11 moves`

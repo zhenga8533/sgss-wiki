@@ -15,6 +15,10 @@
 
 ??? note "Charizard ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `solar-power`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `19 moves`

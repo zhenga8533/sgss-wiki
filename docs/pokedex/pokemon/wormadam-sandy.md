@@ -13,6 +13,22 @@
 	</div>
 </div>
 
+
+??? note "Wormadam Sandy ROM Changes"
+
+	**Stat: attack Changes:**
+
+	- `79` → `99`
+
+	**Stat: defense Changes:**
+
+	- `105` → `125`
+
+	**Ability Changes:**
+
+	- `(none)` → `sand-veil`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -15,6 +15,10 @@
 
 ??? note "Surskit ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rain-dish`
+
 	**TM/HM Compatibility Changes:**
 
 	- `27 moves` → `28 moves (added: surf)`

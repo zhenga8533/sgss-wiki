@@ -15,6 +15,10 @@
 
 ??? note "Wailmer ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `water-veil` → `pressure`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `16 moves`

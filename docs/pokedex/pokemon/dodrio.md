@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Dodrio ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `tangled-feet`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

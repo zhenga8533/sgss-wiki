@@ -15,6 +15,22 @@
 
 ??? note "Mawile ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `50` → `60`
+
+	**Stat: attack Changes:**
+
+	- `85` → `105`
+
+	**Stat: defense Changes:**
+
+	- `85` → `90`
+
+	**Stat: special_defense Changes:**
+
+	- `55` → `90`
+
 	**Base Experience Changes:**
 
 	- `98` → `118`

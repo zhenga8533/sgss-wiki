@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Lumineon ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `69` → `89`
+
+	**Stat: speed Changes:**
+
+	- `91` → `101`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

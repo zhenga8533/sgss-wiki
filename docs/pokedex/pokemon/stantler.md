@@ -15,6 +15,10 @@
 
 ??? note "Stantler ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `95` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

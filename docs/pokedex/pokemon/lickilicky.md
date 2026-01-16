@@ -15,6 +15,10 @@
 
 ??? note "Lickilicky ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `oblivious` → `cloud-nine`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `17 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Skarmory ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `sturdy` → `rock-head`
+
 	**Level-up Moves Changes:**
 
 	- `25 moves` → `15 moves`

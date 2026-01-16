@@ -19,9 +19,33 @@
 
 	- `normal / flying` → `fighting / flying`
 
+	**Ability (slot 1) Changes:**
+
+	- `keen-eye` → `super-luck`
+
 	**Base Experience Changes:**
 
 	- `132` → `144`
+
+	**Stat: hp Changes:**
+
+	- `52` → `55`
+
+	**Stat: attack Changes:**
+
+	- `90` → `110`
+
+	**Stat: special_attack Changes:**
+
+	- `58` → `60`
+
+	**Stat: special_defense Changes:**
+
+	- `62` → `65`
+
+	**Stat: speed Changes:**
+
+	- `60` → `105`
 
 	**Level-up Moves Changes:**
 

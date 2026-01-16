@@ -16,6 +16,22 @@
 
 ??? note "Beautifly ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `90` → `105`
+
+	**Stat: special_defense Changes:**
+
+	- `50` → `65`
+
+	**Stat: speed Changes:**
+
+	- `65` → `85`
+
+	**Ability Changes:**
+
+	- `(none)` → `shield-dust`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `14 moves`

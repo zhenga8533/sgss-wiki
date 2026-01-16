@@ -19,6 +19,10 @@
 
 	- `magmar > magmortar: trade (held: magmarizer)` → `magmar > magmortar: use-item (magmarizer)`
 
+	**Ability Changes:**
+
+	- `(none)` → `vital-spirit`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `15 moves`

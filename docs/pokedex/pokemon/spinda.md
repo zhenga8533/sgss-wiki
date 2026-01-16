@@ -15,6 +15,26 @@
 
 ??? note "Spinda ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `60` → `80`
+
+	**Stat: defense Changes:**
+
+	- `60` → `80`
+
+	**Stat: special_attack Changes:**
+
+	- `60` → `80`
+
+	**Stat: special_defense Changes:**
+
+	- `60` → `80`
+
+	**Stat: speed Changes:**
+
+	- `60` → `80`
+
 	**Base Experience Changes:**
 
 	- `85` → `129`

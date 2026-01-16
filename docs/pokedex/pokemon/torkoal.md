@@ -15,6 +15,14 @@
 
 ??? note "Torkoal ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `85` → `100`
+
+	**Stat: special_attack Changes:**
+
+	- `85` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `18 moves`

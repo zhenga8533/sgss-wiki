@@ -13,6 +13,22 @@
 	</div>
 </div>
 
+
+??? note "Bibarel ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `79` → `89`
+
+	**Stat: attack Changes:**
+
+	- `85` → `95`
+
+	**Stat: special_attack Changes:**
+
+	- `55` → `67`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

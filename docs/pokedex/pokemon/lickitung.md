@@ -15,6 +15,10 @@
 
 ??? note "Lickitung ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `oblivious` → `cloud-nine`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

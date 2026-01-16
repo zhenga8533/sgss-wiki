@@ -15,6 +15,10 @@
 
 ??? note "Kingler ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `shell-armor` → `shed-skin`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `18 moves`

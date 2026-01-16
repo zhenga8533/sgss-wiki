@@ -15,6 +15,10 @@
 
 ??? note "Carvanha ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `speed-boost`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

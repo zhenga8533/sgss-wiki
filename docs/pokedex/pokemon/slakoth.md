@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Slakoth ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `slow-start`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -16,6 +16,18 @@
 
 ??? note "Chatot ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `keen-eye` → `soundproof`
+
+	**Stat: special_attack Changes:**
+
+	- `92` → `112`
+
+	**Stat: speed Changes:**
+
+	- `91` → `111`
+
 	**Base Experience Changes:**
 
 	- `107` → `144`

@@ -15,6 +15,14 @@
 
 ??? note "Ledyba ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `20` → `40`
+
+	**Stat: special_attack Changes:**
+
+	- `40` → `20`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `14 moves`

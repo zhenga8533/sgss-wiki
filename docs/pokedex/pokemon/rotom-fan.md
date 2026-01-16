@@ -19,6 +19,22 @@
 
 	- `electric / ghost` → `electric / flying`
 
+	**Stat: defense Changes:**
+
+	- `107` → `92`
+
+	**Stat: special_defense Changes:**
+
+	- `107` → `92`
+
+	**Stat: speed Changes:**
+
+	- `86` → `116`
+
+	**Ability Changes:**
+
+	- `(none)` → `motor-drive`
+
 
 ## :material-information: Basic Information
 

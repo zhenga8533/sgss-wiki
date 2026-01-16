@@ -15,6 +15,10 @@
 
 ??? note "Tyranitar ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `battle-armor`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

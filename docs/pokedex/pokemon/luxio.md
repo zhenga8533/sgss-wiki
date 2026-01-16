@@ -20,6 +20,10 @@
 
 	- `electric` → `electric / dark`
 
+	**Ability (slot 1) Changes:**
+
+	- `rivalry` → `guts`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `12 moves`

@@ -15,6 +15,14 @@
 
 ??? note "Linoone ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `70` → `90`
+
+	**Stat: speed Changes:**
+
+	- `100` → `105`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `14 moves`

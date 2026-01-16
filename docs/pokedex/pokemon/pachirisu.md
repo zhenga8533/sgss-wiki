@@ -16,6 +16,14 @@
 
 ??? note "Pachirisu ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `volt-absorb`
+
+	**Stat: special_attack Changes:**
+
+	- `45` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `13 moves`

@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Loudred ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `scrappy`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

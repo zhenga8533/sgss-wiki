@@ -15,6 +15,22 @@
 
 ??? note "Butterfree ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `tinted-lens`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `100`
+
+	**Stat: speed Changes:**
+
+	- `70` → `80`
+
 	**Base Experience Changes:**
 
 	- `160` → `180`

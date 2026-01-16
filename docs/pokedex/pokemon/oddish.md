@@ -15,6 +15,10 @@
 
 ??? note "Oddish ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `run-away`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `15 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Weepinbell ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `gluttony`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `14 moves`

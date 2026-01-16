@@ -16,6 +16,18 @@
 
 ??? note "Quagsire ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `damp` → `unaware`
+
+	**Stat: attack Changes:**
+
+	- `85` → `95`
+
+	**Stat: defense Changes:**
+
+	- `85` → `95`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

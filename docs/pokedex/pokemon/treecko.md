@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Treecko ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `unburden`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

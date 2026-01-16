@@ -19,6 +19,14 @@
 
 	- `poliwhirl > politoed: trade (held: kings-rock)` → `poliwhirl > politoed: use-item (kings-rock)`
 
+	**Stat: attack Changes:**
+
+	- `85` → `95`
+
+	**Stat: defense Changes:**
+
+	- `95` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `9 moves`

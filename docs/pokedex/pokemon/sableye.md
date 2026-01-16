@@ -15,6 +15,26 @@
 
 ??? note "Sableye ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `keen-eye` → `steadfast`
+
+	**Stat: hp Changes:**
+
+	- `50` → `60`
+
+	**Stat: attack Changes:**
+
+	- `75` → `95`
+
+	**Stat: defense Changes:**
+
+	- `75` → `95`
+
+	**Stat: special_defense Changes:**
+
+	- `65` → `85`
+
 	**Base Experience Changes:**
 
 	- `98` → `118`

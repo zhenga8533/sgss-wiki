@@ -15,6 +15,10 @@
 
 ??? note "Feraligatr ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `intimidate`
+
 	**Level-up Moves Changes:**
 
 	- `22 moves` → `18 moves`

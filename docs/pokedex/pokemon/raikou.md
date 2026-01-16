@@ -16,6 +16,10 @@
 
 ??? note "Raikou ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `volt-absorb`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `18 moves`

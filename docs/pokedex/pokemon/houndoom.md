@@ -15,6 +15,10 @@
 
 ??? note "Houndoom ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `early-bird` → `intimidate`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

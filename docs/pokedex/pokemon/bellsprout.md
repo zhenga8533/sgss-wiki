@@ -15,6 +15,10 @@
 
 ??? note "Bellsprout ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `gluttony`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `14 moves`

@@ -15,6 +15,34 @@
 
 ??? note "Delibird ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `hustle` → `technician`
+
+	**Stat: hp Changes:**
+
+	- `45` → `50`
+
+	**Stat: attack Changes:**
+
+	- `55` → `95`
+
+	**Stat: defense Changes:**
+
+	- `45` → `55`
+
+	**Stat: special_attack Changes:**
+
+	- `65` → `105`
+
+	**Stat: special_defense Changes:**
+
+	- `45` → `55`
+
+	**Stat: speed Changes:**
+
+	- `75` → `115`
+
 	**Level-up Moves Changes:**
 
 	- `1 move` → `12 moves`

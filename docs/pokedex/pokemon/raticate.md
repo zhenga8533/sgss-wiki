@@ -15,6 +15,22 @@
 
 ??? note "Raticate ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `55` → `65`
+
+	**Stat: attack Changes:**
+
+	- `81` → `91`
+
+	**Stat: speed Changes:**
+
+	- `97` → `107`
+
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `hustle`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `19 moves`

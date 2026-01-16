@@ -15,6 +15,10 @@
 
 ??? note "Electrode ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `soundproof` → `aftermath`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Regirock ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `sturdy`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

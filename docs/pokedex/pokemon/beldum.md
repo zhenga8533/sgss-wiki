@@ -15,6 +15,10 @@
 
 ??? note "Beldum ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rock-head`
+
 	**Level-up Moves Changes:**
 
 	- `1 move` → `4 moves`

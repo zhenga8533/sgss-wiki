@@ -16,6 +16,10 @@
 
 ??? note "Suicune ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `water-absorb`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `18 moves`

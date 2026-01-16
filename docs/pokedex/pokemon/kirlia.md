@@ -15,6 +15,10 @@
 
 ??? note "Kirlia ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `65` → `95`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `14 moves`

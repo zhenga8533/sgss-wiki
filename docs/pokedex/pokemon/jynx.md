@@ -15,6 +15,18 @@
 
 ??? note "Jynx ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `oblivious` → `dry-skin`
+
+	**Ability (slot 2) Changes:**
+
+	- `forewarn` → `filter`
+
+	**Stat: special_attack Changes:**
+
+	- `115` → `120`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

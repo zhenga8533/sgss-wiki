@@ -15,6 +15,10 @@
 
 ??? note "Gloom ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `stench`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Typhlosion ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `flash-fire`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

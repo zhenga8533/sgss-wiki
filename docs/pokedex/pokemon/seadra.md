@@ -19,6 +19,18 @@
 
 	- `seadra > kingdra: trade (held: dragon-scale)` → `seadra > kingdra: use-item (dragon-scale)`
 
+	**Stat: hp Changes:**
+
+	- `55` → `65`
+
+	**Stat: attack Changes:**
+
+	- `65` → `75`
+
+	**Stat: special_defense Changes:**
+
+	- `45` → `75`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `13 moves`

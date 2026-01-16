@@ -16,6 +16,22 @@
 
 ??? note "Raichu ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `90` → `100`
+
+	**Stat: special_attack Changes:**
+
+	- `90` → `100`
+
+	**Stat: speed Changes:**
+
+	- `100` → `121`
+
+	**Ability Changes:**
+
+	- `(none)` → `lightning-rod`
+
 	**Base Experience Changes:**
 
 	- `122` → `179`

@@ -16,6 +16,10 @@
 
 ??? note "Rapidash ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `flame-body`
+
 	**Level-up Moves Changes:**
 
 	- `25 moves` → `18 moves`

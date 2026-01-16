@@ -13,6 +13,22 @@
 	</div>
 </div>
 
+
+??? note "Wormadam Plant ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `79` → `99`
+
+	**Stat: special_defense Changes:**
+
+	- `105` → `125`
+
+	**Ability Changes:**
+
+	- `(none)` → `leaf-guard`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

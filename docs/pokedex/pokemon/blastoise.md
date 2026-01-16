@@ -15,6 +15,10 @@
 
 ??? note "Blastoise ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rain-dish`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `19 moves`

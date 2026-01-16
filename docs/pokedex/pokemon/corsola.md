@@ -15,6 +15,18 @@
 
 ??? note "Corsola ROM Changes"
 
+	**Stat: defense Changes:**
+
+	- `85` → `115`
+
+	**Stat: special_attack Changes:**
+
+	- `65` → `105`
+
+	**Stat: special_defense Changes:**
+
+	- `85` → `110`
+
 	**Base Experience Changes:**
 
 	- `113` → `128`

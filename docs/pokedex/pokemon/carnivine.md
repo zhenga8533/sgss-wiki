@@ -20,6 +20,14 @@
 
 	- `grass` → `grass / dark`
 
+	**Stat: attack Changes:**
+
+	- `100` → `120`
+
+	**Stat: speed Changes:**
+
+	- `46` → `86`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `19 moves`

@@ -25,6 +25,30 @@
 
 	- `eevee > glaceon: level-up (at sinnoh-route-217)` → `eevee > glaceon: use-item (chilled-ore)`
 
+	**Ability Changes:**
+
+	- `(none)` → `guts`
+
+	**Stat: hp Changes:**
+
+	- `65` → `110`
+
+	**Stat: defense Changes:**
+
+	- `60` → `65`
+
+	**Stat: special_attack Changes:**
+
+	- `95` → `60`
+
+	**Stat: special_defense Changes:**
+
+	- `110` → `65`
+
+	**Stat: speed Changes:**
+
+	- `65` → `95`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `17 moves`

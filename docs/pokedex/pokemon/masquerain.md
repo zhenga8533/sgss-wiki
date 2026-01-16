@@ -19,6 +19,22 @@
 
 	- `bug / flying` → `bug / water`
 
+	**Ability (slot 1) Changes:**
+
+	- `intimidate` → `levitate`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `82` → `102`
+
+	**Stat: speed Changes:**
+
+	- `60` → `90`
+
 	**Base Experience Changes:**
 
 	- `128` → `158`

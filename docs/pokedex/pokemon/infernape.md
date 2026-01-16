@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Infernape ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `iron-fist`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

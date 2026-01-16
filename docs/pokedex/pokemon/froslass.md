@@ -12,6 +12,18 @@
 	</div>
 </div>
 
+
+??? note "Froslass ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `levitate`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `100`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

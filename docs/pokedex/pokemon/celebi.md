@@ -16,6 +16,10 @@
 
 ??? note "Celebi ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `magic-guard`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

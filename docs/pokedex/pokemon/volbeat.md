@@ -19,6 +19,30 @@
 
 	- `bug` → `bug / electric`
 
+	**Stat: hp Changes:**
+
+	- `65` → `80`
+
+	**Stat: attack Changes:**
+
+	- `73` → `30`
+
+	**Stat: defense Changes:**
+
+	- `55` → `60`
+
+	**Stat: special_attack Changes:**
+
+	- `47` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `75` → `90`
+
+	**Stat: speed Changes:**
+
+	- `85` → `90`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

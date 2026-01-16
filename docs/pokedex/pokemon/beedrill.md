@@ -15,6 +15,22 @@
 
 ??? note "Beedrill ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `sniper`
+
+	**Stat: attack Changes:**
+
+	- `80` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `90`
+
+	**Stat: speed Changes:**
+
+	- `75` → `95`
+
 	**Base Experience Changes:**
 
 	- `159` → `179`

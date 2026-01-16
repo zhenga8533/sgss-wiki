@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Breloom ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `effect-spore` → `technician`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

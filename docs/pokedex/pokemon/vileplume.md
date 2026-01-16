@@ -15,6 +15,18 @@
 
 ??? note "Vileplume ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `100` → `110`
+
+	**Stat: special_defense Changes:**
+
+	- `90` → `100`
+
+	**Ability Changes:**
+
+	- `(none)` → `effect-spore`
+
 	**Base Experience Changes:**
 
 	- `184` → `192`

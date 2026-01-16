@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Venusaur ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `chlorophyll`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

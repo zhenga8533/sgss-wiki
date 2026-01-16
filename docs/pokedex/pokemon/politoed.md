@@ -19,6 +19,18 @@
 
 	- `poliwhirl > politoed: trade (held: kings-rock)` → `poliwhirl > politoed: use-item (kings-rock)`
 
+	**Stat: defense Changes:**
+
+	- `75` → `85`
+
+	**Stat: speed Changes:**
+
+	- `70` → `75`
+
+	**Ability (slot 2) Changes:**
+
+	- `damp` → `drizzle`
+
 
 ## :material-information: Basic Information
 

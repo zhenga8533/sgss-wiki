@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Dratini ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `marvel-scale`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

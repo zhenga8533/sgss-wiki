@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Numel ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `oblivious` → `own-tempo`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -16,6 +16,10 @@
 
 ??? note "Gible ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rough-skin`
+
 	**Level-up Moves Changes:**
 
 	- `10 moves` → `11 moves`

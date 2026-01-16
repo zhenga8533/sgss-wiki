@@ -13,6 +13,34 @@
 	</div>
 </div>
 
+
+??? note "Phione ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `80` → `85`
+
+	**Stat: attack Changes:**
+
+	- `80` → `85`
+
+	**Stat: defense Changes:**
+
+	- `80` → `85`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `85`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `85`
+
+	**Stat: speed Changes:**
+
+	- `80` → `85`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

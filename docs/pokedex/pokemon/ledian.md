@@ -15,6 +15,18 @@
 
 ??? note "Ledian ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `swarm` → `iron-fist`
+
+	**Stat: attack Changes:**
+
+	- `35` → `95`
+
+	**Stat: special_attack Changes:**
+
+	- `55` → `35`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `17 moves`

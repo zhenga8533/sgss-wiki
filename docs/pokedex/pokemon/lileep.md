@@ -15,6 +15,10 @@
 
 ??? note "Lileep ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `storm-drain`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

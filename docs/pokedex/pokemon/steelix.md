@@ -20,6 +20,10 @@
 
 	- `onix > steelix: trade (held: metal-coat)` → `onix > steelix: use-item (metal-coat)`
 
+	**Stat: attack Changes:**
+
+	- `85` → `90`
+
 
 ## :material-information: Basic Information
 

@@ -12,6 +12,18 @@
 	</div>
 </div>
 
+
+??? note "Ariados ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `swarm` → `sniper`
+
+	**Stat: speed Changes:**
+
+	- `40` → `80`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

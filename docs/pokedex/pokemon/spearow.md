@@ -15,6 +15,10 @@
 
 ??? note "Spearow ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `sniper`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `13 moves`

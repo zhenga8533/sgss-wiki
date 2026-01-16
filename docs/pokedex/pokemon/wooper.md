@@ -16,6 +16,10 @@
 
 ??? note "Wooper ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `damp` → `unaware`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

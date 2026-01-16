@@ -13,6 +13,22 @@
 	</div>
 </div>
 
+
+??? note "Mothim ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `tinted-lens`
+
+	**Stat: special_attack Changes:**
+
+	- `94` → `109`
+
+	**Stat: speed Changes:**
+
+	- `66` → `91`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

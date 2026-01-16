@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Smoochum ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `oblivious` → `hydration`
+
+	**Ability (slot 2) Changes:**
+
+	- `forewarn` → `filter`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

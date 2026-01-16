@@ -16,6 +16,10 @@
 
 ??? note "Lopunny ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `cute-charm` → `limber`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `19 moves`

@@ -17,6 +17,10 @@
 
 ??? note "Pichu ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `lightning-rod`
+
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `9 moves`

@@ -12,6 +12,18 @@
 	</div>
 </div>
 
+
+??? note "Flygon ROM Changes"
+
+	**Stat: attack Changes:**
+
+	- `100` → `110`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `100`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

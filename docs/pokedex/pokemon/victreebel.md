@@ -15,6 +15,18 @@
 
 ??? note "Victreebel ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `105` → `115`
+
+	**Stat: special_attack Changes:**
+
+	- `100` → `110`
+
+	**Ability Changes:**
+
+	- `(none)` → `gluttony`
+
 	**Base Experience Changes:**
 
 	- `191` → `199`

@@ -16,6 +16,22 @@
 
 ??? note "Pikachu ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `55` → `65`
+
+	**Stat: special_attack Changes:**
+
+	- `50` → `60`
+
+	**Stat: speed Changes:**
+
+	- `90` → `95`
+
+	**Ability Changes:**
+
+	- `(none)` → `lightning-rod`
+
 	**Base Experience Changes:**
 
 	- `82` → `92`

@@ -15,6 +15,10 @@
 
 ??? note "Swampert ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `damp`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `18 moves`

@@ -15,6 +15,14 @@
 
 ??? note "Arbok ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `85` → `91`
+
+	**Stat: speed Changes:**
+
+	- `80` → `86`
+
 	**Base Experience Changes:**
 
 	- `147` → `163`

@@ -12,6 +12,18 @@
 	</div>
 </div>
 
+
+??? note "Rotom ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `95` → `105`
+
+	**Stat: speed Changes:**
+
+	- `91` → `101`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

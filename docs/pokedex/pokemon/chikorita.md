@@ -15,6 +15,10 @@
 
 ??? note "Chikorita ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `natural-cure`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

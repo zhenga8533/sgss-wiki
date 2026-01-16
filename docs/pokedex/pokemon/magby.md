@@ -20,6 +20,10 @@
 
 	- `magmar > magmortar: trade (held: magmarizer)` → `magmar > magmortar: use-item (magmarizer)`
 
+	**Ability Changes:**
+
+	- `(none)` → `vital-spirit`
+
 
 ## :material-information: Basic Information
 

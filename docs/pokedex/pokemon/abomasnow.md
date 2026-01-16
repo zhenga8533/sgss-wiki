@@ -16,6 +16,22 @@
 
 ??? note "Abomasnow ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
+	**Stat: hp Changes:**
+
+	- `90` → `100`
+
+	**Stat: attack Changes:**
+
+	- `92` → `100`
+
+	**Stat: special_attack Changes:**
+
+	- `92` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `14 moves`

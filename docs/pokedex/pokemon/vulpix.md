@@ -15,6 +15,10 @@
 
 ??? note "Vulpix ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `forewarn`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `16 moves`

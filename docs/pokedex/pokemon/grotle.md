@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Grotle ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `shell-armor`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

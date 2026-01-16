@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Purugly ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `71` → `100`
+
+	**Stat: attack Changes:**
+
+	- `82` → `86`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

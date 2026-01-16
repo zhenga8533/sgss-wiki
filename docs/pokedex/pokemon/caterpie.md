@@ -15,6 +15,10 @@
 
 ??? note "Caterpie ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `run-away`
+
 	**Level-up Moves Changes:**
 
 	- `3 moves` → `4 moves`

@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Dewgong ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `70` → `80`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

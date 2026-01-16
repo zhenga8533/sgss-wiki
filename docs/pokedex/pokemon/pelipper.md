@@ -16,6 +16,14 @@
 
 ??? note "Pelipper ROM Changes"
 
+	**Stat: defense Changes:**
+
+	- `100` → `120`
+
+	**Stat: special_attack Changes:**
+
+	- `85` → `95`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

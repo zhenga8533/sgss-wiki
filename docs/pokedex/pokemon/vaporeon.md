@@ -25,6 +25,10 @@
 
 	- `eevee > glaceon: level-up (at sinnoh-route-217)` → `eevee > glaceon: use-item (chilled-ore)`
 
+	**Ability Changes:**
+
+	- `(none)` → `hydration`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `17 moves`

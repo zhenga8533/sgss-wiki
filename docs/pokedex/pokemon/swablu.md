@@ -15,6 +15,10 @@
 
 ??? note "Swablu ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `cloud-nine`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `12 moves`

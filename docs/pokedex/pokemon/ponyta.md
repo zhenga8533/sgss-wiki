@@ -16,6 +16,10 @@
 
 ??? note "Ponyta ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `flame-body`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `15 moves`

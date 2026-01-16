@@ -15,6 +15,10 @@
 
 ??? note "Lunatone ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `95` → `115`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `17 moves`

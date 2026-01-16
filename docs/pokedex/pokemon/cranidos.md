@@ -16,6 +16,10 @@
 
 ??? note "Cranidos ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `reckless`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `13 moves`

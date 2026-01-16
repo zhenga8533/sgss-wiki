@@ -15,6 +15,18 @@
 
 ??? note "Bellossom ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `90` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `100` → `110`
+
+	**Ability Changes:**
+
+	- `(none)` → `own-tempo`
+
 	**Base Experience Changes:**
 
 	- `184` → `192`

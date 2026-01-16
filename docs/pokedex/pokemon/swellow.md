@@ -12,6 +12,22 @@
 	</div>
 </div>
 
+
+??? note "Swellow ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `60` → `70`
+
+	**Stat: attack Changes:**
+
+	- `85` → `95`
+
+	**Ability Changes:**
+
+	- `(none)` → `scrappy`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -23,6 +23,10 @@
 
 	- `electric` → `electric / fighting`
 
+	**Ability Changes:**
+
+	- `(none)` → `vital-spirit`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `15 moves`

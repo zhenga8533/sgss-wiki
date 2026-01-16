@@ -15,6 +15,22 @@
 
 ??? note "Magcargo ROM Changes"
 
+	**Stat: defense Changes:**
+
+	- `120` → `135`
+
+	**Stat: special_attack Changes:**
+
+	- `80` → `115`
+
+	**Stat: special_defense Changes:**
+
+	- `80` → `115`
+
+	**Ability (slot 1) Changes:**
+
+	- `magma-armor` → `solid-rock`
+
 	**Base Experience Changes:**
 
 	- `154` → `171`

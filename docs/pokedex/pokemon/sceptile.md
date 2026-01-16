@@ -15,6 +15,10 @@
 
 ??? note "Sceptile ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `unburden`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `17 moves`

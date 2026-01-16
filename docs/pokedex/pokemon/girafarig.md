@@ -16,6 +16,14 @@
 
 ??? note "Girafarig ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `90` → `110`
+
+	**Stat: speed Changes:**
+
+	- `85` → `105`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `17 moves`

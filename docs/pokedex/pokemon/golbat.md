@@ -16,6 +16,10 @@
 
 ??? note "Golbat ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `anticipation`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

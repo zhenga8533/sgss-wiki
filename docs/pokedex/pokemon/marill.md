@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Marill ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `20` → `50`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

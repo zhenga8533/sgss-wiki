@@ -15,6 +15,10 @@
 
 ??? note "Persian ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `70` → `90`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

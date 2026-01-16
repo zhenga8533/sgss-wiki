@@ -16,6 +16,10 @@
 
 ??? note "Milotic ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `cute-charm`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

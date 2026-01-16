@@ -16,6 +16,10 @@
 
 ??? note "Honchkrow ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `100` → `105`
+
 	**Level-up Moves Changes:**
 
 	- `8 moves` → `9 moves`

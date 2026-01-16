@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Azumarill ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `100` → `110`
+
+	**Stat: special_attack Changes:**
+
+	- `50` → `90`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

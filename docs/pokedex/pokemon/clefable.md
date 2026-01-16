@@ -16,6 +16,10 @@
 
 ??? note "Clefable ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `cute-charm` → `unaware`
+
 	**Level-up Moves Changes:**
 
 	- `4 moves` → `5 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Voltorb ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `soundproof` → `aftermath`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `15 moves`

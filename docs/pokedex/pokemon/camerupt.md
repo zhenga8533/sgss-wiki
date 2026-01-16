@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Camerupt ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `magma-armor` → `anger-point`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

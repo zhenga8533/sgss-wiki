@@ -16,6 +16,10 @@
 
 ??? note "Snover ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `13 moves`

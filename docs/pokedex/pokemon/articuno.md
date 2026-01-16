@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Articuno ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `snow-cloak`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

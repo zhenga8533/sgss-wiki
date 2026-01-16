@@ -15,6 +15,10 @@
 
 ??? note "Croconaw ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `guts`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `16 moves`

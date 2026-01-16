@@ -13,7 +13,7 @@ import orjson
 
 from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
-from rom_wiki_core.utils.data.models import PokemonAbility
+from rom_wiki_core.utils.data.constants import normalize_stat
 from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_ability,
     format_item,
@@ -288,131 +288,6 @@ class PokemonChangesParser(BaseParser):
         # Update with the merged move list
         PokemonMoveService.update_levelup_moves(self._current_pokemon, merged_moves)
 
-    def _update_ability_slot(self, ability_name: str, slot: int | None) -> None:
-        """Update a specific ability slot for the current Pokemon.
-
-        Args:
-            ability_name (str): The ability name to set.
-            slot (int | None): The slot number (1, 2, or 3) to update, or None to add.
-        """
-        pokemon_id = name_to_id(self._current_pokemon)
-        pokemon_data = PokeDBLoader.load_pokemon(pokemon_id)
-        if pokemon_data is None:
-            self.logger.warning(
-                f"Could not load Pokemon '{self._current_pokemon}' for ability update"
-            )
-            return
-
-        ability_id = name_to_id(ability_name)
-
-        # Check if ability already exists (idempotency check)
-        for ability in pokemon_data.abilities:
-            if ability.name == ability_id:
-                # Ability already exists
-                if slot is None or ability.slot == slot:
-                    # Same ability in same/any slot - no change needed
-                    return
-                # Different slot specified - will update below
-
-        # Find and update the specific slot, or add new ability
-        if slot is not None:
-            # Update specific slot
-            found = False
-            for i, ability in enumerate(pokemon_data.abilities):
-                if ability.slot == slot:
-                    # Check if already the same ability (idempotency)
-                    if ability.name == ability_id:
-                        return
-                    # Update this slot with new PokemonAbility
-                    is_hidden = slot == 3  # Slot 3 is typically hidden ability
-                    pokemon_data.abilities[i] = PokemonAbility(
-                        name=ability_id, is_hidden=is_hidden, slot=slot
-                    )
-                    found = True
-                    break
-
-            if not found:
-                # Slot doesn't exist, add it
-                is_hidden = slot == 3
-                pokemon_data.abilities.append(
-                    PokemonAbility(name=ability_id, is_hidden=is_hidden, slot=slot)
-                )
-        else:
-            # No slot specified - find the next available slot (1, 2, or 3)
-            existing_slots = {ability.slot for ability in pokemon_data.abilities}
-            next_slot = None
-            for s in [1, 2, 3]:
-                if s not in existing_slots:
-                    next_slot = s
-                    break
-
-            if next_slot is None:
-                # All slots occupied - default to updating slot 3 (hidden)
-                next_slot = 3
-                for i, ability in enumerate(pokemon_data.abilities):
-                    if ability.slot == 3:
-                        if ability.name == ability_id:
-                            return  # Already same ability
-                        pokemon_data.abilities[i] = PokemonAbility(
-                            name=ability_id, is_hidden=True, slot=3
-                        )
-                        break
-            else:
-                # Add to next available slot
-                is_hidden = next_slot == 3
-                pokemon_data.abilities.append(
-                    PokemonAbility(name=ability_id, is_hidden=is_hidden, slot=next_slot)
-                )
-
-        # Save updated Pokemon data
-        PokeDBLoader.save_pokemon(pokemon_id, pokemon_data)
-        slot_str = f" (slot {slot})" if slot else ""
-        self.logger.info(f"Updated ability{slot_str} for '{self._current_pokemon}': {ability_name}")
-
-    def _apply_stat_change(self, stat_name: str, new_value: int) -> None:
-        """Apply an absolute stat change to the current Pokemon.
-
-        Args:
-            stat_name (str): The stat name (e.g., "HP", "Attack", "Defense", "Special Attack", etc.).
-            new_value (int): The new absolute stat value.
-        """
-        # Map stat display names to Stats attribute names
-        stat_map = {
-            "HP": "hp",
-            "Attack": "attack",
-            "Defense": "defense",
-            "Special Attack": "special_attack",
-            "Special Defense": "special_defense",
-            "Speed": "speed",
-            # Short forms
-            "Atk": "attack",
-            "Def": "defense",
-            "SAtk": "special_attack",
-            "SDef": "special_defense",
-            "Spd": "speed",
-        }
-
-        if stat_name not in stat_map:
-            self.logger.warning(f"Unknown stat '{stat_name}' for Pokemon '{self._current_pokemon}'")
-            return
-
-        # Load current Pokemon data
-        pokemon_id = name_to_id(self._current_pokemon)
-        pokemon_data = PokeDBLoader.load_pokemon(pokemon_id)
-        if pokemon_data is None:
-            self.logger.warning(f"Could not load Pokemon '{self._current_pokemon}' for stat change")
-            return
-
-        attr_name = stat_map[stat_name]
-        current_value = getattr(pokemon_data.stats, attr_name)
-        setattr(pokemon_data.stats, attr_name, new_value)
-
-        # Save updated Pokemon data
-        PokeDBLoader.save_pokemon(pokemon_id, pokemon_data)
-        self.logger.info(
-            f"Updated {stat_name} for '{self._current_pokemon}': {current_value} -> {new_value}"
-        )
-
     def _format_attribute(self, attribute: str, change: str) -> str:
         """Format an attribute for markdown output.
 
@@ -452,8 +327,8 @@ class PokemonChangesParser(BaseParser):
                 if slot_display:
                     markdown += f" {slot_display}"
 
-                # Update Pokemon data - update specific ability slot
-                self._update_ability_slot(ability, slot)
+                # Update Pokemon data - use AttributeService for proper change tracking
+                AttributeService.update_ability_slot(self._current_pokemon, ability, slot)
             elif attribute == "Level Up Moves":
                 # Parse level-up move notation:
                 # (N) = New move at level N, e.g., "Metal Claw (13)"
@@ -498,12 +373,20 @@ class PokemonChangesParser(BaseParser):
                 # Value is the NEW absolute stat value
                 stat_match = re.match(r"^(.+?)\s*\((\d+)\)$", value)
                 if stat_match:
-                    stat = stat_match.group(1).strip()
+                    stat_display = stat_match.group(1).strip()
                     new_value = int(stat_match.group(2))
-                    markdown += f"{stat} ({new_value})"
-                    # Apply absolute stat change to Pokemon data (skip "Total")
-                    if stat != "Total":
-                        self._apply_stat_change(stat, new_value)
+                    markdown += f"{stat_display} ({new_value})"
+                    # Normalize display name to canonical slug, then call service (skip "Total")
+                    if stat_display != "Total":
+                        stat_slug = normalize_stat(stat_display)
+                        if stat_slug:
+                            AttributeService.update_single_stat(
+                                self._current_pokemon, stat_slug, new_value
+                            )
+                        else:
+                            self.logger.warning(
+                                f"Unknown stat '{stat_display}' for {self._current_pokemon}"
+                            )
                 else:
                     # Fallback for edge cases
                     markdown += value

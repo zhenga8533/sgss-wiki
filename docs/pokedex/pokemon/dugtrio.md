@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Dugtrio ROM Changes"
+
+	**Stat: attack Changes:**
+
+	- `80` → `100`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

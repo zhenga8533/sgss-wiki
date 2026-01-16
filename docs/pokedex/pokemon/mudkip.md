@@ -15,6 +15,10 @@
 
 ??? note "Mudkip ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `damp`
+
 	**Level-up Moves Changes:**
 
 	- `12 moves` → `13 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Totodile ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `guts`
+
 	**Level-up Moves Changes:**
 
 	- `19 moves` → `16 moves`

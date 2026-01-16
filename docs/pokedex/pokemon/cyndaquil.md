@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Cyndaquil ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `flash-fire`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -16,6 +16,10 @@
 
 ??? note "Buizel ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `technician`
+
 	**Level-up Moves Changes:**
 
 	- `11 moves` → `12 moves`

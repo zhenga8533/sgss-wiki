@@ -16,6 +16,10 @@
 
 ??? note "Combee ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `hustle`
+
 	**Level-up Moves Changes:**
 
 	- `3 moves` → `5 moves`

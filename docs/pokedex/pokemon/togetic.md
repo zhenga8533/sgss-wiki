@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Togetic ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `hustle` → `super-luck`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

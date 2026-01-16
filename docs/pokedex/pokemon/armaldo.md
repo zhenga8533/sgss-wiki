@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Armaldo ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `swift-swim`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

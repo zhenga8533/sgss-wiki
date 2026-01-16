@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Kricketot ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `run-away`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

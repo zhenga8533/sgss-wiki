@@ -15,6 +15,10 @@
 
 ??? note "Cubone ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `lightning-rod` → `battle-armor`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

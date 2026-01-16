@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Staravia ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `reckless`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

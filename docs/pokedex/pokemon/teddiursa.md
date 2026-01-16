@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Teddiursa ROM Changes"
+
+	**Ability (slot 2) Changes:**
+
+	- `quick-feet` → `honey-gather`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

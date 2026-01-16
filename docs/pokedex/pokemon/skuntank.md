@@ -16,6 +16,10 @@
 
 ??? note "Skuntank ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `71` → `77`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `14 moves`

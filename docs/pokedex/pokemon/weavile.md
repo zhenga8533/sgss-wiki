@@ -16,6 +16,10 @@
 
 ??? note "Weavile ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `(none)` → `technician`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `19 moves`

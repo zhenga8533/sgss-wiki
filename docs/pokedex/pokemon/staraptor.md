@@ -16,6 +16,22 @@
 
 ??? note "Staraptor ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `reckless`
+
+	**Stat: hp Changes:**
+
+	- `85` → `90`
+
+	**Stat: defense Changes:**
+
+	- `70` → `75`
+
+	**Stat: special_defense Changes:**
+
+	- `50` → `65`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `13 moves`

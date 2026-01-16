@@ -15,6 +15,14 @@
 
 ??? note "Pidgeot ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `83` → `103`
+
+	**Stat: attack Changes:**
+
+	- `80` → `91`
+
 	**Base Experience Changes:**
 
 	- `172` → `194`

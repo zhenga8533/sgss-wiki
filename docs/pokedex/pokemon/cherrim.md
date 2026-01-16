@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Cherrim ROM Changes"
+
+	**Stat: special_attack Changes:**
+
+	- `87` → `107`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

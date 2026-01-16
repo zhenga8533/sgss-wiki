@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Smeargle ROM Changes"
+
+	**Stat: speed Changes:**
+
+	- `75` → `110`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

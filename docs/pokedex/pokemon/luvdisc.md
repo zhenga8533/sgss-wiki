@@ -15,6 +15,30 @@
 
 ??? note "Luvdisc ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `hydration`
+
+	**Stat: hp Changes:**
+
+	- `43` → `55`
+
+	**Stat: defense Changes:**
+
+	- `55` → `60`
+
+	**Stat: special_attack Changes:**
+
+	- `40` → `100`
+
+	**Stat: special_defense Changes:**
+
+	- `65` → `80`
+
+	**Stat: speed Changes:**
+
+	- `97` → `125`
+
 	**Held Items Changes:**
 
 	- `heart_scale` → `heart_scale, heart-scale`

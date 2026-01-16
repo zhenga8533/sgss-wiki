@@ -12,6 +12,30 @@
 	</div>
 </div>
 
+
+??? note "Minun ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `static`
+
+	**Stat: attack Changes:**
+
+	- `40` → `50`
+
+	**Stat: special_attack Changes:**
+
+	- `75` → `85`
+
+	**Stat: special_defense Changes:**
+
+	- `85` → `90`
+
+	**Stat: speed Changes:**
+
+	- `95` → `115`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

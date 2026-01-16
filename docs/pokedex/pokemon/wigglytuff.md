@@ -15,6 +15,26 @@
 
 ??? note "Wigglytuff ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `140` → `148`
+
+	**Stat: defense Changes:**
+
+	- `45` → `55`
+
+	**Stat: special_attack Changes:**
+
+	- `75` → `85`
+
+	**Stat: special_defense Changes:**
+
+	- `50` → `65`
+
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
 	**Base Experience Changes:**
 
 	- `109` → `129`

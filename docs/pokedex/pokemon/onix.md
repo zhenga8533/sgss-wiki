@@ -20,6 +20,10 @@
 
 	- `onix > steelix: trade (held: metal-coat)` → `onix > steelix: use-item (metal-coat)`
 
+	**Stat: attack Changes:**
+
+	- `45` → `80`
+
 	**Base Experience Changes:**
 
 	- `108` → `128`

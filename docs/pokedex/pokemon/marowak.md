@@ -15,6 +15,14 @@
 
 ??? note "Marowak ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `lightning-rod` → `battle-armor`
+
+	**Stat: speed Changes:**
+
+	- `45` → `70`
+
 	**Base Experience Changes:**
 
 	- `124` → `140`

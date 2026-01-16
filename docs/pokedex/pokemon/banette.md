@@ -15,6 +15,10 @@
 
 ??? note "Banette ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `83` → `103`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Rattata ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `hustle`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `14 moves`

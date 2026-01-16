@@ -19,6 +19,14 @@
 
 	- `bug / poison` → `bug / psychic`
 
+	**Ability (slot 1) Changes:**
+
+	- `shield-dust` → `poison-heal`
+
+	**Stat: special_attack Changes:**
+
+	- `90` → `115`
+
 	**TM/HM Compatibility Changes:**
 
 	- `32 moves` → `33 moves (added: calm-mind)`

@@ -16,6 +16,14 @@
 
 ??? note "Noctowl ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `keen-eye` → `tinted-lens`
+
+	**Stat: special_attack Changes:**
+
+	- `76` → `86`
+
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `19 moves`

@@ -15,6 +15,10 @@
 
 ??? note "Sentret ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `pickup`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`

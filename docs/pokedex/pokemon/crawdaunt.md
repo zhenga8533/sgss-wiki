@@ -15,6 +15,10 @@
 
 ??? note "Crawdaunt ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `hyper-cutter` → `adaptability`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `16 moves`

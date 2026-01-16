@@ -16,6 +16,10 @@
 
 ??? note "Garchomp ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `rough-skin`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `14 moves`

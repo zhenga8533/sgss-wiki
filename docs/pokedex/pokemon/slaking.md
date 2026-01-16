@@ -15,6 +15,10 @@
 
 ??? note "Slaking ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `slow-start`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `17 moves`

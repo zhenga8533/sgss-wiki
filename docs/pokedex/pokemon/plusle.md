@@ -12,6 +12,30 @@
 	</div>
 </div>
 
+
+??? note "Plusle ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `static`
+
+	**Stat: defense Changes:**
+
+	- `40` → `50`
+
+	**Stat: special_attack Changes:**
+
+	- `85` → `90`
+
+	**Stat: special_defense Changes:**
+
+	- `75` → `85`
+
+	**Stat: speed Changes:**
+
+	- `95` → `115`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

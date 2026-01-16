@@ -15,6 +15,10 @@
 
 ??? note "Jigglypuff ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`

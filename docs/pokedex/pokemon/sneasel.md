@@ -16,6 +16,10 @@
 
 ??? note "Sneasel ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `keen-eye` → `technician`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `16 moves`

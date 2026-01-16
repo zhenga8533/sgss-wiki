@@ -15,6 +15,10 @@
 
 ??? note "Bulbasaur ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `chlorophyll`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `17 moves`

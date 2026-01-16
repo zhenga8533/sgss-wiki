@@ -15,6 +15,10 @@
 
 ??? note "Ninetales ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `drought`
+
 	**Level-up Moves Changes:**
 
 	- `5 moves` → `6 moves`

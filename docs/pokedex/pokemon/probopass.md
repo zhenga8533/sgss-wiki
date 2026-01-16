@@ -15,6 +15,10 @@
 
 ??? note "Probopass ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `75` → `85`
+
 	**Level-up Moves Changes:**
 
 	- `24 moves` → `17 moves`

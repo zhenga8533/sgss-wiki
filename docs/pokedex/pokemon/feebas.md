@@ -16,6 +16,10 @@
 
 ??? note "Feebas ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `adaptability`
+
 	**Level-up Moves Changes:**
 
 	- `3 moves` → `5 moves`

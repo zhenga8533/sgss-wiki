@@ -15,6 +15,18 @@
 
 ??? note "Qwilfish ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `swift-swim` → `intimidate`
+
+	**Stat: attack Changes:**
+
+	- `95` → `100`
+
+	**Stat: special_attack Changes:**
+
+	- `55` → `80`
+
 	**Base Experience Changes:**
 
 	- `100` → `109`

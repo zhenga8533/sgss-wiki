@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Swinub ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `oblivious` → `thick-fat`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

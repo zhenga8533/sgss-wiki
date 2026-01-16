@@ -13,6 +13,30 @@
 	</div>
 </div>
 
+
+??? note "Kricketune ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `technician`
+
+	**Stat: attack Changes:**
+
+	- `85` → `96`
+
+	**Stat: defense Changes:**
+
+	- `51` → `59`
+
+	**Stat: speed Changes:**
+
+	- `65` → `74`
+
+	**Stat: special_defense Changes:**
+
+	- `51` → `59`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

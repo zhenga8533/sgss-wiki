@@ -15,6 +15,18 @@
 
 ??? note "Furret ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `run-away` → `scrappy`
+
+	**Stat: attack Changes:**
+
+	- `76` → `86`
+
+	**Stat: speed Changes:**
+
+	- `90` → `108`
+
 	**Base Experience Changes:**
 
 	- `116` → `126`

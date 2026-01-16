@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Cradily ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `storm-drain`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

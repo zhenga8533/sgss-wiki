@@ -15,6 +15,18 @@
 
 ??? note "Kecleon ROM Changes"
 
+	**Stat: hp Changes:**
+
+	- `60` → `80`
+
+	**Stat: attack Changes:**
+
+	- `90` → `100`
+
+	**Stat: defense Changes:**
+
+	- `70` → `80`
+
 	**Level-up Moves Changes:**
 
 	- `24 moves` → `19 moves`

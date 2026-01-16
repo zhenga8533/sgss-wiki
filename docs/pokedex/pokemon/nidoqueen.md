@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Nidoqueen ROM Changes"
+
+	**Stat: hp Changes:**
+
+	- `90` → `100`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

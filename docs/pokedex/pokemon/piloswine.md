@@ -15,6 +15,10 @@
 
 ??? note "Piloswine ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `oblivious` → `thick-fat`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

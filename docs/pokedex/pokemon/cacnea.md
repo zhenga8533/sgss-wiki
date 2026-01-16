@@ -15,6 +15,10 @@
 
 ??? note "Cacnea ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `water-absorb`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `17 moves`

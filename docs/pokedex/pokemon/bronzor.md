@@ -16,6 +16,10 @@
 
 ??? note "Bronzor ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `24` → `34`
+
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `16 moves`

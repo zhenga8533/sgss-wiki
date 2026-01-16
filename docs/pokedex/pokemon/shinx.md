@@ -16,6 +16,10 @@
 
 ??? note "Shinx ROM Changes"
 
+	**Ability (slot 1) Changes:**
+
+	- `rivalry` → `guts`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `13 moves`

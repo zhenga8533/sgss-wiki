@@ -15,6 +15,14 @@
 
 ??? note "Xatu ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `95` → `100`
+
+	**Stat: speed Changes:**
+
+	- `95` → `100`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `20 moves`

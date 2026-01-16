@@ -12,6 +12,18 @@
 	</div>
 </div>
 
+
+??? note "Nidoking ROM Changes"
+
+	**Stat: attack Changes:**
+
+	- `92` → `97`
+
+	**Stat: special_attack Changes:**
+
+	- `85` → `90`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

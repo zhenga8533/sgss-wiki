@@ -15,6 +15,10 @@
 
 ??? note "Bayleef ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `natural-cure`
+
 	**Level-up Moves Changes:**
 
 	- `16 moves` → `17 moves`

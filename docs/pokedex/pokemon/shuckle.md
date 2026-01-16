@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Shuckle ROM Changes"
+
+	**Ability (slot 1) Changes:**
+
+	- `sturdy` → `solid-rock`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

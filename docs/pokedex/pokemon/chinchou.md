@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Chinchou ROM Changes"
+
+	**Ability (slot 2) Changes:**
+
+	- `illuminate` → `water-absorb`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

@@ -15,6 +15,14 @@
 
 ??? note "Mightyena ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `90` → `105`
+
+	**Stat: speed Changes:**
+
+	- `70` → `80`
+
 	**Level-up Moves Changes:**
 
 	- `17 moves` → `19 moves`

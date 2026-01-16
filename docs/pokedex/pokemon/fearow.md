@@ -15,6 +15,18 @@
 
 ??? note "Fearow ROM Changes"
 
+	**Stat: attack Changes:**
+
+	- `90` → `95`
+
+	**Stat: speed Changes:**
+
+	- `100` → `105`
+
+	**Ability Changes:**
+
+	- `(none)` → `sniper`
+
 	**Base Experience Changes:**
 
 	- `162` → `169`

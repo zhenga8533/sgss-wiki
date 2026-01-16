@@ -16,6 +16,10 @@
 
 ??? note "Bastiodon ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `soundproof`
+
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `13 moves`

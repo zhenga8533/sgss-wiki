@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Gligar ROM Changes"
+
+	**Ability (slot 2) Changes:**
+
+	- `sand-veil` → `immunity`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

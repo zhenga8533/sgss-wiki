@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Seaking ROM Changes"
+
+	**Stat: attack Changes:**
+
+	- `92` → `102`
+
+	**Stat: speed Changes:**
+
+	- `68` → `88`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

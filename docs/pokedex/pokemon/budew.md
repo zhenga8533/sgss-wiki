@@ -17,6 +17,10 @@
 
 ??? note "Budew ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `leaf-guard`
+
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `7 moves`

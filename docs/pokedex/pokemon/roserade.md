@@ -16,6 +16,10 @@
 
 ??? note "Roserade ROM Changes"
 
+	**Ability Changes:**
+
+	- `(none)` → `technician`
+
 	**Level-up Moves Changes:**
 
 	- `5 moves` → `6 moves`

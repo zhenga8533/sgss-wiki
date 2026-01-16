@@ -15,6 +15,10 @@
 
 ??? note "Krabby ROM Changes"
 
+	**Ability (slot 2) Changes:**
+
+	- `shell-armor` → `shed-skin`
+
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `17 moves`

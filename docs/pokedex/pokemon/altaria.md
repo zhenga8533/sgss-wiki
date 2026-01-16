@@ -15,6 +15,18 @@
 
 ??? note "Altaria ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `70` → `90`
+
+	**Stat: defense Changes:**
+
+	- `90` → `100`
+
+	**Ability Changes:**
+
+	- `(none)` → `cloud-nine`
+
 	**Level-up Moves Changes:**
 
 	- `18 moves` → `17 moves`

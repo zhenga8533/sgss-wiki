@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+??? note "Anorith ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `swift-swim`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

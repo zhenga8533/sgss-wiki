@@ -15,6 +15,10 @@
 
 ??? note "Nosepass ROM Changes"
 
+	**Stat: special_attack Changes:**
+
+	- `45` → `65`
+
 	**Level-up Moves Changes:**
 
 	- `19 moves` → `15 moves`

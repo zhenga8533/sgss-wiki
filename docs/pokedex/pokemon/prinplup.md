@@ -13,6 +13,14 @@
 	</div>
 </div>
 
+
+??? note "Prinplup ROM Changes"
+
+	**Ability Changes:**
+
+	- `(none)` → `hustle`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>
