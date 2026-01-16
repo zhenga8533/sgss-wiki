@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	200
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User charges for one turn before attacking. Critical hit chance is one level higher than normal. Has a 30% chance to make the target flinch. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    User charges for one turn before attacking. Has a 30% chance to make the target flinch.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.
 
 ## :material-pokeball: Learning Pokémon
 

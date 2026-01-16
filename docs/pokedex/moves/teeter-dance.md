@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Confuses all targets.
+
+!!! tip "Quick Summary"
+
+    Confuses the target.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user performs a wobbly dance that confuses all the Pokémon in battle.
 
 ## :material-pokeball: Learning Pokémon
 

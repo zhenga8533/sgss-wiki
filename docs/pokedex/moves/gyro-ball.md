@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power increases with the target’s current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150.
+
+!!! tip "Quick Summary"
+
+    Power raises when the user has lower Speed, up to a maximum of 150.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.
 
 ## :material-pokeball: Learning Pokémon
 

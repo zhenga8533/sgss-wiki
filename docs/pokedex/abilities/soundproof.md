@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon is immune to moves flagged as being sound-based. heal bell is unaffected. uproar still prevents this Pokémon from sleeping. This Pokémon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used. howl, roar of time, sonic boom, and yawn are not flagged as sound-based.
+
 !!! tip "Quick Summary"
 
     Protects against sound-based moves.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Gives full immunity to all sound-based moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

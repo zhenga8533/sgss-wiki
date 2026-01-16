@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** The ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on it.</span>
 		</div>
 	</div>
 

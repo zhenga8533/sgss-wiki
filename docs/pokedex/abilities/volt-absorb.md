@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Does not absorb non-damaging electric moves, i.e. thunder wave.
+
 !!! tip "Quick Summary"
 
     Absorbs electric moves, healing for 1/4 max HP.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Restores HP if hit by an Electric-type move.
 
 ## :material-pokeball: Pokémon with this Ability
 

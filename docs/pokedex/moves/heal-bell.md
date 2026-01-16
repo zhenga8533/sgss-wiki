@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Removes major status effects and confusion from every Pokémon in the user’s party.
+
+!!! tip "Quick Summary"
+
+    Cures the entire party of major status effects.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
 
 ## :material-pokeball: Learning Pokémon
 

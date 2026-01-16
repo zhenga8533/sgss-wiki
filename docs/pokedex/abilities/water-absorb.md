@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever a water-type move hits this Pokémon, it heals for 1/4 of its maximum HP, negating any other effect on it. Water moves will ignore this Pokémon's substitute.
+
 !!! tip "Quick Summary"
 
     Absorbs water moves, healing for 1/4 max HP.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Restores HP if hit by a Water-type move.
 
 ## :material-pokeball: Pokémon with this Ability
 

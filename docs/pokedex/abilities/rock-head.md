@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon does not receive recoil damage from its recoil moves. struggle's recoil is unaffected. This ability does not prevent crash damage from missing with jump kick or high jump kick.
+
 !!! tip "Quick Summary"
 
     Protects against recoil damage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Protects the Pokémon from recoil damage.
 
 ## :material-pokeball: Pokémon with this Ability
 

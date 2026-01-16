@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Special Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.</span>
 		</div>
 	</div>
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #4B4B7B 0%, #4B4B7Bdd 100%);">Shadow</span>
 
 - **:material-shape: Category**
 
@@ -43,6 +43,14 @@
 </div>
 
 ## :material-information: Effect
+
+!!! info "Description"
+
+    Changes the weather to Shadow Sky for five turns. Pokémon other than shadow Pokémon take 1/16 their max HP at the end of every turn. This move is typeless for the purposes of weather ball.
+
+!!! tip "Quick Summary"
+
+    Changes the weather to Shadow Sky for five turns.
 
 ## :material-book-open: In-Game Description
 

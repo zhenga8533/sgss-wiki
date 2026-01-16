@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Stat Boosts</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after use.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It checks for unseen items in the area and makes noise and lights when it finds something.</span>
 		</div>
 	</div>
 

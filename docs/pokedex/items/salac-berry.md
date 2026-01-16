@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** In A Pinch</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon, it raises its Speed stat in a pinch.</span>
 		</div>
 	</div>
 

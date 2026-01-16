@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A medicine that fully restores the HP and heals any status problems of a single Pokémon.</span>
 		</div>
 	</div>
 

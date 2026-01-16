@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.</span>
 		</div>
 	</div>
 

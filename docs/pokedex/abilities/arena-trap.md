@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Prevents opponents from fleeing or switching out. Eluded by flying-types and Pokémon in the air.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents the foe from fleeing.
 
 ## :material-pokeball: Pokémon with this Ability
 

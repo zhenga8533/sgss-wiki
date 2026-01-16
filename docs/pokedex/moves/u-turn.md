@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	70
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pokémon from the party. If the target faints from this attack, the user’s trainer selects the new Pokémon to send out first. If the user is the last Pokémon in its party that can battle, it will not switch out. The user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used. This move may be used even if the user is under the effect of ingrain. ingrain’s effect will end.
+
+!!! tip "Quick Summary"
+
+    User must switch out after attacking.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
 
 ## :material-pokeball: Learning Pokémon
 

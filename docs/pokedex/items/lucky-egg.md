@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.</span>
 		</div>
 	</div>
 

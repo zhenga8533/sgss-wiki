@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Increases the frequency of cries heard on the overworld if any party Pokémon has this ability.
+
 !!! tip "Quick Summary"
 
     Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up Bug-type moves in a pinch.
 
 ## :material-pokeball: Pokémon with this Ability
 

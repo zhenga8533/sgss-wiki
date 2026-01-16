@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Spelunking</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A long, durable rope. Use it to escape instantly from a cave or a dungeon.</span>
 		</div>
 	</div>
 

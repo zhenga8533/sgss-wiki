@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	55
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	95%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	25
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User’s critical hit rate is one level higher when using this move.
+
+!!! tip "Quick Summary"
+
+    Has an increased chance for a critical hit.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
 
 ## :material-pokeball: Learning Pokémon
 

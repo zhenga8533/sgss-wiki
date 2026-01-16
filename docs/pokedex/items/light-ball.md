@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.</span>
 		</div>
 	</div>
 

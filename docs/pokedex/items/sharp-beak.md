@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Type Enhancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.</span>
 		</div>
 	</div>
 

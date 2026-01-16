@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you’d like.</span>
 		</div>
 	</div>
 

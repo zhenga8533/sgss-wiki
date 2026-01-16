@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Does not take effect if acquired after entering battle.
+
 !!! tip "Quick Summary"
 
     Lowers opponents' Attack one stage upon entering battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Lowers the foe’s Attack stat.
 
 ## :material-pokeball: Pokémon with this Ability
 

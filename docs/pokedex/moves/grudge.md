@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    If the user faints before it next acts, the move that fainted it will have its PP dropped to 0. End-of-turn damage does not trigger this effect.
+
+!!! tip "Quick Summary"
+
+    If the user faints this turn, the PP of the move that fainted it drops to 0.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Handy containers for cultivating Berries wherever you go.</span>
 		</div>
 	</div>
 

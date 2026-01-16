@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Special Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A somewhat different Ball that becomes progressively better the more turns there are in a battle.</span>
 		</div>
 	</div>
 

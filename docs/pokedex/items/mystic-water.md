@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Type Enhancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.</span>
 		</div>
 	</div>
 

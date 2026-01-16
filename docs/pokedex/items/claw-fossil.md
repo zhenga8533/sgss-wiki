@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Dex Completion</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.</span>
 		</div>
 	</div>
 

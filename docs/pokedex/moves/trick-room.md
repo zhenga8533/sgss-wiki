@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    For five turns (including this one), slower Pokémon will act before faster Pokémon. Move priority is not affected. Using this move when its effect is already active will end the effect. Pokémon holding full incense, lagging tail, or quick claw and Pokémon with stall ignore this effect.
+
+!!! tip "Quick Summary"
+
+    For five turns, slower Pokémon will act before faster Pokémon.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user creates a bizarre area in which slower Pokémon get to move first for five turns.
 
 ## :material-pokeball: Learning Pokémon
 

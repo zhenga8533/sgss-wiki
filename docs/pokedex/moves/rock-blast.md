@@ -1,9 +1,11 @@
 # Rock Blast
 
 
-??? note "ROM Changes"
+??? note "Rock Blast ROM Changes"
 
-    **Accuracy:** `None` → `90`
+	**Accuracy Changes:**
+
+	- `80` → `90`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	25
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Hits 2–5 times in one turn. Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times. Averages to 3 hits per use.
+
+!!! tip "Quick Summary"
+
+    Hits 2-5 times in one turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.
 
 ## :material-pokeball: Learning Pokémon
 

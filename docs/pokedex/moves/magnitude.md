@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power is selected at random between 10 and 150, with an average of 71: Magnitude | Power | Chance --------: | ----: | -----: 4 | 10 | 5% 5 | 30 | 10% 6 | 50 | 20% 7 | 70 | 30% 8 | 90 | 20% 9 | 110 | 10% 10 | 150 | 5% This move has double power against Pokémon currently underground due to dig.
+
+!!! tip "Quick Summary"
+
+    Power varies randomly from 10 to 150.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user looses a ground-shaking quake affecting everyone in battle. Its power varies.
 
 ## :material-pokeball: Learning Pokémon
 

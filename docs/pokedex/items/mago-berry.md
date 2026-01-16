@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Picky Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates sweet food.</span>
 		</div>
 	</div>
 

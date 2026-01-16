@@ -1,11 +1,15 @@
 # Petal Dance
 
 
-??? note "ROM Changes"
+??? note "Petal Dance ROM Changes"
 
-    **Power:** `None` → `120`
+	**Power Changes:**
 
-    **Pp:** `None` → `10`
+	- `90` → `120`
+
+	**Pp Changes:**
+
+	- `20` → `10`
 
 
 ## :material-chart-box: Stats
@@ -16,7 +20,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span>
 
 - **:material-shape: Category**
 
@@ -28,19 +32,19 @@
 
 	---
 
-	—
+	120
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -52,9 +56,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User is forced to attack with this move for 2–3 turns,selected at random. After the last hit, the user becomes confused. safeguard does not protect against the confusion from this move.
+
+!!! tip "Quick Summary"
+
+    Hits every turn for 2-3 turns, then confuses the user.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user attacks by scattering petals for two to three turns. The user then becomes confused.
 
 ## :material-pokeball: Learning Pokémon
 

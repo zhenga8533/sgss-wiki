@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Does not affect non-damaging electric moves, i.e. thunder wave. Increases the frequency of Match Call calls on the overworld if any party Pokémon has this ability.
+
 !!! tip "Quick Summary"
 
     Redirects single-target electric moves to this Pokémon where possible. Absorbs Electric moves, raising Special Attack one stage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon draws in all Electric-type moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

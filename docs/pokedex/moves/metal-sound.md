@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	40
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Lowers the target’s Special Defense by two stages.
+
+!!! tip "Quick Summary"
+
+    Lowers the target’s Special Defense by two stages.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A horrible sound like scraping metal is emitted to sharply reduce the foe’s Sp. Def stat.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A high-tech key that has to be used at a specific location. It emits a special electric signal to open a door.</span>
 		</div>
 	</div>
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon inflicts triple damage with critical hits, rather than the usual double damage.
+
 !!! tip "Quick Summary"
 
     Strengthens critical hits to inflict 3× damage rather than 2×.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up moves if they become critical hits.
 
 ## :material-pokeball: Pokémon with this Ability
 

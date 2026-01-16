@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -20,7 +20,7 @@
 
 	---
 
-	—
+	60
 
 - **:material-target: Accuracy**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Ignores accuracy and evasion modifiers.
+
+!!! tip "Quick Summary"
+
+    Never misses.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.
 
 ## :material-pokeball: Learning Pokémon
 

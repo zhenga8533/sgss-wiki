@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5× as much regular damage.
+
 !!! tip "Quick Summary"
 
     Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up Water-type moves in a pinch.
 
 ## :material-pokeball: Pokémon with this Ability
 

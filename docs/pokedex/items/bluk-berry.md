@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Baking Only</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon.</span>
 		</div>
 	</div>
 

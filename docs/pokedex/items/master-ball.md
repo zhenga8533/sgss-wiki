@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Standard Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.</span>
 		</div>
 	</div>
 

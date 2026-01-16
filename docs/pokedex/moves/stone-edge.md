@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	100
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	80%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User’s critical hit rate is one level higher when using this move.
+
+!!! tip "Quick Summary"
+
+    Has an increased chance for a critical hit.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.
 
 ## :material-pokeball: Learning Pokémon
 

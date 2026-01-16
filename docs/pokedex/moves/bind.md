@@ -1,9 +1,11 @@
 # Bind
 
 
-??? note "ROM Changes"
+??? note "Bind ROM Changes"
 
-    **Accuracy:** `None` → `85`
+	**Accuracy Changes:**
+
+	- `75` → `85`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	15
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. The user continues to use other moves during this time. If the user leaves the field, this effect ends. Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times. Averages to 3 hits per use. rapid spin cancels this effect.
+
+!!! tip "Quick Summary"
+
+    Prevents the target from fleeing and inflicts damage for 2-5 turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A long body or tentacles are used to bind and squeeze the foe for two to five turns.
 
 ## :material-pokeball: Learning Pokémon
 

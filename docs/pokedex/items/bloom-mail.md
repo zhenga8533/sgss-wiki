@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** All Mail</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.</span>
 		</div>
 	</div>
 

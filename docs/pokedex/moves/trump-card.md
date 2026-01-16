@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power is determined by the PP remaining for this move, after its PP cost is deducted. Ignores accuracy and evasion modifiers. PP remaining | Power ------------ | ----: 4 or more | 40 3 | 50 2 | 60 1 | 80 0 | 200 If this move is activated by another move, the activating move’s PP is used to calculate power.
+
+!!! tip "Quick Summary"
+
+    Power increases when this move has less PP, up to a maximum of 200.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The fewer PP this move has, the more power it has for attack.
 
 ## :material-pokeball: Learning Pokémon
 

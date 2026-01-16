@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Other</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon, it restores its HP if it is hit by a foe’s supereffective attack.</span>
 		</div>
 	</div>
 

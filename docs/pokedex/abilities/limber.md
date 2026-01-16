@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon cannot be paralyzed. If a Pokémon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.
+
 !!! tip "Quick Summary"
 
     Prevents paralysis.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon is protected from paralysis.
 
 ## :material-pokeball: Pokémon with this Ability
 

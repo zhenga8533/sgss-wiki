@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.</span>
 		</div>
 	</div>
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn. If the user and target are the same gender, or either is genderless, this move will fail. If either Pokémon leaves the field, this effect ends.
+
+!!! tip "Quick Summary"
+
+    Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.
 
 ## :material-pokeball: Learning Pokémon
 

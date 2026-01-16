@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	40
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User switches out, and the trainer selects a replacement Pokémon from the party. Stat changes, confusion, and persistent move effects are passed along to the replacement Pokémon. The following move effects are passed: * aqua ring * both the user’s and target’s effect of block, mean look, and spider web * the curse effect of curse * embargo * focus energy or an activated lansat berry * gastro acid * ingrain * being sapped by leech seed * being targeted by lock on or mind reader * magnet rise * perish song’s counter * power trick * substitute; the doll’s HP is unchanged The replacement Pokémon does not trigger effects that respond to Pokémon switching in.
+
+!!! tip "Quick Summary"
+
+    Allows the trainer to switch out the user and pass effects along to its replacement.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user switches places with a party Pokémon in waiting, passing along any stat changes.
 
 ## :material-pokeball: Learning Pokémon
 

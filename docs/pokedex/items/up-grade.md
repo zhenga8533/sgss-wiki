@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Evolution</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A transparent device filled with all sorts of data. It was produced by Silph Co.</span>
 		</div>
 	</div>
 

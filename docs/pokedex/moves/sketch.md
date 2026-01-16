@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	1
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Permanently replaces itself with the target’s last used move. If that move is chatter or struggle, this move will fail. This move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore.
+
+!!! tip "Quick Summary"
+
+    Permanently becomes the target’s last used move.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears.
 
 ## :material-pokeball: Learning Pokémon
 

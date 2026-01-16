@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside.</span>
 		</div>
 	</div>
 

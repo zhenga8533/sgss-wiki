@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A convenient notepad that is used for registering your friends, Friend Codes, and keeping a record of game play.</span>
 		</div>
 	</div>
 

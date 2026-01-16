@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Mulch</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fertilizer to be spread on soft soil. It speeds up the growth of Berries. However, it also dries the soil faster.</span>
 		</div>
 	</div>
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon is at full HP, any hit that would knock it out will instead leave it with 1 HP. Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold. If this Pokémon is holding a focus sash, this ability takes precedence and the item will not be consumed.
+
 !!! tip "Quick Summary"
 
     Prevents being KOed from full HP, leaving 1 HP instead. Protects against the one-hit KO moves regardless of HP.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    It is protected against 1-hit KO attacks.
 
 ## :material-pokeball: Pokémon with this Ability
 

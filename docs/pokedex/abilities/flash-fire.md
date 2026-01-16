@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    will o wisp does not trigger this ability for Pokémon immune to burns.
+
 !!! tip "Quick Summary"
 
     Protects against fire moves. Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    It powers up Fire-type moves if it’s hit by one.
 
 ## :material-pokeball: Pokémon with this Ability
 

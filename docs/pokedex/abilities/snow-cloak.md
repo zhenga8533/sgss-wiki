@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    During hail, this Pokémon has 1.25× its evasion, and it does not take hail damage regardless of type. The evasion bonus does not count as a stat modifier. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved in snow.
+
 !!! tip "Quick Summary"
 
     Increases evasion to 1.25× during hail. Protects against hail damage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises evasion in a hailstorm.
 
 ## :material-pokeball: Pokémon with this Ability
 

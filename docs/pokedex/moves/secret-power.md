@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	70
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Has a 30% chance to inflict an effect chosen according to the terrain. Terrain | Effect -------------- | ------------------------------------------------------------- Building | Paralyzes target Cave | Makes target flinch Deep water | Lowers target’s Attack by one stage Desert | Lowers target’s accuracy by one stage Grass | Puts target to sleep Mountain | Makes target flinch Road | Lowers target’s accuracy by one stage Shallow water | Lowers target’s Attack by one stage Snow | Freezes target Tall grass | Puts target to sleep In Pokémon Battle Revolution: Terrain | Effect -------------- | ------------------------------------------------------------- Courtyard | Paralyzes target Crystal | Makes target flinch Gateway | Lowers target’s Attack by one stage Magma | Makes target flinch Main Street | Paralyzes target Neon | Paralyzes target Stargazer | Makes target flinch Sunny Park | Puts target to sleep Sunset | Lowers target’s accuracy by one stage Waterfall | Puts target to sleep
+
+!!! tip "Quick Summary"
+
+    Has a 30% chance to inflict a status effect which depends upon the terrain.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user attacks with a secret power. Its added effects vary depending on the user’s environment.
 
 ## :material-pokeball: Learning Pokémon
 

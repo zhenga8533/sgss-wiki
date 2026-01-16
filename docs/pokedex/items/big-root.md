@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.</span>
 		</div>
 	</div>
 

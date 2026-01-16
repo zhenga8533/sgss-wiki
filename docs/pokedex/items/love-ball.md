@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Apricorn Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.</span>
 		</div>
 	</div>
 

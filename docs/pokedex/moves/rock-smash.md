@@ -1,11 +1,11 @@
 # Rock Smash
 
 
-??? note "ROM Changes"
+??? note "Rock Smash ROM Changes"
 
-    **Power:** `None` → `60`
+	**Power Changes:**
 
-    **Type:** `None` → `fighting`
+	- `40` → `60`
 
 
 ## :material-chart-box: Stats
@@ -16,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -28,19 +28,19 @@
 
 	---
 
-	—
+	60
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -52,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Has a 50% chance to lower the target’s Defense by one stage.
+
+!!! tip "Quick Summary"
+
+    Has a 50% chance to lower the target’s Defense by one stage.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user hits with a punch that may lower the target’s Defense. It can also smash cracked boulders.
 
 ## :material-pokeball: Learning Pokémon
 

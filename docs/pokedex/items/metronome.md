@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.</span>
 		</div>
 	</div>
 

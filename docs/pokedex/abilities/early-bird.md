@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's remaining sleep turn count falls by 2 rather than 1. If this Pokémon's sleep counter is at 1, it will fall to 0 and then the Pokémon will wake up.
+
 !!! tip "Quick Summary"
 
     Makes sleep pass twice as quickly.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon awakens quickly from sleep.
 
 ## :material-pokeball: Pokémon with this Ability
 

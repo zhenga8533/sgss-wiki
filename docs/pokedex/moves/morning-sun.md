@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Heals the user for half its max HP. During sunny day, the healing is increased to 2/3 max HP. During hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP.
+
+!!! tip "Quick Summary"
+
+    Heals the user by half its max HP. Affected by weather.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user restores its own HP. The amount of HP regained varies with the weather.
 
 ## :material-pokeball: Learning Pokémon
 

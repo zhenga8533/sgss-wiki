@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon has 1.5× its Special Attack if any friendly Pokémon has plus or minus. This bonus does not count as a stat modifier. If either ability is disabled by gastro acid, both lose their effect.
+
 !!! tip "Quick Summary"
 
     Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Ups Sp. Atk if another Pokémon has Plus.
 
 ## :material-pokeball: Pokémon with this Ability
 

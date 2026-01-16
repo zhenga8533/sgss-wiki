@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An old-fashioned bell with a gentle, soothing sound.</span>
 		</div>
 	</div>
 

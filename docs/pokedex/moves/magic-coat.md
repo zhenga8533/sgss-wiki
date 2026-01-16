@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    The first non-damaging move targeting the user this turn that inflicts major status effects, stat changes, or trapping effects will be reflected at its user. defog, memento, and teeter dance are not reflected. attract, flatter, gastro acid, leech seed, swagger, worry seed, and yawn are reflected. This move cannot be copied by mirror move.
+
+!!! tip "Quick Summary"
+
+    Reflects back the first effect move used on the user this turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
 
 ## :material-pokeball: Learning Pokémon
 

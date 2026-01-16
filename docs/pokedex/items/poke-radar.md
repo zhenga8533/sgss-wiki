@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.</span>
 		</div>
 	</div>
 

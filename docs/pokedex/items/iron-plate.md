@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plates</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.</span>
 		</div>
 	</div>
 

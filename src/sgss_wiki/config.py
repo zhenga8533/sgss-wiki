@@ -19,7 +19,7 @@ CONFIG = WikiConfig(
     project_root=PROJECT_ROOT,
     # Game information
     game_title="Sacred Gold and Storm Silver",
-    version_group="heartgold-soulsilver",
+    version_group="heartgold_soulsilver",
     version_group_friendly="Heart Gold & Soul Silver",
     # PokeDB configuration
     pokedb_repo_url="https://github.com/zhenga8533/pokedb",

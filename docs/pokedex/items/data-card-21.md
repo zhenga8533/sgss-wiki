@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Data Cards</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It holds Pokéathlon records. It’s a card that shows how many times you’ve won an event.</span>
 		</div>
 	</div>
 

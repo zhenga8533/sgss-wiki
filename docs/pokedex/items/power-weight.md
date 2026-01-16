@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Effort Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.</span>
 		</div>
 	</div>
 

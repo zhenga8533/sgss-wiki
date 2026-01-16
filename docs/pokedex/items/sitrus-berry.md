@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Medicine</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It may be used or held by a Pokémon to heal the user’s HP a little.</span>
 		</div>
 	</div>
 

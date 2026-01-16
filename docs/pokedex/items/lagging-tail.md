@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Bad Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.</span>
 		</div>
 	</div>
 

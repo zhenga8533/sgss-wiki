@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User recovers the last item consumed by the user or a Pokémon in its position on the field. The item must be used again before it can be recovered by this move again. If the user is holding an item, this move fails. Items taken or given away by covet, knock off, switcheroo, thief, or trick may not be recovered.
+
+!!! tip "Quick Summary"
+
+    User recovers the item it last used up.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user recycles a held item that has been used in battle so it can be used again.
 
 ## :material-pokeball: Learning Pokémon
 

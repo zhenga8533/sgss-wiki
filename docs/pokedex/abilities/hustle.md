@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the Attack stat, but lowers accuracy.
 
 ## :material-pokeball: Pokémon with this Ability
 

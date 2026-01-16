@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Erects a barrier around the user’s side of the field that reduces damage from physical attacks by half for five turns. In double battles, the reduction is 1/3. Critical hits are not affected by the barrier. If the user is holding light clay, the barrier lasts for eight turns. brick break or defog used by an opponent will destroy the barrier.
+
+!!! tip "Quick Summary"
+
+    Reduces damage from physical attacks by half.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
 
 ## :material-pokeball: Learning Pokémon
 

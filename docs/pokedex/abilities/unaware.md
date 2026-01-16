@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon ignores other Pokémon's stat modifiers for the purposes of damage and accuracy calculation. Effectively, this affects modifiers of every stat except Speed. The power of punishment and stored power is calculated as usual. When this Pokémon hurts itself in confusion, its stat modifiers affect damage as usual.
+
 !!! tip "Quick Summary"
 
     Ignores other Pokémon's stat modifiers for damage and accuracy calculation.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Ignores any change in ability by the foe.
 
 ## :material-pokeball: Pokémon with this Ability
 

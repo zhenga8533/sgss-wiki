@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Opposing Pokémon take 1/8 of their maximum HP in damage after each turn while they are asleep.
+
 !!! tip "Quick Summary"
 
     Damages sleeping opponents for 1/8 their max HP after each turn.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Reduces a sleeping foe’s HP.
 
 ## :material-pokeball: Pokémon with this Ability
 

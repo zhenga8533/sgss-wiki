@@ -1,9 +1,11 @@
 # Toxic
 
 
-??? note "ROM Changes"
+??? note "Toxic ROM Changes"
 
-    **Accuracy:** `None` → `90`
+	**Accuracy Changes:**
+
+	- `85` → `90`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span>
 
 - **:material-shape: Category**
 
@@ -32,13 +34,13 @@
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Badly poisons the target. Never misses when used by a poison-type Pokémon.
+
+!!! tip "Quick Summary"
+
+    Badly poisons the target, inflicting more damage every turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A move that leaves the target badly poisoned. Its poison damage worsens every turn.
 
 ## :material-pokeball: Learning Pokémon
 

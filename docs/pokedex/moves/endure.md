@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    The user’s HP cannot be lowered below 1 by any means for the remainder of this turn. If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail. This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Prevents the user’s HP from lowering below 1 this turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.
 
 ## :material-pokeball: Learning Pokémon
 

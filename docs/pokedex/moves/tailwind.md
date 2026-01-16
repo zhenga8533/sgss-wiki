@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    For the next three turns, all Pokémon on the user’s side of the field have their original Speed doubled. This effect remains if the user leaves the field.
+
+!!! tip "Quick Summary"
+
+    For three turns, friendly Pokémon have doubled Speed.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.
 
 ## :material-pokeball: Learning Pokémon
 

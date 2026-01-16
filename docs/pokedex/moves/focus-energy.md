@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User’s critical hit rate is two levels higher until it leaves the field. If the user has already used focus energy since entering the field, this move will fail. This effect is passed on by baton pass.
+
+!!! tip "Quick Summary"
+
+    Increases the user’s chance to score a critical hit.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.
 
 ## :material-pokeball: Learning Pokémon
 

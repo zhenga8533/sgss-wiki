@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	40
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Resets the target’s evasion to normal and prevents any further boosting until the target leaves the field. A dark Pokémon under this effect takes normal damage from psychic moves. This move itself ignores accuracy and evasion modifiers.
+
+!!! tip "Quick Summary"
+
+    Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Enables the user to hit a Dark type with any type of move. It also enables the user to hit an evasive foe.
 
 ## :material-pokeball: Learning Pokémon
 

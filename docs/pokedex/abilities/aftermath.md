@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage.
+
 !!! tip "Quick Summary"
 
     Damages the attacker for 1/4 its max HP when knocked out by a contact move.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Damages the foe landing the finishing hit.
 
 ## :material-pokeball: Pokémon with this Ability
 

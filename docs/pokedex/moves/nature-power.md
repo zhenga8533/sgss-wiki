@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Uses another move chosen according to the terrain. Terrain | Selected move ------------------------- | ------------------ Building | tri attack Cave | rock slide Deep water | hydro pump Desert | earthquake Grass | seed bomb Mountain | rock slide Road | earthquake Shallow water | hydro pump Snow | blizzard Tall grass | seed bomb electric terrain | thunderbolt grassy terrain | energy ball misty terrain | moonblast In Pokémon Battle Revolution: Terrain | Selected move -------------- | ------------------ Courtyard | tri attack Crystal | rock slide Gateway | hydro pump Magma | rock slide Main Street | tri attack Neon | tri attack Stargazer | rock slide Sunny Park | seed bomb Sunset | earthquake Waterfall | seed bomb This move cannot be copied by mirror move.
+
+!!! tip "Quick Summary"
+
+    Uses a move which depends upon the terrain.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.
 
 ## :material-pokeball: Learning Pokémon
 

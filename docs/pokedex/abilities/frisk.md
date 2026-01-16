@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon enters battle, it reveals an opposing Pokémon's held item to all participating trainers. In a double battle, if one opponent has an item, this Pokémon will Frisk that Pokémon; if both have an item, it will Frisk one at random.
+
 !!! tip "Quick Summary"
 
     Reveals an opponent's held item upon entering battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon can check the foe’s held item.
 
 ## :material-pokeball: Pokémon with this Ability
 

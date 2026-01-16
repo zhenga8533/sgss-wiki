@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Revival</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.</span>
 		</div>
 	</div>
 

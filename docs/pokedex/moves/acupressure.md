@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Raises one of the target’s stats by two stages. The raised stat is chosen at random from any stats that can be raised by two stages. If no stat is eligible, this move will fail. If the target has a substitute, this move will have no effect, even if the user is the target. This move cannot be copied by mirror move.
+
+!!! tip "Quick Summary"
+
+    Raises one of a friendly Pokémon’s stats at random by two stages.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user applies pressure to stress points, sharply boosting one of its stats.
 
 ## :material-pokeball: Learning Pokémon
 

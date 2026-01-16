@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Spelunking</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.</span>
 		</div>
 	</div>
 

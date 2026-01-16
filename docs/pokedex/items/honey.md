@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Dex Completion</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.</span>
 		</div>
 	</div>
 

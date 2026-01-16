@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fizzy soda drink. It restores the HP of one Pokémon by 60 points.</span>
 		</div>
 	</div>
 

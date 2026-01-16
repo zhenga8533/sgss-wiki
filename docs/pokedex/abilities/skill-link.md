@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon always hits five times with two-to-five-hit moves, such as icicle spear. It also bypasses the accuracy checks on triple kick's second and third hits.
+
 !!! tip "Quick Summary"
 
     Extends two-to-five-hit moves and triple kick to their full length every time.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Increases the frequency of multi-strike moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

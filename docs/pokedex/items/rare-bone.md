@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Loot</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.</span>
 		</div>
 	</div>
 

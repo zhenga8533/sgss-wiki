@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Affects other Pokémon with this ability.
+
 !!! tip "Quick Summary"
 
     Prevents opponents from fleeing or switching out.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents the foe from escaping.
 
 ## :material-pokeball: Pokémon with this Ability
 

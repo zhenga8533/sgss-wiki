@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Unused</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It lists the rules for holding battles. For linked battles, you may choose which set of rules you wish to use.</span>
 		</div>
 	</div>
 

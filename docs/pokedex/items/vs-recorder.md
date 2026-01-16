@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An amazing device that can record a battle either between friends or at a special battle facility.</span>
 		</div>
 	</div>
 

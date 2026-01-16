@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified. The move itself is not revealed; only that there is such a move. Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types. counter, metal burst, mirror coat, and one-hit KO moves to which this Pokémon is immune do not trigger this ability.
+
 !!! tip "Quick Summary"
 
     Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Senses the foe’s dangerous moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

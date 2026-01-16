@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Collectibles</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.</span>
 		</div>
 	</div>
 

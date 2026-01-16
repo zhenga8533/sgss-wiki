@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Dex Completion</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.</span>
 		</div>
 	</div>
 

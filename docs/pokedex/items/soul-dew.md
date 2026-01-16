@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A wondrous orb to be held by LATIOS or LATIAS. It raises both the Sp. Atk and Sp. Def stats.</span>
 		</div>
 	</div>
 

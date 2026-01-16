@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Status Cures</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A spray-type medicine. It heals a single Pokémon that is suffering from a burn.</span>
 		</div>
 	</div>
 

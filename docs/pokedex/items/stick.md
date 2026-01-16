@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by FARFETCH’D. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.</span>
 		</div>
 	</div>
 

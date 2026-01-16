@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A case for storing Seals that can be applied to the Capsule cases of Poké Balls.</span>
 		</div>
 	</div>
 

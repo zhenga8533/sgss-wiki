@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    For five turns (including this one), all immunities to ground moves are disabled. For the duration of this effect, the evasion of every Pokémon on the field is lowered by two stages. Cancels the effects of bounce, fly, and sky drop. Specifically, flying Pokémon and those with levitate or that have used magnet rise are no longer immune to ground attacks, arena trap, spikes, or toxic spikes. bounce, fly, sky drop, high jump kick, jump kick, and splash cannot be used while this move is in effect. *Bug*: If this move is used during a double or triple battle while Pokémon are under the effect of sky drop, Sky Drop’s effect is not correctly canceled on its target, and it remains high in the air indefinitely. As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it.
+
+!!! tip "Quick Summary"
+
+    Disables moves and immunities that involve flying or levitating for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
 
 ## :material-pokeball: Learning Pokémon
 

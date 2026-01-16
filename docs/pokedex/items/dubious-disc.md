@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Evolution</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A transparent device overflowing with dubious data. Its producer is unknown.</span>
 		</div>
 	</div>
 

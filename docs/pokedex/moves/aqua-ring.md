@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Restores 1/16 of the user’s max HP at the end of each turn. If the user leaves the field, this effect ends. This effect is passed on by baton pass.
+
+!!! tip "Quick Summary"
+
+    Restores 1/16 of the user’s max HP each turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user envelops itself in a veil made of water. It regains some HP on every turn.
 
 ## :material-pokeball: Learning Pokémon
 

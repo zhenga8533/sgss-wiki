@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Overworld: If the lead Pokémon has this ability, the wild encounter rate is doubled. This ability has no effect in battle.
+
 !!! tip "Quick Summary"
 
     Doubles the wild encounter rate.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises the likelihood of meeting wild Pokémon.
 
 ## :material-pokeball: Pokémon with this Ability
 

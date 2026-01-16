@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	60
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately. If the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect. If this move is super effective and the target is holding a berry that can reduce this move’s damage, it will do so, and will not be stolen.
+
+!!! tip "Quick Summary"
+
+    If target has a berry, inflicts double damage and uses the berry.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.
 
 ## :material-pokeball: Learning Pokémon
 

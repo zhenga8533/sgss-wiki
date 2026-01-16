@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power. If the target moves before the user, this move will fail. This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.
+
+!!! tip "Quick Summary"
+
+    Uses the target’s move against it before it attacks, with power increased by half.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user tries to cut ahead of the foe to steal and use the foe’s intended move with greater power.
 
 ## :material-pokeball: Learning Pokémon
 

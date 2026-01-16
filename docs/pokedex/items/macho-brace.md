@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Effort Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.</span>
 		</div>
 	</div>
 

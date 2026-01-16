@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's moves have twice their usual effect chance. An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected. secret power is unaffected.
+
 !!! tip "Quick Summary"
 
     Doubles the chance of moves' extra effects occurring.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the likelihood of added effects appearing.
 
 ## :material-pokeball: Pokémon with this Ability
 

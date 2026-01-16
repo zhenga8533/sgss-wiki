@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.</span>
 		</div>
 	</div>
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    While this Pokémon is in battle, self destruct and explosion will fail and aftermath will not take effect.
+
 !!! tip "Quick Summary"
 
     Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents combatants from self-destructing.
 
 ## :material-pokeball: Pokémon with this Ability
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon is cured of any major status ailment after each turn during rain.
+
 !!! tip "Quick Summary"
 
     Cures any major status ailment after each turn during rain.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Heals status problems if it is raining.
 
 ## :material-pokeball: Pokémon with this Ability
 

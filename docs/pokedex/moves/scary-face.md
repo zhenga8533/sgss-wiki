@@ -1,9 +1,11 @@
 # Scary Face
 
 
-??? note "ROM Changes"
+??? note "Scary Face ROM Changes"
 
-    **Accuracy:** `None` → `100`
+	**Accuracy Changes:**
+
+	- `90` → `100`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,13 +34,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Lowers the target’s Speed by two stages.
+
+!!! tip "Quick Summary"
+
+    Lowers the target’s Speed by two stages.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user frightens the foe with a scary face to sharply reduce its Speed stat.
 
 ## :material-pokeball: Learning Pokémon
 

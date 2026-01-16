@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    During strong sunlight, this Pokémon has 1.5× its Special Attack but takes 1/8 of its maximum HP in damage after each turn.
+
 !!! tip "Quick Summary"
 
     Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts Sp. Atk, but lowers HP in sunshine.
 
 ## :material-pokeball: Pokémon with this Ability
 

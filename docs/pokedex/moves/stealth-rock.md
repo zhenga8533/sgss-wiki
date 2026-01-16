@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Spreads sharp rocks around the opposing field, damaging any Pokémon that enters the field for 1/8 its max HP. This damage is affected by the entering Pokémon’s susceptibility to rock moves. rapid spin removes this effect from its user’s side of the field.
+
+!!! tip "Quick Summary"
+
+    Causes damage when opposing Pokémon switch in.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
 
 ## :material-pokeball: Learning Pokémon
 

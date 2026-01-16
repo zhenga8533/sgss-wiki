@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A key to one of the suites at the luxury hotel by a lake. For some odd reason, it often disappears.</span>
 		</div>
 	</div>
 

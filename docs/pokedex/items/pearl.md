@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Loot</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.</span>
 		</div>
 	</div>
 

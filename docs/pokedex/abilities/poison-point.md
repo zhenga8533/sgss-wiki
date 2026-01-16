@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being poisoned.
+
 !!! tip "Quick Summary"
 
     Has a 30% chance of poisoning attacking Pokémon on contact.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Contact with the Pokémon may poison the foe.
 
 ## :material-pokeball: Pokémon with this Ability
 

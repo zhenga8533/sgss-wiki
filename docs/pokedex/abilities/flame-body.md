@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Has a 30% chance of burning attacking Pokémon on contact.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Contact with the Pokémon may burn the foe.
 
 ## :material-pokeball: Pokémon with this Ability
 

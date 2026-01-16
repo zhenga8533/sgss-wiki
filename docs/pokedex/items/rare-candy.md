@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Vitamins</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A candy that is packed with energy. It raises the level of a single Pokémon by one.</span>
 		</div>
 	</div>
 

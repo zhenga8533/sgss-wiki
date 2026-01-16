@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Special Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem.</span>
 		</div>
 	</div>
 

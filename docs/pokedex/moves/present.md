@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Randomly uses one of the following effects. Effect | Chance -------------------------------------------------- | -----: Inflicts regular damage with 40 power | 40% Inflicts regular damage with 80 power | 30% Inflicts regular damage with 120 power | 10% Heals the target for 1/4 its max HP | 20% On average, this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP.
+
+!!! tip "Quick Summary"
+
+    Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user attacks by giving the foe a booby-trapped gift. It restores HP sometimes, however.
 
 ## :material-pokeball: Learning Pokémon
 

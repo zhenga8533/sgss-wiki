@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A large key for operating the doors of the Valley Windworks in the canyon. It was held by a Team Galactic Grunt.</span>
 		</div>
 	</div>
 

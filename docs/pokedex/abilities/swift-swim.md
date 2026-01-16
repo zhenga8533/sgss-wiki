@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's Speed is doubled during rain. This bonus does not count as a stat modifier.
+
 !!! tip "Quick Summary"
 
     Doubles Speed during rain.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the Pokémon’s Speed in rain.
 
 ## :material-pokeball: Pokémon with this Ability
 

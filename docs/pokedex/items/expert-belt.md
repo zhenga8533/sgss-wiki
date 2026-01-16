@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.</span>
 		</div>
 	</div>
 

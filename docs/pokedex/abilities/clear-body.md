@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon cannot have its stats lowered by other Pokémon. This ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis. This Pokémon can still be passed negative stat modifiers through guard swap, heart swap, or power swap. This ability functions identically to white smoke in battle.
+
 !!! tip "Quick Summary"
 
     Prevents stats from being lowered by other Pokémon.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents its stats from being lowered.
 
 ## :material-pokeball: Pokémon with this Ability
 

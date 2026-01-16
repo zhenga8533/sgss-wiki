@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Collectibles</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Pure salt that was discovered deep inside the Shoal Cave. It is extremely salty.</span>
 		</div>
 	</div>
 

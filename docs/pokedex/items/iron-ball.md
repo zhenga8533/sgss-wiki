@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Bad Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.</span>
 		</div>
 	</div>
 

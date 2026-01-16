@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Prevents sleep.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents the Pokémon from falling asleep.
 
 ## :material-pokeball: Pokémon with this Ability
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Increases moves' accuracy to 1.3×.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon’s accuracy is boosted.
 
 ## :material-pokeball: Pokémon with this Ability
 

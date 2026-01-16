@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Standard Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.</span>
 		</div>
 	</div>
 

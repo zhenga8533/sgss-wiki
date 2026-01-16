@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's moves all act as if they were normal-type. Moves that inflict typeless damage do so as usual. Moves of variable type, such as hidden power, are affected. They otherwise work as usual, however; weather ball, for example, is always forced to be Normal, but it still has doubled power and looks different during weather. As thunder wave is prevented by immunities, unlike most non-damaging moves, it does not affect ghost-type Pokémon under the effect of this ability.
+
 !!! tip "Quick Summary"
 
     Makes the Pokémon's moves all act normal-type.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    All the Pokémon’s moves become the Normal type.
 
 ## :material-pokeball: Pokémon with this Ability
 

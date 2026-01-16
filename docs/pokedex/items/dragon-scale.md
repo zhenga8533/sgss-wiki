@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Evolution</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.</span>
 		</div>
 	</div>
 

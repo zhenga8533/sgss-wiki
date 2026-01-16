@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.</span>
 		</div>
 	</div>
 

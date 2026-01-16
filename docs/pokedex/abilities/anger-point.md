@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever this Pokémon receives a critical hit, its Attack rises to the maximum of 6 stages. This ability will still take effect if the critical hit is received by a substitute.
+
 !!! tip "Quick Summary"
 
     Raises Attack to the maximum of six stages upon receiving a critical hit.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises Attack upon taking a critical hit.
 
 ## :material-pokeball: Pokémon with this Ability
 

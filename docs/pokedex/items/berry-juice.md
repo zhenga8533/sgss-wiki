@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.</span>
 		</div>
 	</div>
 

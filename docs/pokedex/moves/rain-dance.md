@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage. If the user is holding damp rock, this effect lasts for eight turns. thunder has 100% accuracy. If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection. solar beam has half power. moonlight, morning sun, and synthesis heal only 1/4 of the user’s max HP. Pokémon with swift swim have doubled original Speed. Pokémon with forecast become water. Pokémon with dry skin heal 1/8 max HP, Pokémon with hydration are cured of major status effects, and Pokémon with rain dish heal 1/16 max HP at the end of each turn.
+
+!!! tip "Quick Summary"
+
+    Changes the weather to rain for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user summons a heavy rain that falls for five turns, powering up Water- type moves.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.
+
 !!! tip "Quick Summary"
 
     Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Encourages the early use of a held Berry.
 
 ## :material-pokeball: Pokémon with this Ability
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	65
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	95%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.
+
+!!! tip "Quick Summary"
+
+    Has a 10% chance to freeze the target and a 10% chance to make the target flinch.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user bites with cold-infused fangs. It may also make the foe flinch or freeze.
 
 ## :material-pokeball: Learning Pokémon
 

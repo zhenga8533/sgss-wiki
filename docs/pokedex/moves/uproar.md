@@ -1,9 +1,11 @@
 # Uproar
 
 
-??? note "ROM Changes"
+??? note "Uproar ROM Changes"
 
-    **Power:** `None` → `90`
+	**Power Changes:**
+
+	- `50` → `90`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	90
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User is forced to use this move for 2–5 turns, selected at random. All Pokémon on the field wake up, and none can fall to sleep until the lock-in ends. Pokémon cannot use rest during this effect. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    Forced to use this move for several turns. Pokémon cannot fall asleep in that time.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.
 
 ## :material-pokeball: Learning Pokémon
 

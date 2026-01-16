@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon cannot be infatuated and is immune to captivate. If a Pokémon is infatuated and acquires this ability, its infatuation is cleared.
+
 !!! tip "Quick Summary"
 
     Prevents infatuation and protects against captivate.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents it from becoming infatuated.
 
 ## :material-pokeball: Pokémon with this Ability
 

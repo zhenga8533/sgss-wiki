@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Standard Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A special Poké Ball for the Pal Park.</span>
 		</div>
 	</div>
 

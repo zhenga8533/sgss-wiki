@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.</span>
 		</div>
 	</div>
 

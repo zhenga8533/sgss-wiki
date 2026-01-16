@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon ignores ghost-type Pokémon's immunity to normal- and fighting-type moves. Ghost Pokémon's other types affect damage as usual.
+
 !!! tip "Quick Summary"
 
     Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Enables moves to hit Ghost-type foes.
 
 ## :material-pokeball: Pokémon with this Ability
 

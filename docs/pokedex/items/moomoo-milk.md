@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A beautifully glowing orb to be held by PALKIA. It boosts the power of Dragon-​ and Water-type moves.</span>
 		</div>
 	</div>
 

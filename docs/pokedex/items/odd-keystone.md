@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Dex Completion</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.</span>
 		</div>
 	</div>
 

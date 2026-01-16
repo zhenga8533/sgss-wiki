@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fancy case for the tidy arrangement and storage of whimsical Pokémon Accessories.</span>
 		</div>
 	</div>
 

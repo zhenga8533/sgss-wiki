@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Prevents the user from switching out. User regains 1/16 of its max HP at the end of every turn. If the user was immune to ground attacks, it will now take normal damage from them. roar and whirlwind will not affect the user. The user cannot use magnet rise. The user may still use u turn to leave the field. This effect can be passed with baton pass.
+
+!!! tip "Quick Summary"
+
+    Prevents the user from leaving battle. User regains 1/16 of its max HP every turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.
 
 ## :material-pokeball: Learning Pokémon
 

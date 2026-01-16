@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A music player that allows you to listen to nostalgic songs. It’s operated with a single switch.</span>
 		</div>
 	</div>
 

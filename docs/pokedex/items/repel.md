@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Spelunking</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item that prevents weak wild Pokémon from appearing for 100 steps after its use.</span>
 		</div>
 	</div>
 

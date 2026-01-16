@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Stat Boosts</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item that raises the critical-hit ratio of a Pokémon in battle. It wears off if the Pokémon is withdrawn.</span>
 		</div>
 	</div>
 

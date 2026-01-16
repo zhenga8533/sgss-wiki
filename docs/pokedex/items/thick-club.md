@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by CUBONE or MAROWAK. It is a hard bone of some sort that boosts the Attack stat.</span>
 		</div>
 	</div>
 

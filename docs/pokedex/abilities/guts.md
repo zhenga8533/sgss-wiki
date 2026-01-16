@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Does not take effect during sleep.
+
 !!! tip "Quick Summary"
 
     Increases Attack to 1.5× with a major status ailment.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts Attack if there is a status problem.
 
 ## :material-pokeball: Pokémon with this Ability
 

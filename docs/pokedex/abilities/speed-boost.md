@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's Speed rises one stage after each turn.
+
 !!! tip "Quick Summary"
 
     Raises Speed one stage after each turn.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Its Speed stat is gradually boosted.
 
 ## :material-pokeball: Pokémon with this Ability
 

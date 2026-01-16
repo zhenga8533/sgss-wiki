@@ -1,11 +1,15 @@
 # Fire Spin
 
 
-??? note "ROM Changes"
+??? note "Fire Spin ROM Changes"
 
-    **Power:** `None` → `35`
+	**Power Changes:**
 
-    **Accuracy:** `None` → `85`
+	- `15` → `35`
+
+	**Accuracy Changes:**
+
+	- `70` → `85`
 
 
 ## :material-chart-box: Stats
@@ -16,7 +20,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span>
 
 - **:material-shape: Category**
 
@@ -28,19 +32,19 @@
 
 	---
 
-	—
+	35
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -52,9 +56,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. The user continues to use other moves during this time. If the user leaves the field, this effect ends. Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times. Averages to 3 hits per use. rapid spin cancels this effect.
+
+!!! tip "Quick Summary"
+
+    Prevents the target from fleeing and inflicts damage for 2-5 turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The foe becomes trapped within a fierce vortex of fire that rages for two to five turns.
 
 ## :material-pokeball: Learning Pokémon
 

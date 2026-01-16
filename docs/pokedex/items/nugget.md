@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Loot</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.</span>
 		</div>
 	</div>
 

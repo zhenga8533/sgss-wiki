@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Effort Drop</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.</span>
 		</div>
 	</div>
 

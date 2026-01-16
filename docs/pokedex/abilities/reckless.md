@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's recoil moves and crash moves have 1.2× their base power. struggle is unaffected. The "crash moves" are the moves that damage the user upon missing: jump kick and high jump kick.
+
 !!! tip "Quick Summary"
 
     Strengthens recoil moves to 1.2× their power.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up moves that have recoil damage.
 
 ## :material-pokeball: Pokémon with this Ability
 

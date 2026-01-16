@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Removes stat, accuracy, and evasion modifiers from every Pokémon on the field. This does not count as a stat reduction for the purposes of clear body or white smoke.
+
+!!! tip "Quick Summary"
+
+    Resets all Pokémon’s stats, accuracy, and evasion.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Mulch</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A fertilizer to be spread on soft soil. It ups the number of times new plants grow where mature plants withered.</span>
 		</div>
 	</div>
 

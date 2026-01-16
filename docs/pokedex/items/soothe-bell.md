@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.</span>
 		</div>
 	</div>
 

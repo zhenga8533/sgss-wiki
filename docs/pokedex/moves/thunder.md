@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	120
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	70%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Has a 30% chance to paralyze the target. During rain dance, this move has 100% accuracy. It also has a (100 - accuracy)% chance to break through the protection of protect and detect. During sunny day, this move has 50% accuracy.
+
+!!! tip "Quick Summary"
+
+    Has a 30% chance to paralyze the target.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
 
 ## :material-pokeball: Learning Pokémon
 

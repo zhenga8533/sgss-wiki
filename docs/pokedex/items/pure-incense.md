@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.</span>
 		</div>
 	</div>
 

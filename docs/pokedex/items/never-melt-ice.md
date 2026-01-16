@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Type Enhancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.</span>
 		</div>
 	</div>
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power varies inversely with the user’s proportional remaining HP. 64 * current HP / max HP | Power -----------------------: | ----: 0– 1 | 200 2– 5 | 150 6–12 | 100 13–21 | 80 22–42 | 40 43–64 | 20
+
+!!! tip "Quick Summary"
+
+    Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An all-out attack that becomes more powerful the less HP the user has.
 
 ## :material-pokeball: Learning Pokémon
 

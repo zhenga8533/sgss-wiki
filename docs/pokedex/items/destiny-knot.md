@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A long, thin, bright red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.</span>
 		</div>
 	</div>
 

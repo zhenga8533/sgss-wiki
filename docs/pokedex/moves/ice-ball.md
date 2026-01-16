@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	30
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User is forced to use this move for five turns. Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends. If this move misses or becomes unusable, the lock-in ends. If the user has used defense curl since entering the field, this move has double power.
+
+!!! tip "Quick Summary"
+
+    Power doubles every turn this move is used in succession after the first, resetting after five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
 
 ## :material-pokeball: Learning Pokémon
 

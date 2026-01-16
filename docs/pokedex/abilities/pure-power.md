@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's Attack is doubled in battle. This bonus does not count as a stat modifier. This ability functions identically to huge power.
+
 !!! tip "Quick Summary"
 
     Doubles Attack in battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the power of physical attacks.
 
 ## :material-pokeball: Pokémon with this Ability
 

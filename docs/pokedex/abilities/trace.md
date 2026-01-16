@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Can copy forecast and trace.
+
 !!! tip "Quick Summary"
 
     Copies an opponent's ability upon entering battle.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon copies the foe’s ability.
 
 ## :material-pokeball: Pokémon with this Ability
 

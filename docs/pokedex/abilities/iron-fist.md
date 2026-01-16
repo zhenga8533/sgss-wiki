@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Moves flagged as being punch-based have 1.2× their base power for this Pokémon. sucker punch is not flagged as punch-based; its original, Japanese name only means "surprise attack".
+
 !!! tip "Quick Summary"
 
     Strengthens punch-based moves to 1.2× their power.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the power of punching moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

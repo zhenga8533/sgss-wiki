@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Vitamins</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.</span>
 		</div>
 	</div>
 

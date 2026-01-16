@@ -13,9 +13,11 @@
 </div>
 
 
-??? note "ROM Changes"
+??? note "Wobbuffet ROM Changes"
 
-    **Level-up Moves:** `4 moves` → `1 move`
+	**Level-up Moves Changes:**
+
+	- `4 moves` → `1 move`
 
 
 ## :material-information: Basic Information
@@ -189,7 +191,7 @@
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 15 | [Mimic](../../pokedex/moves/mimic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 15 | [Mimic](../../pokedex/moves/mimic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
 
 === ":material-disc: TM/HM"
 

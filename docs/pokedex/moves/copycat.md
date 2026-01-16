@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Uses the last move that was used successfully by any Pokémon, including the user. This move cannot copy itself, nor roar nor whirlwind. This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.
+
+!!! tip "Quick Summary"
+
+    Uses the target’s last used move.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user mimics the move used immediately before it. The move fails if no other move has been used yet.
 
 ## :material-pokeball: Learning Pokémon
 

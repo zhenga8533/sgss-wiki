@@ -1,11 +1,15 @@
 # Drain Punch
 
 
-??? note "ROM Changes"
+??? note "Drain Punch ROM Changes"
 
-    **Power:** `None` → `75`
+	**Power Changes:**
 
-    **Pp:** `None` → `10`
+	- `60` → `75`
+
+	**Pp Changes:**
+
+	- `5` → `10`
 
 
 ## :material-chart-box: Stats
@@ -16,7 +20,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -28,19 +32,19 @@
 
 	---
 
-	—
+	75
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -52,9 +56,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Drains half the damage inflicted to heal the user.
+
+!!! tip "Quick Summary"
+
+    Drains half the damage inflicted to heal the user.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An energy-draining punch. The user’s HP is restored by half the damage taken by the target.
 
 ## :material-pokeball: Learning Pokémon
 

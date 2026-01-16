@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Puts the target to sleep at the end of the next turn. Ignores accuracy and evasion modifiers. If the target leaves the field, this effect is canceled. If the target has a status effect when this move is used, this move will fail. If the target is protected by safeguard when this move is used, this move will fail. insomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use.
+
+!!! tip "Quick Summary"
+
+    Target sleeps at the end of the next turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.
 
 ## :material-pokeball: Learning Pokémon
 

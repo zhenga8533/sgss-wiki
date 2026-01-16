@@ -1,9 +1,11 @@
 # Crabhammer
 
 
-??? note "ROM Changes"
+??? note "Crabhammer ROM Changes"
 
-    **Accuracy:** `None` → `90`
+	**Accuracy Changes:**
+
+	- `85` → `90`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	90
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User’s critical hit rate is one level higher when using this move.
+
+!!! tip "Quick Summary"
+
+    Has an increased chance for a critical hit.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The foe is hammered with a large pincer. This move has a high critical-hit ratio.
 
 ## :material-pokeball: Learning Pokémon
 

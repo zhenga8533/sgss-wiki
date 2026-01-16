@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Evolution</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.</span>
 		</div>
 	</div>
 

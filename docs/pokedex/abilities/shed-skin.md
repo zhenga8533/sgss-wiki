@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Chance of taking effect is 33%.
+
 !!! tip "Quick Summary"
 
     Has a 33% chance of curing any major status ailment after each turn.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon may heal its own status problems.
 
 ## :material-pokeball: Pokémon with this Ability
 

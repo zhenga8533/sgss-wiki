@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon cannot be confused. If a Pokémon is confused and acquires this ability, its confusion will immediately be healed.
+
 !!! tip "Quick Summary"
 
     Prevents confusion.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents the Pokémon from becoming confused.
 
 ## :material-pokeball: Pokémon with this Ability
 

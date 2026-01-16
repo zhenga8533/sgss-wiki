@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Unused</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A mythical chain that is said to link the legendary Pokémon that created the Sinnoh region.</span>
 		</div>
 	</div>
 

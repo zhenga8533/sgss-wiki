@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    If the user faints before its next move, the Pokémon that fainted it will automatically faint. End-of-turn damage is ignored. This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    If the user faints this turn, the target automatically will, too.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    When this move is used, if the user faints, the foe that landed the knockout hit also faints.
 
 ## :material-pokeball: Learning Pokémon
 

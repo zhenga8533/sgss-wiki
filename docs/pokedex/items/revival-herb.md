@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Revival</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.</span>
 		</div>
 	</div>
 

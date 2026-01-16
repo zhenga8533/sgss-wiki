@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** The pass required for entering Pokémon Contests. It has a drawing of an award ribbon on it.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Spelunking</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.</span>
 		</div>
 	</div>
 

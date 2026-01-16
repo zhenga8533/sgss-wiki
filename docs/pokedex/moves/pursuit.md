@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	40
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power. This effect can still hit a Pokémon that switches out when it has a substitute up or when an ally has used follow me.
+
+!!! tip "Quick Summary"
+
+    Has double power against, and can hit, Pokémon attempting to switch out.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An attack move that inflicts double damage if used on a foe that is switching out of battle.
 
 ## :material-pokeball: Learning Pokémon
 

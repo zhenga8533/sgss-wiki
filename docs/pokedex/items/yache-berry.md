@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Type Protection</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.</span>
 		</div>
 	</div>
 

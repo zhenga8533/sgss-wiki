@@ -1,9 +1,11 @@
 # Covet
 
 
-??? note "ROM Changes"
+??? note "Covet ROM Changes"
 
-    **Power:** `None` → `60`
+	**Power Changes:**
+
+	- `40` → `60`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	60
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	40
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. If the target is holding an item and the user is not, the user will permanently take the item. Damage is still inflicted if an item cannot be taken. Pokémon with sticky hold or multitype are immune to the item theft effect. The target cannot recover its item with recycle. This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Takes the target’s item.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user endearingly approaches the foe, then steals the item the foe is holding.
 
 ## :material-pokeball: Learning Pokémon
 

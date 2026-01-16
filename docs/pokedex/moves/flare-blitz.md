@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	120
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User takes 1/3 the damage it inflicts in recoil. Has a 10% chance to burn the target. Frozen Pokémon may use this move, in which case they will thaw.
+
+!!! tip "Quick Summary"
+
+    User takes 1/3 the damage inflicted in recoil. Has a 10% chance to burn the target.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too.
 
 ## :material-pokeball: Learning Pokémon
 

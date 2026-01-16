@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Pokémon on the user’s side of the field are immune to stat-lowering effects for five turns. guard swap, heart swap, and power swap may still be used. defog used by an opponent will end this effect.
+
+!!! tip "Quick Summary"
+
+    Protects the user’s stats from being changed by enemy moves.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power increases with the target’s weight in kilograms, to a maximum of 120. Target’s weight | Power --------------- | ----: Up to 10kg | 20 Up to 25kg | 40 Up to 50kg | 60 Up to 100kg | 80 Up to 200kg | 100 Above 200kg | 120
+
+!!! tip "Quick Summary"
+
+    Inflicts more damage to heavier targets, with a maximum of 120 power.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
 
 ## :material-pokeball: Learning Pokémon
 

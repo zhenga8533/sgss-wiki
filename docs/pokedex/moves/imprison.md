@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Prevents any Pokémon on the opposing side of the field from using any move the user knows until the user leaves the field. This effect is live; if the user obtains new moves while on the field, these moves become restricted. If no opposing Pokémon knows any of the user’s moves when this move is used, this move will fail.
+
+!!! tip "Quick Summary"
+
+    Prevents the target from using any moves that the user also knows.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    If the foe knows any move also known by the user, the foe is prevented from using it.
 
 ## :material-pokeball: Learning Pokémon
 

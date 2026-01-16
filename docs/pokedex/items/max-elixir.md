@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** PP Recovery</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It fully restores the PP of all the moves learned by the targeted Pokémon.</span>
 		</div>
 	</div>
 

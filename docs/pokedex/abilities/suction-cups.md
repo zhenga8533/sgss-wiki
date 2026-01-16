@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Has no overworld effect.
+
 !!! tip "Quick Summary"
 
     Prevents being forced out of battle by other Pokémon's moves.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Negates foes’ moves that force switching out.
 
 ## :material-pokeball: Pokémon with this Ability
 

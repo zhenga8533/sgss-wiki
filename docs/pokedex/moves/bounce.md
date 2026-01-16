@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	85
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn. Has a 30% chance to paralyze the target. During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally. gust and twister also have double power against the user. The damage from hail and sandstorm still applies during the immune turn. The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard. This move cannot be used while gravity is in effect. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    User bounces high into the air, dodging all attacks, and hits next turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
 
 ## :material-pokeball: Learning Pokémon
 

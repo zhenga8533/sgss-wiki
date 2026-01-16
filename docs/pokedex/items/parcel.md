@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A parcel entrusted in your care. You are supposed to deliver it to your childhood friend who left Twinleaf Town.</span>
 		</div>
 	</div>
 

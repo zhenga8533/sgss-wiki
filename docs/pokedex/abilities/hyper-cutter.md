@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Doubles cut's grass-cutting radius on the overworld if any party Pokémon has this ability.
+
 !!! tip "Quick Summary"
 
     Prevents Attack from being lowered by other Pokémon.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents the Attack stat from being lowered.
 
 ## :material-pokeball: Pokémon with this Ability
 

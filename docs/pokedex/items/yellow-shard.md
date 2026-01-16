@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Collectibles</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A small yellow shard. It appears to be from some sort of implement made long ago.</span>
 		</div>
 	</div>
 

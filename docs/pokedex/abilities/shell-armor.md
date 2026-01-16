@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Moves cannot score critical hits against this Pokémon. This ability functions identically to battle armor.
+
 !!! tip "Quick Summary"
 
     Protects against critical hits.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon is protected against critical hits.
 
 ## :material-pokeball: Pokémon with this Ability
 

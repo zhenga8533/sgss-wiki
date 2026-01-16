@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Due to a glitch, moves affected by this ability have a (100 - accuracy)% chance to hit through detect or protect.
+
 !!! tip "Quick Summary"
 
     Ensures all moves used by and against the Pokémon hit.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Ensures both Pokémon’s and foe’s attacks land.
 
 ## :material-pokeball: Pokémon with this Ability
 

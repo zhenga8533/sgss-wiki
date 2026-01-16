@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User waits for two turns. On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it. Damage inflicted is typeless. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    User waits for two turns, then hits back for twice the damage it took.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user endures attacks for two turns, then strikes back to cause double the damage taken.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon deals twice as much damage with moves that are not very effective against the target.
+
 !!! tip "Quick Summary"
 
     Doubles damage inflicted with not-very-effective moves.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up “not very effective” moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

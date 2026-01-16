@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A folding Bicycle that enables much faster movement than the Running Shoes.</span>
 		</div>
 	</div>
 

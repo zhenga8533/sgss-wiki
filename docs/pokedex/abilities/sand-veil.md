@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    During a sandstorm, this Pokémon has 1.25× its evasion, and it does not take sandstorm damage regardless of type. The evasion bonus does not count as a stat modifier. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved in a sandstorm.
+
 !!! tip "Quick Summary"
 
     Increases evasion to 1.25× during a sandstorm. Protects against sandstorm damage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts the Pokémon’s evasion in a sandstorm.
 
 ## :material-pokeball: Pokémon with this Ability
 

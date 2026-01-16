@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.
+
 !!! tip "Quick Summary"
 
     Heals for 1/16 max HP after each turn during hail. Protects against hail damage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon regains HP in a hailstorm.
 
 ## :material-pokeball: Pokémon with this Ability
 

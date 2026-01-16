@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Flutes</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.</span>
 		</div>
 	</div>
 

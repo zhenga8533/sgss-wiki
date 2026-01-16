@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Bad Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A held item that damages the holder on every turn. It may latch on to foes that touch the holder.</span>
 		</div>
 	</div>
 

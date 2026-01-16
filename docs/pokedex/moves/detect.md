@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    No moves will hit the user for the remainder of this turn. If the user is last to act this turn, this move will fail. If the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail. lock on, mind reader, and no guard provide a (100 – accuracy)% chance for moves to break through this move. This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move. thunder during rain dance and blizzard during hail have a 30% chance to break through this move. The following effects are not prevented by this move: * acupressure from an ally * curse’s curse effect * Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn * feint, which will also end this move’s protection after it hits * imprison * perish song * shadow force * Moves that merely copy the user, such as transform or psych up This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Prevents any moves from hitting the user this turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
 
 ## :material-pokeball: Learning Pokémon
 

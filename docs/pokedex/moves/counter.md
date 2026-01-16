@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Targets the last opposing Pokémon to hit the user with a physical move this turn. Inflicts twice the damage that move did to the user. If there is no eligible target, this move will fail. Type immunity applies, but other type effects are ignored. This move cannot be copied by mirror move, nor selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Inflicts twice the damage the user received from the last physical hit it took.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A retaliation move that counters any physical attack, inflicting double the damage taken.
 
 ## :material-pokeball: Learning Pokémon
 

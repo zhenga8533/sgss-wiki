@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Type Enhancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.</span>
 		</div>
 	</div>
 

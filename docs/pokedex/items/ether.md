@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** PP Recovery</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** It restores the PP of a Pokémon’s selected move by a maximum of 10 points.</span>
 		</div>
 	</div>
 

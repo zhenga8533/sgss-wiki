@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Unused</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A nice photo album for storing all the photos taken along your adventure.</span>
 		</div>
 	</div>
 

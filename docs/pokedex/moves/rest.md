@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User falls to sleep and immediately regains all its HP. If the user has another major status effect, sleep will replace it. The user will always wake up after two turns, or one turn with early bird. This move fails if the Pokémon cannot fall asleep due to uproar, insomnia, or vital spirit. It also fails if the Pokémon is at full health or is already asleep.
+
+!!! tip "Quick Summary"
+
+    User sleeps for two turns, completely healing itself.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.
 
 ## :material-pokeball: Learning Pokémon
 

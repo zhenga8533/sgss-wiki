@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User and target permanently swap held items. Works even if one of the Pokémon isn’t holding anything. If either Pokémon is holding mail, this move will fail. If either Pokémon has multitype or sticky hold, this move will fail. If this move results in a Pokémon obtaining choice band, choice scarf, or choice specs, and that Pokémon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move. This applies even if both Pokémon had a choice item before this move was used. If the first of the two Pokémon gains a choice item, it may select whatever choice move it wishes next turn. Neither the user nor the target can recover its item with recycle. This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    User and target swap items.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user trades held items with the foe faster than the eye can follow.
 
 ## :material-pokeball: Learning Pokémon
 

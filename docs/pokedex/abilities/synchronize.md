@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Cannot influence the natures of Pokémon encountered by interacting with them on the overworld.
+
 !!! tip "Quick Summary"
 
     Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Passes a burn, poison, or paralysis to the foe.
 
 ## :material-pokeball: Pokémon with this Ability
 

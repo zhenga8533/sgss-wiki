@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    This move is replaced by the target’s last successfully used move, and its PP changes to 5. If the target hasn’t used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail. This effect vanishes when the user leaves the field. If chatter, metronome, mimic, sketch, or struggle is selected, this move will fail. This move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore.
+
+!!! tip "Quick Summary"
+
+    Copies the target’s last used move.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user copies the move last used by the foe. The move can be used for the rest of the battle.
 
 ## :material-pokeball: Learning Pokémon
 

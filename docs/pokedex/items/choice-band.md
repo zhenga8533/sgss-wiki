@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Choice</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.</span>
 		</div>
 	</div>
 

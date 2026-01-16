@@ -1,9 +1,11 @@
 # Last Resort
 
 
-??? note "ROM Changes"
+??? note "Last Resort ROM Changes"
 
-    **Power:** `None` → `140`
+	**Power Changes:**
+
+	- `130` → `140`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	140
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. This move can only be used if each of the user’s other moves has been used at least once since the user entered the field. If this is the user’s only move, this move will fail.
+
+!!! tip "Quick Summary"
+
+    Can only be used after all of the user’s other moves have been used.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    This move can be used only after the user has used all the other moves it knows in the battle.
 
 ## :material-pokeball: Learning Pokémon
 

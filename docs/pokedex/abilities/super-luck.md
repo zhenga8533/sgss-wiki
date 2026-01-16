@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's moves have critical hit rates one stage higher than normal.
+
 !!! tip "Quick Summary"
 
     Raises moves' critical hit rates one stage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Heightens the critical- hit ratios of moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

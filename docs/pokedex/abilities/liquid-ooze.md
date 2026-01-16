@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever a Pokémon would heal after hitting this Pokémon with a leeching move like absorb, it instead loses as many HP as it would usually gain. dream eater is unaffected.
+
 !!! tip "Quick Summary"
 
     Damages opponents using leeching moves for as much as they would heal.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Inflicts damage on foes using any draining move.
 
 ## :material-pokeball: Pokémon with this Ability
 

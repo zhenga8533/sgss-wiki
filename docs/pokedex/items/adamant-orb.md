@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A brightly gleaming orb to be held by DIALGA. It boosts the power of Dragon-​ and Steel-type moves.</span>
 		</div>
 	</div>
 

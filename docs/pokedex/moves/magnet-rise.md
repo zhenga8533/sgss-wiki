@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    For five turns, the user is immune to ground moves. If the user is under the effect of ingrain or has levitate, this move will fail. This effect is temporarily disabled by and cannot be used during gravity. This effect is passed on by baton pass.
+
+!!! tip "Quick Summary"
+
+    User is immune to Ground moves and effects for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user levitates using electrically generated magnetism for five turns.
 
 ## :material-pokeball: Learning Pokémon
 

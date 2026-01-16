@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A card key for disengaging security systems in the Galactic HQ. Losing it can result in punishment, apparently.</span>
 		</div>
 	</div>
 

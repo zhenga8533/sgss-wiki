@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Status Cures</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A spray-type medicine. It defrosts a Pokémon that has been frozen solid.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town.</span>
 		</div>
 	</div>
 

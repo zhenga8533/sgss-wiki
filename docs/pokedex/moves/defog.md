@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Lowers the target’s evasion by one stage. Clears away fog. Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target’s side of the field. If the target is protected by mist, it will prevent the evasion change, then be removed by this move.
+
+!!! tip "Quick Summary"
+
+    Lowers the target’s evasion by one stage. Removes field effects from the enemy field.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    It reduces the foe’s evasion stat. It also removes spikes, light screens, etc.
 
 ## :material-pokeball: Learning Pokémon
 

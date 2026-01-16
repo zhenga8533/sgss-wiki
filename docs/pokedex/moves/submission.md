@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	80
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	80%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	25
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User takes 1/4 the damage it inflicts in recoil.
+
+!!! tip "Quick Summary"
+
+    User receives 1/4 the damage it inflicts in recoil.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user grabs the foe and recklessly dives for the ground. It also hurts the user slightly.
 
 ## :material-pokeball: Learning Pokémon
 

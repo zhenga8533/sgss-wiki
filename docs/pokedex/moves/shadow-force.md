@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	120
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User vanishes for one turn, becoming immune to attack, and hits on the second turn. This move ignores the effects of detect and protect. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user disappears, then strikes the foe on the second turn. It hits even if the foe protects itself.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Targets the last opposing Pokémon to hit the user with a damaging move this turn. Inflicts 1.5× the damage that move did to the user. If there is no eligible target, this move will fail. Type immunity applies, but other type effects are ignored.
+
+!!! tip "Quick Summary"
+
+    Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user retaliates against the foe that last inflicted damage on it with much greater power.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Collectibles</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A pretty seashell that was found deep inside the Shoal Cave. It is striped in blue and white.</span>
 		</div>
 	</div>
 

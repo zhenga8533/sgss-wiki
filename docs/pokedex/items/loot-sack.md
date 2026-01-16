@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Unused</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A sturdy, spacious bag that is used to carry loot obtained in the coal mine.</span>
 		</div>
 	</div>
 

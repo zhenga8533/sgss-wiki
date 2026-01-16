@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A feather that glows like the moon. It is said to possess the power to dispel nightmares.</span>
 		</div>
 	</div>
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Raises the user’s Special Defense by one stage. If the user uses an electric move next turn, its power will be doubled.
+
+!!! tip "Quick Summary"
+
+    Raises the user’s Special Defense by one stage. User’s Electric moves have doubled power next turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user boosts the power of the Electric move it uses next. It also raises the user’s Sp. Def stat.
 
 ## :material-pokeball: Learning Pokémon
 

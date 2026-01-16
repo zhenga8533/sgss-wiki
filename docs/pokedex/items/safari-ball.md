@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Standard Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern.</span>
 		</div>
 	</div>
 

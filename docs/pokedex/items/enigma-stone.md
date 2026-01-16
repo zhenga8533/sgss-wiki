@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth.</span>
 		</div>
 	</div>
 

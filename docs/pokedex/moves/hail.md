@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Changes the weather to hail for five turns, during which non-ice Pokémon are damaged for 1/16 their max HP at the end of every turn. If the user is holding icy rock, this effect lasts for eight turns. blizzard has 100% accuracy. If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection. moonlight, morning sun, and synthesis heal only 1/4 of the user’s max HP. Pokémon with snow cloak are exempt from this effect’s damage.
+
+!!! tip "Quick Summary"
+
+    Changes the weather to a hailstorm for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. The holder gets a share of a battle’s Exp. Points without battling.</span>
 		</div>
 	</div>
 

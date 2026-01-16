@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	40
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Resets the target’s evasion to normal and prevents any further boosting until the target leaves the field. A ghost under this effect takes normal damage from normal and fighting moves. This move itself ignores accuracy and evasion modifiers.
+
+!!! tip "Quick Summary"
+
+    Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.
 
 ## :material-pokeball: Learning Pokémon
 

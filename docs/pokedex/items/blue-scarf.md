@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Scarves</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It boosts the “Beauty” aspect of the holder in a Contest in Sinnoh.</span>
 		</div>
 	</div>
 

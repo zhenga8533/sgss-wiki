@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** In A Pinch</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon, it gets to move first just once in a pinch.</span>
 		</div>
 	</div>
 

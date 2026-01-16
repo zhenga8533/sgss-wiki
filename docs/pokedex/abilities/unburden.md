@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon uses or loses its held item, its Speed is doubled. If it gains another item or leaves battle, this bonus is lost. This includes when the Pokémon drops its item because of knock off. This bonus does not count as a stat modifier. There is no notification when this ability takes effect.
+
 !!! tip "Quick Summary"
 
     Doubles Speed upon using or losing a held item.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises Speed if a held item is used.
 
 ## :material-pokeball: Pokémon with this Ability
 

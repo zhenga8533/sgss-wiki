@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Does not affect friendly Pokémon's moves that target all other Pokémon. This ability's presence is not announced upon entering battle.
+
 !!! tip "Quick Summary"
 
     Increases the PP cost of moves targetting the Pokémon by one.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon raises the foe’s PP usage.
 
 ## :material-pokeball: Pokémon with this Ability
 

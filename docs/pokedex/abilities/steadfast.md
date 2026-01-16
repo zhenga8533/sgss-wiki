@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever this Pokémon flinches, its Speed rises one stage.
+
 !!! tip "Quick Summary"
 
     Raises Speed one stage upon flinching.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises Speed each time the Pokémon flinches.
 
 ## :material-pokeball: Pokémon with this Ability
 

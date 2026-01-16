@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Scatters poisoned spikes around the opposing field, which poison opposing Pokémon that enter the field. A second layer of these spikes may be laid down, in which case Pokémon will be badly poisoned instead. Pokémon immune to either ground moves or being poisoned are immune to this effect. Pokémon otherwise immune to ground moves are affected during gravity. If a poison Pokémon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed. rapid spin will remove this effect from its user’s side of the field. defog will remove this effect from its target’s side of the field. This move does not trigger synchronize, unless the Pokémon with synchronize was forced to enter the field by another effect such as roar. Pokémon entering the field due to baton pass are not affected by this effect.
+
+!!! tip "Quick Summary"
+
+    Scatters poisoned spikes, poisoning opposing Pokémon that switch in.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A very convenient map that can be viewed anytime. It even shows your present location.</span>
 		</div>
 	</div>
 

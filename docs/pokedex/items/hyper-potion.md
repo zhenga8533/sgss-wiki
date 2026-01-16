@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Healing</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A spray-type medicine for wounds. It restores the HP of one Pokémon by 200 points.</span>
 		</div>
 	</div>
 

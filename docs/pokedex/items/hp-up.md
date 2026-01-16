@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Vitamins</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.</span>
 		</div>
 	</div>
 

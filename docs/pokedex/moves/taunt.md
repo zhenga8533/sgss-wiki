@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Target is forced to only use damaging moves for the next 3–5 turns, selected at random. Moves that select other moves not known in advance do not count as damaging. assist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used. bide, counter, endeavor, metal burst, and mirror coat are allowed.
+
+!!! tip "Quick Summary"
+
+    For the next few turns, the target can only use damaging moves.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
 
 ## :material-pokeball: Learning Pokémon
 

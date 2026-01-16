@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    If this Pokémon is poisoned, it will heal for 1/8 of its maximum HP after each turn rather than taking damage. This includes bad poison.
+
 !!! tip "Quick Summary"
 
     Heals for 1/8 max HP after each turn when poisoned in place of damage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Restores HP if the Pokémon is poisoned.
 
 ## :material-pokeball: Pokémon with this Ability
 

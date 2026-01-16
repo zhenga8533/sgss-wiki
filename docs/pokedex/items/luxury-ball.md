@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Special Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.</span>
 		</div>
 	</div>
 

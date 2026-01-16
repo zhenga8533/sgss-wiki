@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A card needed for entering the inn in Canalave City. Oddly, the last date marked on it was 50 years ago.</span>
 		</div>
 	</div>
 

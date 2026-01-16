@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	25
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Protects Pokémon on the user’s side of the field from major status effects and confusion for five turns. Does not cancel existing ailments. This effect remains even if the user leaves the field. If yawn is used while this move is in effect, it will immediately fail. defog used by an opponent will end this effect. This effect does not prevent the confusion caused by outrage, petal dance, or thrash.
+
+!!! tip "Quick Summary"
+
+    Protects the user’s field from major status ailments and confusion for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user creates a protective field that prevents status problems for five turns.
 
 ## :material-pokeball: Learning Pokémon
 

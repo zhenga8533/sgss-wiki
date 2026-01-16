@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn. Otherwise: Lowers the user’s Speed by one stage, and raises its Attack and Defense by one stage each. The curse effect is passed on by baton pass. This move cannot be copied by mirror move.
+
+!!! tip "Quick Summary"
+
+    Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A move that works differently for the Ghost type than for all the other types.
 
 ## :material-pokeball: Learning Pokémon
 

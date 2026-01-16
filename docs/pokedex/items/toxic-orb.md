@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Bad Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.</span>
 		</div>
 	</div>
 

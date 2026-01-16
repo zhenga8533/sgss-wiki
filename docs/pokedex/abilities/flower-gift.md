@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Friendly Pokémon have 1.5× their Attack and Special Defense during strong sunlight if any friendly Pokémon has this ability. Unlike forecast, multitype, and zen mode, this ability is not tied to its Pokémon's form change; cherrim will switch between its forms even if it loses this ability. As such, this ability also works if obtained by a Pokémon other than Cherrim.
+
 !!! tip "Quick Summary"
 
     Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up party Pokémon when it is sunny.
 
 ## :material-pokeball: Pokémon with this Ability
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    When this Pokémon is confused, it has twice its evasion.
+
 !!! tip "Quick Summary"
 
     Doubles evasion when confused.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises evasion if the Pokémon is confused.
 
 ## :material-pokeball: Pokémon with this Ability
 

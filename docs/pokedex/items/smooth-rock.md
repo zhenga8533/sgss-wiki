@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Held Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Pokémon held item that extends the duration of the move Sandstorm used by the holder.</span>
 		</div>
 	</div>
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A flute that puts out echoing sounds that do not seem to be of this world. It is unknown who made it.</span>
 		</div>
 	</div>
 

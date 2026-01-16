@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User faints. Its replacement’s HP is fully restored, and any major status effect is removed. If the replacement Pokémon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead.
+
+!!! tip "Quick Summary"
+
+    User faints. Its replacement has its HP fully restored and any major status effect removed.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.
 
 ## :material-pokeball: Learning Pokémon
 

@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Evolution</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.</span>
 		</div>
 	</div>
 

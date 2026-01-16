@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Loot</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.</span>
 		</div>
 	</div>
 

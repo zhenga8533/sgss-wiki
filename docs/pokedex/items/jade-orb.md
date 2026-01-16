@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region.</span>
 		</div>
 	</div>
 

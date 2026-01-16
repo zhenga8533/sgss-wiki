@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Other</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** If held by a Pokémon and a foe’s special attack lands, the foe also takes damage.</span>
 		</div>
 	</div>
 

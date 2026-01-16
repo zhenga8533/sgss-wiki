@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    User copies the target’s species, weight, type, ability, calculated stats (except HP), and moves. Copied moves will all have 5 PP remaining. IVs are copied for the purposes of hidden power, but stats are not recalculated. choice band, choice scarf, and choice specs stay in effect, and the user must select a new move. This move cannot be copied by mirror move, nor forced by encore.
+
+!!! tip "Quick Summary"
+
+    User becomes a copy of the target until it leaves battle.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user transforms into a copy of the foe right down to having the same move set.
 
 ## :material-pokeball: Learning Pokémon
 

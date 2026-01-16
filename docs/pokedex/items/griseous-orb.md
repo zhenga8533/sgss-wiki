@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Species Specific</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A glowing orb to be held by GIRATINA. It boosts the power of Dragon- and Ghost-type moves.</span>
 		</div>
 	</div>
 

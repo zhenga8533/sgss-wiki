@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Apricorn Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A Poké Ball for catching Pokémon that are a lower level than your own.</span>
 		</div>
 	</div>
 

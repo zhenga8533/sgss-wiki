@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon takes half as much damage from fire- and ice-type moves.
+
 !!! tip "Quick Summary"
 
     Halves damage from fire and ice moves.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Ups resistance to Fire-​ and Ice-type moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

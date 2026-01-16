@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A letter from Prof. Oak. Written in it is a request for you to go to Rt. 224.</span>
 		</div>
 	</div>
 

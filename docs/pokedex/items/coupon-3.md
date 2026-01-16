@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Plot Advancement</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.</span>
 		</div>
 	</div>
 

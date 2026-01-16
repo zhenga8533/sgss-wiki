@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	80
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. User dives underwater for one turn, becoming immune to attack, and hits on the second turn. During the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate. The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard. This move cannot be selected by sleep talk.
+
+!!! tip "Quick Summary"
+
+    User dives underwater, dodging all attacks, and hits next turn.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.
 
 ## :material-pokeball: Learning Pokémon
 

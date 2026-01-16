@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Switches the target out for another of its trainer’s Pokémon selected at random. Wild battles end immediately. Doesn’t affect Pokémon with suction cups or under the effect of ingrain.
+
+!!! tip "Quick Summary"
+
+    Immediately ends wild battles. Forces trainers to switch Pokémon.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.
 
 ## :material-pokeball: Learning Pokémon
 

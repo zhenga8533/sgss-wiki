@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever this Pokémon has a major status ailment, it has 1.5× its Speed. This Pokémon is not affected by the usual Speed cut from paralysis. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved.
+
 !!! tip "Quick Summary"
 
     Increases Speed to 1.5× with a major status ailment.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Boosts Speed if there is a status problem.
 
 ## :material-pokeball: Pokémon with this Ability
 

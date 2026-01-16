@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Apricorn Box</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A black Apricorn It has an indescribable scent.</span>
 		</div>
 	</div>
 

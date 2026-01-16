@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage. If the user is holding heat rock, this effect lasts for eight turns. Pokémon cannot become frozen. thunder has 50% accuracy. solar beam skips its charge turn. moonlight, morning sun, and synthesis heal 2/3 of the user’s max HP. Pokémon with chlorophyll have doubled original Speed. Pokémon with forecast become fire. Pokémon with leaf guard are not affected by major status effects. Pokémon with flower gift change form; every Pokémon on their side of the field have their original Attack and Special Attack increased by 50%. Pokémon with dry skin lose 1/8 max HP at the end of each turn. Pokémon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn.
+
+!!! tip "Quick Summary"
+
+    Changes the weather to sunny for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user intensifies the sun for five turns, powering up Fire-type moves.
 
 ## :material-pokeball: Learning Pokémon
 

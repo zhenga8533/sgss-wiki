@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	40
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. If the target is holding an item and the user is not, the user will permanently take the item. Damage is still inflicted if an item cannot be taken. Pokémon with sticky hold or multitype are immune to the item theft effect. The target cannot recover its item with recycle. This move cannot be selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Takes the target’s item.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.
 
 ## :material-pokeball: Learning Pokémon
 

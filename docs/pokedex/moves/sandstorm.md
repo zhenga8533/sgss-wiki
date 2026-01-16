@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Changes the weather to a sandstorm for five turns. Pokémon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn. Every rock Pokémon’s original Special Defense is raised by 50% for the duration of this effect. solar beam’s power is halved. moonlight, morning sun, and synthesis only heal 1/4 the user’s max HP.
+
+!!! tip "Quick Summary"
+
+    Changes the weather to a sandstorm for five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A five-turn sand­ storm is summoned to hurt all combatant types except Rock, Ground, and Steel.
 
 ## :material-pokeball: Learning Pokémon
 

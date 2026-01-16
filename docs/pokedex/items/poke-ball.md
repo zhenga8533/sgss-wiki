@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Standard Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.</span>
 		</div>
 	</div>
 

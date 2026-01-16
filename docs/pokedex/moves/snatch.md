@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself. Moves which may be stolen by this move are identified by the "snatchable" flag. If two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move’s effect. If the user steals psych up, it will target the Pokémon that used psych up. If the user was the original target of psych up, and the Pokémon that originally used it’s affected by pressure, it will only lose 1 PP. This move cannot be copied by mirror move, nor selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Steals the target’s move, if it’s self-targeted.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user steals the effects of any healing or stat- changing move the foe attempts to use.
 
 ## :material-pokeball: Learning Pokémon
 

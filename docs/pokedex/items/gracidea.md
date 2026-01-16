@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Event Items</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.</span>
 		</div>
 	</div>
 

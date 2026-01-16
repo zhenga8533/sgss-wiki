@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A device that indicates Trainers who want to battle. Its battery charges while you walk.</span>
 		</div>
 	</div>
 

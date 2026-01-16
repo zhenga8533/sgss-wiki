@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Loot</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.</span>
 		</div>
 	</div>
 

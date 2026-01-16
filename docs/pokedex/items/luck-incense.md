@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Training</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in.</span>
 		</div>
 	</div>
 

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	10
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts typeless regular damage. Every Pokémon in the user’s party, excepting those that have fainted or have a major status effect, attacks the target. Calculated stats are ignored; the base stats for the target and assorted attackers are used instead. The random factor in the damage formula is not used. dark Pokémon still get STAB. This effect breaks through wonder guard.
+
+!!! tip "Quick Summary"
+
+    Hits once for every conscious Pokémon the trainer has.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.
 
 ## :material-pokeball: Learning Pokémon
 

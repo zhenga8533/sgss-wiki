@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon takes half as much damage from fire-type moves and burns.
+
 !!! tip "Quick Summary"
 
     Halves damage from fire moves and burns.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Weakens the power of Fire-type moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

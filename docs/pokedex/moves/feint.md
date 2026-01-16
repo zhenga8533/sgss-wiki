@@ -1,9 +1,11 @@
 # Feint
 
 
-??? note "ROM Changes"
+??? note "Feint ROM Changes"
 
-    **Power:** `None` → `30`
+	**Power Changes:**
+
+	- `50` → `30`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,19 +28,19 @@
 
 	---
 
-	—
+	30
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Removes the effects of detect or protect from the target before hitting. This move cannot be copied by mirror move, nor selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Hits through Protect and Detect.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
 
 ## :material-pokeball: Learning Pokémon
 

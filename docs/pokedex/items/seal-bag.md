@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Unused</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A tiny bag that can hold ten Seals for decorating Poké Balls.</span>
 		</div>
 	</div>
 

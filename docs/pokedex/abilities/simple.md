@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Each stage of this Pokémon's stat modifiers acts as two stages. These doubled stages are still limited to a minimum of -6 and a maximum of 6. This Pokémon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.
+
 !!! tip "Quick Summary"
 
     Doubles the Pokémon's stat modifiers. These doubled modifiers are still capped at -6 or 6 stages.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon is prone to wild stat changes.
 
 ## :material-pokeball: Pokémon with this Ability
 

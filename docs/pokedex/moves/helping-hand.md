@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Boosts the power of the target’s moves by 50% until the end of this turn. This move cannot be copied by mirror move, nor selected by assist or metronome.
+
+!!! tip "Quick Summary"
+
+    Ally’s next move inflicts half more damage.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    A move that boosts the power of the ally’s attack in a Double Battle.
 
 ## :material-pokeball: Learning Pokémon
 

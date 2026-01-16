@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A watering can shaped like a PSYDUCK. It helps promote healthy growth of Berries planted in soft soil.</span>
 		</div>
 	</div>
 

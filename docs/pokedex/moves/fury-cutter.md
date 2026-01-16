@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	20
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	95%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x. If this move misses or the user leaves the field, power resets.
+
+!!! tip "Quick Summary"
+
+    Power doubles every turn this move is used in succession after the first, maxing out after five turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The foe is slashed with scythes or claws. Its power increases if it hits in succession.
 
 ## :material-pokeball: Learning Pokémon
 

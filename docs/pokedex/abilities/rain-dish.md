@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon heals for 1/16 of its maximum HP after each turn during rain.
+
 !!! tip "Quick Summary"
 
     Heals for 1/16 max HP after each turn during rain.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The Pokémon gradually recovers HP in rain.
 
 ## :material-pokeball: Pokémon with this Ability
 

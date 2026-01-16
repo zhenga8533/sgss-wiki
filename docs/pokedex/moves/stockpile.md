@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Raises the user’s Defense and Special Defense by one stage each. Stores energy for use with spit up and swallow. Up to three levels of energy can be stored, and all are lost if the user leaves the field. Energy is still stored even if the stat boosts cannot be applied. If the user uses baton pass, the stat boosts are passed as normal, but the stored energy is not.
+
+!!! tip "Quick Summary"
+
+    Stores energy up to three times for use with Spit Up and Swallow.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.
 
 ## :material-pokeball: Learning Pokémon
 

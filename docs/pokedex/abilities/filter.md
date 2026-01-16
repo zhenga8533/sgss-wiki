@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon takes 0.75× as much damage from moves that are super effective against it. This ability functions identically to solid rock.
+
 !!! tip "Quick Summary"
 
     Decreases damage taken from super-effective moves by 1/4.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Reduces damage from supereffective attacks.
 
 ## :material-pokeball: Pokémon with this Ability
 

@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever an electric-type move hits this Pokémon, its Speed rises one stage, negating any other effect on it. This ability will not take effect if this Pokémon is immune to Electric moves. Electric moves will ignore this Pokémon's substitute. This effect includes non-damaging moves, i.e. thunder wave.
+
 !!! tip "Quick Summary"
 
     Absorbs electric moves, raising Speed one stage.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Raises Speed if hit by an Electric-type move.
 
 ## :material-pokeball: Pokémon with this Ability
 

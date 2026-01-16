@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts regular damage. Power and type are determined by the user’s held item. The item is consumed. If the user is not holding an item, or its item has no set type and power, this move will fail. This move ignores sticky hold. If the user is under the effect of embargo, this move will fail.
+
+!!! tip "Quick Summary"
+
+    Throws held item at the target; power depends on the item.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    The user flings its held item at the foe to attack. Its power and effects depend on the item.
 
 ## :material-pokeball: Learning Pokémon
 

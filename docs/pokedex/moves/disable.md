@@ -1,9 +1,11 @@
 # Disable
 
 
-??? note "ROM Changes"
+??? note "Disable ROM Changes"
 
-    **Accuracy:** `None` → `100`
+	**Accuracy Changes:**
+
+	- `80` → `100`
 
 
 ## :material-chart-box: Stats
@@ -14,7 +16,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -32,13 +34,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 
@@ -50,9 +52,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Disables the target’s last used move, preventing its use for 4–7 turns, selected at random, or until the target leaves the field. If the target hasn’t used a move since entering the field, if it tried to use a move this turn and failed, if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail.
+
+!!! tip "Quick Summary"
+
+    Disables the target’s last used move for 1-8 turns.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    For several turns, this move prevents the foe from using the move it last used.
 
 ## :material-pokeball: Learning Pokémon
 

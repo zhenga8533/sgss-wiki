@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon cannot be given a major status ailment during strong sunlight. This ability does not heal prior status ailments. rest will fail altogether with this ability in effect. yawn will immediately fail if used on this Pokémon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.
+
 !!! tip "Quick Summary"
 
     Protects against major status ailments during strong sunlight.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Prevents problems with status in sunny weather.
 
 ## :material-pokeball: Pokémon with this Ability
 

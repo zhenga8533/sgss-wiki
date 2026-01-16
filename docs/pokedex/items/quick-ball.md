@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Special Balls</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.</span>
 		</div>
 	</div>
 

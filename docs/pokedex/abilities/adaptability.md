@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5×.
+
 !!! tip "Quick Summary"
 
     Increases the same-type attack bonus from 1.5× to 2×.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up moves of the same type.
 
 ## :material-pokeball: Pokémon with this Ability
 

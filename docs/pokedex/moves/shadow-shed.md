@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #4B4B7B 0%, #4B4B7Bdd 100%);">Shadow</span>
 
 - **:material-shape: Category**
 
@@ -43,6 +43,14 @@
 </div>
 
 ## :material-information: Effect
+
+!!! info "Description"
+
+    Removes the effects of light screen, reflect, and safeguard.
+
+!!! tip "Quick Summary"
+
+    Removes Light Screen, Reflect, and Safeguard.
 
 ## :material-book-open: In-Game Description
 

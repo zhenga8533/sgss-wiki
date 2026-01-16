@@ -7,7 +7,7 @@
 		<div>
 			<span markdown>**Category:** Gameplay</span>
 			<br/>
-			<span markdown>**Flavor Text:** None</span>
+			<span markdown>**Flavor Text:** An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.</span>
 		</div>
 	</div>
 

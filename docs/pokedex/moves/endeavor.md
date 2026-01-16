@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 
@@ -44,9 +44,19 @@
 
 ## :material-information: Effect
 
+!!! info "Description"
+
+    Inflicts exactly enough damage to lower the target’s HP to equal the user’s. If the target’s HP is not higher than the user’s, this move has no effect. Type immunity applies, but other type effects are ignored. This effect counts as damage for moves that respond to damage.
+
+!!! tip "Quick Summary"
+
+    Lowers the target’s HP to equal the user’s.
+
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    An attack move that cuts down the foe’s HP to equal the user’s HP.
 
 ## :material-pokeball: Learning Pokémon
 

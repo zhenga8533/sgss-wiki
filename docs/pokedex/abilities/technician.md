@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    This Pokémon's moves have 1.5× their power if their base power is 60 or less. This includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less. helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.
+
 !!! tip "Quick Summary"
 
     Strengthens moves of 60 base power or less to 1.5× their power.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Powers up the Pokémon’s weaker moves.
 
 ## :material-pokeball: Pokémon with this Ability
 

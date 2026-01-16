@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Inflicts only 1/16 of the attacker's maximum HP in damage.
+
 !!! tip "Quick Summary"
 
     Damages attacking Pokémon for 1/8 their max HP on contact.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Inflicts damage to the foe on contact.
 
 ## :material-pokeball: Pokémon with this Ability
 

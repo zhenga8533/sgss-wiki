@@ -2,13 +2,19 @@
 
 ## :material-information: Effect
 
+!!! info "Full Description"
+
+    Whenever this Pokémon has a major status ailment, it has 1.5× its Defense. This bonus does not count as a stat modifier.
+
 !!! tip "Quick Summary"
 
     Increases Defense to 1.5× with a major status ailment.
 
 ## :material-book-open: In-Game Description
 
-*No in-game description available.*
+!!! quote "Heart Gold & Soul Silver"
+
+    Ups Defense if there is a status problem.
 
 ## :material-pokeball: Pokémon with this Ability
 
