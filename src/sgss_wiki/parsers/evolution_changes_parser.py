@@ -37,7 +37,6 @@ class EvolutionChangesParser(BaseParser):
             output_dir (str, optional): Path to the output directory. Defaults to "docs".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
-        self.evolution_service = EvolutionService()
         self._sections = ["General Notes", "Trade Evolutions", "Condition Evolutions"]
 
         # Trade Evolution states
@@ -180,7 +179,7 @@ class EvolutionChangesParser(BaseParser):
                     f"(item: {item_name})"
                 )
 
-                self.evolution_service.update_evolution_chain(
+                EvolutionService.update_evolution_chain(
                     pokemon_id=pokemon_id,
                     evolution_id=name_to_id(evo.species_name),
                     evolution_chain=evolution_chain,
@@ -224,7 +223,7 @@ class EvolutionChangesParser(BaseParser):
                     f"(item: {item_name})"
                 )
 
-                self.evolution_service.update_evolution_chain(
+                EvolutionService.update_evolution_chain(
                     pokemon_id=pokemon_id,
                     evolution_id=name_to_id(evo.species_name),
                     evolution_chain=evolution_chain,
@@ -263,7 +262,7 @@ class EvolutionChangesParser(BaseParser):
             f"(item: {item_name})"
         )
 
-        self.evolution_service.update_evolution_chain(
+        EvolutionService.update_evolution_chain(
             pokemon_id=pokemon_id,
             evolution_id=name_to_id(evolution_target),
             evolution_chain=evolution_chain,

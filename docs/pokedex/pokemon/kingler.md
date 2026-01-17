@@ -23,7 +23,7 @@
 
 	- `16 moves` → `18 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `38 moves` → `41 moves (added: bulk-up, shadow-claw, waterfall)`
 

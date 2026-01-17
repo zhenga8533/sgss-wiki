@@ -19,7 +19,7 @@
 
 	- `16 moves` → `14 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `34 moves` → `36 moves (added: dragon-pulse, flash-cannon)`
 

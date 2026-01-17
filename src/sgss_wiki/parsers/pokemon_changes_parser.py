@@ -10,10 +10,10 @@ This parser:
 import re
 
 import orjson
-
 from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.data.constants import normalize_stat
+from rom_wiki_core.utils.data.models import MoveLearn
 from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_ability,
     format_item,
@@ -21,11 +21,12 @@ from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_pokemon_card_grid,
 )
 from rom_wiki_core.utils.services.attribute_service import AttributeService
-from rom_wiki_core.utils.services.evolution_service import EvolutionService
 from rom_wiki_core.utils.services.move_service import MoveService
 from rom_wiki_core.utils.services.pokemon_item_service import PokemonItemService
 from rom_wiki_core.utils.services.pokemon_move_service import PokemonMoveService
 from rom_wiki_core.utils.text.text_util import format_display_name, name_to_id
+
+from sgss_wiki.config import CONFIG
 
 
 class PokemonChangesParser(BaseParser):
@@ -43,7 +44,6 @@ class PokemonChangesParser(BaseParser):
             output_dir (str, optional): Path to the output directory. Defaults to "docs".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
-        self.evolution_service = EvolutionService()
         self._sections = ["General Notes", "Changes"]
 
         # Changes states
@@ -69,8 +69,9 @@ class PokemonChangesParser(BaseParser):
         # Pattern: "- MoveName is a X-power TypeName move..."
         if match := re.match(r"^- (.+?) is a (\d+)-power (.+?) move", line):
             move_name, power, move_type = match.groups()
-            MoveService.update_move_attribute(move_name, "power", power)
-            MoveService.update_move_attribute(move_name, "type", move_type)
+            move_id = name_to_id(move_name)
+            MoveService.update_move_power(move_id, int(power))
+            MoveService.update_move_type(move_id, name_to_id(move_type))
             self.logger.info(f"Updated {move_name}: {power} power, {move_type} type")
         # Pattern: "All Black and White upgrades..."
         elif "black and white upgrades" in line.lower():
@@ -125,9 +126,16 @@ class PokemonChangesParser(BaseParser):
                 if gen5_value is None or gen4_value == gen5_value:
                     continue
 
-                # Apply the Gen 5 upgrade
-                new_val = str(gen5_value) if gen5_value is not None else "Never"
-                if MoveService.update_move_attribute(move_id, attr, new_val):
+                # Apply the Gen 5 upgrade using specific methods
+                updated = False
+                if attr == "power":
+                    updated = MoveService.update_move_power(move_id, gen5_value)
+                elif attr == "accuracy":
+                    updated = MoveService.update_move_accuracy(move_id, gen5_value)
+                elif attr == "pp":
+                    updated = MoveService.update_move_pp(move_id, gen5_value)
+
+                if updated:
                     self.logger.debug(
                         f"Updated {move_id} {attr}: {gen4_value} -> {gen5_value}"
                     )
@@ -215,8 +223,10 @@ class PokemonChangesParser(BaseParser):
 
         # Flush pending machine moves (TM/HM)
         if self._pending_machine_moves:
-            PokemonMoveService.update_machine_moves(
-                self._current_pokemon, self._pending_machine_moves
+            # Extract move names and convert to IDs
+            move_ids = [name_to_id(move) for _, _, move in self._pending_machine_moves]
+            PokemonMoveService.update_move_category(
+                name_to_id(self._current_pokemon), "machine", move_ids
             )
             self._pending_machine_moves = []
 
@@ -280,13 +290,22 @@ class PokemonChangesParser(BaseParser):
                 # Then set the move to the new level
                 existing_moves[move_id] = level
 
-        # Convert back to list of tuples for the service
-        merged_moves = [(level, move_id) for move_id, level in existing_moves.items()]
+        # Convert to list of MoveLearn objects for the service
+        merged_moves = [
+            MoveLearn(
+                name=move_id,
+                level_learned_at=level,
+                version_groups=[CONFIG.version_group],
+            )
+            for move_id, level in existing_moves.items()
+        ]
         # Sort by level for consistent ordering
-        merged_moves.sort(key=lambda x: (x[0], x[1]))
+        merged_moves.sort(key=lambda x: (x.level_learned_at, x.name))
 
         # Update with the merged move list
-        PokemonMoveService.update_levelup_moves(self._current_pokemon, merged_moves)
+        PokemonMoveService.update_levelup_moves(
+            name_to_id(self._current_pokemon), merged_moves
+        )
 
     def _format_attribute(self, attribute: str, change: str) -> str:
         """Format an attribute for markdown output.
@@ -328,7 +347,9 @@ class PokemonChangesParser(BaseParser):
                     markdown += f" {slot_display}"
 
                 # Update Pokemon data - use AttributeService for proper change tracking
-                AttributeService.update_ability_slot(self._current_pokemon, ability, slot)
+                AttributeService.update_ability_slot(
+                    name_to_id(self._current_pokemon), ability, slot
+                )
             elif attribute == "Level Up Moves":
                 # Parse level-up move notation:
                 # (N) = New move at level N, e.g., "Metal Claw (13)"
@@ -336,7 +357,9 @@ class PokemonChangesParser(BaseParser):
                 # {N} = Replace original at level N, e.g., "Bug Bite {11}"
                 # [{N}] = Shift and replace at level N, e.g., "Crunch [{17}]"
                 # Pattern matches: Name (N), Name [N], Name {N}, Name [{N}]
-                move_match = re.match(r"^(.+?)\s*(\(\d+\)|\[\d+\]|\{\d+\}|\[\{\d+\}\])$", value)
+                move_match = re.match(
+                    r"^(.+?)\s*(\(\d+\)|\[\d+\]|\{\d+\}|\[\{\d+\}\])$", value
+                )
                 if move_match:
                     move = move_match.group(1).strip()
                     level_notation = move_match.group(2)
@@ -381,7 +404,7 @@ class PokemonChangesParser(BaseParser):
                         stat_slug = normalize_stat(stat_display)
                         if stat_slug:
                             AttributeService.update_single_stat(
-                                self._current_pokemon, stat_slug, new_value
+                                name_to_id(self._current_pokemon), stat_slug, new_value
                             )
                         else:
                             self.logger.warning(
@@ -396,8 +419,8 @@ class PokemonChangesParser(BaseParser):
                 markdown += f"- **Old EXP**: {old_exp}\n"
                 markdown += f"- **New EXP**: {new_exp}\n"
                 # Update Pokemon data with new base experience
-                AttributeService.update_attribute(
-                    self._current_pokemon, attribute, new_exp
+                AttributeService.update_base_experience(
+                    name_to_id(self._current_pokemon), int(new_exp)
                 )
             elif attribute == "TM" and (
                 match := re.search(r"((?:TM|HM)\d+) \((.+?)\)", value)
@@ -415,10 +438,10 @@ class PokemonChangesParser(BaseParser):
                 markdown = markdown.rstrip() + "\n\n"
                 markdown += f"- **Old Type**: {old_type}\n"
                 markdown += f"- **New Type**: {new_type}\n"
-                # Update Pokemon data with new type (convert "/" to " / " for AttributeService)
-                type_value = new_type.replace("/", " / ")
-                AttributeService.update_attribute(
-                    self._current_pokemon, "Type", type_value
+                # Update Pokemon data with new type (parse types into list of slugs)
+                types_list = [name_to_id(t.strip()) for t in new_type.split("/")]
+                AttributeService.update_type(
+                    name_to_id(self._current_pokemon), types_list
                 )
             elif attribute == "Max Experience":
                 old_exp, new_exp = value.split(" >> ")
@@ -432,7 +455,7 @@ class PokemonChangesParser(BaseParser):
                 markdown += f"- **New Chance**: {new_chance}%"
                 # Update Pokemon data with new held item rarity
                 PokemonItemService.update_held_item(
-                    self._current_pokemon, item, int(new_chance)
+                    name_to_id(self._current_pokemon), name_to_id(item), int(new_chance)
                 )
             else:
                 self.logger.warning(

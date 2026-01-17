@@ -39,7 +39,7 @@
 
 	- `80` → `60`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `35 moves` → `39 moves (added: stone-edge, rock-slide, strength, rock-smash)`
 

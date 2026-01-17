@@ -28,7 +28,7 @@
 
 	- `20 moves` → `19 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `34 moves` → `35 moves (added: flash)`
 

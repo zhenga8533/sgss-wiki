@@ -3,7 +3,7 @@
 
 ??? note "Mind Reader ROM Changes"
 
-	**Pp Changes:**
+	**PP Changes:**
 
 	- `40` → `5`
 

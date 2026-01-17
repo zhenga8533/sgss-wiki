@@ -29,7 +29,7 @@
 
 	- `11 moves` → `13 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `21 moves` → `22 moves (added: grass-knot)`
 

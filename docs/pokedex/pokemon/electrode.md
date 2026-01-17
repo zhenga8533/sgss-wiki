@@ -23,7 +23,7 @@
 
 	- `17 moves` → `16 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `29 moves` → `31 moves (added: energy-ball, whirlpool)`
 

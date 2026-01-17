@@ -27,7 +27,7 @@
 
 	- `90` → `115`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `32 moves` → `33 moves (added: calm-mind)`
 

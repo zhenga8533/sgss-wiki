@@ -32,7 +32,7 @@
 
 	- `13 moves` → `19 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `31 moves` → `34 moves (added: taunt, torment, dark-pulse)`
 
